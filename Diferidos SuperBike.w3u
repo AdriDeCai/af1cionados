@@ -1,0 +1,473 @@
+{
+    "name": "Diferidos SuperBike",
+    "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+    "url": "https://pastebin.com/up0GQWiH",
+    "image": "https://images3.alphacoders.com/595/595865.jpg",
+    "telegram": "@AdriDeCai",
+    "info": "",
+    "groups": 
+	[
+
+
+	{
+	"name": "PHILLIP ISLAND (AUSTRALIA)",
+	"image": "https://i.postimg.cc/fRd3TV0R/01-Circuito-Grand-Ridge-Brewery-Australian-Round.png",
+	"imageScale": "",
+	"info":"ROUND 1",
+	"stations":
+		[
+			{
+			"name": "1. SBK Superpole Race Phillip Island 2023",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "https://upstream.to/jmml5gbiwp4z",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "2. SSP600 Race 2 Phillip Island 2023",
+			"info":"",
+			"image": "https://i.postimg.cc/Xq8Kn52Z/SBK-Verde.jpg",
+			"url": "https://upstream.to/fz0iecza7sq5",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "3. SBK Race 2 Phillip Island 2023",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "https://upstream.to/1j3ipxphyoyk",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}	
+		]
+	
+	},
+
+	{
+	"name": "MANDALIKA (INDONESIA)",
+	"image": "https://i.postimg.cc/2y3ypyDm/02-Motul-Indonesian-Round.png",
+	"imageScale": "",
+	"info":"ROUND 2",
+	"stations":
+		[
+			{
+			"name": "1. SBK Superpole Race Mandalika (Indonesia) 2023",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "https://upstream.to/jiccmpjm0xnu",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "2. SSP600 Race 2 Mandalika (Indonesia) 2023",
+			"info":"",
+			"image": "https://i.postimg.cc/Xq8Kn52Z/SBK-Verde.jpg",
+			"url": "https://upstream.to/zo76f44gfc4i",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "3. SBK Race 2 Mandalika (Indonesia) 2023",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "https://upstream.to/vcag55s0x4jj",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}	
+		]
+	
+	},	
+	
+	{
+	"name": "TT CIRCUIT ASSEN (HOLANDA)",
+	"image": "https://i.postimg.cc/KYwxKfSX/03-Pirelli-Dutch-Round.png",
+	"imageScale": "",
+	"info":"ROUND 3",
+	"stations":
+		[
+			{
+			"name": "1. SBK Superpole Race Assen (Holanda) 2023",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "https://upstream.to/g72hwvcb9zam",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "2. SSP600 Race 2 Assen (Holanda) 2023",
+			"info":"",
+			"image": "https://i.postimg.cc/Xq8Kn52Z/SBK-Verde.jpg",
+			"url": "https://upstream.to/35rijhn2g0ck",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "3. SBK Race 2 Assen (Holanda) 2023",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "https://upstream.to/a533gstdci8u",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}	
+		]
+	
+	},		
+
+	{
+	"name": "CIRCUIT BARCELONA (CATALUNYA)",
+	"image": "https://i.postimg.cc/2yxsxFJS/04-Prosecco-DOC-Catalu-a-Round.png",
+	"imageScale": "",
+	"info":"ROUND 4",
+	"stations":
+		[
+			{
+			"name": "1. SBK Superpole Race Catalunya (España) 2023",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "https://upstream.to/63164nepn9bm",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "2. SSP600 Race 2 Catalunya (España) 2023",
+			"info":"",
+			"image": "https://i.postimg.cc/Xq8Kn52Z/SBK-Verde.jpg",
+			"url": "https://upstream.to/c75m10293cqm",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "3. SBK Race 2 Catalunya (España) 2023",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "https://upstream.to/mhzq3dbz3s83",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}	
+		]
+	
+	},
+
+	{
+	"name": "EMILIA ROMAGNA (ITALIA)",
+	"image": "https://i.postimg.cc/BQYyQ6fk/05-Pirelli-Emilia-Romagna-Round.png",
+	"imageScale": "",
+	"info":"ROUND 5",
+	"stations":
+		[
+			{
+			"name": "1. SBK Superpole Race Misano (Italia) 2023",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "https://upstream.to/7fam5kiadl7k",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "2. SSP600 Race 2 Misano (Italia) 2023",
+			"info":"",
+			"image": "https://i.postimg.cc/Xq8Kn52Z/SBK-Verde.jpg",
+			"url": "https://upstream.to/mkso4uzu5xpr",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "3. SBK Race 2 Misano (Italia) 2023",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "https://upstream.to/iyitcmp70jdq",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}	
+		]
+	},
+
+	{
+	"name": "DONINGTON PARK (GRAN BRETAÑA)",
+	"image": "https://i.postimg.cc/hGx3r1QR/06-Prosecco-DOC-UK-Round.png",
+	"imageScale": "",
+	"info":"ROUND 6",
+	"stations":
+		[
+			{
+			"name": "1. SBK Superpole Donington Park (Gran Bretaña) 2023",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "https://upstream.to/2acgc43hplte",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "2. SSP600 Race 2 Donington Park (Gran Bretaña) 2023",
+			"info":"",
+			"image": "https://i.postimg.cc/Xq8Kn52Z/SBK-Verde.jpg",
+			"url": "https://upstream.to/7biudiu600lt",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "3. SBK Race 2 Donington Park (Gran Bretaña) 2023",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "https://upstream.to/tgz5xtdhp8eu",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}	
+		]
+	
+	},
+
+	{
+	"name": "ENZO E DINO FERRARI DI IMOLA (ITALIA)",
+	"image": "https://i.postimg.cc/sxnnXnq7/07-Prometeon-Italian-Round.png",
+	"imageScale": "",
+	"info":"ROUND 7",
+	"stations":
+		[
+			{
+			"name": "1. SBK SuperPole Imola (Italia) 2023",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "https://upstream.to/8ixtmj3tphz9",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "2. SSP600 Race 2 Imola (Italia) 2023",
+			"info":"",
+			"image": "https://i.postimg.cc/Xq8Kn52Z/SBK-Verde.jpg",
+			"url": "https://upstream.to/7wk9uazbfb41",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "3. SBK Race 2 Imola (Italia) 2023",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "https://upstream.to/ez7v7vwrwyrd",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}	
+		]
+	},
+
+	{
+	"name": "AUTODROM MOST (REPUBLICA CHECA)",
+	"image": "https://i.postimg.cc/7Lgm7Pjx/08-Acerbis-Czech-Round.png",
+	"imageScale": "",
+	"info":"ROUND 8",
+	"stations":
+		[
+			{
+			"name": "1 SBK SuperPole  Most (República Checa) 2023 ES",
+			"info": "",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "https://upstream.to/kcp09ngjtryf",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "2 SSP 600 Race 2  Most (República Checa) 2023 ES",
+			"info": "",
+			"image": "https://i.postimg.cc/Xq8Kn52Z/SBK-Verde.jpg",
+			"url": "https://upstream.to/d55w1k4syf7o",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "3 SBK Race 2  Most (República Checa) 2023 ES",
+			"info": "",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "https://upstream.to/ndunlyw3v3ho",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}	
+		]
+	},
+
+	{
+	"name": "CIRCUIT DE NEVERS MAGNY-COURS (FRANCIA) ",
+	"image": "https://i.postimg.cc/SsgL7ndp/09-Pirelli-French-Round.png",
+	"imageScale": "",
+	"info":"ROUND 9",
+	"stations":
+		[
+			{
+			"name": "1 SBK SuperPole Magny Cours (Francia) 2023 ES",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "https://upstream.to/ic5fz9tpnxzd",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "2 SSP 600 Race 2 Magny Cours (Francia) 2023 ES",
+			"info":"NO DISPONIBLE",
+			"image": "https://i.postimg.cc/Xq8Kn52Z/SBK-Verde.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "3 SBK Race 2 Magny Cours (Francia) 2023 ES",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "https://upstream.to/3l9qg0bj13kw",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}	
+		]
+	
+	},
+
+	{
+	"name": "MOTORLAND ARAGON (ARAGON)",
+	"image": "https://i.postimg.cc/L4ZBZ8PG/10-Tissot-Aragon-Round.png",
+	"imageScale": "",
+	"info":"ROUND 10",
+	"stations":
+		[
+			{
+			"name": "1 SBK SuperPole MotorLand - Aragon (España) 2023 ES",
+			"info": "",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "https://upstream.to/arvd8oy7m0sj",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "2 SSP 600 Race 2 MotorLand - Aragon (España) 2023 ES",
+			"info": "",
+			"image": "https://i.postimg.cc/Xq8Kn52Z/SBK-Verde.jpg",
+			"url": "https://upstream.to/kgp3t292gsex",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "3 SBK Race 2 MotorLand - Aragon (España) 2023 ES",
+			"info": "",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "https://upstream.to/uzu36z6nf7tn",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}	
+		]
+	},
+
+	{
+	"name": "PORTIMAO (PORTUGAL)",
+	"image": "https://i.postimg.cc/FzsxSyQv/11-Pirelli-Portuguese-Round.png",
+	"imageScale": "",
+	"info":"ROUND 11",
+	"stations":
+		[
+			{
+			"name": "1 SBK SuperPole Portimao (Portugal) 2023 ES",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "https://upstream.to/f78jpsigmf8t",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "2 SSP 600 Race 2 Portimao (Portugal) 2023 ES",
+			"info":"",
+			"image": "https://i.postimg.cc/Xq8Kn52Z/SBK-Verde.jpg",
+			"url": "https://upstream.to/qo3a485d525z",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "3 SBK Race 2 Portimao (Portugal) 2023 ES",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "https://upstream.to/4mu1mgasxix2",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}	
+		]
+	},
+
+	{
+	"name": "JEREZ DE LA FRONTERA (ESPAÑA)",
+	"image": "https://i.postimg.cc/FHJV0FwY/12-Prometeon-Spanish-Round.png",
+	"imageScale": "",
+	"info":"ROUND 12",
+	"stations":
+		[
+			{
+			"name": "1 SBK SuperPole Jerez de la Frontera (España) 2023 ES",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "https://upstream.to/t2wg6hjkh3mk",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "2 SSP 600 Race 2 Jerez de la Frontera (España) 2023 ES",
+			"info":"",
+			"image": "https://i.postimg.cc/Xq8Kn52Z/SBK-Verde.jpg",
+			"url": "https://upstream.to/cwulwy4ybtqo",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "3 SBK Race 2 Jerez de la Frontera (España) 2023 ES",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "https://upstream.to/m8cp50mrxs3r",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}	
+		]
+	}
+
+
+	
+	]
+}
+
+
+
+
+
+
+
+
