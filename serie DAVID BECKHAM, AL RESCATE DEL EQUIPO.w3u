@@ -1,0 +1,55 @@
+{
+"name": "DAVID BECKHAM, AL RESCATE DEL EQUIPO",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://pastebin.com/EJMTCMC7",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "@yIsus_mEx",
+"info": "",
+"stations":
+	[
+	       {
+ 	       	"name": "Vuelve a casa",
+	        "image": "https://pics.filmaffinity.com/save_our_squad_with_david_beckham-156631152-large.jpg",
+	        "url": "https://fviplions.com/f/h1pyiigzbl7m",
+        	"info": "1X01",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Un paso adelante",
+	        "image": "https://pics.filmaffinity.com/save_our_squad_with_david_beckham-156631152-large.jpg",
+	        "url": "https://fviplions.com/f/zwcca4o386gj",
+        	"info": "1X02",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Unidos",
+	        "image": "https://pics.filmaffinity.com/save_our_squad_with_david_beckham-156631152-large.jpg",
+	        "url": "https://fviplions.com/f/808dok1eorz2",
+        	"info": "1x03",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Nunca te rindas",
+	        "image": "https://pics.filmaffinity.com/save_our_squad_with_david_beckham-156631152-large.jpg",
+	        "url": "https://fviplions.com/f/m9r6ugmf4wg2",
+        	"info": "1X04",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	}
+	]
+}

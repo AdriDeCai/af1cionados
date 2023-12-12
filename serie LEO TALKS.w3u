@@ -1,0 +1,186 @@
+{
+"name": "LEO TALKS",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://pastebin.com/N9waSqjA",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "@AdriDeCai",
+"info": "",
+"groups": 
+    [
+        {
+        "name": "TEMPORADA 1",
+        "image": "https://i.postimg.cc/Vv64RZrY/Leo-Talks-1.jpg",
+        "imageScale": "",
+        "info": "",
+        "stations":
+            [
+			{
+       		"name": "Tecnología",
+	        "image": "https://i.postimg.cc/Vv64RZrY/Leo-Talks-1.jpg",
+	        "url": "https://upstream.to/xtm3pit5fqyt",
+        	"info": "1X01",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Paternidad",
+	        "image": "https://i.postimg.cc/Vv64RZrY/Leo-Talks-1.jpg",
+	        "url": "https://upstream.to/jlw7virdoyuj",
+        	"info": "1X02",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+			{
+       		"name": "Celebraciones",
+	        "image": "https://i.postimg.cc/Vv64RZrY/Leo-Talks-1.jpg",
+	        "url": "https://upstream.to/cs5ffqy2973j",
+        	"info": "1X03",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Ocio hiperactivo",
+	        "image": "https://i.postimg.cc/Vv64RZrY/Leo-Talks-1.jpg",
+	        "url": "https://upstream.to/jp7w0diz0op5",
+        	"info": "1X04",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+			{
+       		"name": "Emprendedores",
+	        "image": "https://i.postimg.cc/Vv64RZrY/Leo-Talks-1.jpg",
+	        "url": "https://upstream.to/nf95d5ca8tnk",
+        	"info": "1X05",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Culto al cuerpo",
+	        "image": "https://i.postimg.cc/Vv64RZrY/Leo-Talks-1.jpg",
+	        "url": "https://upstream.to/ibw40s7p92iw",
+        	"info": "1X06",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	}
+            ]
+        },
+
+        {
+        "name": "TEMPORADA 2",
+        "image": "https://i.postimg.cc/0NjGMW3x/Leo-Talks-2.jpg",
+        "imageScale": "",
+        "info":"",
+        "stations":
+            [
+			{
+       		"name": "Bendita adolescencia",
+	        "image": "https://i.postimg.cc/0NjGMW3x/Leo-Talks-2.jpg",
+	        "url": "https://upstream.to/dagay1o01q3u",
+        	"info": "2X01",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Tener pareja",
+	        "image": "https://i.postimg.cc/0NjGMW3x/Leo-Talks-2.jpg",
+	        "url": "https://upstream.to/vosvdbnflw5j",
+        	"info": 2X02",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Viaje al futuro",
+	        "image": "https://i.postimg.cc/0NjGMW3x/Leo-Talks-2.jpg",
+	        "url": "https://upstream.to/q83ayzzp8659",
+        	"info": "2X03",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+			{
+       		"name": "La moda Foodie",
+	        "image": "https://i.postimg.cc/0NjGMW3x/Leo-Talks-2.jpg",
+	        "url": "https://upstream.to/e7g7pl9zku46",
+        	"info": "2X04",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Animales de compañía",
+	        "image": "https://i.postimg.cc/0NjGMW3x/Leo-Talks-2.jpg",
+	        "url": "https://upstream.to/ofrs1podz5yi",
+        	"info": "2X05",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Miedo a la vejez",
+	        "image": "https://i.postimg.cc/0NjGMW3x/Leo-Talks-2.jpg",
+	        "url": "https://upstream.to/6lv88qrqh3ni",
+        	"info": "2X06",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Obsesión por la salud",
+	        "image": "https://i.postimg.cc/0NjGMW3x/Leo-Talks-2.jpg",
+	        "url": "https://upstream.to/i2d4qn7wpkii",
+        	"info": "2X07",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Maldita Navidad",
+	        "image": "https://i.postimg.cc/0NjGMW3x/Leo-Talks-2.jpg",
+	        "url": "https://upstream.to/tmtf6givdhyr",
+        	"info": "2X08",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	}
+            ]
+        }
+
+
+   ]
+}

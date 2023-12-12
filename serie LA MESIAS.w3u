@@ -1,0 +1,90 @@
+{
+"name": "LA MESIAS",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://pastebin.com/yDLHJZGm",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "@yIsus_mEx",
+"info": "",
+"stations":
+	[
+
+	       {
+ 	       	"name": "Montserrat",
+	        "image": "https://pics.filmaffinity.com/la_mesias-995616904-large.jpg",
+	        "url": "https://upstream.to/okxm4mnqipti",
+        	"info": "1X01",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Resurrección",
+	        "image": "https://pics.filmaffinity.com/la_mesias-995616904-large.jpg",
+	        "url": "https://upstream.to/j4ob1c8mt9ip",
+        	"info": "1X02",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Cantando bajo la lluvia",
+	        "image": "https://pics.filmaffinity.com/la_mesias-995616904-large.jpg",
+	        "url": "https://upstream.to/mbcrqr3a3yxz",
+        	"info": "1X03",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Instrucciones divinas para salvar el mundo ",
+	        "image": "https://pics.filmaffinity.com/la_mesias-995616904-large.jpg",
+	        "url": "https://upstream.to/xnx297yc5gju",
+        	"info": "1x04 ",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Una mujer vestida de sol",
+	        "image": "https://pics.filmaffinity.com/la_mesias-995616904-large.jpg",
+	        "url": "https://upstream.to/bgrfe0n13cci",
+        	"info": "1X05",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "La cara de mi madre",
+	        "image": "https://pics.filmaffinity.com/la_mesias-995616904-large.jpg",
+	        "url": "https://upstream.to/ecrvrcvkpcl1",
+        	"info": "1X06",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Wonderland",
+	        "image": "https://pics.filmaffinity.com/la_mesias-995616904-large.jpg",
+	        "url": "https://upstream.to/u6vrt4c6c70n",
+        	"info": "1X07",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	}
+
+	]
+}

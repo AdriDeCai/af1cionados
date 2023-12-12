@@ -1,0 +1,113 @@
+
+{
+"name": "CANCION DE LOS BANDIDOS",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://pastebin.com/TRrFQHvE",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "@yIsus_mEx",
+"info": "",
+"stations":
+	[
+
+	       {
+ 	       	"name": "EPISODIO 1",
+	        "image": "https://pics.filmaffinity.com/song_of_the_bandits-814833501-large.jpg",
+	        "url": "https://filemoon.sx/d/qucyp95lmd05/1x01_La_cancio_n_de_los_bandidos.mkv",
+        	"info": "",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "EPISODIO 2",
+	        "image": "https://pics.filmaffinity.com/song_of_the_bandits-814833501-large.jpg",
+	        "url": "https://filemoon.sx/d/zo47wgjk45e9/1x02_La_cancio_n_de_los_bandidos.mkv",
+        	"info": "",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "EPISODIO 3",
+	        "image": "https://pics.filmaffinity.com/song_of_the_bandits-814833501-large.jpg",
+	        "url": "https://filemoon.sx/d/g9szwnpey6jd/1x03_La_cancio_n_de_los_bandidos.mkv",
+        	"info": "",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "EPISODIO 4",
+	        "image": "https://pics.filmaffinity.com/song_of_the_bandits-814833501-large.jpg",
+	        "url": "https://filemoon.sx/d/ntplxc58t5ay/1x04_La_cancio_n_de_los_bandidos.mkv",
+        	"info": "",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "EPISODIO 5",
+	        "image": "https://pics.filmaffinity.com/song_of_the_bandits-814833501-large.jpg",
+	        "url": "https://filemoon.sx/d/39yyucaiq3uf/1x05_La_cancio_n_de_los_bandidos.mkv",
+        	"info": "",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "EPISODIO 6",
+	        "image": "https://pics.filmaffinity.com/song_of_the_bandits-814833501-large.jpg",
+	        "url": "https://filemoon.sx/d/i77r349okh51/1x06_La_cancio_n_de_los_bandidos.mkv",
+        	"info": "",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "EPISODIO 7",
+	        "image": "https://pics.filmaffinity.com/song_of_the_bandits-814833501-large.jpg",
+	        "url": "https://filemoon.sx/d/1vmzggzzynke/1x07_La_cancio_n_de_los_bandidos.mkv",
+        	"info": "",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "EPISODIO 8",
+	        "image": "https://pics.filmaffinity.com/song_of_the_bandits-814833501-large.jpg",
+	        "url": "https://filemoon.sx/d/7b3yn17oyxli/1x08_La_cancio_n_de_los_bandidos.mkv",
+        	"info": "",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "EPISODIO 9",
+	        "image": "https://pics.filmaffinity.com/song_of_the_bandits-814833501-large.jpg",
+	        "url": "https://filemoon.sx/d/1ecp89qjqcya/1x09_La_cancio_n_de_los_bandidos.mkv",
+        	"info": "",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	}
+
+	]
+}

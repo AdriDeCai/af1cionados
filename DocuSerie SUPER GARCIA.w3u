@@ -1,0 +1,41 @@
+{
+"name": "SUPER GARCIA",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://pastebin.com/M2pqXnzE",
+"image": "https://i.postimg.cc/CKT64fTF/Super-Garcia-2023-Documental.jpg",
+"telegram": "@carlos174s",
+"info": "",
+"stations":
+	[
+        	{
+        	"name": "CAP 1",
+        	"image": "https://i.postimg.cc/CKT64fTF/Super-Garcia-2023-Documental.jpg",
+        	"url": "https://upstream.to/xv0vwzg8kdjq",
+        	"info":"2023",
+        	"embed":"",
+        	"isHost":"true",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "CAP 2",
+        	"image": "https://i.postimg.cc/CKT64fTF/Super-Garcia-2023-Documental.jpg",
+        	"url": "https://upstream.to/h5p0s06c0sbb",
+        	"info":"2023",
+        	"embed":"",
+        	"isHost":"true",
+        	"online":"true",
+        	"import": false
+        	},
+        	{
+        	"name": "CAP 3",
+        	"image": "https://i.postimg.cc/CKT64fTF/Super-Garcia-2023-Documental.jpg",
+        	"url": "https://upstream.to/fbxycon17har",
+        	"info":"2023",
+        	"embed":"",
+        	"isHost":"true",
+        	"online":"true",
+        	"import": false
+        	}
+	]
+}

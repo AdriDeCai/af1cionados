@@ -1,0 +1,124 @@
+
+{
+"name": "POKER FACE",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://pastebin.com/HXNSAHp0",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "@yIsus_mEx",
+"info": "",
+"stations":
+	[
+	       {
+ 	       	"name": "La mano del muerto",
+	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
+	        "url": "https://upstream.to/b9ccuw60sctc",
+        	"info": "1X01",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "El turno noche",
+	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
+	        "url": "https://upstream.to/i2l86o4zri4s",
+        	"info": "1X02",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "El establo",
+	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
+	        "url": "https://upstream.to/o9iqofxmnp9c",
+        	"info": "1X03",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Descanso en Metal",
+	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
+	        "url": "https://upstream.to/svqopqwp1089",
+        	"info": "1X04",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "El tiempo del mono",
+	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
+	        "url": "https://upstream.to/dwddt98v99z2",
+        	"info": "1X05",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Salir del escenario muerto",
+	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
+	        "url": "https://upstream.to/8wn9jybb1ox0",
+        	"info": "1X06",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "El futuro del deporte",
+	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
+	        "url": "https://upstream.to/07w7by1qvhtm",
+        	"info": "1X07",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "El síndrome de Orfeo",
+	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
+	        "url": "https://gamovideo.com/zszfj7lpmxcd",
+        	"info": "1X08",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Escapar de la montaña de mierda",
+	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
+	        "url": "https://gamovideo.com/nqglr2tx2o3a",
+        	"info": "1X09",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "El gancho",
+	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
+	        "url": "https://gamovideo.com/f8l19p43d0j3",
+        	"info": "1X10",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	}
+
+
+	]
+}

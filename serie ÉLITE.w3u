@@ -1,0 +1,104 @@
+
+
+{
+"name": "ÉLITE",
+"author": "?????1???????????????????",
+"url": "https://pastebin.com/zamMhiBQ",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "@yIsus_mEx",
+"info": "",
+"stations":
+
+	[
+	       {
+ 	       	"name": "7X01 EPISODIO",
+	        "image": "https://pics.filmaffinity.com/elite-592604275-large.jpg",
+	        "url": "https://upstream.to/r6x7zgzkzn4l",
+        	"info": "ESPAÑOL",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "7X02 EPISODIO",
+	        "image": "https://pics.filmaffinity.com/elite-592604275-large.jpg",
+	        "url": "https://upstream.to/pgtnb2oxx5im",
+        	"info": "ESPAÑOL",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "7X03 EPISODIO",
+	        "image": "https://pics.filmaffinity.com/elite-592604275-large.jpg",
+	        "url": "https://upstream.to/qwlz7az48z3j",
+        	"info": "ESPAÑOL",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "7X04 EPISODIO",
+	        "image": "https://pics.filmaffinity.com/elite-592604275-large.jpg",
+	        "url": "https://upstream.to/jwcis2bwv88b",
+        	"info": "ESPAÑOL",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "7X05 EPISODIO",
+	        "image": "https://pics.filmaffinity.com/elite-592604275-large.jpg",
+	        "url": "https://upstream.to/rp8r2qgar6mt",
+        	"info": "ESPAÑOL",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "7X06 EPISODIO",
+	        "image": "https://pics.filmaffinity.com/elite-592604275-large.jpg",
+	        "url": "https://upstream.to/c2fl2fazcnq5",
+        	"info": "ESPAÑOL",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "7X07 EPISODIO",
+	        "image": "https://pics.filmaffinity.com/elite-592604275-large.jpg",
+	        "url": "https://upstream.to/k1jn1pegtf3j",
+        	"info": "ESPAÑOL",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "7X08 EPISODIO",
+	        "image": "https://pics.filmaffinity.com/elite-592604275-large.jpg",
+	        "url": "https://upstream.to/g1v3mfqpvrmi",
+        	"info": "ESPAÑOL",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	}
+
+
+	]
+}

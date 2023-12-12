@@ -1,0 +1,59 @@
+
+{
+"name": "INSIDE MAN (DESDE DENTRO)",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://pastebin.com/awb9yg0Z",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "@yIsus_mEx",
+"info": "",
+"stations":
+	[
+
+	       {
+ 	       	"name": "EPISODIO 1",
+	        "image": "https://pics.filmaffinity.com/inside_man-531226120-large.jpg",
+	        "url": "https://filemoon.sx/d/pvuyq4kpqdrf/1x01_Inside_Man.mkv",
+        	"info": "",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "EPISODIO 2",
+	        "image": "https://pics.filmaffinity.com/inside_man-531226120-large.jpg",
+	        "url": "https://filemoon.sx/d/b9b02xjqgolo/1x02_Inside_Man.mkv",
+        	"info": "",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "EPISODIO 3",
+	        "image": "https://pics.filmaffinity.com/inside_man-531226120-large.jpg",
+	        "url": "https://filemoon.sx/d/a2j74lltph55/1x03_Inside_Man.mkv",
+        	"info": "",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "EPISODIO 4",
+	        "image": "https://pics.filmaffinity.com/inside_man-531226120-large.jpg",
+	        "url": "https://filemoon.sx/d/lsrjg9eyn8k4/1x04_Inside_Man.mkv",
+        	"info": "",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	}
+
+
+	]
+}

@@ -1,0 +1,101 @@
+{
+"name": "30 MONEDAS",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://pastebin.com/JF5rWySM",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "@yIsus_mEx",
+"info": "",
+"stations":
+
+	[
+	       {
+ 	       	"name": "EL PUEBLO FANTASMA",
+	        "image": "https://pics.filmaffinity.com/30_monedas_t2-490944362-large.jpg",
+	        "url": "https://filemoon.sx/d/gpv8wipn1cq5/30_Coins__30_Monedas__S02E01.mp4",
+        	"info": "2X01",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "LAS TIERRAS DEL SUEÑO",
+	        "image": "https://pics.filmaffinity.com/30_monedas_t2-490944362-large.jpg",
+	        "url": "https://upstream.to/ag1szxr2f7zj",
+        	"info": "2X02",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "CRIATURAS INFERNALES",
+	        "image": "https://pics.filmaffinity.com/30_monedas_t2-490944362-large.jpg",
+	        "url": "https://upstream.to/gvq3mr46l78c",
+        	"info": "2X03",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "EL LIBRO NEGRO DE ARABE LOCO",
+	        "image": "https://pics.filmaffinity.com/30_monedas_t2-490944362-large.jpg",
+	        "url": "https://vidmoly.to/embed-w5mno5ylkhq3.html",
+        	"info": "2X04",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "EL SIMBOLO ARCANO",
+	        "image": "https://pics.filmaffinity.com/30_monedas_t2-490944362-large.jpg",
+	        "url": "https://upstream.to/pyt1xjp2vmbq",
+        	"info": "2X05",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "RESETEAR EL MUNDO",
+	        "image": "https://pics.filmaffinity.com/30_monedas_t2-490944362-large.jpg",
+	        "url": "https://upstream.to/8wzt8bvv98aw",
+        	"info": "2X06",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "LOS DOS NUCLEOS",
+	        "image": "https://pics.filmaffinity.com/30_monedas_t2-490944362-large.jpg",
+	        "url": "https://upstream.to/zxy7asdpif86",
+        	"info": "2X07",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "EL OJO DE DIOS",
+	        "image": "https://pics.filmaffinity.com/30_monedas_t2-490944362-large.jpg",
+	        "url": "https://upstream.to/s1pmqwlpjx23",
+        	"info": "2X08",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	}
+
+	]
+}

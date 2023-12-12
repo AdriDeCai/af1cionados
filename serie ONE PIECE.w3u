@@ -1,0 +1,103 @@
+{
+"name": "ONE PIECE",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://pastebin.com/meQrkbwc",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "@yIsus_mEx",
+"info": "",
+"stations":
+
+	[
+	       {
+ 	       	"name": "1x01 EL AMANECER DE UNA AVENTURA",
+	        "image": "https://i.postimg.cc/gJR0Rqk9/ONE-PIECE-SERIE.jpg",
+	        "url": "https://filemoon.top/e/dgedksoa9ztt",
+        	"info": "CASTELLANO",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "1x02 EL HOMBRE DEL SOMBRERO DE PAJA",
+	        "image": "https://i.postimg.cc/gJR0Rqk9/ONE-PIECE-SERIE.jpg",
+	        "url": "https://filemoon.top/e/pwb1jr0ynjvh",
+        	"info": "CASTELLANO",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "1x03 PUROS CUENTOS",
+	        "image": "https://i.postimg.cc/gJR0Rqk9/ONE-PIECE-SERIE.jpg",
+	        "url": "https://filemoon.top/e/ltzntcgo08wq",
+        	"info": "CASTELLANO",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "1x04 VIENEN LOS PIRATAS",
+	        "image": "https://i.postimg.cc/gJR0Rqk9/ONE-PIECE-SERIE.jpg",
+	        "url": "https://filemoon.top/e/yojuxi6va2su",
+        	"info": "CASTELLANO",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "1x05 BIENVENIDOS A BARATIE",
+	        "image": "https://i.postimg.cc/gJR0Rqk9/ONE-PIECE-SERIE.jpg",
+	        "url": "https://filemoon.top/e/3u2j0fubdmz0",
+        	"info": "CASTELLANO",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "1x06 EL COCINERO Y EL MANDADERO",
+	        "image": "https://i.postimg.cc/gJR0Rqk9/ONE-PIECE-SERIE.jpg",
+	        "url": "https://filemoon.top/e/ts5x91ae62te",
+        	"info": "CASTELLANO",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "1x07 LA CHICA DEL PEZ SIERRA TATUADO",
+	        "image": "https://i.postimg.cc/gJR0Rqk9/ONE-PIECE-SERIE.jpg",
+	        "url": "https://filemoon.top/e/arckz9e7vutj",
+        	"info": "CASTELLANO",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "1x08 LO PEOR DEL ESTE",
+	        "image": "https://i.postimg.cc/gJR0Rqk9/ONE-PIECE-SERIE.jpg",
+	        "url": "https://filemoon.top/e/tu4wwmsxzig9",
+        	"info": "CASTELLANO",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	}
+	]
+}
+
+
+

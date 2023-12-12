@@ -1,0 +1,147 @@
+
+{
+"name": "BLACK SNOW",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://pastebin.com/JVr3YmuV",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "@yIsus_mEx",
+"info": "",
+"stations":
+	[
+
+	       {
+ 	       	"name": "Unfinished Business",
+	        "image": "https://pics.filmaffinity.com/black_snow-404340713-large.jpg",
+	        "url": "https://upstream.to/2ss9spfqk8jz",
+        	"info": "1x01",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Unfinished Business [VOSE]",
+	        "image": "https://pics.filmaffinity.com/black_snow-404340713-large.jpg",
+	        "url": "https://upstream.to/mnt5ph1f666o",
+        	"info": "1x01",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Predators",
+	        "image": "https://pics.filmaffinity.com/black_snow-404340713-large.jpg",
+	        "url": "https://upstream.to/feb2vy0jvoof",
+        	"info": "1x02",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Predators [VOSE]",
+	        "image": "https://pics.filmaffinity.com/black_snow-404340713-large.jpg",
+	        "url": "https://upstream.to/zvzwb0igghqv",
+        	"info": "1x02",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Ezekiel",
+	        "image": "https://pics.filmaffinity.com/black_snow-404340713-large.jpg",
+	        "url": "https://upstream.to/uurvfqjhpudn",
+        	"info": "1x03",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Ezekiel [VOSE]",
+	        "image": "https://pics.filmaffinity.com/black_snow-404340713-large.jpg",
+	        "url": "https://upstream.to/xzkvbskhemkk",
+        	"info": "1x03",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "The Lost Boys",
+	        "image": "https://pics.filmaffinity.com/black_snow-404340713-large.jpg",
+	        "url": "https://upstream.to/4xg2o36d6ub1",
+        	"info": "1x04",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "The Lost Boys [VOSE]",
+	        "image": "https://pics.filmaffinity.com/black_snow-404340713-large.jpg",
+	        "url": "https://upstream.to/xyj8vn5nkew4",
+        	"info": "1x04",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Sugar Sugar",
+	        "image": "https://pics.filmaffinity.com/black_snow-404340713-large.jpg",
+	        "url": "https://upstream.to/utnhiy92yjcc",
+        	"info": "1x05",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Sugar Sugar [VOSE]",
+	        "image": "https://pics.filmaffinity.com/black_snow-404340713-large.jpg",
+	        "url": "https://upstream.to/373eucok433n",
+        	"info": "1x05",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Spirit Speak",
+	        "image": "https://pics.filmaffinity.com/black_snow-404340713-large.jpg",
+	        "url": "https://upstream.to/yf00wi571c4j",
+        	"info": "1x06",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Spirit Speak [VOSE]",
+	        "image": "https://pics.filmaffinity.com/black_snow-404340713-large.jpg",
+	        "url": "https://upstream.to/dwgjwbd6exbz",
+        	"info": "1x06",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	}
+
+
+	]
+}

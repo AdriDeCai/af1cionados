@@ -1,0 +1,45 @@
+
+{
+"name": "PONGAMOS QUE HABLO DE RONALDO",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://pastebin.com/tQAheAjp",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "@yIsus_mEx",
+"info": "",
+"stations":
+	[
+	       {
+ 	       	"name": "1 Pongamos que Hablo de Ronaldo",
+	        "image": "https://i.postimg.cc/N05DYPQh/Pongamos-que-Hablo-de-Ronaldo-Docu-Serie.jpg",
+	        "url": "https://upstream.to/wxoized61cc7",
+        	"info": "1X01",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "2 Pongamos que Hablo de Ronaldo",
+	        "image": "https://i.postimg.cc/N05DYPQh/Pongamos-que-Hablo-de-Ronaldo-Docu-Serie.jpg",
+	        "url": "https://upstream.to/3ugmf87iu11n",
+        	"info": "1X02",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "3 Pongamos que Hablo de Ronaldo",
+	        "image": "https://i.postimg.cc/N05DYPQh/Pongamos-que-Hablo-de-Ronaldo-Docu-Serie.jpg",
+	        "url": "https://upstream.to/x6ukjoit09n8",
+        	"info": "1X03",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	}
+	]
+}

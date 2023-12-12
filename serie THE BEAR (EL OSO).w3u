@@ -1,0 +1,636 @@
+{
+"name": "THE BEAR (EL OSO)",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://pastebin.com/54BxAqmX",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "@yIsus_mEx",
+"info": "",
+"groups":
+	[
+
+
+        {
+        "name": "TEMPORADA 1",
+        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+        "imageScale": "",
+        "info": "",
+        "stations":
+            [
+	       {
+ 	       	"name": "System",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/j99xxl2o5drv",
+        	"info": "1X01",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "System [Latino]",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/hf7jb1eppa51",
+        	"info": "1X01",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "System [VOSE]",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/llmvk1ii51bc",
+        	"info": "1X01",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Hands",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/hd0q8dty4rck",
+        	"info": "1X02",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Hands [Latino]",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/ufzt8dult97k",
+        	"info": "1X02",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Hands [VOSE]",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/tl1j7v86m1uc",
+        	"info": "1X02",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Brigade",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/kb4yag90tv67",
+        	"info": "1X03",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Brigade [Latino]",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/gd8d5qcmifbi",
+        	"info": "1X03",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Brigade [VOSE]",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/r2ru6qp8kx5f",
+        	"info": "1X03",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Dogs",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/519usgedp93w",
+        	"info": "1X04",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Dogs [Latino]",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/djejl3a21fvi",
+        	"info": "1X04",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Dogs [VOSE]",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/34gazrmqj4kj",
+        	"info": "1X04",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Sheridan",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/sr0zil6sgjcp",
+        	"info": "1X05",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Sheridan [Latino]",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/t5zuaizh3uz0",
+        	"info": "1X05",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Sheridan [VOSE]",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/eihc1yc3g5h2",
+        	"info": "1X05",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Ceres",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/7dz66br7fkci",
+        	"info": "1X06",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Ceres [Latino]",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://gamovideo.net/rphkp437xrf9",
+        	"info": "1X06",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Ceres [VOSE]",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/g5etuwqy5g9a",
+        	"info": "1X06",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Review",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/q0t376bbfj8l",
+        	"info": "1X07",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Review [Latino]",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://gamovideo.net/6sanpyntqy0f",
+        	"info": "1X07",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Review [VOSE]",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/s5kb2z169405",
+        	"info": "1X07",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Braciole",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/f16szzxl2y1d",
+        	"info": "1X08",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Braciole [Latino]",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://gamovideo.net/a0mjp5wv3k1g",
+        	"info": "1X08",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Braciole [VOSE]",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/9qcpkzio9g99",
+        	"info": "1X08",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	}
+	    ]
+	},
+
+
+        {
+        "name": "TEMPORADA 2",
+        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+        "imageScale": "",
+        "info": "",
+        "stations":
+            [
+	       {
+ 	       	"name": "Beef",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/j0ekc1ji9y4q",
+        	"info": "2X01",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Beef [Latino]",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/o4rwhsguqt0r",
+        	"info": "2X01",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Beef [VOSE]",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/i553c89zu5w6",
+        	"info": "2X01",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Pasta",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/dqy7ccsukh3f",
+        	"info": "2X02",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Pasta [Latino]",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/ff144ubui8g7",
+        	"info": "2X01",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Pasta [VOSE]",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/4ua9gxe5ysie",
+        	"info": "2X01",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Sundae",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/yii5vcqon4mb",
+        	"info": "2X03",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Sundae [Latino]",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/xzsvz469qafk",
+        	"info": "2X03",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Sundae [VOSE]",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/vzjwx39rsdiy",
+        	"info": "2X03",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Honeydew",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/yh38zrgr0wl0",
+        	"info": "2X04",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Honeydew [Latino]",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/1tadc721ui1i",
+        	"info": "2X04",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Honeydew [VOSE]",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/3ddooewuszo3",
+        	"info": "2X04",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Pop",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/nt6b18twcqfh",
+        	"info": "2X05",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Pop [Latino]",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/ig2lgbujqouj",
+        	"info": "2X05",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Pop [VOSE]",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/pxluexuumnoz",
+        	"info": "2X05",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Fishes",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/yqa18krfy6at",
+        	"info": "2X06",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Fishes [Latino]",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/eqdfewrz3bde",
+        	"info": "2X06",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Fishes [VOSE]",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/w2u1gfnmhbdf",
+        	"info": "2X06",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Forks",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/m6gazx4ryupd",
+        	"info": "2X07",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Forks [Latino]",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/1vhbgwrroixw",
+        	"info": "2X07",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Forks [VOSE]",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/50k0a2l3j1fw",
+        	"info": "2X07",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Bolognese",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/9b4f3gl8o4kb",
+        	"info": "2X08",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Bolognese [Latino]",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/9b4f3gl8o4kb",
+        	"info": "2X08",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Bolognese [VOSE]",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/vh1jg64v1jmf",
+        	"info": "2X08",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Omelette",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/ntgj3j9yqyun",
+        	"info": "2X09",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Omelette [Latino]",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/ntgj3j9yqyun",
+        	"info": "2X09",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Omelette [VOSE]",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/hofqly4052ly",
+        	"info": "2X09",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "The Bear",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/ao495mkagjtf",
+        	"info": "2X10",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "The Bear [Latino]",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://gamovideo.net/49k4g2wp2c1e",
+        	"info": "2X10",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "The Bear [VOSE]",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://upstream.to/sbhraijad4vj",
+        	"info": "2X10",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	}
+	    ]
+	}
+
+
+    ]
+}
+
+
+
+
+
+
+

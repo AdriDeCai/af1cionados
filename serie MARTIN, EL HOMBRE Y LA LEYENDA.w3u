@@ -1,0 +1,56 @@
+{
+"name": "MARTIN, EL HOMBRE Y LA LEYENDA",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://pastebin.com/vKW8rwg1",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "@AdriDeCai",
+"info": "",
+"stations":
+
+	[
+	       {
+ 	       "name": "Capitulo 1",
+	        "image": "https://i.postimg.cc/SRX9zbZw/Martin-el-hombre-y-la-leyenda-2018-Mini-Docu.jpg",
+	        "url": "https://upstream.to/w99i9m2jnp83",
+        	"info": "2018",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       "name": "Capitulo 2",
+	        "image": "https://i.postimg.cc/SRX9zbZw/Martin-el-hombre-y-la-leyenda-2018-Mini-Docu.jpg",
+	        "url": "https://upstream.to/ur2ionoqe6bn",
+        	"info": "2018",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       "name": "Capitulo 3",
+	        "image": "https://i.postimg.cc/SRX9zbZw/Martin-el-hombre-y-la-leyenda-2018-Mini-Docu.jpg",
+	        "url": "https://upstream.to/ghxuzh7p9g6l",
+        	"info": "2018",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       "name": "Capitulo 4",
+	        "image": "https://i.postimg.cc/SRX9zbZw/Martin-el-hombre-y-la-leyenda-2018-Mini-Docu.jpg",
+	        "url": "https://upstream.to/7ch5zfnsx32o",
+        	"info": "2018",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	}
+	]
+}

@@ -1,0 +1,122 @@
+
+{
+"name": "THE WINTER KING [VOSE]",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://pastebin.com/RjHLQ0kM",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "@yIsus_mEx",
+"info": "",
+"stations":
+	[
+	       {
+ 	       	"name": "EPISODIO 1",
+	        "image": "https://pics.filmaffinity.com/the_winter_king-418954050-large.jpg",
+	        "url": "https://upstream.to/uvmgxmetap8s",
+        	"info": "1X01",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "EPISODIO 2",
+	        "image": "https://pics.filmaffinity.com/the_winter_king-418954050-large.jpg",
+	        "url": "https://upstream.to/h0n38ti2fd9q",
+        	"info": "1X02",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "EPISODIO 3",
+	        "image": "https://pics.filmaffinity.com/the_winter_king-418954050-large.jpg",
+	        "url": "https://upstream.to/oxyw74ea4xuk",
+        	"info": "1X03",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "EPISODIO 4",
+	        "image": "https://pics.filmaffinity.com/the_winter_king-418954050-large.jpg",
+	        "url": "https://upstream.to/erqyc8kkit3g",
+        	"info": "1X04",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "EPISODIO 5",
+	        "image": "https://pics.filmaffinity.com/the_winter_king-418954050-large.jpg",
+	        "url": "https://upstream.to/o4ikn73o4fbg",
+        	"info": "1X05",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "EPISODIO 6",
+	        "image": "https://pics.filmaffinity.com/the_winter_king-418954050-large.jpg",
+	        "url": "https://upstream.to/5vlpmuflduv7",
+        	"info": "1X06",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "EPISODIO 7",
+	        "image": "https://pics.filmaffinity.com/the_winter_king-418954050-large.jpg",
+	        "url": "https://upstream.to/a25xf37afnj5",
+        	"info": "1X07",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "NO DISPONIBLE",
+	        "image": "https://pics.filmaffinity.com/the_winter_king-418954050-large.jpg",
+	        "url": "LINK",
+        	"info": "1X08",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "NO DISPONIBLE",
+	        "image": "https://pics.filmaffinity.com/the_winter_king-418954050-large.jpg",
+	        "url": "LINK",
+        	"info": "1X09",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "NO DISPONIBLE",
+	        "image": "https://pics.filmaffinity.com/the_winter_king-418954050-large.jpg",
+	        "url": "LINK",
+        	"info": "1X10",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	}
+	]
+}

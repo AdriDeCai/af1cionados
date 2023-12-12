@@ -1,0 +1,475 @@
+
+{
+"name": "LINE OF DUTY",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://pastebin.com/B8rLHit0",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "@yIsus_mEx",
+"info": "",
+"groups":
+	[
+
+	{
+ 	"name": "TEMPORADA 1",
+	"image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	"info": "",
+    "stations":
+		[
+
+	       {
+ 	       	"name": "A Disastrous Affair",
+	        "image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	        "url": "https://fviplions.com/f/a2kedkyt0kj1",
+        	"info": "1x01",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "The Assault",
+	        "image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	        "url": "https://fviplions.com/f/5xy1hcrmoccu",
+        	"info": "1x02",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+		{
+ 	       	"name": "In the Trap",
+	        "image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	        "url": "https://fviplions.com/f/6ky6txffk166",
+        	"info": "1x03",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Terror",
+	        "image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	        "url": "https://fviplions.com/f/0v8prbjoa9pc",
+        	"info": "1x04",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "The Probation",
+	        "image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	        "url": "https://fviplions.com/f/hvh5xga8pwf6",
+        	"info": "1x05",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	}
+		]
+	},
+
+	{
+ 	"name": "TEMPORADA 2",
+	"image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	"info": "",
+        "stations":
+		[
+
+	       {
+ 	       	"name": "The Ambush",
+	        "image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	        "url": "https://fviplions.com/f/ln4vrk8h6eqr",
+        	"info": "2x01",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Carly",
+	        "image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	        "url": "https://fviplions.com/f/p6ne3agzav1z",
+        	"info": "2x02",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+		{
+ 	       	"name": "Behind Bars",
+	        "image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	        "url": "https://fviplions.com/f/aotunw3vzj3h",
+        	"info": "2x03",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Blood Money",
+	        "image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	        "url": "https://fviplions.com/f/mvkfnnti1lqz",
+        	"info": "2x04",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Last Words",
+	        "image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	        "url": "https://fviplions.com/f/7utjgrk95ghf",
+        	"info": "2x05",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "The Caddy",
+	        "image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	        "url": "https://fviplions.com/f/b1o5hi7ju2gg",
+        	"info": "2x06",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	}
+
+		]
+	},
+
+	{
+ 	"name": "TEMPORADA 3",
+	"image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	"info": "",
+        "stations":
+		[
+
+	       {
+ 	       	"name": "Monsters",
+	        "image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	        "url": "https://fviplions.com/f/7ya6ifr35ri0",
+        	"info": "3x01",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "The Process",
+	        "image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	        "url": "https://fviplions.com/f/zrlp6jgz68h8",
+        	"info": "3x02",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+		{
+ 	       	"name": "Snake Pit",
+	        "image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	        "url": "https://fviplions.com/f/mvaz6gcew02w",
+        	"info": "3x03",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Negative Pressure",
+	        "image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	        "url": "https://fviplions.com/f/279rcspqew7y",
+        	"info": "3x04",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "The List",
+	        "image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	        "url": "https://fviplions.com/f/vd4vmseq0xd0",
+        	"info": "3x05",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Breach",
+	        "image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	        "url": "https://fviplions.com/f/gnmpvj00l5ep",
+        	"info": "3x06",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	}
+
+		]
+	},
+
+	{
+ 	"name": "TEMPORADA 4",
+	"image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	"info": "",
+        "stations":
+		[
+
+	       {
+ 	       	"name": "In the Shadow of the Truth",
+	        "image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	        "url": "https://fviplions.com/f/0oppuyrbcyx7",
+        	"info": "4x01",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Who Sows the Wind",
+	        "image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	        "url": "https://fviplions.com/f/rpo2j5rgjwuc",
+        	"info": "4x02",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+		{
+ 	       	"name": "In the Trap",
+	        "image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	        "url": "https://fviplions.com/f/c5od2l4w9nr5",
+        	"info": "4x03",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Moral Superiority",
+	        "image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	        "url": "https://fviplions.com/f/nc3vaspjavl8",
+        	"info": "4x04",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Lying Nest",
+	        "image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	        "url": "https://fviplions.com/f/8w4y1fu4d2rj",
+        	"info": "4x05",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Royal Hunting Ground",
+	        "image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	        "url": "https://fviplions.com/f/etb9vdhigy87",
+        	"info": "4x06",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	}
+
+		]
+	},
+
+	{
+ 	"name": "TEMPORADA 5",
+	"image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	"info": "",
+        "stations":
+		[
+
+	       {
+ 	       	"name": "Operation Pear Tree",
+	        "image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	        "url": "https://fviplions.com/f/b6y6w3zwdzkb",
+        	"info": "5x01",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "The Head of Medusa",
+	        "image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	        "url": "https://fviplions.com/f/vs8tf6xtws2m",
+        	"info": "5x02",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+		{
+ 	       	"name": "Code Zero",
+	        "image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	        "url": "https://fviplions.com/f/gc67irrc75j3",
+        	"info": "5x03",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "The Betrayal",
+	        "image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	        "url": "https://fviplions.com/f/sxk9dge30emq",
+        	"info": "5x04",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "On Your Own",
+	        "image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	        "url": "https://fviplions.com/f/l4x1c4p252mg",
+        	"info": "5x05",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "The Intrigue",
+	        "image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	        "url": "https://fviplions.com/f/gvcn3fuz3prg",
+        	"info": "5x06",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	}
+
+		]
+	},
+
+	{
+ 	"name": "TEMPORADA 6",
+	"image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	"info": "",
+        "stations":
+		[
+
+	       {
+ 	       	"name": "T6.E1 Episodio ",
+	        "image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	        "url": "https://fviplions.com/f/x4uxd6rfc6ze",
+        	"info": "6x01",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "T6.E2 Episodio",
+	        "image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	        "url": "https://fviplions.com/f/ompgyuov1dy5",
+        	"info": "6x02",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+		{
+ 	       	"name": "T6.E3 Episodio",
+	        "image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	        "url": "https://fviplions.com/f/dez91873jgs4",
+        	"info": "6x03",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "T6.E4 Episodio",
+	        "image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	        "url": "https://fviplions.com/f/4f49courvy72",
+        	"info": "6x04",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "T6.E5 Episodio",
+	        "image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	        "url": "https://fviplions.com/f/5lgx556wx2wl",
+        	"info": "6x05",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "T6.E6 Episodio",
+	        "image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	        "url": "https://fviplions.com/f/s8zz906wa75f",
+        	"info": "6x06",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "T6.E7 Episodio",
+	        "image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
+	        "url": "https://fviplions.com/f/1li6l17vj6ra",
+        	"info": "6x07",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	}
+
+		]
+	}
+
+
+	]
+}
