@@ -3,11 +3,20 @@
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/DiFeriDos%20BoXing.w3u",
 "image": "https://i.postimg.cc/9MMzSZBR/Di-Feri-Dos-Bo-Xing.jpg",
-"telegram": "@AdriDeCai",
-"info": "by Fracisco_iphone",
+"telegram": "@Tintxi",
+"info": "by Tintxi",
 "stations":
 	[
 
+	{
+        "name": "Paul vs August",
+        "image": "https://i.postimg.cc/vZBCXTZt/Jake-Paul-Andre-August-2-1.jpg",
+        "url": "https://filemoon.sx/d/m1dc1uggfc99",
+        "info": "",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "isHost":"true",
+        "online":"true"
+        },
 	{
         "name": "Robeisy vs Espinoza",
         "image": "https://i.postimg.cc/TPW4L3QW/Robeisy-Ramirez-Rafael-Espinoza-Top-Rank-Photo.jpg",
