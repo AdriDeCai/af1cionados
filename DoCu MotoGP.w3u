@@ -339,6 +339,15 @@
 			"embed":"",
             		"isHost":"true",
             		"online":"true"
+			},
+			{
+			"name": "Martinator, voluntad de hierro",
+			"info":"2023",
+			"image": "https://i.postimg.cc/4yZwP7Vb/137-Martinator-voluntad-de-hierro.png",
+			"url": "https://upstream.to/77aof6sxmqyj",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
 			}
 		]
 	},
