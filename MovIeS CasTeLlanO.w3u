@@ -507,6 +507,17 @@
        	"import": false
        	},
 		{
+       	"name": "CAMPEONEX",
+        "image": "https://i.postimg.cc/Pq5GVbxX/Campeone-X-pelicula-2023.jpg",
+        "url": "https://upstream.to/th4mr2czfvzi",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+		{
         "name": "CASSANDRO",
         "info":"2023",
         "image": "https://i.postimg.cc/5ynnWVLh/Cassandro-2023-Pelicula.jpg",
