@@ -1,0 +1,103 @@
+
+
+{
+"name": "KALIFAT",
+"image": "https://pics.filmaffinity.com/kalifat-779681042-large.jpg",
+"url": "https://pastebin.com/VnL3zmqB",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳",
+"info": "2023",
+"telegram": "@YIsus_mEx",
+"stations":
+
+	[
+	{
+       	"name": "EPISODIO 1",
+        "image": "https://pics.filmaffinity.com/kalifat-779681042-large.jpg",
+        "url": "https://upstream.to/df8ea1dbezik",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 2",
+        "image": "https://pics.filmaffinity.com/kalifat-779681042-large.jpg",
+        "url": "https://upstream.to/a40lboy5iob4",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 3",
+        "image": "https://pics.filmaffinity.com/kalifat-779681042-large.jpg",
+        "url": "https://upstream.to/usf43blxss0g",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 4",
+        "image": "https://pics.filmaffinity.com/kalifat-779681042-large.jpg",
+        "url": "https://upstream.to/by41ho9dsftw",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 5",
+        "image": "https://pics.filmaffinity.com/kalifat-779681042-large.jpg",
+        "url": "https://upstream.to/jtxd9qnuu1mq",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 6",
+        "image": "https://pics.filmaffinity.com/kalifat-779681042-large.jpg",
+        "url": "https://upstream.to/bzjttprvnyba",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 7",
+        "image": "https://pics.filmaffinity.com/kalifat-779681042-large.jpg",
+        "url": "https://upstream.to/gjeg00ceo9ra",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 8",
+        "image": "https://pics.filmaffinity.com/kalifat-779681042-large.jpg",
+        "url": "https://upstream.to/0r1xowht9c2r",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
