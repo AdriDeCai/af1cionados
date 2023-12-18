@@ -1,0 +1,125 @@
+
+
+{
+"name": "HERMANOS DE SANGRE",
+"image": "https://pics.filmaffinity.com/band_of_brothers-541225951-large.jpg",
+"url": "",
+"info": "2023",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": @YIsus_mEx",
+"stations":
+
+	[
+	{
+       	"name": "EPISODIO 1",
+        "image": "https://pics.filmaffinity.com/band_of_brothers-541225951-large.jpg",
+        "url": "https://upstream.to/v6s7jtuzviod",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 2",
+        "image": "https://pics.filmaffinity.com/band_of_brothers-541225951-large.jpg",
+        "url": "https://upstream.to/9snetfk2vfix",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 3",
+        "image": "https://pics.filmaffinity.com/band_of_brothers-541225951-large.jpg",
+        "url": "https://upstream.to/5kfjznp6hhtb",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 4",
+        "image": "https://pics.filmaffinity.com/band_of_brothers-541225951-large.jpg",
+        "url": "https://upstream.to/p4r6viekhqps",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 5",
+        "image": "https://pics.filmaffinity.com/band_of_brothers-541225951-large.jpg",
+        "url": "https://upstream.to/553ref5y0ro0",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 6",
+        "image": "https://pics.filmaffinity.com/band_of_brothers-541225951-large.jpg",
+        "url": "https://upstream.to/nibyb1p2mqgp",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 7",
+        "image": "https://pics.filmaffinity.com/band_of_brothers-541225951-large.jpg",
+        "url": "https://upstream.to/ipv8ysiu5bdy",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 8",
+        "image": "https://pics.filmaffinity.com/band_of_brothers-541225951-large.jpg",
+        "url": "https://upstream.to/bv5kjqf90bko",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 9",
+        "image": "https://pics.filmaffinity.com/band_of_brothers-541225951-large.jpg",
+        "url": "https://upstream.to/9jdcsuk2ec0c",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 10",
+        "image": "https://pics.filmaffinity.com/band_of_brothers-541225951-large.jpg",
+        "url": "https://upstream.to/b9xfso4g8x8j",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
