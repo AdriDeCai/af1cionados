@@ -1,0 +1,53 @@
+
+
+{
+"name": "CALEIDOSCOPIO",
+"image": "https://pics.filmaffinity.com/kaleidoscope-825215080-large.jpg",
+"url": "https://pastebin.com/jMVL74iv",
+"info": "2023",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": @YIsus_mEx",
+"stations":
+	[
+
+	{
+       	"name": "Negro",
+        "image": "https://pics.filmaffinity.com/kaleidoscope-825215080-large.jpg",
+        "url": "https://upstream.to/lup0a23bkx0w",
+       	"info": "Castellano",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "Negro",
+        "image": "https://pics.filmaffinity.com/kaleidoscope-825215080-large.jpg",
+        "url": "https://gamovideo.com/z4h7e7kv4g47",
+       	"info": "Latino",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "Negro",
+        "image": "https://pics.filmaffinity.com/kaleidoscope-825215080-large.jpg",
+        "url": "https://upstream.to/gmtx1i20j0z6",
+       	"info": "VOSE",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
+
+
+
+
+
