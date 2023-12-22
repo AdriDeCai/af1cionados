@@ -157,6 +157,16 @@
        	"isHost": "true",
        	"online": "true",
 		"userAgent":"PlusMediaPlayer/0.0.9"
+       	},
+		{
+       	"name": "S14 E8 Un bodorrio tóxico, un burbujón inmobiliario y un secuestro exprés",
+        "image": "https://i.postimg.cc/8PwX9KRc/La-que-se-avecina-13-2023-Serie.jpg",
+        "url": "https://upstream.to/fipn0kqeqwli",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9"
        	}
 
 	]
