@@ -42,6 +42,17 @@
         "online":"true",
         "import": false   
 		},
+	{
+       	"name": "ADAM SANDLER ES LEO",
+        "image": "https://pics.filmaffinity.com/leo-530546739-large.jpg",
+        "url": "https://upstream.to/097t56vhjstg",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
 		{ 
 		"name": "AINBO LA GUERRERA DEL AMAZONAS", 
 		"info": "2021",
@@ -175,6 +186,17 @@
 	"online":"true",
 	"import": false
 	},
+	{
+       	"name": "CHICKEN RUN, AMANECER DE LOS NUGGETS",
+        "image": "https://pics.filmaffinity.com/chicken_run_dawn_of_the_nugget-363717549-large.jpg",
+        "url": "https://upstream.to/f1ky3dngts8j",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
       	{
         "name": "CHIP Y CHOP, LOS GUARDIANES RESCATADORES",
         "info":"2022",
@@ -206,6 +228,17 @@
         "online":"true",
         "import": false
         },
+	{
+       	"name": "CONEJO DE TERCIOPELO, EL",
+        "image": "https://pics.filmaffinity.com/the_velveteen_rabbit-168581418-large.jpg",
+        "url": "https://upstream.to/zpkwko0k3125",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
 		{
        	"name": "COPPELIA",
         "image": "https://pics.filmaffinity.com/coppelia-612414923-large.jpg",
@@ -238,6 +271,17 @@
         "isHost":"true",
         "online":"true" 
 		},
+	{
+       	"name": "DIARIO DE GREG EN NAVIDAD, EL. ATRAPADOS EN LA NIEVE",
+        "image": "https://pics.filmaffinity.com/diary_of_a_wimpy_kid_christmas_cabin_fever-973008418-large.jpg",
+        "url": "https://upstream.to/yabtk4f76k9x",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
        	{
        	"name": "DIECIOCHO OTRA VEZ",
        	"image": "https://i.postimg.cc/7L1K8PKB/Dieciocho-otra-vez-2023-Pelicula-infantil.jpg",
@@ -996,8 +1040,17 @@
         "isHost":"true",
         "online":"true"
         },
-
-
+	{
+       	"name": "NAVIDAD DEL PEQUEÑO BATMAN, LA",
+        "image": "https://pics.filmaffinity.com/merry_little_batman-682538291-large.jpg",
+        "url": "https://upstream.to/jvz8r0ukn523",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
        {
         "name": "NIMONA",
         "info":"2023",
@@ -1284,8 +1337,6 @@
 	"online":"true",
 	"import": false
 	},
-
-
 	{ 
 	"name": "RATONPOLIS",
        	"info":"2006",
@@ -1581,6 +1632,17 @@
        	},
 
 
+	{
+       	"name": "TIPOS MALOS, UNA NAVIDAD MUY MALA",
+        "image": "https://pics.filmaffinity.com/the_bad_guys_a_very_bad_holiday-827975614-large.jpg",
+        "url": "https://upstream.to/c0ahz5dvjzv5",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
 	{
        	"name": "TORTUGAS NINJAS, CAOS MUTANTE",
         "image": "https://pics.filmaffinity.com/teenage_mutant_ninja_turtles_mutant_mayhem-718403565-large.jpg",
