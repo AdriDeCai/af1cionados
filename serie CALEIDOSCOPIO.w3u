@@ -42,6 +42,278 @@
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
+       	},
+
+	{
+       	"name": "Amarillo",
+        "image": "https://pics.filmaffinity.com/kaleidoscope-825215080-large.jpg",
+        "url": "https://upstream.to/7y035xai4xgi",
+       	"info": "Castellano",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "Amarillo",
+        "image": "https://pics.filmaffinity.com/kaleidoscope-825215080-large.jpg",
+        "url": "https://gamovideo.com/by85ft875tzb",
+       	"info": "Latino",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "Amarillo",
+        "image": "https://pics.filmaffinity.com/kaleidoscope-825215080-large.jpg",
+        "url": "https://gamovideo.com/wemohf950hvr",
+       	"info": "VOSE",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+
+	{
+       	"name": "Verde",
+        "image": "https://pics.filmaffinity.com/kaleidoscope-825215080-large.jpg",
+        "url": "https://upstream.to/fr8yazwydxk4",
+       	"info": "Castellano",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "Verde",
+        "image": "https://pics.filmaffinity.com/kaleidoscope-825215080-large.jpg",
+        "url": "https://gamovideo.com/ep74w40o5tx5",
+       	"info": "Latino",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "Verde",
+        "image": "https://pics.filmaffinity.com/kaleidoscope-825215080-large.jpg",
+        "url": "https://gamovideo.com/il932bssa841",
+       	"info": "VOSE",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+
+	{
+       	"name": "Azul",
+        "image": "https://pics.filmaffinity.com/kaleidoscope-825215080-large.jpg",
+        "url": "https://upstream.to/spm7c0rh6bmx",
+       	"info": "Castellano",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "Azul",
+        "image": "https://pics.filmaffinity.com/kaleidoscope-825215080-large.jpg",
+        "url": "https://gamovideo.com/pzymsj8iumlg",
+       	"info": "Latino",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "Azul",
+        "image": "https://pics.filmaffinity.com/kaleidoscope-825215080-large.jpg",
+        "url": "https://gamovideo.com/oziap0qzxam0",
+       	"info": "VOSE",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+
+	{
+       	"name": "Naranja",
+        "image": "https://pics.filmaffinity.com/kaleidoscope-825215080-large.jpg",
+        "url": "https://upstream.to/47h6adeq7lmh",
+       	"info": "Castellano",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "Naranja",
+        "image": "https://pics.filmaffinity.com/kaleidoscope-825215080-large.jpg",
+        "url": "https://powstream.one/tuzel06syeuz",
+       	"info": "Latino",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "Naranja",
+        "image": "https://pics.filmaffinity.com/kaleidoscope-825215080-large.jpg",
+        "url": "https://powstream.one/tuzel06syeuz",
+       	"info": "VOSE",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+
+	{
+       	"name": "Violeta",
+        "image": "https://pics.filmaffinity.com/kaleidoscope-825215080-large.jpg",
+        "url": "https://vidmoly.to/embed-vtm4oq29a9h5.html",
+       	"info": "Castellano",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "Violeta",
+        "image": "https://pics.filmaffinity.com/kaleidoscope-825215080-large.jpg",
+        "url": "https://gamovideo.com/f5cgrbgw8w8x",
+       	"info": "Latino",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "Violeta",
+        "image": "https://pics.filmaffinity.com/kaleidoscope-825215080-large.jpg",
+        "url": "https://gamovideo.com/x3yke9rsgmwo",
+       	"info": "VOSE",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+
+	{
+       	"name": "Rojo",
+        "image": "https://pics.filmaffinity.com/kaleidoscope-825215080-large.jpg",
+        "url": "https://upstream.to/ta7rhlcsjavd",
+       	"info": "Castellano",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "Rojo",
+        "image": "https://pics.filmaffinity.com/kaleidoscope-825215080-large.jpg",
+        "url": "https://gamovideo.com/ovp3psv3s5r1",
+       	"info": "Latino",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "Rojo",
+        "image": "https://pics.filmaffinity.com/kaleidoscope-825215080-large.jpg",
+        "url": "https://gamovideo.com/2rpzlvoqoxiy",
+       	"info": "VOSE",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+
+	{
+       	"name": "Rosa",
+        "image": "https://pics.filmaffinity.com/kaleidoscope-825215080-large.jpg",
+        "url": "https://upstream.to/fyt8i2364qd4",
+       	"info": "Castellano",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "Rosa",
+        "image": "https://pics.filmaffinity.com/kaleidoscope-825215080-large.jpg",
+        "url": "https://gamovideo.com/osgspxelj7ea",
+       	"info": "Latino",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "Rosa",
+        "image": "https://pics.filmaffinity.com/kaleidoscope-825215080-large.jpg",
+        "url": "https://gamovideo.com/wo0frpcrkqwf",
+       	"info": "VOSE",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+
+	{
+       	"name": "Blanco",
+        "image": "https://pics.filmaffinity.com/kaleidoscope-825215080-large.jpg",
+        "url": "https://upstream.to/ovp09k0e0kll",
+       	"info": "Castellano",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "Blanco",
+        "image": "https://pics.filmaffinity.com/kaleidoscope-825215080-large.jpg",
+        "url": "https://powstream.one/mb9oxk1fbka8",
+       	"info": "Latino",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "Blanco",
+        "image": "https://pics.filmaffinity.com/kaleidoscope-825215080-large.jpg",
+        "url": "https://streamtape.com/v/kgeaAJWBoytOVBv",
+       	"info": "VOSE",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
        	}
 
 ]
