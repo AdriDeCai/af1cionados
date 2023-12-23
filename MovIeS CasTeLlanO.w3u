@@ -890,10 +890,26 @@ cb=20231006211251&path-prefix=es",
        	"import": false
        	},
 		{
+       	"name": "DUNGEONS AND DRAGONS",
+        "image": "https://pics.filmaffinity.com/dungeons_dragons_honor_among_thieves-651649500-large.jpg",
+        "url": "https://upstream.to/coay6f7b3rp6",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+		{
 		"name": "EJERCITO DE LOS LADRONES, EL",
 		"url": "https://upstream.to/l0cbg6v8g8ly",
 		"image": "https://i.postimg.cc/J75mmdVX/IMG_20230828_153251_630.jpg",
-		"info": "2021"
+		"info": "2021",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
 		},
 		{
 		"name" : "EJERCITO DE LOS MUERTOS, EL",
@@ -902,7 +918,7 @@ cb=20231006211251&path-prefix=es",
 		"info": "2021"
 		},
 		{
-       	"name": "El Hombre Araña 3",
+       	"name": "HOMBRE ARAÑA 3, EL",
         "image": "https://pics.filmaffinity.com/spider_man_3_spiderman_3-381165300-mmed.jpg",
         "url": "https://filemoon.sx/d/ancn6evqw0os",
        	"info": "2007",
