@@ -1,0 +1,81 @@
+
+
+{
+"name": "EL BOSQUE",
+"image": "https://pics.filmaffinity.com/la_foret-228681554-large.jpg",
+"url": "",
+"info": "2023",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": @YIsus_mEx",
+"stations":
+
+	[
+	{
+       	"name": "EPISODIO 1",
+        "image": "https://pics.filmaffinity.com/la_foret-228681554-large.jpg",
+        "url": "https://upstream.to/9q1w402dc2wv",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 2",
+        "image": "https://pics.filmaffinity.com/la_foret-228681554-large.jpg",
+        "url": "https://upstream.to/vvwe4dgf2hz5",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 3",
+        "image": "https://pics.filmaffinity.com/la_foret-228681554-large.jpg",
+        "url": "https://upstream.to/1s2gjfl2yv1m",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 4",
+        "image": "https://pics.filmaffinity.com/la_foret-228681554-large.jpg",
+        "url": "https://upstream.to/1n14gzghweza",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 5",
+        "image": "https://pics.filmaffinity.com/la_foret-228681554-large.jpg",
+        "url": "https://upstream.to/e1pzfsjgyrvf",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 6",
+        "image": "https://pics.filmaffinity.com/la_foret-228681554-large.jpg",
+        "url": "https://upstream.to/dnjxsmm5gn3s",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
