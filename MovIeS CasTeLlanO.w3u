@@ -2330,6 +2330,17 @@ large.jpg",
 		"userAgent":"PlusMediaPlayer/0.0.9",
         	"import": false
         	},
+	       {
+ 	       	"name": "SAW X",
+	        "image": "https://pics.filmaffinity.com/saw_10-770317273-large.jpg",
+	        "url": "https://upstream.to/7k9nnhc1ti71",
+        	"info": "2023",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
       	{
        	"name": "SCREAM, LA VERDADERA HISTORIA",
         "image": "https://pics.filmaffinity.com/shock_docs_scream_the_true_story-406624487-large.jpg",
