@@ -1,0 +1,125 @@
+
+
+{
+"name": "HECHOS POLVO",
+"image": "https://pics.filmaffinity.com/obliterated-589045914-large.jpg",
+"url": "https://af1cionados.vercel.app/",
+"info": "2023",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": @YIsus_mEx",
+"stations":
+
+	[
+	{
+       	"name": "1x01 Real American Heroes",
+        "image": "https://pics.filmaffinity.com/obliterated-589045914-large.jpg",
+        "url": "",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x02 Born in the U.S.S.R.",
+        "image": "https://pics.filmaffinity.com/obliterated-589045914-large.jpg",
+        "url": "https://upstream.to/bzuz1mdq1ddl",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x03 Craps",
+        "image": "https://pics.filmaffinity.com/obliterated-589045914-large.jpg",
+        "url": "https://upstream.to/229ls7yshi2n",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x04 Walks of Shame ",
+        "image": "https://pics.filmaffinity.com/obliterated-589045914-large.jpg",
+        "url": "https://upstream.to/xwngv34ipz4w",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x05 Shots! Shots! Shots! ",
+        "image": "https://pics.filmaffinity.com/obliterated-589045914-large.jpg",
+        "url": "https://upstream.to/7by7vl4sqsqy",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x06 From Vegas with Love",
+        "image": "https://pics.filmaffinity.com/obliterated-589045914-large.jpg",
+        "url": "https://upstream.to/vqqs19488f5c",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x07 Make It Rain",
+        "image": "https://pics.filmaffinity.com/obliterated-589045914-large.jpg",
+        "url": "https://upstream.to/yhrsfau4lvjp",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x08 Last Call",
+        "image": "https://pics.filmaffinity.com/obliterated-589045914-large.jpg",
+        "url": "https://upstream.to/c0jvai5ql4nq",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 9",
+        "image": "",
+        "url": "",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 10",
+        "image": "",
+        "url": "",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
