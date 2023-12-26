@@ -97,29 +97,6 @@
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
-       	},
-	{
-       	"name": "EPISODIO 9",
-        "image": "",
-        "url": "",
-       	"info": "2023",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
-	{
-       	"name": "EPISODIO 10",
-        "image": "",
-        "url": "",
-       	"info": "2023",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
        	}
-
 ]
 }
