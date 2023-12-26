@@ -1,0 +1,81 @@
+
+
+{
+"name": "EL ESPIA (THE SPY)",
+"image": "https://pics.filmaffinity.com/the_spy-559440224-large.jpg",
+"url": "https://af1cionados.vercel.app/",
+"info": "2019",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": @YIsus_mEx",
+"stations":
+
+	[
+	{
+       	"name": "1x01 El inmigrante",
+        "image": "https://pics.filmaffinity.com/the_spy-559440224-large.jpg",
+        "url": "https://upstream.to/mc12eg319j8b",
+       	"info": "2019",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x02 ¿Qué te cuentas, Buenos Aires? ",
+        "image": "https://pics.filmaffinity.com/the_spy-559440224-large.jpg",
+        "url": "https://upstream.to/zieqd9x0hhsx",
+       	"info": "2019",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x03 TBA",
+        "image": "https://pics.filmaffinity.com/the_spy-559440224-large.jpg",
+        "url": "https://upstream.to/94yw128s57c0",
+       	"info": "2019",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x04 Parejas extrañas",
+        "image": "https://pics.filmaffinity.com/the_spy-559440224-large.jpg",
+        "url": "https://upstream.to/3nr76akdsv07",
+       	"info": "2019",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x05 El instinto manda",
+        "image": "https://pics.filmaffinity.com/the_spy-559440224-large.jpg",
+        "url": "https://upstream.to/lo0omqwwf1r5",
+       	"info": "2019",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x06 Hogar",
+        "image": "https://pics.filmaffinity.com/the_spy-559440224-large.jpg",
+        "url": "https://upstream.to/hfpn5xlalzul",
+       	"info": "2019",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
