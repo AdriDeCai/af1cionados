@@ -1,0 +1,147 @@
+
+
+{
+"name": "HOMELAND",
+"image": "https://pics.filmaffinity.com/homeland-456200695-large.jpg",
+"url": "https://af1cionados.vercel.app/",
+"info": "",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": @YIsus_mEx",
+"stations":
+
+	[
+	{
+       	"name": "1x01 Piloto",
+        "image": "https://pics.filmaffinity.com/homeland-456200695-large.jpg",
+        "url": "https://upstream.to/avc2um15hxn1",
+       	"info": "2011",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x02 Gracia",
+        "image": "https://pics.filmaffinity.com/homeland-456200695-large.jpg",
+        "url": "https://upstream.to/2op45ak35ir5",
+       	"info": "2011",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x03 Piel Limpia",
+        "image": "https://pics.filmaffinity.com/homeland-456200695-large.jpg",
+        "url": "https://upstream.to/jumo2o5lo0wo",
+       	"info": "2011",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x04 Semper I",
+        "image": "https://pics.filmaffinity.com/homeland-456200695-large.jpg",
+        "url": "https://upstream.to/sumxslsnnvle",
+       	"info": "2011",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x05 Punto Ciego",
+        "image": "https://pics.filmaffinity.com/homeland-456200695-large.jpg",
+        "url": "https://upstream.to/4n25jj2k3qrb",
+       	"info": "2011",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x06 El Buen Soldado",
+        "image": "https://pics.filmaffinity.com/homeland-456200695-large.jpg",
+        "url": "https://upstream.to/2vgi90zcccd3",
+       	"info": "2011",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x07 El Fin de Semana",
+        "image": "https://pics.filmaffinity.com/homeland-456200695-large.jpg",
+        "url": "https://upstream.to/9ps5ryc97fjn",
+       	"info": "2011",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x08 Talón de Aquiles",
+        "image": "https://pics.filmaffinity.com/homeland-456200695-large.jpg",
+        "url": "https://upstream.to/vt5xczuluj2a",
+       	"info": "2011",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x09 Fuego Cruzado",
+        "image": "https://pics.filmaffinity.com/homeland-456200695-large.jpg",
+        "url": "",
+       	"info": "2011",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x10 El diputado Brody",
+        "image": "https://pics.filmaffinity.com/homeland-456200695-large.jpg",
+        "url": "",
+       	"info": "2011",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x11 El chaleco",
+        "image": "https://pics.filmaffinity.com/homeland-456200695-large.jpg",
+        "url": "",
+       	"info": "2011",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x12 Marine uno",
+        "image": "https://pics.filmaffinity.com/homeland-456200695-large.jpg",
+        "url": "",
+       	"info": "2011",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
