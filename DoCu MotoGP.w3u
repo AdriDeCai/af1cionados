@@ -348,6 +348,33 @@
 			"embed":"",
             		"isHost":"true",
             		"online":"true"
+			},
+			{
+			"name": "Test rider: Dani Pedrosa",
+			"info":"2023",
+			"image": "https://i.postimg.cc/N0VMxMnY/138-Test-rider-Dani-Pedrosa.png",
+			"url": "https://upstream.to/5tjp0w162awd",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Johann Zarco, encontrando el equilibrio",
+			"info":"2023",
+			"image": "https://i.postimg.cc/5yQ8mTgK/139-Johann-Zarco-encontrando-el-equilibrio.png",
+			"url": "https://upstream.to/3u9y77novo1k",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Way to Jerez",
+			"info":"2023",
+			"image": "https://i.postimg.cc/k43VmGvs/140-Way-to-Jerez.png",
+			"url": "https://upstream.to/43801lo7er3y",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
 			}
 		]
 	},
