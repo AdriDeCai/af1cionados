@@ -964,6 +964,34 @@
             "online":"true"
 			}
 		]
+	},
+
+	{
+	"name": " TEST 2024 RICARDO TORMO (ESPAÑA)",
+	"image": "https://i.postimg.cc/yNntZQLS/21-1-TEST-Valencia-Moto-GP-Official-Test-Ma-ana-EN.png",
+	"imageScale": "",
+	"info":"ROUND 21",
+	"stations":
+		[
+			{
+			"name": "Test Mañana",
+			"info":"2023",
+			"image": "https://i.postimg.cc/yNntZQLS/21-1-TEST-Valencia-Moto-GP-Official-Test-Ma-ana-EN.png",
+			"url": "https://upstream.to/klyuok3gb0o2",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Test Tarde",
+			"info":"2023",
+			"image": "https://i.postimg.cc/Y90Fr04m/21-2-TEST-Valencia-Moto-GP-Official-Test-Tarde-EN.png",
+			"url": "https://upstream.to/lvn4cba0rfkw",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}
+		]
 	}
 
 	
