@@ -1,0 +1,103 @@
+
+
+{
+"name": "CASA DE PAPEL, LA BERLIN",
+"image": "https://i.postimg.cc/jjQr11W2/IMG-20231229-171608-290.jpg",
+"url": "https://af1cionados.vercel.app/",
+"info": "2023",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": @YIsus_mEx",
+"stations":
+
+	[
+	{
+       	"name": "EPISODIO 1",
+        "image": "https://i.postimg.cc/jjQr11W2/IMG-20231229-171608-290.jpg",
+        "url": "https://filemoon.sx/d/shr2ybt0osvm",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 2",
+        "image": "https://i.postimg.cc/jjQr11W2/IMG-20231229-171608-290.jpg",
+        "url": "https://filemoon.sx/d/ui2leot440l9",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 3",
+        "image": "https://i.postimg.cc/jjQr11W2/IMG-20231229-171608-290.jpg",
+        "url": "https://filemoon.sx/d/9a8sp29zvbj2",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 4",
+        "image": "https://i.postimg.cc/jjQr11W2/IMG-20231229-171608-290.jpg",
+        "url": "https://filemoon.sx/d/xm7z3vu22pcd",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 5",
+        "image": "https://i.postimg.cc/jjQr11W2/IMG-20231229-171608-290.jpg",
+        "url": "https://filemoon.sx/d/uuw3q15dfm1b",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 6",
+        "image": "https://i.postimg.cc/jjQr11W2/IMG-20231229-171608-290.jpg",
+        "url": "https://filemoon.sx/d/eh0f9psjscpf",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 7",
+        "image": "https://i.postimg.cc/jjQr11W2/IMG-20231229-171608-290.jpg",
+        "url": "https://filemoon.sx/d/8owzvycqlwym",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 8",
+        "image": "https://i.postimg.cc/jjQr11W2/IMG-20231229-171608-290.jpg",
+        "url": "https://filemoon.sx/d/6026pifh9k2q",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
