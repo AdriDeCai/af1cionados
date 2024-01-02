@@ -7,8 +7,14 @@
 "info": "2017",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": @YIsus_mEx",
-"stations":
+"groups":
+[
 
+	{
+	"name": "TEMPORADA 1",
+	"image": "https://i.postimg.cc/xCG2V51z/Casa-de-papel-1.png",
+	"info": "2017",
+	"stations":
 	[
 	{
        	"name": "1x01 Efectuar lo acordado",
@@ -175,6 +181,87 @@
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 2",
+	"image": "https://i.postimg.cc/jdjkKTxX/Casa_de_papel_2.png",
+	"info": "2018",
+	"stations":
+	[
+	{
+       	"name": "EPISODIO 1",
+        "image": "https://i.postimg.cc/jdjkKTxX/Casa_de_papel_2.png",
+        "url": "",
+       	"info": "2017",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 3",
+	"image": "https://i.postimg.cc/vmwz1wsC/Casa_de_papel_3.png",
+	"info": "2019",
+	"stations":
+	[
+	{
+       	"name": "EPISODIO 1",
+        "image": "https://i.postimg.cc/vmwz1wsC/Casa_de_papel_3.png",
+        "url": "",
+       	"info": "2019",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 4",
+	"image": "https://i.postimg.cc/43v1V24y/Casa_de_papel_4.png",
+	"info": "2020",
+	"stations":
+	[
+	{
+       	"name": "EPISODIO 1",
+        "image": "https://i.postimg.cc/43v1V24y/Casa_de_papel_4.png",
+        "url": "",
+       	"info": "2020",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	},
+	{
+	"name": "TEMPORADA 5",
+	"image": "https://i.postimg.cc/1Xd0sLBC/Casa_de_papel_5.png",
+	"info": "2021",
+	"stations":
+	[
+	{
+       	"name": "EPISODIO 1",
+        "image": "https://i.postimg.cc/1Xd0sLBC/Casa_de_papel_5.png",
+        "url": "",
+       	"info": "2021",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	}
 
 ]
 }
