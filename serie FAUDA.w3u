@@ -7,14 +7,20 @@
 "info": "2023",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": @YIsus_mEx",
-"stations":
+"groups":
+	[
 
+	{
+	"name": "TEMPORADA 1",
+	"image": "https://i.postimg.cc/rFj2d5WX/Fauda-Temp-1.png",
+	"info": "2015",
+	"stations":
 	[
 	{
        	"name": "EPISODIO 1",
-        "image": "https://pics.filmaffinity.com/fauda-442853798-large.jpg",
+        "image": "https://i.postimg.cc/rFj2d5WX/Fauda-Temp-1.png",
         "url": "https://upstream.to/8xkb8fl25slc",
-       	"info": "2023",
+       	"info": "2015",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
@@ -23,9 +29,9 @@
        	},
 	{
        	"name": "EPISODIO 2",
-        "image": "https://pics.filmaffinity.com/fauda-442853798-large.jpg",
+        "image": "https://i.postimg.cc/rFj2d5WX/Fauda-Temp-1.png",
         "url": "https://upstream.to/yjkmko6epyhx",
-       	"info": "2023",
+       	"info": "2015",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
@@ -34,9 +40,9 @@
        	},
 	{
        	"name": "EPISODIO 3",
-        "image": "https://pics.filmaffinity.com/fauda-442853798-large.jpg",
+        "image": "https://i.postimg.cc/rFj2d5WX/Fauda-Temp-1.png",
         "url": "https://upstream.to/zk9acb1egyp9",
-       	"info": "2023",
+       	"info": "2015",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
@@ -45,9 +51,9 @@
        	},
 	{
        	"name": "EPISODIO 4",
-        "image": "https://pics.filmaffinity.com/fauda-442853798-large.jpg",
+        "image": "https://i.postimg.cc/rFj2d5WX/Fauda-Temp-1.png",
         "url": "https://upstream.to/itujsdnuqnpv",
-       	"info": "2023",
+       	"info": "2015",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
@@ -56,9 +62,9 @@
        	},
 	{
        	"name": "EPISODIO 5",
-        "image": "https://pics.filmaffinity.com/fauda-442853798-large.jpg",
+        "image": "https://i.postimg.cc/rFj2d5WX/Fauda-Temp-1.png",
         "url": "https://upstream.to/q4j9a50ws2th",
-       	"info": "2023",
+       	"info": "2015",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
@@ -67,9 +73,9 @@
        	},
 	{
        	"name": "EPISODIO 6",
-        "image": "https://pics.filmaffinity.com/fauda-442853798-large.jpg",
+        "image": "https://i.postimg.cc/rFj2d5WX/Fauda-Temp-1.png",
         "url": "https://upstream.to/hdkcwmzcqsfp",
-       	"info": "2023",
+       	"info": "2015",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
@@ -78,9 +84,9 @@
        	},
 	{
        	"name": "EPISODIO 7",
-        "image": "https://pics.filmaffinity.com/fauda-442853798-large.jpg",
+        "image": "https://i.postimg.cc/rFj2d5WX/Fauda-Temp-1.png",
         "url": "https://upstream.to/owdhv9q6g6jz",
-       	"info": "2023",
+       	"info": "2015",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
@@ -89,9 +95,9 @@
        	},
 	{
        	"name": "EPISODIO 8",
-        "image": "https://pics.filmaffinity.com/fauda-442853798-large.jpg",
+        "image": "https://i.postimg.cc/rFj2d5WX/Fauda-Temp-1.png",
         "url": "https://upstream.to/p753tt3iqimi",
-       	"info": "2023",
+       	"info": "2015",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
@@ -100,9 +106,9 @@
        	},
 	{
        	"name": "EPISODIO 9",
-        "image": "https://pics.filmaffinity.com/fauda-442853798-large.jpg",
+        "image": "https://i.postimg.cc/rFj2d5WX/Fauda-Temp-1.png",
         "url": "https://upstream.to/glywudlr8p28",
-       	"info": "2023",
+       	"info": "2015",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
@@ -111,9 +117,9 @@
        	},
 	{
        	"name": "EPISODIO 10",
-        "image": "https://pics.filmaffinity.com/fauda-442853798-large.jpg",
+        "image": "https://i.postimg.cc/rFj2d5WX/Fauda-Temp-1.png",
         "url": "https://upstream.to/aeoj2n8a0s0f",
-       	"info": "2023",
+       	"info": "2015",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
@@ -122,9 +128,9 @@
        	},
 	{
        	"name": "EPISODIO 11",
-        "image": "https://pics.filmaffinity.com/fauda-442853798-large.jpg",
+        "image": "https://i.postimg.cc/rFj2d5WX/Fauda-Temp-1.png",
         "url": "https://upstream.to/vd3fbcjd34u5",
-       	"info": "2023",
+       	"info": "2015",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
@@ -133,15 +139,77 @@
        	},
 	{
        	"name": "EPISODIO 12",
-        "image": "https://pics.filmaffinity.com/fauda-442853798-large.jpg",
+        "image": "https://i.postimg.cc/rFj2d5WX/Fauda-Temp-1.png",
         "url": "https://upstream.to/ws3e912xo1du",
-       	"info": "2023",
+       	"info": "2015",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 2",
+	"image": "https://i.postimg.cc/BvsFh9b1/Fauda-Temp-2.png",
+	"info": "2017",
+	"stations":
+	[
+	{
+       	"name": "EPISODIO 1",
+        "image": "https://i.postimg.cc/BvsFh9b1/Fauda-Temp-2.png",
+        "url": "",
+       	"info": "2017",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 3",
+	"image": "https://i.postimg.cc/QtYWxFbp/Fauda-Temp-3.png",
+	"info": "2019",
+	"stations":
+	[
+	{
+       	"name": "EPISODIO 1",
+        "image": "https://i.postimg.cc/QtYWxFbp/Fauda-Temp-3.png",
+        "url": "",
+       	"info": "2019",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 4",
+	"image": "https://i.postimg.cc/zXgR8XRg/Fauda-Temp-4.png",
+	"info": "2022",
+	"stations":
+	[
+	{
+       	"name": "EPISODIO 1",
+        "image": "https://i.postimg.cc/zXgR8XRg/Fauda-Temp-4.png",
+        "url": "",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	}
 
 ]
 }
