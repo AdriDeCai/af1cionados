@@ -443,28 +443,37 @@
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9",
+	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
-		{
+	{
         "name": "BLUE BEETLE",
         "info":"2023",
         "image": "https://i.postimg.cc/hGgmB9wW/Blue-Beetle-2023-Pelicula.jpg",
         "url": "https://upstream.to/05zvdsayvy9v",
-		"embed": "",
+	"embed": "",
         "isHost":"true",
         "online":"true" 
-		},
-		{
+	},
+	{
+        "name": "BOON, EL PROTECTOR",
+        "info":"2022",
+        "image": "https://pics.filmaffinity.com/boon-908720122-large.jpg",
+        "url": "https://upstream.to/3ev2w8fuivwx",
+	"embed": "",
+        "isHost":"true",
+        "online":"true" 
+	},
+	{
         "name": "BORREGO, SAL DEL CAMINO",
         "info":"2022",
         "image": "https://i.postimg.cc/J0dMQL7r/Borrego-Sal-Del-Camino-2022-Pelicula.jpg",
         "url":"https://upstream.to/dy9678biehrn",
-		"embed": "",
+	"embed": "",
         "isHost":"true",
         "online":"true" 
-		},
-		{
+	},
+	{
         "name": "BRUMA, LA",
         "info":"2018",
         "image": "https://i.postimg.cc/GhVDxqY5/La-Bruma-2018-Pelicula.jpg",
