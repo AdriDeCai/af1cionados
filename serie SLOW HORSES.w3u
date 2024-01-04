@@ -1,0 +1,129 @@
+
+
+{
+"name": "SLOW HORSES",
+"image": "https://pics.filmaffinity.com/slow_horses-782634780-large.jpg",
+"url": "https://af1cionados.vercel.app/",
+"info": "2022",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": @YIsus_mEx",
+"groups":
+	[
+
+	{
+	"name": "TEMPORADA 1",
+	"info": "2022",
+	"image": "",
+	"stations":
+	[
+	{
+       	"name": "1x01 La ineptitud se contagia",
+        "image": "https://pics.filmaffinity.com/slow_horses-782634780-large.jpg",
+        "url": "",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x02 Copas después del trabajo",
+        "image": "https://pics.filmaffinity.com/slow_horses-782634780-large.jpg",
+        "url": "",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x03 Imperdonable",
+        "image": "https://pics.filmaffinity.com/slow_horses-782634780-large.jpg",
+        "url": "",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x04 Horario de visitas",
+        "image": "https://pics.filmaffinity.com/slow_horses-782634780-large.jpg",
+        "url": "",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x05 Fiasco",
+        "image": "https://pics.filmaffinity.com/slow_horses-782634780-large.jpg",
+        "url": "",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x06 Caprichos",
+        "image": "https://pics.filmaffinity.com/slow_horses-782634780-large.jpg",
+        "url": "",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 2",
+	"info": "2022",
+	"image": "https://i.postimg.cc/TP8RGXRc/serie-SLOW-HORSES-2.png",
+	"stations":
+	[
+	{
+       	"name": "",
+        "image": "https://i.postimg.cc/TP8RGXRc/serie-SLOW-HORSES-2.png",
+        "url": "",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 3",
+	"info": "2023",
+	"image": "https://i.postimg.cc/N01QjPFv/serie-SLOW-HORSES-3.png",
+	"stations":
+	[
+	{
+       	"name": "",
+        "image": "https://i.postimg.cc/N01QjPFv/serie-SLOW-HORSES-3.png",
+        "url": "",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	},
+
+]
+}
