@@ -101,6 +101,61 @@
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
+       	},
+	{
+       	"name": "",
+        "image": "https://i.postimg.cc/TP8RGXRc/serie-SLOW-HORSES-2.png",
+        "url": "",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "",
+        "image": "https://i.postimg.cc/TP8RGXRc/serie-SLOW-HORSES-2.png",
+        "url": "",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "",
+        "image": "https://i.postimg.cc/TP8RGXRc/serie-SLOW-HORSES-2.png",
+        "url": "",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "",
+        "image": "https://i.postimg.cc/TP8RGXRc/serie-SLOW-HORSES-2.png",
+        "url": "",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "",
+        "image": "https://i.postimg.cc/TP8RGXRc/serie-SLOW-HORSES-2.png",
+        "url": "",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
        	}
 	]
 	},
@@ -121,9 +176,64 @@
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
+       	},
+	{
+       	"name": "",
+        "image": "https://i.postimg.cc/N01QjPFv/serie-SLOW-HORSES-3.png",
+        "url": "",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "",
+        "image": "https://i.postimg.cc/N01QjPFv/serie-SLOW-HORSES-3.png",
+        "url": "",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "",
+        "image": "https://i.postimg.cc/N01QjPFv/serie-SLOW-HORSES-3.png",
+        "url": "",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "",
+        "image": "https://i.postimg.cc/N01QjPFv/serie-SLOW-HORSES-3.png",
+        "url": "",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "",
+        "image": "https://i.postimg.cc/N01QjPFv/serie-SLOW-HORSES-3.png",
+        "url": "",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
        	}
 	]
-	},
+	}
 
-]
+	]
 }
