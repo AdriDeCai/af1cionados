@@ -7,8 +7,14 @@
 "info": "",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": @YIsus_mEx",
-"stations":
+"groups":
+	[
 
+	{
+	"name": "TEMPORADA 1",
+	"info": "",
+	"image": "https://pics.filmaffinity.com/homeland-456200695-large.jpg",
+	"stations":
 	[
 	{
        	"name": "1x01 Piloto",
@@ -142,6 +148,88 @@
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 2",
+	"info": "2013",
+	"image": "https://i.postimg.cc/KzXw1xy5/Homeland-Temp-2.png",
+	"stations":
+	[
+	{
+       	"name": "2x01 ",
+        "image": "",
+        "url": "",
+       	"info": "2013",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 3",
+	"info": "2013",
+	"image": "https://i.postimg.cc/mZFmq0CY/Homeland-Temp-3.png",
+	"stations":
+	[
+	{
+       	"name": "3x01 ",
+        "image": "https://i.postimg.cc/mZFmq0CY/Homeland-Temp-3.png",
+        "url": "",
+       	"info": "2013",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 4",
+	"info": "2014",
+	"image": "https://i.postimg.cc/Hs991Hxy/Homeland-Temp-4.png",
+	"stations":
+	[
+	{
+       	"name": "4x01 ",
+        "image": "https://i.postimg.cc/Hs991Hxy/Homeland-Temp-4.png",
+        "url": "",
+       	"info": "2014",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 5",
+	"info": "2015",
+	"image": "https://i.postimg.cc/xTZTCNcD/Homeland-Temp-5.png",
+	"stations":
+	[
+	{
+       	"name": "5x01 ",
+        "image": "https://i.postimg.cc/xTZTCNcD/Homeland-Temp-5.png",
+        "url": "",
+       	"info": "2015",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	}
 
 ]
 }
