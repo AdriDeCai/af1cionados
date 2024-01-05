@@ -229,7 +229,71 @@
        	"import": false
        	}
 	]
+	},
+
+	{
+	"name": "TEMPORADA 6",
+	"info": "2016",
+	"image": "https://i.postimg.cc/P53rqSgh/Homeland-Temp-6.png",
+	"stations":
+	[
+	{
+       	"name": "6x01 ",
+        "image": "https://i.postimg.cc/P53rqSgh/Homeland-Temp-6.png",
+        "url": "",
+       	"info": "2016",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 7",
+	"info": "2018",
+	"image": "https://i.postimg.cc/BQNFG9Cn/Homeland-Temp-7.png",
+	"stations":
+	[
+	{
+       	"name": "7x01 ",
+        "image": "https://i.postimg.cc/BQNFG9Cn/Homeland-Temp-7.png",
+        "url": "",
+       	"info": "2018",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 8",
+	"info": "2020",
+	"image": "https://i.postimg.cc/s2z1BTmN/Homeland-Temp-8.png",
+	"stations":
+	[
+	{
+       	"name": "8x01 ",
+        "image": "https://i.postimg.cc/s2z1BTmN/Homeland-Temp-8.png",
+        "url": "",
+       	"info": "2020",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
 	}
+
+]
+}
+
 
 ]
 }
