@@ -1124,10 +1124,21 @@
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9",
+	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
-		{
+	{
+       	"name": "SOCIEDAD DE LA NIEVE, LA [VOSE]",
+        "image": "https://pics.filmaffinity.com/la_sociedad_de_la_nieve-826551508-large.jpg",
+        "url": "https://upstream.to/fd92qjiyvi26",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
        	"name": "SOUND OF FREEDOM [VOSE]",
         "image": "https://pics.filmaffinity.com/sound_of_freedom-546775358-large.jpg",
         "url": "https://upstream.to/dtj21pkh7wd6",
@@ -1135,7 +1146,7 @@
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9",
+	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
 	       {
