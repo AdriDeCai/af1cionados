@@ -153,15 +153,59 @@
 
 	{
 	"name": "TEMPORADA 2",
-	"info": "2013",
+	"info": "2012",
 	"image": "https://i.postimg.cc/KzXw1xy5/Homeland-Temp-2.png",
 	"stations":
 	[
 	{
-       	"name": "2x01 ",
-        "image": "",
-        "url": "",
-       	"info": "2013",
+       	"name": "2x01 La sonrisa",
+        "image": "https://i.postimg.cc/KzXw1xy5/Homeland-Temp-2.png",
+        "url": "https://filemoon.sx/d/hp8qmgvwr8jc/Homeland_-_2x01_-_La_sonrisa.mp4",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x02 Beirut ha vuelto",
+        "image": "https://i.postimg.cc/KzXw1xy5/Homeland-Temp-2.png",
+        "url": "https://filemoon.sx/d/t1kzsd9mpotn/Homeland_-_2x02_-_Beirut_ha_vuelto.mp4",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x03 Estado de independencia",
+        "image": "https://i.postimg.cc/KzXw1xy5/Homeland-Temp-2.png",
+        "url": "https://filemoon.sx/d/lgwv6zlxiiit/Homeland_-_2x03_-_Estado_de_independencia.mp4",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x04 Olor a coche nuevo",
+        "image": "https://i.postimg.cc/KzXw1xy5/Homeland-Temp-2.png",
+        "url": "https://filemoon.sx/d/qy7309fr89r5/Homeland_-_2x04_-_Olor_a_coche_nuevo.mp4",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x05 Preguntas y respuestas",
+        "image": "https://i.postimg.cc/KzXw1xy5/Homeland-Temp-2.png",
+        "url": "https://filemoon.sx/d/kp213xfgwzn2/Homeland_-_2x05_-_Preguntas_y_respuestas.mp4",
+       	"info": "2012",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
