@@ -2464,7 +2464,7 @@ large.jpg",
 		"userAgent":"PlusMediaPlayer/0.0.9",
         	"import": false
         	},
-		{
+	{
        	"name": "SNOWDEN",
         "image": "https://pics.filmaffinity.com/snowden-767575981-large.jpg",
         "url": "https://upstream.to/kikc2cy2aixj",
@@ -2472,7 +2472,18 @@ large.jpg",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "SOLO EN CASA 1",
+        "image": "https://pics.filmaffinity.com/home_alone-163260879-large.jpg",
+        "url": "https://upstream.to/lxhp5u8ovzr9",
+       	"info": "1990",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
 		{
