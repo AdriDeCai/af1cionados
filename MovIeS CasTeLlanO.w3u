@@ -2486,6 +2486,61 @@ large.jpg",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
+	{
+       	"name": "SOLO EN CASA 2 PERDIDO EN NEW YORK",
+        "image": "https://pics.filmaffinity.com/home_alone_2_lost_in_new_york-122355314-large.jpg",
+        "url": "https://upstream.to/9moo0naxod0l",
+       	"info": "1992",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "SOLO EN CASA 3",
+        "image": "https://pics.filmaffinity.com/home_alone_3-323309488-large.jpg",
+        "url": "https://upstream.to/i5azd1jkst4c",
+       	"info": "1997",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "SOLO EN CASA 4",
+        "image": "https://pics.filmaffinity.com/home_alone_4_tv-904874300-large.jpg",
+        "url": "https://upstream.to/joxgoa27hcq4",
+       	"info": "2002",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "SOLO EN CASA 5",
+        "image": "https://pics.filmaffinity.com/home_alone_the_holiday_heist_home_alone_5_tv-201997824-large.jpg",
+        "url": "https://upstream.to/x04c7wm32kdn",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "SOLO EN CASA, POR FIN",
+        "image": "https://pics.filmaffinity.com/home_sweet_home_alone-872888087-large.jpg",
+        "url": "",
+       	"info": "2021",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
 		{
         "name": "SOLO UNA VEZ",
         "info":"2021",
