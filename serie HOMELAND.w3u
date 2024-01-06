@@ -211,6 +211,83 @@
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
+       	},
+	{
+       	"name": "2x06 Una dirección en Gettysburg",
+        "image": "https://i.postimg.cc/KzXw1xy5/Homeland-Temp-2.png",
+        "url": "https://filemoon.sx/d/u0kn20naod05/Homeland_-_2x06_-_Una_direcci_n_en_Gettysburg.mp4",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x07 La aclaración",
+        "image": "https://i.postimg.cc/KzXw1xy5/Homeland-Temp-2.png",
+        "url": "https://filemoon.sx/d/3dzy65ecjgla/Homeland_-_2x07_-_La_aclaraci_n.mp4",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x08 Echaré a volar",
+        "image": "https://i.postimg.cc/KzXw1xy5/Homeland-Temp-2.png",
+        "url": "https://filemoon.sx/d/h3mttieb03q8/Homeland_-_2x08_-_Echar__a_volar.mp4",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x09 Dos sombreros",
+        "image": "https://i.postimg.cc/KzXw1xy5/Homeland-Temp-2.png",
+        "url": "https://filemoon.sx/d/hv8f6chcqcd6/Homeland_-_2x09_-_Dos_sombreros.mp4",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x10 Corazones rotos",
+        "image": "https://i.postimg.cc/KzXw1xy5/Homeland-Temp-2.png",
+        "url": "https://filemoon.sx/d/b1jjpy3okx46/Homeland_-_2x10_-_Corazones_rotos.mp4",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x11 En memoria",
+        "image": "https://i.postimg.cc/KzXw1xy5/Homeland-Temp-2.png",
+        "url": "https://filemoon.sx/d/yeka3dphxobh/Homeland_-_2x11_-_In_Memoriam.mp4",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x12 La elección",
+        "image": "https://i.postimg.cc/KzXw1xy5/Homeland-Temp-2.png",
+        "url": "https://filemoon.sx/d/kcrw8p2t9qdi/Homeland_-_2x12_-_La_elecci_n.mp4",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
        	}
 	]
 	},
