@@ -339,8 +339,117 @@
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
+       	},
+	{
+       	"name": "1x31 Jiménez se protege ante las amenazas",
+        "image": "https://pics.filmaffinity.com/pablo_escobar_el_patron_del_mal-432126437-large.jpg",
+        "url": "",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x32 Declaran inexequible la extradición",
+        "image": "https://pics.filmaffinity.com/pablo_escobar_el_patron_del_mal-432126437-large.jpg",
+        "url": "",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x33 'Los extraditables' buscan la manera de ser juzgados en Colombia",
+        "image": "https://pics.filmaffinity.com/pablo_escobar_el_patron_del_mal-432126437-large.jpg",
+        "url": "",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x34 En busca de la prueba reina",
+        "image": "https://pics.filmaffinity.com/pablo_escobar_el_patron_del_mal-432126437-large.jpg",
+        "url": "",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x35 Atentan contra el corresponsal de El Espectador",
+        "image": "https://pics.filmaffinity.com/pablo_escobar_el_patron_del_mal-432126437-large.jpg",
+        "url": "",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x36 El Coronel Jiménez corre peligro ",
+        "image": "https://pics.filmaffinity.com/pablo_escobar_el_patron_del_mal-432126437-large.jpg",
+        "url": "",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x37 Muere vilmente el Coronel Jiménez",
+        "image": "https://pics.filmaffinity.com/pablo_escobar_el_patron_del_mal-432126437-large.jpg",
+        "url": "",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x38 El país, horrorizado con la muerte del Coronel Jiménez ",
+        "image": "https://pics.filmaffinity.com/pablo_escobar_el_patron_del_mal-432126437-large.jpg",
+        "url": "",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x39 La Policía inspecciona la Hacienda Nápoles ",
+        "image": "https://pics.filmaffinity.com/pablo_escobar_el_patron_del_mal-432126437-large.jpg",
+        "url": "",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x40 La vida de Cano está en peligro",
+        "image": "https://pics.filmaffinity.com/pablo_escobar_el_patron_del_mal-432126437-large.jpg",
+        "url": "",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
        	}
-
 
 ]
 }
