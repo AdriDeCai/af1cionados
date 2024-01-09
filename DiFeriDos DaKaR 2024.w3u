@@ -1,0 +1,147 @@
+
+
+{
+"name": "DiFeriDos DaKaR 2024",
+"image": "https://i.postimg.cc/VN6qV3GB/Dakar-2024-Logo.jpg",
+"url": "https://af1cionados.vercel.app/",
+"info": "2024",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": @YIsus_mEx",
+"stations":
+
+	[
+	{
+       	"name": "PRESENTACION",
+        "image": "https://i.postimg.cc/QtBY7Bc7/Dakar-2024-Presentacion.png",
+        "url": "",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "PRESENTACION (RESUMEN)",
+        "image": "https://i.postimg.cc/QtBY7Bc7/Dakar-2024-Presentacion.png",
+        "url": "",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "PROLOGO",
+        "image": "https://i.postimg.cc/ZR79GRQw/Dakar-2024-Prologo.png",
+        "url": "",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "PROLOGO (RESUMEN)",
+        "image": "https://i.postimg.cc/ZR79GRQw/Dakar-2024-Prologo.png",
+        "url": "",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "ETAPA 1",
+        "image": "https://i.postimg.cc/tgJB01Sc/Dakar-2024-Etapa-1.png",
+        "url": "",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "ETAPA 1 (RESUMEN)",
+        "image": "https://i.postimg.cc/tgJB01Sc/Dakar-2024-Etapa-1.png",
+        "url": "",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "ETAPA 2",
+        "image": "https://i.postimg.cc/sxsSrqf2/Dakar-2024-Etapa-2.png",
+        "url": "",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "ETAPA 2 (RESUMEN)",
+        "image": "https://i.postimg.cc/sxsSrqf2/Dakar-2024-Etapa-2.png",
+        "url": "",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "ETAPA 3",
+        "image": "https://i.postimg.cc/RFXCWDQh/Dakar-2024-Etapa-3.png",
+        "url": "",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "ETAPA 3 (RESUMEN)",
+        "image": "https://i.postimg.cc/RFXCWDQh/Dakar-2024-Etapa-3.png",
+        "url": "",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "ETAPA 4",
+        "image": "https://i.postimg.cc/W33LHbgp/Dakar-2024-Etapa-4.png",
+        "url": "",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "ETAPA 4 (RESUMEN)",
+        "image": "https://i.postimg.cc/W33LHbgp/Dakar-2024-Etapa-4.png",
+        "url": "",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
