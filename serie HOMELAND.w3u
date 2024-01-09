@@ -352,6 +352,83 @@
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
+       	},
+	{
+       	"name": "3x06 Sigue dando positivo ",
+        "image": "https://i.postimg.cc/mZFmq0CY/Homeland-Temp-3.png",
+        "url": "",
+       	"info": "2013",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x07 Gerontion",
+        "image": "https://i.postimg.cc/mZFmq0CY/Homeland-Temp-3.png",
+        "url": "",
+       	"info": "2013",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x08 Una carretilla roja",
+        "image": "https://i.postimg.cc/mZFmq0CY/Homeland-Temp-3.png",
+        "url": "",
+       	"info": "2013",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x09 Una última vez ",
+        "image": "https://i.postimg.cc/mZFmq0CY/Homeland-Temp-3.png",
+        "url": "",
+       	"info": "2013",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x10 Buenas noches",
+        "image": "https://i.postimg.cc/mZFmq0CY/Homeland-Temp-3.png",
+        "url": "",
+       	"info": "2013",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+{
+       	"name": "3x04 Comienza el juego",
+        "image": "https://i.postimg.cc/mZFmq0CY/Homeland-Temp-3.png",
+        "url": "",
+       	"info": "2013",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x05 La práctica del yoga",
+        "image": "https://i.postimg.cc/mZFmq0CY/Homeland-Temp-3.png",
+        "url": "",
+       	"info": "2013",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
        	}
 	]
 	},
