@@ -2605,6 +2605,61 @@ large.jpg",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
+	{
+       	"name": "STAR WARS Episode VII: El despertar de la Fuerza",
+        "image": "https://pics.filmaffinity.com/star_wars_episode_vii_the_force_awakens-625343391-large.jpg",
+        "url": "https://upstream.to/cdriyetwmort",
+       	"info": "2015",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "STAR WARS Rogue One: Una historia de Star Wars",
+        "image": "https://pics.filmaffinity.com/rogue_one_a_star_wars_story-635726332-large.jpg",
+        "url": "https://upstream.to/17cfzschj0ye",
+       	"info": "2016",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "STAR WARS Los últimos Jedi",
+        "image": "https://pics.filmaffinity.com/star_wars_the_last_jedi-535293064-large.jpg",
+        "url": "https://upstream.to/3u68zgd1zt5v",
+       	"info": "2017",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "STAR WARS Una historia de Star Wars",
+        "image": "https://pics.filmaffinity.com/solo_a_star_wars_story-540929627-large.jpg",
+        "url": "https://upstream.to/k9ty37hv52y8",
+       	"info": "2018",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "STAR WARS El ascenso de Skywalker",
+        "image": "https://pics.filmaffinity.com/star_wars_the_rise_of_skywalker-619389738-large.jpg",
+        "url": "https://upstream.to/1jql1rsy02zs",
+       	"info": "2019",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
 	    {
  	    "name": "STILLNESS IN THE STORM",
 	    "image": "https://pics.filmaffinity.com/gelditasuna_ekaitzean-474192990-large.jpg",
