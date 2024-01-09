@@ -299,7 +299,51 @@
 	"stations":
 	[
 	{
-       	"name": "3x01 ",
+       	"name": "3x01 El hombre de hojalata ha caído",
+        "image": "https://i.postimg.cc/mZFmq0CY/Homeland-Temp-3.png",
+        "url": "",
+       	"info": "2013",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x02 Uh... Oh... Ah...",
+        "image": "https://i.postimg.cc/mZFmq0CY/Homeland-Temp-3.png",
+        "url": "",
+       	"info": "2013",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x03 La Torre de David ",
+        "image": "https://i.postimg.cc/mZFmq0CY/Homeland-Temp-3.png",
+        "url": "",
+       	"info": "2013",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x04 Comienza el juego",
+        "image": "https://i.postimg.cc/mZFmq0CY/Homeland-Temp-3.png",
+        "url": "",
+       	"info": "2013",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x05 La práctica del yoga",
         "image": "https://i.postimg.cc/mZFmq0CY/Homeland-Temp-3.png",
         "url": "",
        	"info": "2013",
