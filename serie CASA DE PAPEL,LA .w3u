@@ -376,9 +376,108 @@
 	"stations":
 	[
 	{
-       	"name": "EPISODIO 1",
+       	"name": "3x01 El final del camino",
         "image": "https://i.postimg.cc/vmwz1wsC/Casa_de_papel_3.png",
-        "url": "",
+        "url": "https://upstream.to/3b0xahnbvo4n",
+       	"info": "2019",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x02 ¿Crees en la reencarnación?",
+        "image": "https://i.postimg.cc/vmwz1wsC/Casa_de_papel_3.png",
+        "url": "https://upstream.to/v98c8bvjdnvd",
+       	"info": "2019",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x03 El espectáculo de la vida",
+        "image": "https://i.postimg.cc/vmwz1wsC/Casa_de_papel_3.png",
+        "url": "https://upstream.to/tvn3fko0vafi",
+       	"info": "2019",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x04 Tu sitio en el cielo",
+        "image": "https://i.postimg.cc/vmwz1wsC/Casa_de_papel_3.png",
+        "url": "https://upstream.to/2mjwjvhv8vfi",
+       	"info": "2019",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x05 Vivir muchas vidas",
+        "image": "https://i.postimg.cc/vmwz1wsC/Casa_de_papel_3.png",
+        "url": "https://upstream.to/sbdo82jcc4s9",
+       	"info": "2019",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x06 TBA",
+        "image": "https://i.postimg.cc/vmwz1wsC/Casa_de_papel_3.png",
+        "url": "https://upstream.to/sfybvjyg3pxv",
+       	"info": "2019",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x07 TBA",
+        "image": "https://i.postimg.cc/vmwz1wsC/Casa_de_papel_3.png",
+        "url": "https://upstream.to/xa7jqj3tw3pq",
+       	"info": "2019",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x08 TBA",
+        "image": "https://i.postimg.cc/vmwz1wsC/Casa_de_papel_3.png",
+        "url": "https://upstream.to/8iu1i175bmcl",
+       	"info": "2019",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x09 TBA",
+        "image": "https://i.postimg.cc/vmwz1wsC/Casa_de_papel_3.png",
+        "url": "https://upstream.to/n3k6kgrvrpqj",
+       	"info": "2019",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x10 TBA",
+        "image": "https://i.postimg.cc/vmwz1wsC/Casa_de_papel_3.png",
+        "url": "https://upstream.to/48gzll6u6w3g",
        	"info": "2019",
        	"embed": "",
        	"isHost": "true",
