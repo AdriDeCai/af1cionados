@@ -4,10 +4,15 @@
 "url": "https://af1cionados.vercel.app/serie LA QUE SE AVECINA.w3u",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "info": "";
-"stations":
+"groups":
 	[
 
-
+	{
+	"name": "TEMPORADA 13",
+	"image": "https://i.postimg.cc/8PwX9KRc/La-que-se-avecina-13-2023-Serie.jpg",
+	"info": "2022",
+	"stations": 
+	[
 	{
        	"name": "S13 E1 Un mayorista reinsertado, un portero octogenario y un edificio señorial",
         "image": "https://i.postimg.cc/8PwX9KRc/La-que-se-avecina-13-2023-Serie.jpg",
@@ -16,9 +21,9 @@
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9"
+	"userAgent":"PlusMediaPlayer/0.0.9"
        	},
-		{
+	{
        	"name": "S13 E2 Un espacio cultureta, una operación Lady Gaga y Los gloriosos de Montepinar",
         "image": "https://i.postimg.cc/8PwX9KRc/La-que-se-avecina-13-2023-Serie.jpg",
         "url": "https://upstream.to/shamgfr8yl6y",
@@ -26,9 +31,9 @@
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9"
+	"userAgent":"PlusMediaPlayer/0.0.9"
        	},
-		{
+	{
        	"name": "S13 E3 Una joya literaria, una edad efervescente y una orgía gastronómica",
         "image": "https://i.postimg.cc/8PwX9KRc/La-que-se-avecina-13-2023-Serie.jpg",
         "url": "",
@@ -36,9 +41,9 @@
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9"
+	"userAgent":"PlusMediaPlayer/0.0.9"
        	},
-		{
+	{
        	"name": "S13 E4 Un colchón que te abraza, un costillar sanguinolento y un Thelma y Louise XXL",
         "image": "https://i.postimg.cc/8PwX9KRc/La-que-se-avecina-13-2023-Serie.jpg",
         "url": "https://upstream.to/cvo3432twfkv",
@@ -46,9 +51,9 @@
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9"
+	"userAgent":"PlusMediaPlayer/0.0.9"
        	},
-		{
+	{
        	"name": "S13 E5 Setenta y cinco primaveras un disconfort Vagin y el Talento de míster Rivas",
         "image": "https://i.postimg.cc/8PwX9KRc/La-que-se-avecina-13-2023-Serie.jpg",
         "url": "https://upstream.to/mu23e5fpjnks",
@@ -56,9 +61,9 @@
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9"
+	"userAgent":"PlusMediaPlayer/0.0.9"
        	},
-		{
+	{
        	"name": "S13 E6 Una presidenta capacitista, un mayorista deconstruido y un intercambio epistolar",
         "image": "https://i.postimg.cc/8PwX9KRc/La-que-se-avecina-13-2023-Serie.jpg",
         "url": "https://upstream.to/98s8dh2igvuu",
@@ -66,9 +71,9 @@
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9"
+	"userAgent":"PlusMediaPlayer/0.0.9"
        	},
-		{
+	{
        	"name": "S13 E7 Un desfibrilador, un bolardo asesino y una pataleta adolescente",
         "image": "https://i.postimg.cc/8PwX9KRc/La-que-se-avecina-13-2023-Serie.jpg",
         "url": "https://upstream.to/g4uv0qp9mvke",
@@ -76,9 +81,9 @@
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9"
+	"userAgent":"PlusMediaPlayer/0.0.9"
        	},
-		{
+	{
        	"name": "S13 E8 Un santo bilingüe, un topo doble y la vergüenza de los balmaseda de Unzeta y Téllez-Girón",
         "image": "https://i.postimg.cc/8PwX9KRc/La-que-se-avecina-13-2023-Serie.jpg",
         "url": "https://upstream.to/duuolq1t91jo",
@@ -86,9 +91,18 @@
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9"
-       	},
-		{
+	"userAgent":"PlusMediaPlayer/0.0.9"
+       	}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 14",
+	"image": "https://i.postimg.cc/FFJjg7kP/La-que-se-avecina-Temp-14.png",
+	"info": "2023",
+	"stations": 
+	[
+	{
        	"name": "S14 E1 Una pipa gripada, un sex-appeal agonizante y las quisquillas de la paz",
         "image": "https://i.postimg.cc/FFJjg7kP/La-que-se-avecina-Temp-14.png",
         "url": "https://upstream.to/ymsgzlucd3i2",
@@ -96,9 +110,9 @@
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9"
+	"userAgent":"PlusMediaPlayer/0.0.9"
        	},
-		{
+	{
        	"name": "S14 E2 Un tetalibán, un hidroanencefálico y un ovocucaracholácteo",
         "image": "https://i.postimg.cc/FFJjg7kP/La-que-se-avecina-Temp-14.png",
         "url": "https://upstream.to/7v0lshfq6kpv",
@@ -106,9 +120,9 @@
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9"
+	"userAgent":"PlusMediaPlayer/0.0.9"
        	},
-		{
+	{
        	"name": "S14 E3 Un descerebrado ambicioso, un espetero desmemoriado y unas gotitas de anticongelante",
         "image": "https://i.postimg.cc/FFJjg7kP/La-que-se-avecina-Temp-14.png",
         "url": "https://upstream.to/vyjtqwsxbfcm",
@@ -116,9 +130,9 @@
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9"
+	"userAgent":"PlusMediaPlayer/0.0.9"
        	},
-		{
+	{
        	"name": "S14 E4 Un mayorista entretenido, un descerebrado arrepentido y una proteína de primera calidad",
         "image": "https://i.postimg.cc/FFJjg7kP/La-que-se-avecina-Temp-14.png",
         "url": "https://upstream.to/7ptrgylh4l5w",
@@ -126,9 +140,9 @@
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9"
+	"userAgent":"PlusMediaPlayer/0.0.9"
        	},
-		{
+	{
        	"name": "S14 E5 Un cuchifritín, un contraste dulce-salado y el cuento de nunca cascar",
         "image": "https://i.postimg.cc/FFJjg7kP/La-que-se-avecina-Temp-14.png",
         "url": "https://filelions.site/f/4orx29y8dkag",
@@ -136,9 +150,9 @@
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9"
+	"userAgent":"PlusMediaPlayer/0.0.9"
        	},
-		{
+	{
        	"name": "S14 E6 Una tómbola gay, un hijo predilecto y una comatosa a la fuga",
         "image": "https://i.postimg.cc/FFJjg7kP/La-que-se-avecina-Temp-14.png",
         "url": "https://upstream.to/y3x1kxwrt9ee",
@@ -146,9 +160,9 @@
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9"
+	"userAgent":"PlusMediaPlayer/0.0.9"
        	},
-		{
+	{
        	"name": "S14 E7 Un mayorista filántropo, un putero soviético y un agradecido desgraciado",
         "image": "https://i.postimg.cc/FFJjg7kP/La-que-se-avecina-Temp-14.png",
         "url": "https://upstream.to/zktrqjmu0bps",
@@ -156,9 +170,9 @@
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9"
+	"userAgent":"PlusMediaPlayer/0.0.9"
        	},
-		{
+	{
        	"name": "S14 E8 Un bodorrio tóxico, un burbujón inmobiliario y un secuestro exprés",
         "image": "https://i.postimg.cc/FFJjg7kP/La-que-se-avecina-Temp-14.png",
         "url": "https://upstream.to/fipn0kqeqwli",
@@ -166,10 +180,13 @@
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9"
+	"userAgent":"PlusMediaPlayer/0.0.9"
        	}
-
 	]
+	}
+
+
+]
 }
 
 
