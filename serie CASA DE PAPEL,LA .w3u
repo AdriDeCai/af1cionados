@@ -497,7 +497,84 @@
 	{
        	"name": "EPISODIO 1",
         "image": "https://i.postimg.cc/43v1V24y/Casa_de_papel_4.png",
-        "url": "",
+        "url": "https://filemoon.sx/d/ncyhj76kwr93/La_casa_de_papel_S04E01.mp4",
+       	"info": "2020",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 2",
+        "image": "https://i.postimg.cc/43v1V24y/Casa_de_papel_4.png",
+        "url": "https://filemoon.sx/d/z2ud3y2l7er9/La_casa_de_papel_S04E02.mp4",
+       	"info": "2020",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 3",
+        "image": "https://i.postimg.cc/43v1V24y/Casa_de_papel_4.png",
+        "url": "https://filemoon.sx/d/dtltoq1q1l3i/La_casa_de_papel_S04E03.mp4",
+       	"info": "2020",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 4",
+        "image": "https://i.postimg.cc/43v1V24y/Casa_de_papel_4.png",
+        "url": "https://filemoon.sx/d/ukickrh71kc3/La_casa_de_papel_S04E04.mp4",
+       	"info": "2020",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 5",
+        "image": "https://i.postimg.cc/43v1V24y/Casa_de_papel_4.png",
+        "url": "https://filemoon.sx/d/78mafxfa9hd6/La_casa_de_papel_S04E05.mp4",
+       	"info": "2020",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 6",
+        "image": "https://i.postimg.cc/43v1V24y/Casa_de_papel_4.png",
+        "url": "https://filemoon.sx/d/uw0oc1gm7i3y/La_casa_de_papel_S04E06.mp4",
+       	"info": "2020",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 7",
+        "image": "https://i.postimg.cc/43v1V24y/Casa_de_papel_4.png",
+        "url": "https://filemoon.sx/d/vb6gp3e5vugu/La_casa_de_papel_S04E07.mp4",
+       	"info": "2020",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 8",
+        "image": "https://i.postimg.cc/43v1V24y/Casa_de_papel_4.png",
+        "url": "https://filemoon.sx/d/8dbh0tz5ekj9/La_casa_de_papel_S04E08.mp4",
        	"info": "2020",
        	"embed": "",
        	"isHost": "true",
@@ -507,6 +584,8 @@
        	}
 	]
 	},
+
+
 	{
 	"name": "TEMPORADA 5",
 	"image": "https://i.postimg.cc/1Xd0sLBC/Casa_de_papel_5.png",
