@@ -451,6 +451,52 @@
         "info":"",
         "groups":
             [
+
+{ 
+"name": "The Making of Joshua", 
+"image": "https://i.postimg.cc/s2yQvcYd/maxresdefault.jpg",  
+"info": "", 
+"stations": 
+	[
+
+	{ 
+	"name": "1X1 Orgullo", 
+	"image": "https://i.postimg.cc/LsbJNpdR/IMG-20240113-233934.jpg", 
+	"url": "https://filemoon.sx/d/49o9aq8y0u8r", 
+	"info": "2022", 
+	"embed": "", 
+	"isHost": "true", 
+	"online": "true", 
+	"userAgent": "PlusMediaPlayer/0.0.9", 
+	"import": false 
+	},
+	{ 
+	"name": "1X2 fuego", 
+	"image": "https://i.postimg.cc/fWxb0XbM/IMG-20240113-234050.jpg", 
+	"url": "https://filemoon.sx/d/cn08qa2sh38j", 
+	"info": "2022", 
+	"embed": "", 
+	"isHost": "true", 
+	"online": "true", 
+	"userAgent": "PlusMediaPlayer/0.0.9", 
+	"import": false 
+	},
+	{ 
+	"name": "1X3 Redención", 
+	"image": "https://i.postimg.cc/903tgT3W/IMG-20240113-234147.jpg", 
+	"url": "https://filemoon.sx/d/42l5v5mlr2md", 
+	"info": "2022", 
+	"embed": "", 
+	"isHost": "true", 
+	"online": "true", 
+	"userAgent": "PlusMediaPlayer/0.0.9", 
+	"import": false 
+	}
+
+	] 
+},
+
+
 		{
 		"name": "En casa de los Furys",
 		"image": "https://images3.alphacoders.com/595/595865.jpg",
