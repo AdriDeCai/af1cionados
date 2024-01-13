@@ -186,15 +186,15 @@
                 "isHost":"true",
                 "online":"true"
                 },
-				{
-        		"name": "El regreso de Ali (Documental)",
-        		"info":"2022",
-        		"image": "https://pics.filmaffinity.com/ali_s_comeback-747055840-large.jpg",
-        		"url":"https://www.documaniatv.com/biografias/el-regreso-de-ali-la-historia-jamas-contada-video_8c5404f96.html",
-        		"embed":"",
-        		"isHost":"true",
-        		"online":"true"
-        		},
+		{
+        	"name": "El regreso de Ali (Documental)",
+        	"info":"2022",
+        	"image": "https://pics.filmaffinity.com/ali_s_comeback-747055840-large.jpg",
+        	"url":"https://www.documaniatv.com/biografias/el-regreso-de-ali-la-historia-jamas-contada-video_8c5404f96.html",
+        	"embed":"",
+        	"isHost":"true",
+        	"online":"true"
+        	},
                 {
                 "name": "Bisping, Peleando por un sueño (Documental)",
                 "info":"2022",
@@ -332,7 +332,7 @@
                 "isHost":"true",
                 "online":"true"
                 },
-				{
+		{
                 "name": "La forja de un campeón (Jem Belcher)(Pelicula)",
                 "info":"2022",
                 "image": "https://i.postimg.cc/J0Q6fmgc/02-La-forja-de-un-campe-n-2022-Pelicula.png",
@@ -451,114 +451,155 @@
         "info":"",
         "groups":
             [
-				{
-				"name": "En casa de los Furys",
-				"image": "https://images3.alphacoders.com/595/595865.jpg",
-                "imageScale": "",	
-				"info": "",
-				"stations":
-					[
-	       				{
- 	       				"name": "1X1 Una nueva vida sin boxear",
-	        			"image": "https://i.postimg.cc/3xjRQrtw/En-casa-de-los-Fury-2023-Do-Cu-Se-Rie-Boxeo.png",
-	        			"url": "https://upstream.to/4z33p7i1oafs",
-        				"info": "2023",
-        				"embed": "",
-        				"isHost": "true",
-        				"online": "true",
-						"userAgent":"PlusMediaPlayer/0.0.9",
-        				"import": false
-        				},
-	       				{
- 	       				"name": "1X2 Un bebe gigante de 2 metros",
-	        			"image": "https://i.postimg.cc/3xjRQrtw/En-casa-de-los-Fury-2023-Do-Cu-Se-Rie-Boxeo.png",
-	        			"url": "https://upstream.to/goty66qwvn7y",
-        				"info": "2023",
-        				"embed": "",
-        				"isHost": "true",
-        				"online": "true",
-						"userAgent":"PlusMediaPlayer/0.0.9",
-        				"import": false
-        				},
-	       				{
- 	       				"name": "1X3 Pelear con un vikingo",
-	        			"image": "https://i.postimg.cc/3xjRQrtw/En-casa-de-los-Fury-2023-Do-Cu-Se-Rie-Boxeo.png",
-	        			"url": "https://upstream.to/qhotsifcjanb",
-        				"info": "2023",
-        				"embed": "",
-        				"isHost": "true",
-        				"online": "true",
-						"userAgent":"PlusMediaPlayer/0.0.9",
-        				"import": false
-        				},
-	       				{
- 	       				"name": "1X4 Luchar contra la tentacion",
-	        			"image": "https://i.postimg.cc/3xjRQrtw/En-casa-de-los-Fury-2023-Do-Cu-Se-Rie-Boxeo.png",
-	        			"url": "https://upstream.to/p1jpqmh4kdik",
-        				"info": "2023",
-        				"embed": "",
-        				"isHost": "true",
-        				"online": "true",
-						"userAgent":"PlusMediaPlayer/0.0.9",
-        				"import": false
-        				},
-	       				{
- 	       				"name": "1X5 Ya voy a casa, mi amor",
-	        			"image": "https://i.postimg.cc/3xjRQrtw/En-casa-de-los-Fury-2023-Do-Cu-Se-Rie-Boxeo.png",
-	        			"url": "https://upstream.to/xir4i6uyfqe6",
-        				"info": "2023",
-        				"embed": "",
-        				"isHost": "true",
-        				"online": "true",
-						"userAgent":"PlusMediaPlayer/0.0.9",
-        				"import": false
-        				},
-	       				{
- 	       				"name": "1X6 Quieres casarte conmigo, otra vez",
-	        			"image": "https://i.postimg.cc/3xjRQrtw/En-casa-de-los-Fury-2023-Do-Cu-Se-Rie-Boxeo.png",
-	        			"url": "https://upstream.to/d6m1edlkxjgx",
-        				"info": "2023",
-        				"embed": "",
-        				"isHost": "true",
-        				"online": "true",
-						"userAgent":"PlusMediaPlayer/0.0.9",
-        				"import": false
-        				},
-	       				{
- 	       				"name": "1X7 El dia D para AJ",
-	        			"image": "https://i.postimg.cc/3xjRQrtw/En-casa-de-los-Fury-2023-Do-Cu-Se-Rie-Boxeo.png",
-	        			"url": "https://upstream.to/eew3a15xmpsj",
-        				"info": "2023",
-        				"embed": "",
-        				"isHost": "true",
-        				"online": "true",
-						"userAgent":"PlusMediaPlayer/0.0.9",
-        				"import": false
-        				},
-	       				{
- 	       				"name": "1X8 Furia en Dubai",
-	        			"image": "https://i.postimg.cc/3xjRQrtw/En-casa-de-los-Fury-2023-Do-Cu-Se-Rie-Boxeo.png",
-	        			"url": "https://upstream.to/zywgj6kjtwcf",
-        				"info": "2023",
-        				"embed": "",
-        				"isHost": "true",
-        				"online": "true",
-						"userAgent":"PlusMediaPlayer/0.0.9",
-        				"import": false
-        				},
-	       				{
- 	       				"name": "1X9 Podria acabar la pelea",
-	        			"image": "https://i.postimg.cc/3xjRQrtw/En-casa-de-los-Fury-2023-Do-Cu-Se-Rie-Boxeo.png",
-	        			"url": "https://upstream.to/2keg5iys9kox",
-        				"info": "2023",
-        				"embed": "",
-        				"isHost": "true",
-        				"online": "true",
-						"userAgent":"PlusMediaPlayer/0.0.9",
-        				"import": false
-        				}
-					]
-				},
+		{
+		"name": "En casa de los Furys",
+		"image": "https://images3.alphacoders.com/595/595865.jpg",
+		"info": "",
+		"stations":
+			[
+	       		{
+ 	       		"name": "1X1 Una nueva vida sin boxear",
+	        	"image": "https://i.postimg.cc/3xjRQrtw/En-casa-de-los-Fury-2023-Do-Cu-Se-Rie-Boxeo.png",
+	        	"url": "https://upstream.to/4z33p7i1oafs",
+        		"info": "2023",
+        		"embed": "",
+        		"isHost": "true",
+        		"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"import": false
+        		},
+	       		{
+ 	       		"name": "1X2 Un bebe gigante de 2 metros",
+	        	"image": "https://i.postimg.cc/3xjRQrtw/En-casa-de-los-Fury-2023-Do-Cu-Se-Rie-Boxeo.png",
+	        	"url": "https://upstream.to/goty66qwvn7y",
+        		"info": "2023",
+        		"embed": "",
+        		"isHost": "true",
+        		"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"import": false
+        		},
+	       		{
+ 	       		"name": "1X3 Pelear con un vikingo",
+	        	"image": "https://i.postimg.cc/3xjRQrtw/En-casa-de-los-Fury-2023-Do-Cu-Se-Rie-Boxeo.png",
+	        	"url": "https://upstream.to/qhotsifcjanb",
+        		"info": "2023",
+        		"embed": "",
+        		"isHost": "true",
+        		"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"import": false
+        		},
+	       		{
+ 	       		"name": "1X4 Luchar contra la tentacion",
+	        	"image": "https://i.postimg.cc/3xjRQrtw/En-casa-de-los-Fury-2023-Do-Cu-Se-Rie-Boxeo.png",
+	        	"url": "https://upstream.to/p1jpqmh4kdik",
+        		"info": "2023",
+        		"embed": "",
+        		"isHost": "true",
+        		"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"import": false
+        		},
+	       		{
+ 	       		"name": "1X5 Ya voy a casa, mi amor",
+	        	"image": "https://i.postimg.cc/3xjRQrtw/En-casa-de-los-Fury-2023-Do-Cu-Se-Rie-Boxeo.png",
+	        	"url": "https://upstream.to/xir4i6uyfqe6",
+        		"info": "2023",
+        		"embed": "",
+        		"isHost": "true",
+        		"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"import": false
+        		},
+	       		{
+ 	       		"name": "1X6 Quieres casarte conmigo, otra vez",
+	        	"image": "https://i.postimg.cc/3xjRQrtw/En-casa-de-los-Fury-2023-Do-Cu-Se-Rie-Boxeo.png",
+	        	"url": "https://upstream.to/d6m1edlkxjgx",
+        		"info": "2023",
+        		"embed": "",
+        		"isHost": "true",
+        		"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"import": false
+        		},
+	       		{
+ 	       		"name": "1X7 El dia D para AJ",
+	        	"image": "https://i.postimg.cc/3xjRQrtw/En-casa-de-los-Fury-2023-Do-Cu-Se-Rie-Boxeo.png",
+	        	"url": "https://upstream.to/eew3a15xmpsj",
+        		"info": "2023",
+        		"embed": "",
+        		"isHost": "true",
+        		"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"import": false
+        		},
+	       		{
+ 	       		"name": "1X8 Furia en Dubai",
+	        	"image": "https://i.postimg.cc/3xjRQrtw/En-casa-de-los-Fury-2023-Do-Cu-Se-Rie-Boxeo.png",
+	        	"url": "https://upstream.to/zywgj6kjtwcf",
+        		"info": "2023",
+        		"embed": "",
+        		"isHost": "true",
+        		"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"import": false
+        		},
+	       		{
+ 	       		"name": "1X9 Podria acabar la pelea",
+	        	"image": "https://i.postimg.cc/3xjRQrtw/En-casa-de-los-Fury-2023-Do-Cu-Se-Rie-Boxeo.png",
+	        	"url": "https://upstream.to/2keg5iys9kox",
+        		"info": "2023",
+        		"embed": "",
+        		"isHost": "true",
+        		"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        		"import": false
+        		}
+		]
+		},
+
+		{ 
+		"name": "The Making of Canelo", 
+		"image": "https://i.postimg.cc/SsmSTkvB/F4036118.jpg ",
+		"info": "", 
+		"stations": 
+		[
+			{ 
+			"name": "1X1 La Leccion", 
+			"image": "https://i.postimg.cc/j50RR8wQ/sddefault.jpg ", 
+			"url": "https://filemoon.sx/d/7khzm0fzne2h", 
+			"info": "2022", 
+			"embed": "", 
+			"isHost": "true", 
+			"online": "true", 
+			"userAgent": "PlusMediaPlayer/0.0.9", 
+			"import": false 
+			},
+			{ 
+			"name": "1X2 La Revancha", 
+			"image": "https://i.postimg.cc/j50RR8wQ/sddefault.jpg ", 
+			"url": "https://filemoon.sx/d/km6slqroatqo", 
+			"info": "2022", 
+			"embed": "", 
+			"isHost": "true", 
+			"online": "true", 
+			"userAgent": "PlusMediaPlayer/0.0.9", 
+			"import": false 
+			},
+			{ 
+			"name": "1X3 El KO", 
+			"image": "https://i.postimg.cc/j50RR8wQ/sddefault.jpg ", 
+			"url": "https://filemoon.sx/d/915a49hs5w9d", 
+			"info": "2022", 
+			"embed": "", 
+			"isHost": "true", 
+			"online": "true", 
+			"userAgent": "PlusMediaPlayer/0.0.9", 
+			"import": false 
+			}
+		] 
+		},
 
                 {
                 "name": "Jonfer before the fight",
