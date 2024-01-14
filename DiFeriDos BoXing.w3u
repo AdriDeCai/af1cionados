@@ -7,7 +7,15 @@
 "info": "by Tintxi",
 "stations":
 	[
-
+	{ 
+	"name": "Beterviev vs Smith",
+	"image": "https://i.postimg.cc/sg8T2bb1/artur-beterbiev-callum-smith-1.jpg",
+	"url": "https://filemoon.sx/d/fc074vzm0dco",
+	"info": "13-01-2024",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+	"isHost": "verdadero",
+	"online": "verdadero"
+	},
 	{
         "name": "Ortiz vs Lawson",
         "image": "https://i.postimg.cc/5NMFtyZf/Vergil-Ortiz-vs-Fredrick-Lawson.jpg",
