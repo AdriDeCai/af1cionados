@@ -1,0 +1,125 @@
+
+
+{
+"name": "APACHES",
+"image": "https://pics.filmaffinity.com/apaches-496968077-large.jpg",
+"url": "https://af1cionados.vercel.app/",
+"info": "2015",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": @YIsus_mEx",
+"stations":
+
+	[
+	{
+       	"name": "EPISODIO 1",
+        "image": "https://pics.filmaffinity.com/apaches-496968077-large.jpg",
+        "url": "https://filemoon.sx/d/d7dexsehnwq7/Ver_4p4ch3s_1x01_m720p_mkv.mp4",
+       	"info": "2015",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 2",
+        "image": "https://pics.filmaffinity.com/apaches-496968077-large.jpg",
+        "url": "https://filemoon.sx/d/7uqdms1t1mw1/Watch_4p4ch3s_1x02_m720p_mkv.mp4",
+       	"info": "2015",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 3",
+        "image": "https://pics.filmaffinity.com/apaches-496968077-large.jpg",
+        "url": "https://filemoon.sx/d/ivzl9oe2kr9j/Watch_4p4ch3s_1x03_m720p_mkv.mp4",
+       	"info": "2015",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 4",
+        "image": "https://pics.filmaffinity.com/apaches-496968077-large.jpg",
+        "url": "https://filemoon.sx/d/ah4lf6jcju0s/Watch_4p4ch3s_1x04_m720p_mkv.mp4",
+       	"info": "2015",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 5",
+        "image": "https://pics.filmaffinity.com/apaches-496968077-large.jpg",
+        "url": "",
+       	"info": "2015",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 6",
+        "image": "https://pics.filmaffinity.com/apaches-496968077-large.jpg",
+        "url": "",
+       	"info": "2015",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 7",
+        "image": "https://pics.filmaffinity.com/apaches-496968077-large.jpg",
+        "url": "",
+       	"info": "2015",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 8",
+        "image": "https://pics.filmaffinity.com/apaches-496968077-large.jpg",
+        "url": "",
+       	"info": "2015",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 9",
+        "image": "https://pics.filmaffinity.com/apaches-496968077-large.jpg",
+        "url": "",
+       	"info": "2015",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 10",
+        "image": "https://pics.filmaffinity.com/apaches-496968077-large.jpg",
+        "url": "",
+       	"info": "2015",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
