@@ -1,0 +1,125 @@
+
+
+{
+"name": "EL MENTALISTA",
+"image": "https://pics.filmaffinity.com/the_mentalist-881533105-large.jpg",
+"url": "https://af1cionados.vercel.app/",
+"info": "2008",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": @YIsus_mEx",
+"stations":
+
+	[
+	{
+       	"name": "1x01 Piloto",
+        "image": "https://pics.filmaffinity.com/the_mentalist-881533105-large.jpg",
+        "url": "https://upstream.to/m5d9dp56fxb9",
+       	"info": "2008",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x02 Pelo rojo y cinta plateada ",
+        "image": "https://pics.filmaffinity.com/the_mentalist-881533105-large.jpg",
+        "url": "https://upstream.to/dhjn2r6aprr0",
+       	"info": "2008",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x03 Marea roja ",
+        "image": "https://pics.filmaffinity.com/the_mentalist-881533105-large.jpg",
+        "url": "https://upstream.to/73m31dyglwoc",
+       	"info": "2008",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x04 Mujeres de rojo",
+        "image": "https://pics.filmaffinity.com/the_mentalist-881533105-large.jpg",
+        "url": "https://upstream.to/yrvho5c21485",
+       	"info": "2008",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x05 Sequoya roja",
+        "image": "https://pics.filmaffinity.com/the_mentalist-881533105-large.jpg",
+        "url": "https://upstream.to/60c5sqmip13c",
+       	"info": "2008",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x06 Mano roja",
+        "image": "https://pics.filmaffinity.com/the_mentalist-881533105-large.jpg",
+        "url": "https://upstream.to/pzwyikxwq3zc",
+       	"info": "2008",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x07 Visión roja ",
+        "image": "https://pics.filmaffinity.com/the_mentalist-881533105-large.jpg",
+        "url": "https://upstream.to/15v0azqndvjx",
+       	"info": "2008",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x08 La delgada línea roja",
+        "image": "https://pics.filmaffinity.com/the_mentalist-881533105-large.jpg",
+        "url": "https://upstream.to/4wq0igca9z28",
+       	"info": "2008",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x09 Rojo fuego ",
+        "image": "https://pics.filmaffinity.com/the_mentalist-881533105-large.jpg",
+        "url": "https://upstream.to/ujnevfp5fr5y",
+       	"info": "2008",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x10 Aulas rojas ",
+        "image": "https://pics.filmaffinity.com/the_mentalist-881533105-large.jpg",
+        "url": "https://upstream.to/wxs32ibfij9f",
+       	"info": "2008",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
