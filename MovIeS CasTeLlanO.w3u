@@ -1550,7 +1550,18 @@ large.jpg",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+     	{
+       	"name": "LO QUE EL VIENTO SE LLEVÓ",
+        "image": "https://www.filmaffinity.com/es/film470268.html",
+        "url": "https://upstream.to/1oyooy2euxb7",
+       	"info": "1939",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
      	{
