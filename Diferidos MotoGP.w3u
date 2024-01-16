@@ -8,20 +8,42 @@
 "telegram": "@yIsus_mEx",
 "groups":
 	[
-		{
-		"name": "MotoGP 2023",
-		"image": "https://i.postimg.cc/Ss7tMzd1/Moto-GP-23-new.png",
-		"url": "https://af1cionados.vercel.app/Diferidos MotoGP 2023.w3u",
-		"info": "",
-         	"import": false
-		},
 
-		{
-		"name": "MotoGP 2024",
-		"image": "https://i.postimg.cc/Ss7tMzd1/Moto-GP-23-new.png",
-		"url": "https://af1cionados.vercel.app/Diferidos MotoGP 2024.w3u",
-		"info": "",
-	        "import": false
-		}
+	{
+	"name": "MotoGP 2023",
+	"image": "https://i.postimg.cc/Ss7tMzd1/Moto-GP-23-new.png",
+	"info": "ROUND 1",
+	"stations":
+		[
+			{
+			"name": "MotoGP 2023",
+			"info":"",
+			"image": "https://i.postimg.cc/Ss7tMzd1/Moto-GP-23-new.png",
+			"url": "https://af1cionados.vercel.app/Diferidos MotoGP 2023.w3u",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}
+		]
+	},
+
+	{
+	"name": "MotoGP 2024",
+	"image": "https://i.postimg.cc/Ss7tMzd1/Moto-GP-23-new.png",
+	"info": "ROUND 1",
+	"stations":
+		[
+			{
+			"name": "MotoGP 2024",
+			"info":"",
+			"image": "https://i.postimg.cc/Ss7tMzd1/Moto-GP-23-new.png",
+			"url": "https://af1cionados.vercel.app/Diferidos MotoGP 2024.w3u",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}
+		]
+	}
+
 	]
 }
