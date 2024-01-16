@@ -1,0 +1,81 @@
+
+
+{
+"name": "DARK WINDS",
+"image": "https://pics.filmaffinity.com/dark_winds-690084760-large.jpg",
+"url": "https://af1cionados.vercel.app/",
+"info": "2022",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": @YIsus_mEx",
+"stations":
+
+	[
+	{
+       	"name": "1x01 Monster Slayer ",
+        "image": "https://pics.filmaffinity.com/dark_winds-690084760-large.jpg",
+        "url": "https://filemoon.sx/d/5rl6kh3gzx7q/Ver_drk_wnds_1x01_m720p_mkv.mp4",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x02 The Male Rain Approaches ",
+        "image": "https://pics.filmaffinity.com/dark_winds-690084760-large.jpg",
+        "url": "https://filemoon.sx/d/x82y271z50gz/Ver_drk_wnds_1x02_m720p_mkv.mp4",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x03 K'e ",
+        "image": "https://pics.filmaffinity.com/dark_winds-690084760-large.jpg",
+        "url": "https://filemoon.sx/d/a8lu72zqtcgv/Ver_drk_wnds_1x03_m720p_mkv.mp4",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x04 Hooghandi",
+        "image": "https://pics.filmaffinity.com/dark_winds-690084760-large.jpg",
+        "url": "https://filemoon.sx/d/0a3mo8vsyui1/Ver_drk_wnds_1x04_m1080p_mkv.mp4",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x05 Ha’iinlni",
+        "image": "https://pics.filmaffinity.com/dark_winds-690084760-large.jpg",
+        "url": "https://filemoon.sx/d/3j6e1ao1mdpw/Ver_drk_wnds_1x05_m1080p_mkv.mp4",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x06 HózhóoNaasháa",
+        "image": "https://pics.filmaffinity.com/dark_winds-690084760-large.jpg",
+        "url": "https://filemoon.sx/d/55h7kkau64k2/Ver_drk_wnds_1x06_m720p_mkv.mp4",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
