@@ -1,0 +1,1045 @@
+
+
+{
+"name": "Diferidos MotoGP",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1cionados.vercel.app/",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "Lista_AF1CIONADOS",
+"info": "",
+"groups": 
+	[
+ 
+	{
+	"name": "CALENDARIO 2024",
+	"info":"",
+	"image": "https://i.postimg.cc/W1WdVJmf/Calendario-Moto-GP-2024.png",
+	"url": "https://upstream.to/f1ar39ncnotp",
+	"embed":"",
+	"isHost":"true",
+	"online":"true
+	},
+
+	{
+	"name": "CIRCUITO LUSAIL INTERNATIONAL (QATAR)",
+	"image": "",
+	"imageScale": "",
+	"info": "ROUND 1",
+	"stations":
+		[
+			{
+			"name": "Sprint MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto3",
+			"info":"",
+			"image": "https://i.postimg.cc/0NVcSYXZ/Logo-Moto3.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto2",
+			"info":"",
+			"image": "https://i.postimg.cc/wB10hyKp/Logo-Moto2.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera MotoGP",
+			"info":"",
+			"image": "",
+			"url": "https://upstream.to/zbg1wdmy7uw2",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}
+		]
+	},
+	
+
+	{
+	"name": "AUTODROMO INTERNACIONAL DO ALGARVE (PORTUGAL)",
+	"image": "",
+	"imageScale": "",
+	"info": "ROUND 2",
+	"stations":
+		[
+			{
+			"name": "Sprint MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto3",
+			"info":"",
+			"image": "https://i.postimg.cc/0NVcSYXZ/Logo-Moto3.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto2",
+			"info":"",
+			"image": "https://i.postimg.cc/wB10hyKp/Logo-Moto2.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}
+		]
+	},
+
+	{
+	"name": "CIRCUITO TERMAS DE RIO HONDO (ARGENTINA)",
+	"image": "",
+	"imageScale": "",
+	"info":"ROUND 3",
+	"stations":
+		[
+			{
+			"name": "Sprint MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto3",
+			"info":"",
+			"image": "https://i.postimg.cc/0NVcSYXZ/Logo-Moto3.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto2",
+			"info":"",
+			"image": "https://i.postimg.cc/wB10hyKp/Logo-Moto2.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}
+		]
+	},
+
+	{
+	"name": "CIRCUIT OF THE AMERICAS (ESTADOS UNIDOS)",
+	"image": "",
+	"imageScale": "",
+	"info":"ROUND 4",
+	"stations":
+		[
+			{
+			"name": "Sprint MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto3",
+			"info":"",
+			"image": "https://i.postimg.cc/0NVcSYXZ/Logo-Moto3.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto2",
+			"info":"",
+			"image": "https://i.postimg.cc/wB10hyKp/Logo-Moto2.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}
+		]
+	},
+	
+	{
+	"name": "CIRCUITO JEREZ DE LA FRONTERA, ANGEL NIETO (ESPAÑA)",
+	"image": "",
+	"imageScale": "",
+	"info":"ROUND 5",
+	"stations":
+		[
+			{
+			"name": "Sprint MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto3",
+			"info":"",
+			"image": "https://i.postimg.cc/0NVcSYXZ/Logo-Moto3.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto2",
+			"info":"",
+			"image": "https://i.postimg.cc/wB10hyKp/Logo-Moto2.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}
+		]
+	},
+
+	{
+	"name": "CIRCUITO LE MANS (FRANCIA)",
+	"image": "",
+	"imageScale": "",
+	"info":"ROUND 6",
+	"stations":
+		[
+			{
+			"name": "Sprint MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto3",
+			"info":"",
+			"image": "https://i.postimg.cc/0NVcSYXZ/Logo-Moto3.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto2",
+			"info":"",
+			"image": "https://i.postimg.cc/wB10hyKp/Logo-Moto2.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}
+		]
+	},
+
+	{
+	"name": "CIRCUITO BARCELONA (ESPAÑA)",
+	"image": "",
+	"imageScale": "",
+	"info":"ROUND 7",
+	"stations":
+		[
+			{
+			"name": "Sprint MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto3",
+			"info":"",
+			"image": "https://i.postimg.cc/0NVcSYXZ/Logo-Moto3.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto2",
+			"info":"",
+			"image": "https://i.postimg.cc/wB10hyKp/Logo-Moto2.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}
+		]
+	},
+
+	{
+	"name": "AUTODROMO INTERNAZIONALE MUGELLO (ITALIA)",
+	"image": "",
+	"imageScale": "",
+	"info":"ROUND 8",
+	"stations":
+		[
+			{
+			"name": "Sprint MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto3",
+			"info":"",
+			"image": "https://i.postimg.cc/0NVcSYXZ/Logo-Moto3.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto2",
+			"info":"",
+			"image": "https://i.postimg.cc/wB10hyKp/Logo-Moto2.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}
+		]
+	},
+
+	{
+	"name": "SOKOL INTERNATIONAL RACETRACK (KAZAJISTAN)",
+	"image": "",
+	"imageScale": "",
+	"info":"ROUND 9",
+	"stations":
+		[
+			{
+			"name": "Sprint MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto3",
+			"info":"",
+			"image": "https://i.postimg.cc/0NVcSYXZ/Logo-Moto3.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto2",
+			"info":"",
+			"image": "https://i.postimg.cc/wB10hyKp/Logo-Moto2.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}
+		]
+	},
+
+	{
+	"name": "TT CIRCUIT ASSEN (PAISES BAJOS)",
+	"image": "",
+	"imageScale": "",
+	"info":"ROUND 10",
+	"stations":
+		[
+			{
+			"name": "Sprint MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto3",
+			"info":"",
+			"image": "https://i.postimg.cc/0NVcSYXZ/Logo-Moto3.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto2",
+			"info":"",
+			"image": "https://i.postimg.cc/wB10hyKp/Logo-Moto2.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}
+		]
+	},
+
+	{
+	"name": "CIRCUITO SACHSENRING (ALEMANIA)",
+	"image": "",
+	"imageScale": "",
+	"info":"ROUND 11",
+	"stations":
+		[
+			{
+			"name": "Sprint MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "https://upstream.to/w7urvmrszdb8",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto3",
+			"info":"",
+			"image": "https://i.postimg.cc/0NVcSYXZ/Logo-Moto3.jpg",
+			"url": "https://upstream.to/fssu0bs19ud5",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto2",
+			"info":"",
+			"image": "https://i.postimg.cc/wB10hyKp/Logo-Moto2.jpg",
+			"url": "https://upstream.to/7zq5i23eyaxw",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "https://upstream.to/i9trzhbzbxx3",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}
+		]
+	},
+
+	{
+	"name": "SILVERSTONE CIRCUIT (GRAN BRETAÑA)",
+	"image": "",
+	"imageScale": "",
+	"info":"ROUND 12",
+	"stations":
+		[
+			{
+			"name": "Sprint MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto3",
+			"info":"",
+			"image": "https://i.postimg.cc/0NVcSYXZ/Logo-Moto3.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto2",
+			"info":"",
+			"image": "https://i.postimg.cc/wB10hyKp/Logo-Moto2.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}
+		]
+	},
+
+	{
+	"name": "RED BULL RING - SPIELBERG (AUSTRIA)",
+	"image": "https://i.postimg.cc/52B09Xhp/Logo-Gran-Premio-Red-Bull-Ring-Spielberg-Austria.jpg",
+	"imageScale": "",
+	"info":"ROUND 13",
+	"stations":
+		[
+			{
+			"name": "Sprint MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto3",
+			"info":"",
+			"image": "https://i.postimg.cc/0NVcSYXZ/Logo-Moto3.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto2",
+			"info":"",
+			"image": "https://i.postimg.cc/wB10hyKp/Logo-Moto2.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}
+		]
+	},
+
+	{
+	"name": "MOTORLAND ARAGON (ESPAÑA)",
+	"image": "",
+	"imageScale": "",
+	"info":"ROUND 14",
+	"stations":
+		[
+			{
+			"name": "Sprint MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto3",
+			"info":"",
+			"image": "https://i.postimg.cc/0NVcSYXZ/Logo-Moto3.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto2",
+			"info":"",
+			"image": "https://i.postimg.cc/wB10hyKp/Logo-Moto2.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}
+		]
+	},
+
+	{
+	"name": "MISANO WORLD CIRCUIT MARCO SIMONCELLI (ITALIA)",
+	"image": "",
+	"imageScale": "",
+	"info":"ROUND 15",
+	"stations":
+		[
+			{
+			"name": "Sprint MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto3",
+			"info":"",
+			"image": "https://i.postimg.cc/0NVcSYXZ/Logo-Moto3.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto2",
+			"info":"",
+			"image": "https://i.postimg.cc/wB10hyKp/Logo-Moto2.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}
+		]
+	},
+
+	{
+	"name": "BUDHH INTERNATIONAL CIRCUIT (INDIA)",
+	"image": "",
+	"imageScale": "",
+	"info":"ROUND 16",
+	"stations":
+		[
+			{
+			"name": "Sprint MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto3",
+			"info":"",
+			"image": "https://i.postimg.cc/0NVcSYXZ/Logo-Moto3.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto2",
+			"info":"",
+			"image": "https://i.postimg.cc/wB10hyKp/Logo-Moto2.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}
+		]
+	},
+
+	{
+	"name": "PERTAMINA MANDALIKA INTERNATIONAL CIRCUIT (INDONESIA)",
+	"image": "",
+	"imageScale": "",
+	"info":"ROUND 17",
+	"stations":
+		[
+			{
+			"name": "Sprint MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto3",
+			"info":"",
+			"image": "https://i.postimg.cc/0NVcSYXZ/Logo-Moto3.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto2",
+			"info":"",
+			"image": "https://i.postimg.cc/wB10hyKp/Logo-Moto2.jpg",
+			"url":"",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url":"",
+			"isHost":"true",
+            		"online":"true"
+			}
+		]
+	},
+
+	{
+	"name": "MOBILITY RESORT MOTEGI (JAPON)",
+	"image": "",
+	"imageScale": "",
+	"info":"ROUND 18",
+	"stations":
+		[
+			{
+			"name": "Sprint MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto3",
+			"info":"",
+			"image": "https://i.postimg.cc/0NVcSYXZ/Logo-Moto3.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto2",
+			"info":"",
+			"image": "https://i.postimg.cc/wB10hyKp/Logo-Moto2.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}
+		]
+	},
+
+	{
+	"name": "PHILLIP ISLAND (AUSTRALIA)",
+	"image": "",
+	"imageScale": "",
+	"info":"ROUND 19",
+	"stations":
+		[
+			{
+			"name": "Sprint MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto3",
+			"info":"",
+			"image": "https://i.postimg.cc/0NVcSYXZ/Logo-Moto3.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto2",
+			"info":"",
+			"image": "https://i.postimg.cc/wB10hyKp/Logo-Moto2.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}
+		]
+	},
+
+	{
+	"name": "CHANG INTERNATIONAL CIRCUIT (TAILANDIA)",
+	"image": "",
+	"imageScale": "",
+	"info":"ROUND 20",
+	"stations":
+		[
+			{
+			"name": "Sprint MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto3",
+			"info":"",
+			"image": "https://i.postimg.cc/0NVcSYXZ/Logo-Moto3.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto2",
+			"info":"",
+			"image": "https://i.postimg.cc/wB10hyKp/Logo-Moto2.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}
+		]
+	},
+
+	{
+	"name": "SEPANG INTERNATIONAL CIRCUIT (MALASIA)",
+	"image": "",
+	"imageScale": "",
+	"info":"ROUND 21",
+	"stations":
+		[
+			{
+			"name": "Sprint MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto3",
+			"info":"",
+			"image": "https://i.postimg.cc/0NVcSYXZ/Logo-Moto3.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto2",
+			"info":"",
+			"image": "https://i.postimg.cc/wB10hyKp/Logo-Moto2.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}
+		]
+	},
+
+	{
+	"name": " CIRCUITO RICARDO TORMO (ESPAÑA)",
+	"image": "",
+	"imageScale": "",
+	"info":"ROUND 22",
+	"stations":
+		[
+			{
+			"name": "Sprint MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto3",
+			"info":"",
+			"image": "https://i.postimg.cc/0NVcSYXZ/Logo-Moto3.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera Moto2",
+			"info":"",
+			"image": "https://i.postimg.cc/wB10hyKp/Logo-Moto2.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Carrera MotoGP",
+			"info":"",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}
+		]
+	}
+
+	
+	]
+}
+
+
+
+
+
+
+
+
