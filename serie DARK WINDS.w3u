@@ -7,9 +7,16 @@
 "info": "2022",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": @YIsus_mEx",
-"stations":
-
+"groups":
 	[
+
+	{
+	"name": "TEMPORADA 1",
+	"info": "2022",
+	"image": "https://i.postimg.cc/L5mYhMPT/serie-DAKR-WINDS-Temp-1.png",
+	"stations":
+	[
+
 	{
        	"name": "1x01 Monster Slayer ",
         "image": "https://pics.filmaffinity.com/dark_winds-690084760-large.jpg",
@@ -76,6 +83,87 @@
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 2",
+	"info": "",
+	"image": "https://i.postimg.cc/wB0TFsRh/serie-DAKR-WINDS-Temp-2.png",
+	"stations":
+	[
+
+	{
+       	"name": "2x01 Na'niłkaadii",
+        "image": "https://i.postimg.cc/wB0TFsRh/serie-DAKR-WINDS-Temp-2.png",
+        "url": "https://filemoon.sx/d/zonjse0j0x5o/Ver_drk_wnds_2x01_m720p_mkv.mp4",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x02 Wonders of the Unknown",
+        "image": "https://i.postimg.cc/wB0TFsRh/serie-DAKR-WINDS-Temp-2.png",
+        "url": "https://filemoon.sx/d/gzehgx7242ba/Ver_drk_wnds_2x02_m1080p_mkv.mp4",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x03 Antigonish",
+        "image": "https://i.postimg.cc/wB0TFsRh/serie-DAKR-WINDS-Temp-2.png",
+        "url": "https://filemoon.sx/d/ckacpvjx49r7/Ver_drk_wnds_2x03_m720p_mp4.mp4",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x04 The March",
+        "image": "https://i.postimg.cc/wB0TFsRh/serie-DAKR-WINDS-Temp-2.png",
+        "url": "https://filemoon.sx/d/4lp8wfy7j8my/Ver_drk_wnds_2x04_m720p_mp4.mp4",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "x05 Black Hole Sun",
+        "image": "https://i.postimg.cc/wB0TFsRh/serie-DAKR-WINDS-Temp-2.png",
+        "url": "https://filemoon.sx/d/mayz4xcyalwh/Ver_drk_wnds_2x05_m1080p_mkv.mp4",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x06 Hózhó náhásdlįį (Beauty is Restored) ",
+        "image": "https://i.postimg.cc/wB0TFsRh/serie-DAKR-WINDS-Temp-2.png",
+        "url": "https://filemoon.sx/d/sfr7org1l8wd/Ver_drk_wnds_2x06_m1080p_mkv.mp4",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+	]
+	}
+
+
 
 ]
 }
