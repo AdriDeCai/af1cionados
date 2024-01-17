@@ -8,7 +8,13 @@
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": @YIsus_mEx",
 "stations":
+	[
 
+	{
+	"name": "TEMPORADA 1",
+	"info": "2023",
+	"image": "https://i.postimg.cc/d1zgkrwJ/serie-LAZARUS-PROJECT-Temp-1.png",
+	"stations":
 	[
 	{
        	"name": "EPISODIO 1",
@@ -98,6 +104,106 @@
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 2",
+	"info": "2023",
+	"image": "https://i.postimg.cc/SNGtqw2S/serie-LAZARUS-PROJECT-Temp-2.png",
+	"stations":
+	[
+	{
+       	"name": "EPISODIO 1",
+        "image": "https://i.postimg.cc/SNGtqw2S/serie-LAZARUS-PROJECT-Temp-2.png",
+        "url": "https://filemoon.sx/d/qt3cwyj3m9xu/Ver_lazarus_2x01_1080p_cast_mp4.mp4",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 2",
+        "image": "https://i.postimg.cc/SNGtqw2S/serie-LAZARUS-PROJECT-Temp-2.png",
+        "url": "https://filemoon.sx/d/uygjorce31mw/Ver_lzrs_prjct_2x02_m1080p_mp4.mp4",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 3",
+        "image": "https://i.postimg.cc/SNGtqw2S/serie-LAZARUS-PROJECT-Temp-2.png",
+        "url": "https://filemoon.sx/d/ex50dcdtynvt/Ver_s02e03_1080p_Vose_mp4.mp4",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 4",
+        "image": "https://i.postimg.cc/SNGtqw2S/serie-LAZARUS-PROJECT-Temp-2.png",
+        "url": "https://filemoon.sx/d/pdumobe5kfkw/Ver_lazarus_2x04_720p_vose_mp4.mp4",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 5",
+        "image": "https://i.postimg.cc/SNGtqw2S/serie-LAZARUS-PROJECT-Temp-2.png",
+        "url": "https://filemoon.sx/d/azxfq8847cb7/Watch_lazarus_2x05_720p_vose_mp4.mp4",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 6",
+        "image": "https://i.postimg.cc/SNGtqw2S/serie-LAZARUS-PROJECT-Temp-2.png",
+        "url": "https://filemoon.sx/d/dox61xjxw6d8/Ver_the_lazarus_project_s02e06_vose_hdtv_720p_mp4.mp4",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 7",
+        "image": "https://i.postimg.cc/SNGtqw2S/serie-LAZARUS-PROJECT-Temp-2.png",
+        "url": "https://filemoon.sx/d/78urez6q19x1/Ver_the_lazarus_project_s02e07_vose_hdtv_720p_mp4.mp4",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 8",
+        "image": "https://i.postimg.cc/SNGtqw2S/serie-LAZARUS-PROJECT-Temp-2.png",
+        "url": "https://filemoon.sx/d/uidb9ygxylv4/Ver_the_lazarus_project_s02e08_vose_web_720p_tito_mkv.mp4",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	}
 
 ]
 }
+
