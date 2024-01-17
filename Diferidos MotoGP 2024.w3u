@@ -9,15 +9,23 @@
 "info": "",
 "groups": 
 	[
- 
+
 	{
 	"name": "CALENDARIO 2024",
 	"info":"",
-	"image": "https://i.postimg.cc/W1WdVJmf/Calendario-Moto-GP-2024.png",
-	"url": "https://upstream.to/f1ar39ncnotp",
-	"embed": "",
-	"isHost": "true",
-	"online": "true"
+	"image": "https://i.postimg.cc/W1WdVJmf/Calendario-Moto-GP-2024.png"
+	"stations":
+	[
+		{
+		"name": "CALENDARIO 2024",
+		"info":"",
+		"image": "https://i.postimg.cc/W1WdVJmf/Calendario-Moto-GP-2024.png",
+		"url": "https://upstream.to/f1ar39ncnotp",
+		"embed": "",
+		"isHost": "true",
+		"online": "true"
+		}
+	]
 	},
 
 	{
