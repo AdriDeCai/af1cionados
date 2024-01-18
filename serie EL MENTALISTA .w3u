@@ -1,15 +1,20 @@
-
-
 {
 "name": "EL MENTALISTA",
-"image": "https://pics.filmaffinity.com/the_mentalist-881533105-large.jpg",
+"image": "https://i.postimg.cc/nhHm000L/images.jpg",
 "url": "https://af1cionados.vercel.app/serie EL MENTALISTA .w3u",
-"info": "2008",
+"info": "2008-2010",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
-"telegram": @YIsus_mEx",
-"stations":
-
+"telegram": @Tintxi",
+"groups":
 	[
+ 
+	{
+	"name": "TEMPORADA 1",
+	"info": "2008-2009",
+	"image": "https://pics.filmaffinity.com/the_mentalist-881533105-large.jpg",
+	"stations":
+	[
+ 
 	{
        	"name": "1x01 Piloto",
         "image": "https://pics.filmaffinity.com/the_mentalist-881533105-large.jpg",
@@ -22,7 +27,7 @@
        	"import": false
        	},
 	{
-       	"name": "1x02 Pelo rojo y cinta plateada ",
+       	"name": "1x02 Pelo rojo y cinta plateada",
         "image": "https://pics.filmaffinity.com/the_mentalist-881533105-large.jpg",
         "url": "https://upstream.to/dhjn2r6aprr0",
        	"info": "2008",
@@ -77,7 +82,7 @@
        	"import": false
        	},
 	{
-       	"name": "1x07 Visión roja ",
+       	"name": "1x07 Visi n roja",
         "image": "https://pics.filmaffinity.com/the_mentalist-881533105-large.jpg",
         "url": "https://upstream.to/15v0azqndvjx",
        	"info": "2008",
@@ -88,7 +93,7 @@
        	"import": false
        	},
 	{
-       	"name": "1x08 La delgada línea roja",
+       	"name": "1x08 La delgada l nea roja",
         "image": "https://pics.filmaffinity.com/the_mentalist-881533105-large.jpg",
         "url": "https://upstream.to/4wq0igca9z28",
        	"info": "2008",
@@ -99,7 +104,7 @@
        	"import": false
        	},
 	{
-       	"name": "1x09 Rojo fuego ",
+       	"name": "1x09 Rojo fuego",
         "image": "https://pics.filmaffinity.com/the_mentalist-881533105-large.jpg",
         "url": "https://upstream.to/ujnevfp5fr5y",
        	"info": "2008",
@@ -110,7 +115,7 @@
        	"import": false
        	},
 	{
-       	"name": "1x10 Aulas rojas ",
+       	"name": "1x10 Aulas rojas",
         "image": "https://pics.filmaffinity.com/the_mentalist-881533105-large.jpg",
         "url": "https://upstream.to/wxs32ibfij9f",
        	"info": "2008",
@@ -263,6 +268,273 @@
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	}
+
+        ]
+	},
+ 
+	{
+	"name": "TEMPORADA 2",
+	"info": "2009-2010",
+	"image": "https://i.postimg.cc/j53P7tRY/em-2.jpg",
+	"stations":
+	[
+        
+        {
+       	"name": "2x01 Lo rojo de la redención",
+        "image": "https://i.postimg.cc/j53P7tRY/em-2.jpg",
+        "url": "https://filemoon.sx/d/dvsx2ok7zg77",
+       	"info": "2009",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x02 La letra escarlata",
+        "image": "https://i.postimg.cc/j53P7tRY/em-2.jpg",
+        "url": "https://filemoon.sx/d/1600kxv1jc6a",
+       	"info": "2009",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x03 Placa roja",
+        "image": "https://i.postimg.cc/j53P7tRY/em-2.jpg",
+        "url": "https://filemoon.sx/d/8386q0haiuz1",
+       	"info": "2009",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x04 Amenaza roja",
+        "image": "https://i.postimg.cc/j53P7tRY/em-2.jpg",
+        "url": "https://filemoon.sx/d/tbdkklpe3hk4",
+       	"info": "2009",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x05 Miedo rojo",
+        "image": "https://i.postimg.cc/j53P7tRY/em-2.jpg",
+        "url": "https://filemoon.sx/d/vnvwygv0ye8v",
+       	"info": "2009",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x06 Oro negro, sangre roja",
+        "image": "https://i.postimg.cc/j53P7tRY/em-2.jpg",
+        "url": "https://filemoon.sx/d/eby07fmn4f4d",
+       	"info": "2009",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x07 Toros rojos",
+        "image": "https://i.postimg.cc/j53P7tRY/em-2.jpg",
+        "url": "https://filemoon.sx/d/6lud8b7aeb1v",
+       	"info": "2009",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x08 Secretaria roja",
+        "image": "https://i.postimg.cc/j53P7tRY/em-2.jpg",
+        "url": "https://filemoon.sx/d/rbx0pj07n9i9",
+       	"info": "2009",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x09 Más valioso que un rubí",
+        "image": "https://i.postimg.cc/j53P7tRY/em-2.jpg",
+        "url": "https://filemoon.sx/d/e3prgj1ljuv6",
+       	"info": "2009",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x10 Lanzando fuego",
+        "image": "https://i.postimg.cc/j53P7tRY/em-2.jpg",
+        "url": "https://filemoon.sx/d/b1c36two5f9n",
+       	"info": "2009",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x11 De color de rosa",
+        "image": "https://i.postimg.cc/j53P7tRY/em-2.jpg",
+        "url": "https://filemoon.sx/d/q7pv1akxfl8q",
+       	"info": "2010",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x12 	Corazón sangrante",
+        "image": "https://i.postimg.cc/j53P7tRY/em-2.jpg",
+        "url": "https://filemoon.sx/d/mhkgqwppd2ir",
+       	"info": "2010",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x13 Línea roja",
+        "image": "https://i.postimg.cc/j53P7tRY/em-2.jpg",
+        "url": "https://filemoon.sx/d/f9cgjyca9dbt",
+       	"info": "2010",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x14 Sangre nuestra, sangre ajena",
+        "image": "https://i.postimg.cc/j53P7tRY/em-2.jpg",
+        "url": "https://filemoon.sx/d/wz9r4m6t2747",
+       	"info": "2010",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x15 Señuelo rojo",
+        "image": "https://i.postimg.cc/j53P7tRY/em-2.jpg",
+        "url": "https://filemoon.sx/d/d0ctywm1a5no",
+       	"info": "2010",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x16 Código rojo",
+        "image": "https://i.postimg.cc/j53P7tRY/em-2.jpg",
+        "url": "https://filemoon.sx/d/4qiqyju3k16z",
+       	"info": "2010",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x17 La caja roja",
+        "image": "https://i.postimg.cc/j53P7tRY/em-2.jpg",
+        "url": "https://filemoon.sx/d/vqrrj738hoxu",
+       	"info": "2010",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x18 Agua roja",
+        "image": "https://i.postimg.cc/j53P7tRY/em-2.jpg",
+        "url": "https://filemoon.sx/d/kcoojfeabwy7",
+       	"info": "2010",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x19 Dinero de sangre",
+        "image": "https://i.postimg.cc/j53P7tRY/em-2.jpg",
+        "url": "https://filemoon.sx/d/t0i2krz14580",
+       	"info": "2010",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x20 Rojo por los cuatro costados",
+        "image": "https://i.postimg.cc/j53P7tRY/em-2.jpg",
+        "url": "https://filemoon.sx/d/stmp026pcq8y",
+       	"info": "2010",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x21 21-18-11-18",
+        "image": "https://i.postimg.cc/j53P7tRY/em-2.jpg",
+        "url": "https://filemoon.sx/d/copm66wrfd6j",
+       	"info": "2010",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x22 Carta roja",
+        "image": "https://i.postimg.cc/j53P7tRY/em-2.jpg",
+        "url": "https://filemoon.sx/d/r8tg241kcxy7",
+       	"info": "2010",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x23 Cielo rojo al alba",
+        "image": "https://i.postimg.cc/j53P7tRY/em-2.jpg",
+        "url": "https://filemoon.sx/d/p8fme4hkxwjj",
+       	"info": "2010",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
 
 ]
 }
