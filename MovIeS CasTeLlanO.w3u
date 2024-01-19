@@ -1127,7 +1127,7 @@ cb=20231006211251&path-prefix=es",
         "online":"true" 
 		},
 		{
-       	"name": "Figuras Ocultas",
+       	"name": "FIGURAS OCULTAS",
         "image": "https://pics.filmaffinity.com/hidden_figures-810983135-mmed.jpg",
         "url": "https://upstream.to/t81mik6kztlr",
        	"info": "2016",
@@ -1149,9 +1149,7 @@ cb=20231006211251&path-prefix=es",
        	},
       	{
        	"name": "FLAMIN HOT, LA HISTORIA DE LOS CHEETOS PICANTES",
-        "image": "https://i.postimg.cc/SK7RVk5z/Flamin-Hot-la-historia-de-los-Cheetos-picantes-2023-
-
-Pelicula.jpg",
+        "image": "https://pics.filmaffinity.com/flamin_hot-362842518-large.jpg",
         "url": "https://upstream.to/q2rnyc0ebnqo",
        	"info": "2023",
        	"embed": "",
@@ -1358,16 +1356,6 @@ Pelicula.jpg",
         "online":"true" 
 		},
         {
-        "name": "INDESTRUCTIBLES 4, LOS",
-        "image": "https://i.postimg.cc/NGKggSf5/Indestructibles-4-Los-2023-Pelicula.jpg",
-        "url": "https://upstream.to/ww0rdsmnb2dz",
-        "info": "2023",
-        "embed": "",
-        "isHost": "true",
-        "online": "true",
-        "import": false
-        },
-        {
         "name": "INDIANA JONES Y EL DIAL DEL DESTINO",
         "image": "https://i.postimg.cc/3NwwxNWB/Indiana-Jones-y-el-dial-del-destino-2023-Pelicula.jpg",
         "url": "https://upstream.to/kw8fbke3s5qf",
@@ -1489,9 +1477,7 @@ Pelicula.jpg",
        	},
      	{
        	"name": "KATHRYN BIGELOW: HOLLYWOOD EN ACCION",
-        "image": "https://pics.filmaffinity.com/kathryn_bigelow_hollywood_sous_adrenaline-375775602-
-
-large.jpg",
+        "image": "https://pics.filmaffinity.com/kathryn_bigelow_hollywood_sous_adrenaline-806501527-large.jpg",
         "url": "https://upstream.to/2v8bjutnvu68",
        	"info": "2023",
        	"embed": "",
@@ -1555,7 +1541,7 @@ large.jpg",
        	},
      	{
        	"name": "LO QUE EL VIENTO SE LLEVÓ",
-        "image": "https://www.filmaffinity.com/es/film470268.html",
+        "image": "https://pics.filmaffinity.com/gone_with_the_wind-432251527-large.jpg",
         "url": "https://upstream.to/1oyooy2euxb7",
        	"info": "1939",
        	"embed": "",
@@ -1731,7 +1717,17 @@ large.jpg",
 		"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
-		{
+        {
+        "name": "MERCENARIOS 4, LOS (INDESTRUCTIBLES)",
+        "image": "https://i.postimg.cc/NGKggSf5/Indestructibles-4-Los-2023-Pelicula.jpg",
+        "url": "https://upstream.to/6lkv9lpj0fdt",
+        "info": "2023",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+        "import": false
+        },
+	{
        	"name": "MERKEL",
         "image": "https://pics.filmaffinity.com/merkel-572914449-large.jpg",
         "url": "https://upstream.to/5c77ju1qqpbm",
@@ -1815,9 +1811,7 @@ large.jpg",
         },
 		{
        	"name": "MISION IMPOSIBLE, SENTENCIA MORTAL PARTE 1",
-        "image": "https://pics.filmaffinity.com/mission_impossible_dead_reckoning_part_one-902615661-
-
-large.jpg",
+        "image": "https://pics.filmaffinity.com/mission_impossible_dead_reckoning_part_one-902615661-large.jpg",
         "url": "https://upstream.to/jejgtdaqxw3b",
        	"info": "2023",
        	"embed": "",
@@ -2433,17 +2427,17 @@ large.jpg",
 		"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
-	       {
- 	       	"name": "SHOOTING STARS",
-	        "image": "https://pics.filmaffinity.com/shooting_stars-551512962-large.jpg",
-	        "url": "https://upstream.to/pkvvlmt2cx07",
-        	"info": "2023",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9",
-        	"import": false
-        	},
+	{
+ 	"name": "SHOOTING STARS",
+	"image": "https://pics.filmaffinity.com/shooting_stars-551512962-large.jpg",
+	"url": "https://upstream.to/pkvvlmt2cx07",
+        "info": "2023",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "import": false
+        },
       	{
        	"name": "SIN MALOS ROLLOS",
         "image": "https://i.postimg.cc/g2ybmYC2/Sin_malos_rollos_(2023)(Pelicula).jpg",
@@ -2727,7 +2721,7 @@ large.jpg",
        	},
 		{
        	"name": "TE ESTOY AMANDO LOCAMENTE",
-        "image": "https://www.filmaffinity.com/es/film663650.html",
+        "image": "https://pics.filmaffinity.com/te_estoy_amando_locamente-779963184-large.jpg",
         "url": "https://upstream.to/us32b1olzn8v",
        	"info": "2023",
        	"embed": "",
@@ -2801,9 +2795,7 @@ large.jpg",
        	},
       	{
        	"name": "THE RINGLEADER, EL CASO DE BLING RING",
-        "image": "https://pics.filmaffinity.com/the_ringleader_the_case_of_the_bling_ring-562827232-
-
-large.jpg",
+        "image": "https://pics.filmaffinity.com/the_ringleader_the_case_of_the_bling_ring-562827232-large.jpg",
         "url": "https://upstream.to/7op64bj6jmo5",
        	"info": "2023",
        	"embed": "",
@@ -3002,9 +2994,7 @@ Screener.jpg",
 		},
       	{
        	"name": "VENUS Y SERENA, LA REVOLUCION EN LA PISTA",
-        "image": "https://pics.filmaffinity.com/venus_serena_ces_icones_que_l_amerique_ne_voulait_pas_voir-
-
-200430496-large.jpg",
+        "image": "https://pics.filmaffinity.com/venus_serena_ces_icones_que_l_amerique_ne_voulait_pas_voir-200430496-large.jpg",
         "url": "https://upstream.to/mwo4769rgv7u",
        	"info": "2023",
        	"embed": "",
