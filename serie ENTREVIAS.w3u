@@ -1,0 +1,103 @@
+
+
+{
+"name": "CIELO DE ENTREVIAS",
+"image": "https://pics.filmaffinity.com/entrevias-919168511-large.jpg",
+"url": "https://af1cionados.vercel.app/",
+"info": "2023",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": @YIsus_mEx",
+"stations":
+
+	[
+	{
+       	"name": "3x01 Un palo en el avispero",
+        "image": "https://pics.filmaffinity.com/entrevias-919168511-large.jpg",
+        "url": "https://upstream.to/ng1lq9pq5z4e",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x02 Culpa",
+        "image": "https://pics.filmaffinity.com/entrevias-919168511-large.jpg",
+        "url": "https://upstream.to/4uvoul6vguhc",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x03 Llanto",
+        "image": "https://pics.filmaffinity.com/entrevias-919168511-large.jpg",
+        "url": "https://upstream.to/2cm9szkftdq5",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x04 Machitos violentos",
+        "image": "https://pics.filmaffinity.com/entrevias-919168511-large.jpg",
+        "url": "https://upstream.to/7qtbt2f78cln",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x05 Segundas oportunidades",
+        "image": "https://pics.filmaffinity.com/entrevias-919168511-large.jpg",
+        "url": "https://upstream.to/m5mjcjuxprqc",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x06 Lo que dicta la conciencia ",
+        "image": "https://pics.filmaffinity.com/entrevias-919168511-large.jpg",
+        "url": "https://upstream.to/qojhrb64ay1q",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x07 Un buen muchacho ",
+        "image": "https://pics.filmaffinity.com/entrevias-919168511-large.jpg",
+        "url": "https://upstream.to/85rn8nul3ca1",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x08 El cielo de Entrevias ",
+        "image": "https://pics.filmaffinity.com/entrevias-919168511-large.jpg",
+        "url": "https://upstream.to/xhqdvm5x5k2u",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
