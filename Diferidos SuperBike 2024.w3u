@@ -1,0 +1,506 @@
+
+
+{
+    "name": "Diferidos SuperBike 2024",
+    "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+    "url": "https://af1cionados.vercel.app/",
+    "image": "https://images3.alphacoders.com/595/595865.jpg",
+    "telegram": "@AdriDeCai",
+    "info": "",
+    "groups": 
+	[
+
+	{
+	"name": "PHILLIP ISLAND (AUSTRALIA)",
+	"image": "https://i.postimg.cc/dQbZ3kwg/SBK-Round-1-Australia.png",
+	"imageScale": "",
+	"info":"ROUND 1",
+	"stations":
+		[
+			{
+			"name": "SBK SUPERPOLE RACE",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "SSP600 RACE 2",
+			"info":"",
+			"image": "https://i.postimg.cc/Xq8Kn52Z/SBK-Verde.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "SBK RACE 2",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}	
+		]
+	},
+
+	{
+	"name": "CIRCUIT BARCELONA (CATALUNYA)",
+	"image": "https://i.postimg.cc/N0ZBDXJc/SBK-Round-2-Catalu-a.png",
+	"imageScale": "",
+	"info":"ROUND 2",
+	"stations":
+		[
+			{
+			"name": "SBK SUPERPOLE RACE",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "SSP600 RACE 2",
+			"info":"",
+			"image": "https://i.postimg.cc/Xq8Kn52Z/SBK-Verde.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "SBK RACE 2",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}	
+		]
+	},
+
+	{
+	"name": "TT CIRCUIT ASSEN (HOLANDA)",
+	"image": "https://i.postimg.cc/HkfhPtgB/SBK-Round-3-Paises-Bajos.png",
+	"imageScale": "",
+	"info":"ROUND 3",
+	"stations":
+		[
+			{
+			"name": "SBK SUPERPOLE RACE",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "SSP600 RACE 2",
+			"info":"",
+			"image": "https://i.postimg.cc/Xq8Kn52Z/SBK-Verde.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "SBK RACE 2",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}	
+		]
+	},
+
+	{
+	"name": "EMILIA ROMAGNA (ITALIA)",
+	"image": "https://i.postimg.cc/nh7kMbyG/SBK-Round-4-Italia.png",
+	"imageScale": "",
+	"info":"ROUND 4",
+	"stations":
+		[
+			{
+			"name": "SBK SUPERPOLE RACE",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "SSP600 RACE 2",
+			"info":"",
+			"image": "https://i.postimg.cc/Xq8Kn52Z/SBK-Verde.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "SBK RACE 2",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}	
+		]
+	},
+
+	{
+	"name": "DONINGTON PARK (GRAN BRETAÑA)",
+	"image": "https://i.postimg.cc/8c6427VM/SBK-Round-5-Inglaterra.png",
+	"imageScale": "",
+	"info":"ROUND 5",
+	"stations":
+		[
+			{
+			"name": "SBK SUPERPOLE RACE",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "SSP600 RACE 2",
+			"info":"",
+			"image": "https://i.postimg.cc/Xq8Kn52Z/SBK-Verde.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "SBK RACE 2",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}	
+		]
+	},
+
+	{
+	"name": "AUTODROM MOST (REPUBLICA CHECA)",
+	"image": "https://i.postimg.cc/4yx7cMWd/SBK-Round-6-Chequia.png",
+	"imageScale": "",
+	"info":"ROUND 6",
+	"stations":
+		[
+			{
+			"name": "SBK SUPERPOLE RACE",
+			"info": "",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "SSP600 RACE 2",
+			"info": "",
+			"image": "https://i.postimg.cc/Xq8Kn52Z/SBK-Verde.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "SBK RACE 2",
+			"info": "",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}	
+		]
+	},
+
+	{
+	"name": "AUTODROMO INTERNACIONAL ALGARVE (PORTUGAL)",
+	"image": "https://i.postimg.cc/SNfGFFMX/SBK-Round-7-Portugal.png",
+	"imageScale": "",
+	"info":"ROUND 7",
+	"stations":
+		[
+			{
+			"name": "SBK SUPERPOLE RACE",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "SSP600 RACE 2",
+			"info":"",
+			"image": "https://i.postimg.cc/Xq8Kn52Z/SBK-Verde.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "SBK RACE 2",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}	
+		]
+	},
+
+	{
+	"name": "BALATON PARK CIRCUIT (HUNGRIA)",
+	"image": "https://i.postimg.cc/PrMrmKgs/SBK-Round-8-Hungria.png",
+	"imageScale": "",
+	"info":"ROUND 8",
+	"stations":
+		[
+			{
+			"name": "SBK SUPERPOLE RACE",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "SSP600 RACE 2",
+			"info":"",
+			"image": "https://i.postimg.cc/Xq8Kn52Z/SBK-Verde.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "SBK RACE 2",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}	
+		]
+	},		
+
+	{
+	"name": "CIRCUIT DE NEVERS MAGNY-COURS (FRANCIA) ",
+	"image": "https://i.postimg.cc/fWGzdyBd/SBK-Round-9-Francia.png",
+	"imageScale": "",
+	"info":"ROUND 9",
+	"stations":
+		[
+			{
+			"name": "SBK SUPERPOLE RACE",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "SSP600 RACE 2",
+			"info":"",
+			"image": "https://i.postimg.cc/Xq8Kn52Z/SBK-Verde.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "SBK RACE 2",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}	
+		]
+	
+	},
+
+	{
+	"name": "MANDALIKA (INDONESIA)",
+	"image": "https://i.postimg.cc/2y3ypyDm/02-Motul-Indonesian-Round.png",
+	"imageScale": "",
+	"info":"ROUND 2",
+	"stations":
+		[
+			{
+			"name": "SBK SUPERPOLE RACE",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "https://upstream.to/jiccmpjm0xnu",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "SSP600 RACE 2",
+			"info":"",
+			"image": "https://i.postimg.cc/Xq8Kn52Z/SBK-Verde.jpg",
+			"url": "https://upstream.to/zo76f44gfc4i",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "SBK RACE 2",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "https://upstream.to/vcag55s0x4jj",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}	
+		]
+	},	
+
+	{
+	"name": "ENZO E DINO FERRARI DI IMOLA (ITALIA)",
+	"image": "https://i.postimg.cc/63S9YpKD/SBK-Round-10-Italia.png",
+	"imageScale": "",
+	"info":"ROUND 10",
+	"stations":
+		[
+			{
+			"name": "SBK SUPERPOLE RACE",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "SSP600 RACE 2",
+			"info":"",
+			"image": "https://i.postimg.cc/Xq8Kn52Z/SBK-Verde.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "SBK RACE 2",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}	
+		]
+	},
+
+	{
+	"name": "MOTORLAND ARAGON (ESPAÑA)",
+	"image": "https://i.postimg.cc/WbmnZ9MP/SBK-Round-11-Arag-n.png",
+	"imageScale": "",
+	"info":"ROUND 11",
+	"stations":
+		[
+			{
+			"name": "SBK SUPERPOLE RACE",
+			"info": "",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "SSP600 RACE 2",
+			"info": "",
+			"image": "https://i.postimg.cc/Xq8Kn52Z/SBK-Verde.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "SBK RACE 2",
+			"info": "",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}	
+		]
+	},
+
+	{
+	"name": "JEREZ DE LA FRONTERA (ESPAÑA)",
+	"image": "https://i.postimg.cc/HnqhLVD4/SBK-Round-12-Spain.png",
+	"imageScale": "",
+	"info":"ROUND 12",
+	"stations":
+		[
+			{
+			"name": "SBK SUPERPOLE RACE",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "SSP600 RACE 2",
+			"info":"",
+			"image": "https://i.postimg.cc/Xq8Kn52Z/SBK-Verde.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "SBK RACE 2",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}	
+		]
+	}
+
+
+	
+	]
+}
+
+
+
+
+
+
+
+
