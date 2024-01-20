@@ -1224,15 +1224,24 @@ cb=20231006211251&path-prefix=es",
 		"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
-		{
-        "name": "GRACIAS POR TODO",
-        "info": "2020",
-        "image": "https://i.postimg.cc/hjdvC9c5/Gracias-por-todo-2020-Pelicula.jpg",
-        "url": "http://vidmoly.me/w/aq2ryi7ukier",
-		"embed":"",
+	{
+        "name": "GODZILLA vs KONG",
+        "info": "2021",
+        "image": "https://pics.filmaffinity.com/godzilla_vs_kong-370227109-large.jpg",
+        "url": "https://filemoon.sx/d/w71makz4t9kh/Godzilla_vs._Kong__2021_Pelicula_.mp4",
+	"embed":"",
         "isHost":"true",
     	"online":"true" 
 		},
+	{
+        "name": "GRACIAS POR TODO",
+        "info": "2020",
+        "image": "https://i.postimg.cc/hjdvC9c5/Gracias-por-todo-2020-Pelicula.jpg",
+        "url": "",
+	"embed":"",
+        "isHost":"true",
+    	"online":"true" 
+	},
      	{
        	"name": "GRAN TURISMO",
         "image": "https://i.postimg.cc/cChjfF0N/Gran-Turismo-2023-Pelicula.jpg",
@@ -2154,7 +2163,17 @@ cb=20231006211251&path-prefix=es",
        	"online":"true",
        	"import": false
        	},
-		{
+	{
+     	"name": "PEOR EQUIPO DEL MUNDO, EL",
+        "image": "https://pics.filmaffinity.com/next_goal_wins-129534940-large.jpg",
+       	"url": "https://upstream.to/i5n3u6gxawp4",
+       	"info":"2022",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true",
+       	"import": false
+       	},
+	{
      	"name": "PEOR VECINO DEL MUNDO, EL",
         "image": "https://i.postimg.cc/MHZKMx5j/Peor-vecino-del-Mundo-El-2022-Pelicula.jpg",
        	"url": "https://upstream.to/i5n3u6gxawp4",
@@ -2164,7 +2183,7 @@ cb=20231006211251&path-prefix=es",
        	"online":"true",
        	"import": false
        	},
-		{
+	{
      	"name": "PESO DE LA DUDA, EL",
         "image": "https://i.postimg.cc/vHgGKyM5/Peso-de-la-duda-El-2022-Pelicula.png",
        	"url": "https://upstream.to/ogrll7l1lv4x",
