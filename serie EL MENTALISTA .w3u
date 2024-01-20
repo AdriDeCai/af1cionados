@@ -532,7 +532,281 @@
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	}
+]
+},
 
+	{
+	"name": "TEMPORADA 3",
+	"info": "2010-2011",
+	"image": "https://i.postimg.cc/B6JDJKzd/tercera-temporada.jpg",
+	"stations":
+	[
+ 
+        {
+       	"name": "3x01 Cielo rojo al anochecer",
+        "image": "https://i.postimg.cc/B6JDJKzd/tercera-temporada.jpg",
+        "url": "https://filemoon.sx/d/5x3wwxp6zhmg",
+       	"info": "2010",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x02 Sangre falsa",
+        "image": "https://i.postimg.cc/B6JDJKzd/tercera-temporada.jpg",
+        "url": "https://filemoon.sx/d/r9mv72vxq1wi",
+       	"info": "2010",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x03 Con sangre en las manos",
+        "image": "https://i.postimg.cc/B6JDJKzd/tercera-temporada.jpg",
+        "url": "https://filemoon.sx/d/yuyw6e1baxbo",
+       	"info": "2010",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x04 Moqueta roja",
+        "image": "https://i.postimg.cc/B6JDJKzd/tercera-temporada.jpg",
+        "url": "https://filemoon.sx/d/rkpjjuq9q34x",
+       	"info": "2010",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x05 Caballos rojos",
+        "image": "https://i.postimg.cc/B6JDJKzd/tercera-temporada.jpg",
+        "url": "https://filemoon.sx/d/4lcga3y4xtcm",
+       	"info": "2010",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x06 Chanel rosa",
+        "image": "https://i.postimg.cc/B6JDJKzd/tercera-temporada.jpg",
+        "url": "https://filemoon.sx/d/0utlb8wnxn48",
+       	"info": "2010",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x07 Al rojo vivo",
+        "image": "https://i.postimg.cc/B6JDJKzd/tercera-temporada.jpg",
+        "url": "https://filemoon.sx/d/pco8jym47ew6",
+       	"info": "2010",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x08 Bola de fuego",
+        "image": "https://i.postimg.cc/B6JDJKzd/tercera-temporada.jpg",
+        "url": "https://filemoon.sx/d/gx9dq4nvoird",
+       	"info": "2010",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x09 Luna roja",
+        "image": "https://i.postimg.cc/B6JDJKzd/tercera-temporada.jpg",
+        "url": "https://filemoon.sx/d/kvabi6iuj5hv",
+       	"info": "2010",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x10 Duendecillo rojo",
+        "image": "https://i.postimg.cc/B6JDJKzd/tercera-temporada.jpg",
+        "url": "https://filemoon.sx/d/pyjn1sb1jx2b",
+       	"info": "2010",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x11 Combate sangriento",
+        "image": "https://i.postimg.cc/B6JDJKzd/tercera-temporada.jpg",
+        "url": "https://filemoon.sx/d/moh2erglgbup",
+       	"info": "2011",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x12 Sabuesos rojos",
+        "image": "https://i.postimg.cc/B6JDJKzd/tercera-temporada.jpg",
+        "url": "https://filemoon.sx/d/jnzwot8qkdsb",
+       	"info": "2011",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x13 Alerta roja",
+        "image": "https://i.postimg.cc/B6JDJKzd/tercera-temporada.jpg",
+        "url": "https://filemoon.sx/d/ev0v3vlbno6k",
+       	"info": "2011",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x14 Sangre por sangre",
+        "image": "https://i.postimg.cc/B6JDJKzd/tercera-temporada.jpg",
+        "url": "https://filemoon.sx/d/f8ap4ryj1f2x",
+       	"info": "2011",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x15 Oro rojo",
+        "image": "https://i.postimg.cc/B6JDJKzd/tercera-temporada.jpg",
+        "url": "https://filemoon.sx/d/stsrll6xqgsv",
+       	"info": "2011",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x16 Reina roja",
+        "image": "https://i.postimg.cc/B6JDJKzd/tercera-temporada.jpg",
+        "url": "https://filemoon.sx/d/0z439n72gcc9",
+       	"info": "2011",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x17 Torrente sanguíneo",
+        "image": "https://i.postimg.cc/B6JDJKzd/tercera-temporada.jpg",
+        "url": "https://filemoon.sx/d/luk5d459w0l6",
+       	"info": "2011",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x18 La milla roja",
+        "image": "https://i.postimg.cc/B6JDJKzd/tercera-temporada.jpg",
+        "url": "https://filemoon.sx/d/0x9woyseok49",
+       	"info": "2011",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x19 Todas las rosas tienen espinas",
+        "image": "https://i.postimg.cc/B6JDJKzd/tercera-temporada.jpg",
+        "url": "https://filemoon.sx/d/d5gowi0mu1g8",
+       	"info": "2011",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x20 Tachado en rojo",
+        "image": "https://i.postimg.cc/B6JDJKzd/tercera-temporada.jpg",
+        "url": "https://filemoon.sx/d/wxsoz8dhyr9l",
+       	"info": "2011",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x21 Sangre bastarda",
+        "image": "https://i.postimg.cc/B6JDJKzd/tercera-temporada.jpg",
+        "url": "https://filemoon.sx/d/azxtnh0yimqi",
+       	"info": "2011",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x22 Rapsodia en rojo",
+        "image": "https://i.postimg.cc/B6JDJKzd/tercera-temporada.jpg",
+        "url": "https://filemoon.sx/d/2yktbqad6ady",
+       	"info": "2011",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x23 Fresas con nata (Parte 1)",
+        "image": "https://i.postimg.cc/B6JDJKzd/tercera-temporada.jpg",
+        "url": "https://filemoon.sx/d/0kdoxx8z0e9w",
+       	"info": "2011",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+	},
+	{
+       	"name": "3x24 Fresas con nata (Parte 2)",
+        "image": "https://i.postimg.cc/B6JDJKzd/tercera-temporada.jpg",
+        "url": "https://filemoon.sx/d/wiefbetvb0id",
+       	"info": "2011",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+	}
+ 
 ]
 }
 
