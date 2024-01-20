@@ -806,9 +806,282 @@
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
 	}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 4",
+	"info": "2011-2012",
+	"image": "https://i.postimg.cc/28P3SK0R/4-TEMPORADA.jpg",
+	"stations":
+	[
  
-]
-}
+        {
+       	"name": "4x01 Cintas rojas",
+        "image": "https://i.postimg.cc/28P3SK0R/4-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/jgrygxqgifqk",
+       	"info": "2011",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "4x02 Agenda roja",
+        "image": "https://i.postimg.cc/28P3SK0R/4-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/1kf9h80yh6p7",
+       	"info": "2011",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "4x03 Un precioso globo rojo",
+        "image": "https://i.postimg.cc/28P3SK0R/4-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/c9yikb8ikfwi",
+       	"info": "2011",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "4x04 Rojo de Texas",
+        "image": "https://i.postimg.cc/28P3SK0R/4-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/hqqltfxb7qmi",
+       	"info": "2011",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "4x05 Sangre y arena",
+        "image": "https://i.postimg.cc/28P3SK0R/4-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/3p5tpa22e4pq",
+       	"info": "2011",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "4x06 ¿Dónde está Carmine O'Brien?",
+        "image": "https://i.postimg.cc/28P3SK0R/4-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/h5ea61fxcean",
+       	"info": "2011",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "4x07 Luz roja intermitente",
+        "image": "https://i.postimg.cc/28P3SK0R/4-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/j5zm2sgqk3sq",
+       	"info": "2011",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "4x08 Mechas rosas",
+        "image": "https://i.postimg.cc/28P3SK0R/4-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/ppktu03z84ga",
+       	"info": "2011",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "4x09 Camiseta roja",
+        "image": "https://i.postimg.cc/28P3SK0R/4-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/6ktetq6k225h",
+       	"info": "2011",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "4x10 Fuga en rojo",
+        "image": "https://i.postimg.cc/28P3SK0R/4-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/109l9qc1uxtf",
+       	"info": "2011",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "4x11 Apuesta siempre al rojo",
+        "image": "https://i.postimg.cc/28P3SK0R/4-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/zr8f4ojo953y",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "4x12 Recuerdos de un amor sangriento",
+        "image": "https://i.postimg.cc/28P3SK0R/4-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/zhy9g00bhhew",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "4x13 El rojo es el nuevo negro",
+        "image": "https://i.postimg.cc/28P3SK0R/4-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/1zgw9150pz6l",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "4x14 Al primer rubor",
+        "image": "https://i.postimg.cc/28P3SK0R/4-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/qfco3vl917h1_",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "4x15 La guerra de las dos rosas",
+        "image": "https://i.postimg.cc/28P3SK0R/4-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/9docab9wrei7",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "4x16 Una nube roja",
+        "image": "https://i.postimg.cc/28P3SK0R/4-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/sm7yjwvc3isa",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "4x17 Burdeos barato",
+        "image": "https://i.postimg.cc/28P3SK0R/4-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/16ufrfxnignh",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "4x18 Mejillas sonrosadas",
+        "image": "https://i.postimg.cc/28P3SK0R/4-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/6dlf93vxlbf2",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "4x19 Champán rosado con hielo",
+        "image": "https://i.postimg.cc/28P3SK0R/4-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/lc9lxmwtaqhk",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "4x20 Algo huele a podrido en Redmund",
+        "image": "https://i.postimg.cc/28P3SK0R/4-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/79eaxi4n2io9",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "4x21 Zapatitos de rubí",
+        "image": "https://i.postimg.cc/28P3SK0R/4-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/9m2ehkwn4qpx",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "4x22 Adiós, y gracias por todos los salmonetes",
+        "image": "https://i.postimg.cc/28P3SK0R/4-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/xg41636e0730",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "4x23 Un, dos, tres, al escondite rojo inglés",
+        "image": "https://i.postimg.cc/28P3SK0R/4-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/35d629j7lsi1",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+	},
+	{
+       	"name": "4x24 El sombrero carmesí",
+        "image": "https://i.postimg.cc/28P3SK0R/4-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/qk6m7hlv7mnu",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+	}
+	]
+	}
 
 ]
 }
