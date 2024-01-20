@@ -1232,15 +1232,6 @@ cb=20231006211251&path-prefix=es",
 	"embed":"",
         "isHost":"true",
     	"online":"true" 
-		},
-	{
-        "name": "GRACIAS POR TODO",
-        "info": "2020",
-        "image": "https://i.postimg.cc/hjdvC9c5/Gracias-por-todo-2020-Pelicula.jpg",
-        "url": "",
-	"embed":"",
-        "isHost":"true",
-    	"online":"true" 
 	},
      	{
        	"name": "GRAN TURISMO",
@@ -1250,7 +1241,7 @@ cb=20231006211251&path-prefix=es",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9",
+	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
 		{
@@ -1304,7 +1295,16 @@ cb=20231006211251&path-prefix=es",
         "isHost":"true",
         "online":"true" 
 		},
-		{
+	{
+        "name": "HISTORIA DE DOS CIUDADES",
+        "info": "1980",
+        "image": "https://pics.filmaffinity.com/hallmark_hall_of_fame_a_tale_of_two_cities_tv-747445932-large.jpg",
+        "url": "",
+	"embed":"",
+        "isHost":"true",
+        "online":"true" 
+	},
+	{
         "name": "HOLY SPIDER",
         "info": "2022",
         "image": "https://i.postimg.cc/fTQDtGCp/Holy-Spider-2022-Pelicula.jpg",
@@ -2166,7 +2166,7 @@ cb=20231006211251&path-prefix=es",
 	{
      	"name": "PEOR EQUIPO DEL MUNDO, EL",
         "image": "https://pics.filmaffinity.com/next_goal_wins-129534940-large.jpg",
-       	"url": "https://upstream.to/i5n3u6gxawp4",
+       	"url": "https://filemoon.sx/d/xeibhf74t7te/Peor_equipo_del_Mundo__2023_Pelicula_.mp4",
        	"info":"2022",
        	"embed":"",
        	"isHost":"true",
