@@ -1,0 +1,125 @@
+
+
+{
+"name": "FARGO [TEMP 5]",
+"image": "https://pics.filmaffinity.com/fargo_v-822311248-large.jpg",
+"url": "https://af1cionados.vercel.app/",
+"info": "2023",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": @YIsus_mEx",
+"stations":
+
+	[
+	{
+       	"name": "5x01 The Tragedy of the Commons",
+        "image": "https://pics.filmaffinity.com/fargo_v-822311248-large.jpg",
+        "url": "https://upstream.to/pwi2fwu9lq46",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "5x02 Trials and Tribulations",
+        "image": "https://pics.filmaffinity.com/fargo_v-822311248-large.jpg",
+        "url": "https://upstream.to/2syv9qqhimz1",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "5x03 The Paradox of Intermediate Transactions",
+        "image": "https://pics.filmaffinity.com/fargo_v-822311248-large.jpg",
+        "url": "https://upstream.to/pixbc7oscwb3",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "5x04 Insolubilia",
+        "image": "https://pics.filmaffinity.com/fargo_v-822311248-large.jpg",
+        "url": "https://upstream.to/krxe4xwslsa7",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "5x05 The Tiger",
+        "image": "https://pics.filmaffinity.com/fargo_v-822311248-large.jpg",
+        "url": "https://upstream.to/an38gbcjjhwt",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "5x06 The Tender Trap",
+        "image": "https://pics.filmaffinity.com/fargo_v-822311248-large.jpg",
+        "url": "https://upstream.to/i4yodj5vaeea",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "5x07 Linda",
+        "image": "https://pics.filmaffinity.com/fargo_v-822311248-large.jpg",
+        "url": "https://upstream.to/y09pwwfnt1lj",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "5x08 Blanket ",
+        "image": "https://pics.filmaffinity.com/fargo_v-822311248-large.jpg",
+        "url": "https://upstream.to/gx9c0amxn2nm",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "5x09 The Useless Hand",
+        "image": "https://pics.filmaffinity.com/fargo_v-822311248-large.jpg",
+        "url": "https://upstream.to/3yige1s61hxp",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "5x10 Bisquik ",
+        "image": "https://pics.filmaffinity.com/fargo_v-822311248-large.jpg",
+        "url": "https://upstream.to/gzoh67pin9lu",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
