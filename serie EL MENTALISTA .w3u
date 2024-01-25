@@ -1081,6 +1081,258 @@
        	"import": false
 	}
 	]
+	},
+
+	{
+	"name": "TEMPORADA 5",
+	"info": "2012-2013",
+	"image": "https://i.postimg.cc/LhKd9F63/5-TEMPORADA.jpg",
+	"stations":
+	[
+ 
+        {
+       	"name": "5x01 La cuenta de vidrio roja",
+        "image": "https://i.postimg.cc/LhKd9F63/5-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/o0iz46eak3iv",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "5x02 La baya del diablo",
+        "image": "https://i.postimg.cc/LhKd9F63/5-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/bzxef3ccozcx",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "5x03 Ni un centavo rojo",
+        "image": "https://i.postimg.cc/LhKd9F63/5-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/fkaqdiampl2d",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "5x04 Contienda de sangre",
+        "image": "https://i.postimg.cc/LhKd9F63/5-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/78lprtwu5241",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "5x05 Amanecer rojo",
+        "image": "https://i.postimg.cc/LhKd9F63/5-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/66shuqdkz59k",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "5x06 Criba de cerezas",
+        "image": "https://i.postimg.cc/LhKd9F63/5-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/c0t15r9k62vm",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "5x07 Sangre en exclusiva",
+        "image": "https://i.postimg.cc/LhKd9F63/5-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/3fdxhc25q0ea",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "5x08 Velas rojas al atardecer",
+        "image": "https://i.postimg.cc/LhKd9F63/5-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/n32myzm9s5pj",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "5x09 Rojo cereza",
+        "image": "https://i.postimg.cc/LhKd9F63/5-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/qhdiuehpqmtl",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "5x10 Marihuana roja",
+        "image": "https://i.postimg.cc/LhKd9F63/5-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/yossna1ffstx",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "5x11 Días de vino y rosas",
+        "image": "https://i.postimg.cc/LhKd9F63/5-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/iibfz0d9mvw4",
+       	"info": "2013",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "5x12 El cochecito rojo",
+        "image": "https://i.postimg.cc/LhKd9F63/5-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/q3k00nqu5rud",
+       	"info": "2013",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "5x13 La caseta roja",
+        "image": "https://i.postimg.cc/LhKd9F63/5-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/ce75n6fla7pe",
+       	"info": "2013",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "5x14 Con uñas rojas y dientes",
+        "image": "https://i.postimg.cc/LhKd9F63/5-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/cm7km909q808",
+       	"info": "2013",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "5x15 Esmalte de uñas rojo charol",
+        "image": "https://i.postimg.cc/LhKd9F63/5-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/7filqbd0y8mt",
+       	"info": "2013",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "5x16 Correrá la sangre",
+        "image": "https://i.postimg.cc/LhKd9F63/5-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/8s5ea4qr427f",
+       	"info": "2013",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "5x17 Rojo, blanco y azul",
+        "image": "https://i.postimg.cc/LhKd9F63/5-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/3bj3eguc46j9",
+       	"info": "2013",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "5x18 Detrás del telón rojo",
+        "image": "https://i.postimg.cc/LhKd9F63/5-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/ltg7spuxojl7",
+       	"info": "2013",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "5x19 Un día marcado en escarlata",
+        "image": "https://i.postimg.cc/LhKd9F63/5-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/s5qx2e4szqgb",
+       	"info": "2013",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "5x20 Pastelitos de terciopelo rojo",
+        "image": "https://i.postimg.cc/LhKd9F63/5-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/2yd0ahiesmyy",
+       	"info": "2013",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "5x21 Desazón roja",
+        "image": "https://i.postimg.cc/LhKd9F63/5-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/dp7r8qi1jc0y",
+       	"info": "2013",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "5x22 Las reglas de John el Rojo",
+        "image": "https://i.postimg.cc/LhKd9F63/5-TEMPORADA.jpg",
+        "url": "https://filemoon.sx/d/7azh7f4nazam",
+       	"info": "2013",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
 	}
 
 ]
