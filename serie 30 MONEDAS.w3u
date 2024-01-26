@@ -1,13 +1,119 @@
 {
 "name": "30 MONEDAS",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
-"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%2030%20MONEDAS.w3u",
+"url": "https://af1cionados.vercel.app/serie%2030%20MONEDAS.w3u",
 "image": "https://images3.alphacoders.com/595/595865.jpg",
 "telegram": "@yIsus_mEx",
 "info": "",
-"stations":
-
+"groups":
 	[
+
+	{
+	"name": "TEMPORADA 1",
+	"info": "2020",
+	"image": "https://pics.filmaffinity.com/30_monedas-184810448-large.jpg",
+	"stations":
+	[
+
+	{
+       	"name": "1x01 Telarañas",
+        "image": "https://pics.filmaffinity.com/30_monedas-184810448-large.jpg",
+        "url": "https://upstream.to/tzzmsyd1q3q4",
+       	"info": "2020",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x02 Ouija",
+        "image": "https://pics.filmaffinity.com/30_monedas-184810448-large.jpg",
+        "url": "https://upstream.to/12z1zoearpyq",
+       	"info": "2020",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x03 El espejo",
+        "image": "https://pics.filmaffinity.com/30_monedas-184810448-large.jpg",
+        "url": "https://upstream.to/9qwalr7e5oz8",
+       	"info": "2020",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x04 Episodio 4",
+        "image": "https://pics.filmaffinity.com/30_monedas-184810448-large.jpg",
+        "url": "https://upstream.to/ucbnixkfvq6i",
+       	"info": "2020",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x05 El doble",
+        "image": "https://pics.filmaffinity.com/30_monedas-184810448-large.jpg",
+        "url": "https://upstream.to/6jij71860c34",
+       	"info": "2020",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x06 Guerra Santa ",
+        "image": "https://pics.filmaffinity.com/30_monedas-184810448-large.jpg",
+        "url": "https://upstream.to/f6xe383931c0",
+       	"info": "2020",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x07 La caja de cristal ",
+        "image": "https://pics.filmaffinity.com/30_monedas-184810448-large.jpg",
+        "url": "https://upstream.to/75l9g7uia7of",
+       	"info": "2020",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x08 Sacrificio",
+        "image": "https://pics.filmaffinity.com/pablo_escobar_el_patron_del_mal-432126437-large.jpg",
+        "url": "https://filemoon.sx/d/htlouv4hviku/30_Coins__30_Monedas__S01E08.mp4",
+       	"info": "2020",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	},
+
+
+	{
+	"name": "TEMPORADA 2",
+	"info": "2023",
+	"image": "https://pics.filmaffinity.com/30_monedas_t2-490944362-large.jpg",
+	"stations":
+		[
+
 	       {
  	       	"name": "EL PUEBLO FANTASMA",
 	        "image": "https://pics.filmaffinity.com/30_monedas_t2-490944362-large.jpg",
@@ -96,6 +202,8 @@
 			"userAgent":"PlusMediaPlayer/0.0.9",
         	"import": false
         	}
+		]
+	}
 
-	]
+]
 }
