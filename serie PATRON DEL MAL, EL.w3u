@@ -779,6 +779,50 @@
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
+       	},
+	{
+       	"name": "1x71 El crimen que hizo reaccionar al país",
+        "image": "https://pics.filmaffinity.com/pablo_escobar_el_patron_del_mal-432126437-large.jpg",
+        "url": "https://filemoon.sx/d/0n5fukdlkr94/EL_Patron_Del_Mal_S01E71.mp4",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x72 El país se conmociona con la perdida de este valiente",
+        "image": "https://pics.filmaffinity.com/pablo_escobar_el_patron_del_mal-432126437-large.jpg",
+        "url": "https://filemoon.sx/d/t17zfcqis7bw/EL_Patron_Del_Mal_S01E72.mp4",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x73 El Gobierno se compromete a dar con los asesinos",
+        "image": "https://pics.filmaffinity.com/pablo_escobar_el_patron_del_mal-432126437-large.jpg",
+        "url": "https://filemoon.sx/d/6eep6xim3iis/EL_Patron_Del_Mal_S01E73.mp4",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x74 Ana María Cano busca la seguridad de El Espectador ",
+        "image": "https://pics.filmaffinity.com/pablo_escobar_el_patron_del_mal-432126437-large.jpg",
+        "url": "https://filemoon.sx/d/22b3lz3yuxxw/EL_Patron_Del_Mal_S01E74.mp4",
+       	"info": "2012",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
        	}
 
 
