@@ -1,0 +1,103 @@
+
+
+{
+"name": "ROBOS HISTORICOS",
+"image": "https://i.postimg.cc/RFshk8jv/Robos-Historicos-2023-Do-Cu-Serie.png",
+"url": "https://af1cionados.vercel.app/",
+"info": "2023",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": @YIsus_mEx",
+"stations":
+
+	[
+	{
+       	"name": "EPISODIO 1",
+        "image": "https://i.postimg.cc/RFshk8jv/Robos-Historicos-2023-Do-Cu-Serie.png",
+        "url": "https://filemoon.sx/d/l4yxpgb5gp47/Robos_historicos_1x01_cine_cine.mp4",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 2",
+        "image": "https://i.postimg.cc/RFshk8jv/Robos-Historicos-2023-Do-Cu-Serie.png",
+        "url": "https://filemoon.sx/d/yyv69ziiarpi/Robos_historicos_1x02_cine_cine.mp4",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 3",
+        "image": "https://i.postimg.cc/RFshk8jv/Robos-Historicos-2023-Do-Cu-Serie.png",
+        "url": "https://filemoon.sx/d/mkpkvmwg2yfj/Robos_historicos_1x03_cine_cine.mp4",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 4",
+        "image": "https://i.postimg.cc/RFshk8jv/Robos-Historicos-2023-Do-Cu-Serie.png",
+        "url": "https://filemoon.sx/d/h7bwyze5a2kf/Robos_historicos_1x04_cine_cine.mp4",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 5",
+        "image": "https://i.postimg.cc/RFshk8jv/Robos-Historicos-2023-Do-Cu-Serie.png",
+        "url": "https://filemoon.sx/d/om6283bbr94a/Robos_historicos_1x05_cine_cine.mp4",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 6",
+        "image": "https://i.postimg.cc/RFshk8jv/Robos-Historicos-2023-Do-Cu-Serie.png",
+        "url": "https://filemoon.sx/d/m9cs469ecfk3/Robos_historicos_1x06_cine_cine.mp4",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 7",
+        "image": "https://i.postimg.cc/RFshk8jv/Robos-Historicos-2023-Do-Cu-Serie.png",
+        "url": "https://filemoon.sx/d/gm2tqk5re4nk/Robos_historicos_1x07_cine_cine.mp4",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 8",
+        "image": "https://i.postimg.cc/RFshk8jv/Robos-Historicos-2023-Do-Cu-Serie.png",
+        "url": "https://filemoon.sx/d/99achyezpdkm/Robos_historicos_1x08_cine_cine.mp4",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
