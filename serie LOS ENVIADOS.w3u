@@ -4,12 +4,18 @@
 "name": "LOS ENVIADOS",
 "image": "https://i.postimg.cc/DZ43rs31/Los-enviados-Temp-1.png",
 "url": "https://af1cionados.vercel.app/serie LOS ENVIADOS.w3u",
-"info": "2023",
+"info": "2021",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": @YIsus_mEx",
-"stations":
+"groups":
 	[
-	
+
+	{
+	"name": "TEMPORADA 1",
+	"info": "2021",
+	"image": "https://i.postimg.cc/DZ43rs31/Los-enviados-Temp-1.png",
+	"stations":
+	[	
 	{
        	"name": "T1 E1 - Caminen con los ojos bien abiertos",
         "image": "https://i.postimg.cc/DZ43rs31/Los-enviados-Temp-1.png",
@@ -98,8 +104,105 @@
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	}
+	]
+	},
 
+	{
+	"name": "TEMPORADA 2",
+	"info": "2023",
+	"image": "https://pics.filmaffinity.com/los_enviados-484492583-large.jpg",
+	"stations":
+	[
+	{
+      	"name": "T2 E1 - El oráculo de Porto da Lua",
+        "image": "https://pics.filmaffinity.com/los_enviados-484492583-large.jpg",
+        "url": "",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+      	"name": "T2 E2 - Las llaves del reino",
+        "image": "https://pics.filmaffinity.com/los_enviados-484492583-large.jpg",
+        "url": "",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+      	"name": "T2 E3 - Los corderos del Señor",
+        "image": "https://pics.filmaffinity.com/los_enviados-484492583-large.jpg",
+        "url": "",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+      	"name": "T2 E4 - Requiescat In Pace",
+        "image": "https://pics.filmaffinity.com/los_enviados-484492583-large.jpg",
+        "url": "",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+      	"name": "T2 E5 - Libres de pecado",
+        "image": "https://pics.filmaffinity.com/los_enviados-484492583-large.jpg",
+        "url": "",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+      	"name": "T2 E6 - El lago de fuego",
+        "image": "https://pics.filmaffinity.com/los_enviados-484492583-large.jpg",
+        "url": "",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+      	"name": "T2 E7 - Hestia",
+        "image": "https://pics.filmaffinity.com/los_enviados-484492583-large.jpg",
+        "url": "",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+      	"name": "T2 E8 - La luz en las tinieblas",
+        "image": "https://pics.filmaffinity.com/los_enviados-484492583-large.jpg",
+        "url": "",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	}
+	
 ]
 }
-
-
