@@ -1,0 +1,81 @@
+
+
+{
+"name": "FORST",
+"image": "https://pics.filmaffinity.com/forst-710515019-large.jpg",
+"url": "https://af1cionados.vercel.app/",
+"info": "2024",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": @YIsus_mEx",
+"stations":
+
+	[
+	{
+       	"name": "EPISODIO 1",
+        "image": "https://pics.filmaffinity.com/forst-710515019-large.jpg",
+        "url": "https://filemoon.sx/d/nz8gy9z9lmrg/S1E01_serie_FORST.ts",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 2",
+        "image": "https://pics.filmaffinity.com/forst-710515019-large.jpg",
+        "url": "https://filemoon.sx/d/e3f5qohz0br9/S1E02_serie_FORST.ts",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 3",
+        "image": "https://pics.filmaffinity.com/forst-710515019-large.jpg",
+        "url": "https://filemoon.sx/d/e50bg4ylski2/S1E03_serie_FORST.ts",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 4",
+        "image": "https://pics.filmaffinity.com/forst-710515019-large.jpg",
+        "url": "https://filemoon.sx/d/8gt4j2h49pdl/S1E04_serie_FORST.ts",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 5",
+        "image": "https://pics.filmaffinity.com/forst-710515019-large.jpg",
+        "url": "https://filemoon.sx/d/4ea4ni9jcmab/S1E05_serie_FORST.ts",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 6",
+        "image": "https://pics.filmaffinity.com/forst-710515019-large.jpg",
+        "url": "https://filemoon.sx/d/quynd70v3d85/S1E06_serie_FORST.ts",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
