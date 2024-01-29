@@ -177,6 +177,15 @@
                 "embed":"",
                 "isHost":"true",
                 "online":"true"
+                },
+               	{
+                "name": "Solo (Pelicula)",
+                "info": "(2018)",
+                "image": "https://pics.filmaffinity.com/solo-191712204-large.jpg",
+                "url": "https://upstream.to/pl965oveuujk",
+                "embed":"",
+                "isHost":"true",
+                "online":"true"
                 }
             ]
         },
