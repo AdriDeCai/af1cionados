@@ -1324,6 +1324,17 @@
 		"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
+	{
+       	"name": "VIAJE DE RICKY HILL [VOSE]",
+        "image": "https://pics.filmaffinity.com/the_hill-702310853-large.jpg",
+        "url": "https://upstream.to/7xrbdix2ubry",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
 		{
         "name": "VICTORIA´S SECRET: LA GIRA 2023 [VOSE]",
         "image": "https://pics.filmaffinity.com/victoria_s_secret_the_tour_23-234420630-large.jpg",
