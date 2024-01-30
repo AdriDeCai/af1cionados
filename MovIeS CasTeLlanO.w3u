@@ -216,7 +216,18 @@
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+    	{
+       	"name": "AQUAMAN Y EL REINO PERDIDO",
+        "image": "https://pics.filmaffinity.com/aquaman_and_the_lost_kingdom-274178849-large.jpg",
+        "url": "https://filemoon.sx/d/dmyjxahk38r9/Aquaman_y_el_reino_perdido__2023__.mp4",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
 		{
