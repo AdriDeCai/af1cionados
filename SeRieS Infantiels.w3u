@@ -1,0 +1,28 @@
+
+{
+"name": "SeRieS Infantiles",
+"image": "https://i.postimg.cc/R0MLSDJb/Se-Rie-S-Infantiles.png",
+"url": "",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "Lista_AF1CIONADOS",
+"stations":
+[
+
+{
+"name": "EL SHOW DE GARDFIELD",
+"url": "https://af1cionados.vercel.app/serie%20EL%20SHOW%20DE%20GARDFIELD.w3u",
+"imageScale": "",
+"info": "[Español]",
+"image": "https://pics.filmaffinity.com/the_garfield_show-220295484-large.jpg"
+},
+
+{
+"name": "ERASE UNA VEZ LA VIDA",
+"url": "https://af1cionados.vercel.app/serie ERASE UNA VEZ LA VIDA.w3u",
+"imageScale": "",
+"info": "[Español]",
+"image": "https://pics.filmaffinity.com/il_etait_une_fois_la_vie-367702872-large.jpg"
+}
+
+]
+}
