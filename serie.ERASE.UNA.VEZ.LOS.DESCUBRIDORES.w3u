@@ -20,18 +20,6 @@
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
-       	},
-	{
-       	"name": "",
-        "image": "https://decine21.com/img/upload/obras/erase-una-vez-los-inventores-18709/erase-una-vez-los-inventores-18709-c.jpg",
-        "url": "",
-       	"info": "",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
        	}
-
 	]
 }
