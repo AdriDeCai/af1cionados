@@ -194,6 +194,17 @@
        	"import": false
        	},
 	{
+       	"name": "BEEKEEPER: THE PROTECTOR",
+        "image": "https://pics.filmaffinity.com/the_beekeeper-593721159-large.jpgg",
+        "url": "https://powstream.one/5do8hrqs4pvr",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
        	"name": "BELL KEEPER, THE [VOSE]",
         "image": "https://pics.filmaffinity.com/the_bell_keeper-809091047-large.jpg",
         "url": "https://upstream.to/2h4aab25bxvr",
