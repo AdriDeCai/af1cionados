@@ -2663,15 +2663,24 @@ cb=20231006211251&path-prefix=es",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
-		{
+	{
         "name": "SOLO UNA VEZ",
         "info":"2021",
         "image": "https://i.postimg.cc/0N7W5c2G/Solo-una-vez-2021-Pelicula.jpg",
         "url": "https://upstream.to/3t0r7bax2tn7",
-		"embed":"",
+	"embed":"",
         "isHost":"true",
         "online":"true" 
-		},
+	},
+	{
+        "name": "SOUND OF FREEDOM",
+        "info":"2023",
+        "image": "https://pics.filmaffinity.com/sound_of_freedom-546775358-large.jpg",
+        "url": "https://filemoon.sx/d/7l5q9nrvnn63/Sound_of_Freedom__2023___Pelicula_.mp4",
+	"embed":"",
+        "isHost":"true",
+        "online":"true" 
+	},
 	{
        	"name": "STAR WARS La guerra de las galaxias. Episodio IV: Una nueva esperanza",
         "image": "https://pics.filmaffinity.com/star_wars-166209019-large.jpg",
