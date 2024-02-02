@@ -1213,7 +1213,7 @@ cb=20231006211251&path-prefix=es",
 		"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
-		{
+	{
        	"name": "FUGA (BREAKOUT)",
         "image": "https://pics.filmaffinity.com/breakout-574162472-large.jpg",
         "url": "https://upstream.to/0v7m4hh9h1h5",
@@ -1221,7 +1221,18 @@ cb=20231006211251&path-prefix=es",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "FUNDADOR, EL",
+        "image": "https://pics.filmaffinity.com/the_founder-172341798-large.jpg",
+        "url": "https://embedv.net/v/MAlwEMq3qkEJ39X",
+       	"info": "2016",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
 		{
@@ -1539,6 +1550,17 @@ cb=20231006211251&path-prefix=es",
 		"userAgent":"PlusMediaPlayer/0.0.9",
         	"import": false
         	},
+     	{
+       	"name": "LAMBORGHINI, EL HOMBRE DETRAS DE UNA LEYENDA",
+        "image": "https://pics.filmaffinity.com/lamborghini_the_legend-277163537-large.jpg",
+        "url": "https://embedv.net/v/b4ZJx2L8LzO2P3R",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
      	{
        	"name": "LEON POR UN DIA",
         "image": "https://i.postimg.cc/tCPbQVXL/Leon-por-un-dia-2023-Pelicula.jpg",
@@ -2547,7 +2569,7 @@ cb=20231006211251&path-prefix=es",
       	{
        	"name": "SIN MALOS ROLLOS",
         "image": "https://i.postimg.cc/g2ybmYC2/Sin_malos_rollos_(2023)(Pelicula).jpg",
-        "url": "https://upstream.to/5wes14btcowq",
+        "url": "https://embedv.net/v/27BaOngPXa5MDXm",
        	"info": "2023",
        	"embed": "",
        	"isHost": "true",
@@ -2938,7 +2960,7 @@ cb=20231006211251&path-prefix=es",
 		"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
-		{
+	{
        	"name": "TIBURON NEGRO",
         "image": "https://pics.filmaffinity.com/the_black_demon-983854267-large.jpg",
         "url": "https://upstream.to/fqtm3hinlcqy",
@@ -2946,10 +2968,21 @@ cb=20231006211251&path-prefix=es",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9",
+	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
-		{
+	{
+       	"name": "TIEMPO",
+        "image": "https://pics.filmaffinity.com/old-485235995-large.jpg",
+        "url": "https://embedv.net/v/JzkPxzZ2nXxbydB",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
         "name": "TIN Y TINA",
         "info": "2023",
         "image": "https://pics.filmaffinity.com/Tin_Tina-837586291-large.jpg",
