@@ -7,6 +7,13 @@
 "image": "https://i.postimg.cc/c1h5dj6J/Las-chicas-del-cable-2023-Serie.jpg",
 "author": "bY Adri",
 "telegram": "@Yisus_mEx",
+"groups":
+[
+
+{
+"name": "TEMPORADA 1",
+"info": "",
+"image": "https://i.postimg.cc/c1h5dj6J/Las-chicas-del-cable-2023-Serie.jpg",
 "stations":
 [
 
@@ -97,6 +104,108 @@
 "online": "true",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "import": false
+}
+
+]
+},
+
+{
+"name": "TEMPORADA 2",
+"info": "",
+"image": "https://i.postimg.cc/Bbh3PW8P/Chicas-del-cable-Temp2-jpg.png",
+"stations":
+[
+
+{
+"name": "T2 E1 La elección",
+"info": "",
+"url": "https://filemoon.sx/d/pdll4047xfwp/LasChicasDelCable_201_NEWPCT.mp4",
+"image": "https://i.postimg.cc/Bbh3PW8P/Chicas-del-cable-Temp2-jpg.png",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "T2 E2 El pacto",
+"info": "",
+"url": "https://filemoon.sx/d/esqojbinf58a/LasChicasDelCable_202_NEWPCT.mp4",
+"image": "https://i.postimg.cc/Bbh3PW8P/Chicas-del-cable-Temp2-jpg.png",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "T2 E3 Los celos",
+"info": "",
+"url": "https://filemoon.sx/d/wrlmjt2al1jv/LasChicasDelCable_203_NEWPCT.mp4",
+"image": "https://i.postimg.cc/Bbh3PW8P/Chicas-del-cable-Temp2-jpg.png",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "T2 E4 La culpa",
+"info": "",
+"url": "https://filemoon.sx/d/5ec2u2w1kvq0/LasChicasDelCable_204_NEWPCT.mp4",
+"image": "https://i.postimg.cc/Bbh3PW8P/Chicas-del-cable-Temp2-jpg.png",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "T2 E5 Los secretos",
+"info": "",
+"url": "https://filemoon.sx/d/5ws41htzp14t/LasChicasDelCable_205_NEWPCT.mp4",
+"image": "https://i.postimg.cc/Bbh3PW8P/Chicas-del-cable-Temp2-jpg.png",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "T2 E6 La soledad",
+"info": "",
+"url": "https://filemoon.sx/d/g0zrju6le1uj/LasChicasDelCable_206_NEWPCT.mp4",
+"image": "https://i.postimg.cc/Bbh3PW8P/Chicas-del-cable-Temp2-jpg.png",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "T2 E7 Las oportunidades",
+"info": "",
+"url": "https://filemoon.sx/d/e0msf33coxag/LasChicasDelCable_207_NEWPCT.mp4",
+"image": "https://i.postimg.cc/Bbh3PW8P/Chicas-del-cable-Temp2-jpg.png",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "T2 E8 La inocencia",
+"info": "",
+"url": "https://filemoon.sx/d/1qdz3ydyfm32/LasChicasDelCable_208_NEWPCT.mp4",
+"image": "https://i.postimg.cc/Bbh3PW8P/Chicas-del-cable-Temp2-jpg.png",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+
+]
 }
 
 ]
