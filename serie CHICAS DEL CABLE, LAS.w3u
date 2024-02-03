@@ -206,7 +206,109 @@
 }
 
 ]
+},
+
+
+
+{
+"name": "TEMPORADA 3",
+"info": "2017",
+"image": "https://i.postimg.cc/Hn9Mc1yg/Chicas-del-cable-Temp3.png",
+"stations":
+[
+
+{
+"name": "T3 E1 El tiempo",
+"info": "",
+"url": "https://filemoon.sx/d/0rg0kwq2a39s/Las_Chicas_Del_Cable_3x01__www.descargas2020.com_.mp4",
+"image": "https://i.postimg.cc/Hn9Mc1yg/Chicas-del-cable-Temp3.png",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "T3 E2 La muerte",
+"info": "",
+"url": "https://filemoon.sx/d/iac1bnjc9vwe/Las_Chicas_Del_Cable_3x02__www.descargas2020.com_.mp4",
+"image": "https://i.postimg.cc/Hn9Mc1yg/Chicas-del-cable-Temp3.png",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "T3 E3 La verdad",
+"info": "",
+"url": "https://filemoon.sx/d/05gpq6ot0t4q/Las_Chicas_Del_Cable_3x03__www.descargas2020.com_.mp4",
+"image": "https://i.postimg.cc/Hn9Mc1yg/Chicas-del-cable-Temp3.png",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "T3 E4 La venganza",
+"info": "",
+"url": "https://filemoon.sx/d/a8cjfoxdwxr7/Las_Chicas_Del_Cable_3x04__www.descargas2020.com_.mp4",
+"image": "https://i.postimg.cc/Hn9Mc1yg/Chicas-del-cable-Temp3.png",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "T3 E5 El pecado",
+"info": "",
+"url": "https://filemoon.sx/d/zebg96gwkblf/Las_Chicas_Del_Cable_3x05__www.descargas2020.com_.mp4",
+"image": "https://i.postimg.cc/Hn9Mc1yg/Chicas-del-cable-Temp3.png",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "T3 E6 La lucha",
+"info": "",
+"url": "https://filemoon.sx/d/s2kr5k940ddb/Las_Chicas_Del_Cable_3x06__www.descargas2020.com_.mp4",
+"image": "https://i.postimg.cc/Hn9Mc1yg/Chicas-del-cable-Temp3.png",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "T3 E7 La esperanza",
+"info": "",
+"url": "https://filemoon.sx/d/0q7qi861ovq3/Las_Chicas_Del_Cable_3x07__www.descargas2020.com_.mp4",
+"image": "https://i.postimg.cc/Hn9Mc1yg/Chicas-del-cable-Temp3.png",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "T3 E8 El destino",
+"info": "",
+"url": "https://filemoon.sx/d/1ravv5gu43ku/Las_Chicas_Del_Cable_3x08__www.descargas2020.com_.mp4",
+"image": "https://i.postimg.cc/Hn9Mc1yg/Chicas-del-cable-Temp3.png",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
 }
+
+]
+}
+
 
 ]
 }
