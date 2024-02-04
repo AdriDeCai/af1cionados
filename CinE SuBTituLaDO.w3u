@@ -621,6 +621,17 @@
        	"import": false
        	},
 	{
+       	"name": "HEROE POR ENCARGO",
+        "image": "",
+        "url": "https://www.tokyvideo.com/es/video/heroe-por-encargo-pelicula-completa-hd-en-espanol-cinecalidad",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
        	"name": "HOT POTATO, THE STORY OF WIGGLES [VOSE]",
         "image": "https://pics.filmaffinity.com/hot_potato_the_story_of_the_wiggles-461476260-large.jpg",
         "url": "https://upstream.to/5o2964pmvkm9",
