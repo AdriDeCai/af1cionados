@@ -1297,7 +1297,7 @@ cb=20231006211251&path-prefix=es",
 		"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
-		{
+	{
        	"name": "HERMANA MUERTE",
         "image": "https://pics.filmaffinity.com/hermana_muerte-203218447-large.jpg",
         "url": "https://upstream.to/utvke91fbjfg",
@@ -1305,7 +1305,18 @@ cb=20231006211251&path-prefix=es",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "HEROE POR ENCARGO",
+        "image": "",
+        "url": "https://www.tokyvideo.com/es/video/heroe-por-encargo-pelicula-completa-hd-en-espanol-cinecalidad",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
 		{
