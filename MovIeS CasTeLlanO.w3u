@@ -1308,17 +1308,6 @@ cb=20231006211251&path-prefix=es",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
-	{
-       	"name": "HEROE POR ENCARGO",
-        "image": "",
-        "url": "https://www.tokyvideo.com/es/video/heroe-por-encargo-pelicula-completa-hd-en-espanol-cinecalidad",
-       	"info": "2024",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
 		{
         "name": "HIJO, EL",
         "info": "2022",
