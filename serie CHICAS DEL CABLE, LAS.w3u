@@ -408,6 +408,129 @@
 }
 
 ]
+},
+
+
+
+{
+"name": "TEMPORADA 5",
+"info": "2020",
+"image": "https://i.postimg.cc/nLkbvh7p/Chicas-del-cable-Temp4.png",
+"stations":
+[
+
+{
+"name": "T5 E1 La guerra",
+"info": "",
+"url": "https://filemoon.sx/d/h4l9qo58uwjo/Las_chicas_del_cable_5x01__DULCEYCARAMELO.mp4",
+"image": "https://i.postimg.cc/nLkbvh7p/Chicas-del-cable-Temp4.png",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "T5 E2 El odio",
+"info": "",
+"url": "https://filemoon.sx/d/k0ndv5wd17or/Las_chicas_del_cable_5x02__dulceycaramelo.mp4",
+"image": "https://i.postimg.cc/nLkbvh7p/Chicas-del-cable-Temp4.png",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "T5 E3 El valor",
+"info": "",
+"url": "https://filemoon.sx/d/lzcp1xf3626j/Las_chicas_del_cable_5x03.mp4",
+"image": "https://i.postimg.cc/nLkbvh7p/Chicas-del-cable-Temp4.png",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "T5 E4 El control",
+"info": "",
+"url": "https://filemoon.sx/d/if1fvy76o00q/Las_chicas_del_cable_5x04.mp4",
+"image": "https://i.postimg.cc/nLkbvh7p/Chicas-del-cable-Temp4.png",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "T5 E5 La locura",
+"info": "",
+"url": "https://filemoon.sx/d/3cv6iztugf78/Las_chicas_del_cable_5x05.mp4",
+"image": "https://i.postimg.cc/nLkbvh7p/Chicas-del-cable-Temp4.png",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "T5 E6 El poder",
+"info": "",
+"url": "https://filemoon.sx/d/f2mzbt2xwt9g/Las_chicas_del_cable_5x06.mp4",
+"image": "https://i.postimg.cc/nLkbvh7p/Chicas-del-cable-Temp4.png",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "T5 E7 La paciencia",
+"info": "",
+"url": "https://filemoon.sx/d/u3q73mv4vzp9/Las_chicas_del_cable_5x07.mp4",
+"image": "https://i.postimg.cc/nLkbvh7p/Chicas-del-cable-Temp4.png",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "T5 E8 El dolor",
+"info": "",
+"url": "https://filemoon.sx/d/cwxu1zbc5ccv/Las_chicas_del_cable_5x08.mp4",
+"image": "https://i.postimg.cc/nLkbvh7p/Chicas-del-cable-Temp4.png",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "T5 E9 La derrota",
+"info": "",
+"url": "https://filemoon.sx/d/dnbn6b9f5qen/Las_chicas_del_cable_5x09.mp4",
+"image": "https://i.postimg.cc/nLkbvh7p/Chicas-del-cable-Temp4.png",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "T5 E10 El final",
+"info": "",
+"url": "https://filemoon.sx/d/0db3q1173795/Las_chicas_del_cable_5x10.mp4",
+"image": "https://i.postimg.cc/nLkbvh7p/Chicas-del-cable-Temp4.png",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+
+]
 }
 
 
