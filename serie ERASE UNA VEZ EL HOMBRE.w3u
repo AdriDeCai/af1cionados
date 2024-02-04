@@ -189,7 +189,7 @@
 	{
        	"name": "S1 E17 El esplendor de las Provincias Unidas",
         "image": "https://i.postimg.cc/d35dZkgK/serie-ERASE-UNA-VEZ-EL-HOMBRE.png",
-        "url": "",
+        "url": "https://filemoon.sx/d/1nkpjfwvoxel/17_-_El_esplendor_de_las_provincias_unidas.avi",
        	"info": "2023",
        	"embed": "",
        	"isHost": "true",
@@ -211,7 +211,7 @@
 	{
        	"name": "S1 E19 Pedro el Grande de Rusia",
         "image": "https://i.postimg.cc/d35dZkgK/serie-ERASE-UNA-VEZ-EL-HOMBRE.png",
-        "url": "",
+        "url": "https://filemoon.sx/d/3u7dpra2k5u8/19_-_Pedro_el_Grande_de_Rusia.avi",
        	"info": "2023",
        	"embed": "",
        	"isHost": "true",
@@ -222,7 +222,7 @@
 	{
        	"name": "S1 E20 El Siglo de las Luces",
         "image": "https://i.postimg.cc/d35dZkgK/serie-ERASE-UNA-VEZ-EL-HOMBRE.png",
-        "url": "",
+        "url": "https://filemoon.sx/d/xjzvtkzle1vy/20_-_El_siglo_de_las_luces.avi",
        	"info": "2023",
        	"embed": "",
        	"isHost": "true",
@@ -233,7 +233,7 @@
 	{
        	"name": "S1 E21 América",
         "image": "https://i.postimg.cc/d35dZkgK/serie-ERASE-UNA-VEZ-EL-HOMBRE.png",
-        "url": "",
+        "url": "https://filemoon.sx/d/sk4r6fz529h9/21_-_Am_rica_del_Norte.avi",
        	"info": "2023",
        	"embed": "",
        	"isHost": "true",
@@ -244,7 +244,7 @@
 	{
        	"name": "S1 E22 La Revolución Francesa",
         "image": "https://i.postimg.cc/d35dZkgK/serie-ERASE-UNA-VEZ-EL-HOMBRE.png",
-        "url": "",
+        "url": "https://filemoon.sx/d/9o0a3843j6k0/22_-_La_Revoluci_n_Francesa.avi",
        	"info": "2023",
        	"embed": "",
        	"isHost": "true",
@@ -255,7 +255,7 @@
 	{
        	"name": "S1 E23 La primavera de los pueblos",
         "image": "https://i.postimg.cc/d35dZkgK/serie-ERASE-UNA-VEZ-EL-HOMBRE.png",
-        "url": "",
+        "url": "https://filemoon.sx/d/utjcewobsmtu/23_-_La_primavera_de_los_pueblos.avi",
        	"info": "2023",
        	"embed": "",
        	"isHost": "true",
@@ -266,7 +266,7 @@
 	{
        	"name": "S1 E24 La Belle-Époque",
         "image": "https://i.postimg.cc/d35dZkgK/serie-ERASE-UNA-VEZ-EL-HOMBRE.png",
-        "url": "",
+        "url": "https://filemoon.sx/d/4bnk9ex1l2pl/24_-_La_Belle__poque.avi",
        	"info": "2023",
        	"embed": "",
        	"isHost": "true",
@@ -277,7 +277,18 @@
 	{
        	"name": "S1 E25 Los años de la locura",
         "image": "https://i.postimg.cc/d35dZkgK/serie-ERASE-UNA-VEZ-EL-HOMBRE.png",
-        "url": "",
+        "url": "https://filemoon.sx/d/nieehodl964z/25_-_Los_a_os_de_la_locura.avi",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "S1 E26 Erase una vez la tierra",
+        "image": "https://i.postimg.cc/d35dZkgK/serie-ERASE-UNA-VEZ-EL-HOMBRE.png",
+        "url": "https://filemoon.sx/d/b7i3v1qttq64/26_-__rase_una_vez_la_Tierra.avi",
        	"info": "2023",
        	"embed": "",
        	"isHost": "true",
