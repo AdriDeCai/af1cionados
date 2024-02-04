@@ -307,6 +307,107 @@
 }
 
 ]
+},
+
+
+
+{
+"name": "TEMPORADA 4",
+"info": "2017",
+"image": "https://i.postimg.cc/nLkbvh7p/Chicas-del-cable-Temp4.png",
+"stations":
+[
+
+{
+"name": "T4 E1 La igualdad",
+"info": "",
+"url": "https://filemoon.sx/d/yi9ay1upchst/Las_Chicas_Del_Cable_Temporada_4_HDTVCap_401Castellanowww_descargas2020.mp4",
+"image": "https://i.postimg.cc/nLkbvh7p/Chicas-del-cable-Temp4.png",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "T4 E2 La libertad",
+"info": "",
+"url": "https://filemoon.sx/d/01iq20bcmbh1/Las_Chicas_Del_Cable_Temporada_4_HDTVCap_402Castellanowww_descargas2020.mp4",
+"image": "https://i.postimg.cc/nLkbvh7p/Chicas-del-cable-Temp4.png",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "T4 E3 La justicia",
+"info": "",
+"url": "https://filemoon.sx/d/a094cvu2s2pu/Las_Chicas_Del_Cable_Temporada_4_HDTVCap_403Castellanowww_descargas2020.mp4",
+"image": "https://i.postimg.cc/nLkbvh7p/Chicas-del-cable-Temp4.png",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "T4 E4 El miedo",
+"info": "",
+"url": "https://filemoon.sx/d/7pevfu8kbxj5/Las_Chicas_Del_Cable_Temporada_4_HDTVCap_404Castellanowww_descargas2020.mp4",
+"image": "https://i.postimg.cc/nLkbvh7p/Chicas-del-cable-Temp4.png",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "T4 E5 La vida",
+"info": "",
+"url": "https://filemoon.sx/d/b741iqxg6z8h/Las_Chicas_Del_Cable_Temporada_4_HDTVCap_405Castellanowww_descargas2020.mp4",
+"image": "https://i.postimg.cc/nLkbvh7p/Chicas-del-cable-Temp4.png",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "T4 E6 La duda",
+"info": "",
+"url": "https://filemoon.sx/d/9d87tgvmpj3r/Las_Chicas_Del_Cable_Temporada_4_HDTVCap_406Castellanowww_descargas2020.mp4",
+"image": "https://i.postimg.cc/nLkbvh7p/Chicas-del-cable-Temp4.png",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "T4 E7 La felicidad",
+"info": "",
+"url": "https://filemoon.sx/d/8wig2pxvsixm/Las_Chicas_Del_Cable_Temporada_4_HDTVCap_407Castellanowww_descargas2020.mp4",
+"image": "https://i.postimg.cc/nLkbvh7p/Chicas-del-cable-Temp4.png",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "T4 E8 La suerte",
+"info": "",
+"url": "https://filemoon.sx/d/ohde9885ffw0/Las_Chicas_Del_Cable_Temporada_4_HDTVCap_408Castellanowww_descargas2020.mp4",
+"image": "https://i.postimg.cc/nLkbvh7p/Chicas-del-cable-Temp4.png",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+}
+
+]
 }
 
 
