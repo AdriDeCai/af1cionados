@@ -446,6 +446,17 @@
       "online": "true"
     },
     {
+      "name": "BLACK FRIDAY",
+      "image": "https://i.postimg.cc/hGdnqFJS/Black-Friday-2023-Pelicula.jpg",
+      "url": "https://upstream.to/p8lq9k9twm7i",
+      "info": "2023",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
       "name": "BLACKENING, THE",
       "image": "https://pics.filmaffinity.com/the_blackening-417630247-large.jpg",
       "url": "https://upstream.to/abm47lxqv1ha",
