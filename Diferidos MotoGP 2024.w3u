@@ -27,6 +27,22 @@
 	},
 
 	{
+	"name": "TEST SEPANG 2024",
+	"image": "https://resources.motogp.pulselive.com/photo-resources/2024/02/06/ca328e8f-366c-434f-a934-ff8112d4dabe/report-NEW-WEB-test-d1.jpg?width=1440&height=810,
+	"imageScale": "",
+	"info":"",
+	"stations":
+		[
+			{
+			"name": "SEPANG MOTOGP TEST 1",
+			"info": "",
+			"image": "https://resources.motogp.pulselive.com/photo-resources/2024/02/06/ca328e8f-366c-434f-a934-ff8112d4dabe/report-NEW-WEB-test-d1.jpg?width=1440&height=810",
+			"url": "https://filemoon.sx/d/t0fxbcqjgvic/Sepang_MotoGP_Official_Test_-_Dia_1.mp4"
+			}
+		]
+	},
+
+	{
 	"name": "CIRCUITO LUSAIL INTERNATIONAL (QATAR)",
 	"image": "https://i.postimg.cc/50xS9Cqd/Bandera_Qatar.jpg",
 	"imageScale": "",
