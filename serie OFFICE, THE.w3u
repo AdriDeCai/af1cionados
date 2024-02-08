@@ -7,8 +7,14 @@
 "info": "2005",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": @YIsus_mEx",
-"stations":
+"groups":
+	[
 
+	{
+	"name": "TEMPORADA 1",
+	"info": "",
+	"image": "https://i.postimg.cc/gJ2fTDQL/serie-OFFICE-THE-Temp1.png",
+	"stations":
 	[
 	{
        	"name": "EPISODIO 1",
@@ -76,6 +82,28 @@
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 2",
+	"info": "",
+	"image": "https://i.postimg.cc/P5n0jh0j/serie-OFFICE-THE-Temp2.png",
+	"stations":
+	[
+	{
+       	"name": "EPISODIO 1",
+        "image": "https://i.postimg.cc/P5n0jh0j/serie-OFFICE-THE-Temp2.png",
+        "url": "",
+       	"info": "2005",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	}
 
 ]
 }
