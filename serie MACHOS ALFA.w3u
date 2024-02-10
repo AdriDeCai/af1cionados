@@ -1,0 +1,112 @@
+
+
+{
+"name": "MACHOS ALFA",
+"image": "https://www.formulatv.com/images/series/posters/2800/2892/dest_3.jpg",
+"url": "https://af1cionados.vercel.app/",
+"info": "2024",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": @YIsus_mEx",
+"groups":
+	[
+
+	{
+	"name": "TEMPORADA 1",
+	"info": "2023",
+	"image": "https://www.formulatv.com/images/series/posters/2800/2892/dest_3.jpg",
+	"stations":
+	[
+
+	{
+       	"name": "1x01 En deconstrucción",
+        "image": "https://www.formulatv.com/images/series/posters/2800/2892/dest_3.jpg",
+        "url": "https://upstream.to/tnu1jl3f3h8f",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x02 Lo que te absorbe es la vida",
+        "image": "https://www.formulatv.com/images/series/posters/2800/2892/dest_3.jpg",
+        "url": "https://vidmoly.me/w/8myto52rv7wh",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "1x03 Masculinidad tóxica",
+        "image": "https://www.formulatv.com/images/series/posters/2800/2892/dest_3.jpg",
+        "url": "https://vidmoly.me/w/3rwdl4129c6s",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+	]
+	},
+
+	{
+	"name": "TEMPORADA 2",
+	"info": "2024",
+	"image": "https://pics.filmaffinity.com/machos_alfa-669719382-large.jpg",
+	"stations":
+	[
+
+	{
+       	"name": "EPISODIO 1",
+        "image": "https://pics.filmaffinity.com/machos_alfa-669719382-large.jpg",
+        "url": "https://upstream.to/95rmhn2hxf4c",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x02 ¿Tú tienes sueños? ",
+        "image": "https://pics.filmaffinity.com/machos_alfa-669719382-large.jpg",
+        "url": "https://upstream.to/v5vnp71ymh79",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x03 Dale la vuelta",
+        "image": "https://pics.filmaffinity.com/machos_alfa-669719382-large.jpg",
+        "url": "https://upstream.to/awf73hi28r34",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x04 Pregunta antes de entrar",
+        "image": "https://pics.filmaffinity.com/machos_alfa-669719382-large.jpg",
+        "url": "https://upstream.to/cjqeik2iedtp",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	}
+
+]
+}
