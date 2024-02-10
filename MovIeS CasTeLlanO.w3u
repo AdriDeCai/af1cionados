@@ -747,10 +747,37 @@
       "import": false
     },
     {
-      "name": "CREED III",
-      "info": "2023",
-      "image": "https://pics.filmaffinity.com/Creed_III-358416025-large.jpg",
-      "url": "https://vk.com/video_ext.php?oid=795470531&id=456239017&hash=e68f137d72db76e6&hd=2",
+      "name": "CREPUSCULO",
+      "info": "2008",
+      "image": "https://pics.filmaffinity.com/twilight-976997289-large.jpg",
+      "url": "https://upstream.to/pg2jfuh4q559",
+      "embed": "",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
+      "name": "CREPUSCULO LUNA NUEVA",
+      "info": "2009",
+      "image": "https://pics.filmaffinity.com/the_twilight_saga_new_moon_twilight_2-890518239-large.jpg",
+      "url": "https://upstream.to/f6zwbj4uz5vn",
+      "embed": "",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
+      "name": "CREPUSCULO ECLIPSE",
+      "info": "2010",
+      "image": "https://pics.filmaffinity.com/the_twilight_saga_eclipse_twilight_3-285102910-large.jpg",
+      "url": "https://upstream.to/qpmemtwf6pcm",
+      "embed": "",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
+      "name": "CREPUSCULO AMANECER PARTE 2",
+      "info": "2012",
+      "image": "https://pics.filmaffinity.com/the_twilight_saga_breaking_dawn_part_1-471141705-large.jpg",
+      "url": "https://upstream.to/t0ap6g8nqyh4",
       "embed": "",
       "isHost": "true",
       "online": "true"
