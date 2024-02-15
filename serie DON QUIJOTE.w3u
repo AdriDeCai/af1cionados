@@ -1,0 +1,68 @@
+
+{
+"name": "DON QUIJOTE",
+"info": "",
+"image": "https://pics.filmaffinity.com/don_quijote_de_la_mancha-158260967-large.jpg",
+"url": "https://af1cionados.vercel.app/",
+"author": "bY AdriDeCai",
+"telegram": "@yIsus_mEx",
+"stations":
+	[
+
+	{
+	"name": "CAPITULO 1",
+	"info": "",
+	"image": "https://pics.filmaffinity.com/don_quijote_de_la_mancha-158260967-large.jpg",
+	"url": "https://filemoon.sx/d/ikkb4zg9zehr/Don.Quijote.de.la.Mancha.01_-_En_un_lugar_de_la_Mancha.avi",
+	"embed": "true",
+	"isHot": "true",
+	"online": false
+	},
+	{
+	"name": "CAPITULO 2",
+	"info": "",
+	"image": "https://pics.filmaffinity.com/don_quijote_de_la_mancha-158260967-large.jpg",
+	"url": "https://filemoon.sx/d/pf1lc96b5p54/Don_Quijote_de_la_Mancha_02_Don_Quijote_es_armado_caballero.avi",
+	"embed": "true",
+	"isHot": "true",
+	"online": false
+	},
+	{
+	"name": "CAPITULO 3",
+	"info": "",
+	"image": "https://pics.filmaffinity.com/don_quijote_de_la_mancha-158260967-large.jpg",
+	"url": "https://filemoon.sx/d/c3ldy4pfsly7/Don_Quijote_de_la_Mancha_03_Arden_los_libros_de_caballer_as.avi",
+	"embed": "true",
+	"isHot": "true",
+	"online": false
+	},
+	{
+	"name": "CAPITULO 4",
+	"info": "",
+	"image": "https://pics.filmaffinity.com/don_quijote_de_la_mancha-158260967-large.jpg",
+	"url": "https://filemoon.sx/d/k7fdyqw5mqzb/Don.Quijote.de.La.Mancha.04.La.aventura.de.los.molinos..avi",
+	"embed": "true",
+	"isHot": "true",
+	"online": false
+	},
+	{
+	"name": "CAPITULO 5",
+	"info": "",
+	"image": "https://pics.filmaffinity.com/don_quijote_de_la_mancha-158260967-large.jpg",
+	"url": "https://filemoon.sx/d/q098l3sq6kc4/Don_Quijote_de_La_Mancha_05_La_batalla_con_el_gallardo_vizcaino_.avi",
+	"embed": "true",
+	"isHot": "true",
+	"online": false
+	},
+	{
+	"name": "CAPITULO 6",
+	"info": "",
+	"image": "https://pics.filmaffinity.com/don_quijote_de_la_mancha-158260967-large.jpg",
+	"url": "https://filemoon.sx/d/vc6thoxk47ed/Don.Quijote.de.La.Mancha.06.La.aventura.de.los.yang_eses..avi",
+	"embed": "true",
+	"isHot": "true",
+	"online": false
+	}
+
+	]
+}
