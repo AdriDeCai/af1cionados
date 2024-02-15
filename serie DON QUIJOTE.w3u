@@ -14,18 +14,22 @@
 	"info": "",
 	"image": "https://pics.filmaffinity.com/don_quijote_de_la_mancha-158260967-large.jpg",
 	"url": "https://filemoon.sx/d/ikkb4zg9zehr/Don.Quijote.de.la.Mancha.01_-_En_un_lugar_de_la_Mancha.avi",
-	"embed": "true",
-	"isHot": "true",
-	"online": false
+	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
 	},
 	{
 	"name": "CAPITULO 2",
 	"info": "",
 	"image": "https://pics.filmaffinity.com/don_quijote_de_la_mancha-158260967-large.jpg",
 	"url": "https://filemoon.sx/d/pf1lc96b5p54/Don_Quijote_de_la_Mancha_02_Don_Quijote_es_armado_caballero.avi",
-	"embed": "true",
-	"isHot": "true",
-	"online": false
+	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
 	},
 	{
 	"name": "CAPITULO 3",
@@ -41,99 +45,121 @@
 	"info": "",
 	"image": "https://pics.filmaffinity.com/don_quijote_de_la_mancha-158260967-large.jpg",
 	"url": "https://filemoon.sx/d/k7fdyqw5mqzb/Don.Quijote.de.La.Mancha.04.La.aventura.de.los.molinos..avi",
-	"embed": "true",
-	"isHot": "true",
-	"online": false
+	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
 	},
 	{
 	"name": "CAPITULO 5",
 	"info": "",
 	"image": "https://pics.filmaffinity.com/don_quijote_de_la_mancha-158260967-large.jpg",
 	"url": "https://filemoon.sx/d/q098l3sq6kc4/Don_Quijote_de_La_Mancha_05_La_batalla_con_el_gallardo_vizcaino_.avi",
-	"embed": "true",
-	"isHot": "true",
-	"online": false
+	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
 	},
 	{
 	"name": "CAPITULO 6",
 	"info": "",
 	"image": "https://pics.filmaffinity.com/don_quijote_de_la_mancha-158260967-large.jpg",
 	"url": "https://filemoon.sx/d/vc6thoxk47ed/Don.Quijote.de.La.Mancha.06.La.aventura.de.los.yang_eses..avi",
-	"embed": "true",
-	"isHot": "true",
-	"online": false
+	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
 	},
 	{
 	"name": "CAPITULO 7",
 	"info": "",
 	"image": "https://pics.filmaffinity.com/don_quijote_de_la_mancha-158260967-large.jpg",
 	"url": "https://filemoon.sx/d/e1f9db0lu1sn/Don.Quijote.de.La.Mancha.07.El.manteo.de.Sancho..avi",
-	"embed": "true",
-	"isHot": "true",
-	"online": false
+	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
 	},
 	{
 	"name": "CAPITULO 8",
 	"info": "",
 	"image": "https://pics.filmaffinity.com/don_quijote_de_la_mancha-158260967-large.jpg",
 	"url": "https://filemoon.sx/d/hdl3yknaac5k/Don.Quijote.de.La.Mancha.08.El.combate.con.los.reba_os..avi",
-	"embed": "true",
-	"isHot": "true",
-	"online": false
+	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
 	},
 	{
 	"name": "CAPITULO 9",
 	"info": "",
 	"image": "https://pics.filmaffinity.com/don_quijote_de_la_mancha-158260967-large.jpg",
 	"url": "https://filemoon.sx/d/dara0p467e4s/Don.Quijote.de.La.Mancha.09.El.yelmo.de.Mambrino..avi",
-	"embed": "true",
-	"isHot": "true",
-	"online": false
+	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
 	},
 	{
 	"name": "CAPITULO 10",
 	"info": "",
 	"image": "https://pics.filmaffinity.com/don_quijote_de_la_mancha-158260967-large.jpg",
 	"url": "https://filemoon.sx/d/gsfs84ti77ha/Don.Quijote.de.La.Mancha.10.La.aventura.de.Sierra.Morena..avi",
-	"embed": "true",
-	"isHot": "true",
-	"online": false
+	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
 	},
 	{
 	"name": "CAPITULO 11",
 	"info": "",
 	"image": "https://pics.filmaffinity.com/don_quijote_de_la_mancha-158260967-large.jpg",
 	"url": "https://filemoon.sx/d/42rbdl5500hw/Don.Quijote.de.La.Mancha.11.Dulcinea.del.Toboso..avi",
-	"embed": "true",
-	"isHot": "true",
-	"online": false
+	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
 	},
 	{
 	"name": "CAPITULO 12",
 	"info": "",
 	"image": "https://pics.filmaffinity.com/don_quijote_de_la_mancha-158260967-large.jpg",
 	"url": "https://filemoon.sx/d/ce877lcrew4a/Don_Quijote_de_La_Mancha_12_La_descomunal_batalla_con_unos_cueros.avi",
-	"embed": "true",
-	"isHot": "true",
-	"online": false
+	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
 	},
 	{
 	"name": "CAPITULO 13",
 	"info": "",
 	"image": "https://pics.filmaffinity.com/don_quijote_de_la_mancha-158260967-large.jpg",
 	"url": "https://filemoon.sx/d/gkcza8cugaoh/Don.Quijote.de.La.Mancha.13.Nuevas.aventuras.en.la.venta..avi",
-	"embed": "true",
-	"isHot": "true",
-	"online": false
+	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
 	},
 	{
 	"name": "CAPITULO 14",
 	"info": "",
 	"image": "https://pics.filmaffinity.com/don_quijote_de_la_mancha-158260967-large.jpg",
 	"url": "https://filemoon.sx/d/g45078bpqahe/Don.Quijote.de.La.Mancha.14.La.historia.del.cautivo..avi",
-	"embed": "true",
-	"isHot": "true",
-	"online": false
+	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
 	}
 
 	]
