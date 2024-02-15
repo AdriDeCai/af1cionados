@@ -2,17 +2,24 @@
 
 {
 "name": "INVASION",
-"image": "https://pics.filmaffinity.com/invasion-356318520-large.jpg",
+"image": "https://i.postimg.cc/fyHshThF/serie-INVASION-Temp1.png",
 "url": "https://af1cionados.vercel.app/serie INVASION.w3u",
 "info": "2021",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": @YIsus_mEx",
-"stations":
-
+"groups":
 	[
+
+	{
+	"name": "TEMPORADA 1",
+	"info": "",
+	"image": "https://i.postimg.cc/fyHshThF/serie-INVASION-Temp1.png",
+	"stations":
+	[
+
 	{
        	"name": "EPISODIO 1",
-        "image": "https://pics.filmaffinity.com/invasion-356318520-large.jpg",
+        "image": "https://i.postimg.cc/fyHshThF/serie-INVASION-Temp1.png",
         "url": "https://embedv.net/v/g9Vd5JWy39dxqQj",
        	"info": "2021",
        	"embed": "",
@@ -23,7 +30,7 @@
        	},
 	{
        	"name": "EPISODIO 2",
-        "image": "https://pics.filmaffinity.com/invasion-356318520-large.jpg",
+        "image": "https://i.postimg.cc/fyHshThF/serie-INVASION-Temp1.png",
         "url": "https://embedv.net/v/b4ZJx21mR6n52P3",
        	"info": "2021",
        	"embed": "",
@@ -34,7 +41,7 @@
        	},
 	{
        	"name": "EPISODIO 3",
-        "image": "https://pics.filmaffinity.com/invasion-356318520-large.jpg",
+        "image": "https://i.postimg.cc/fyHshThF/serie-INVASION-Temp1.png",
         "url": "https://embedv.net/v/njJYOd3dQJ7Ee9o",
        	"info": "2021",
        	"embed": "",
@@ -45,7 +52,7 @@
        	},
 	{
        	"name": "EPISODIO 4",
-        "image": "https://pics.filmaffinity.com/invasion-356318520-large.jpg",
+        "image": "https://i.postimg.cc/fyHshThF/serie-INVASION-Temp1.png",
         "url": "https://embedv.net/v/JzkPxznzpqMxbyd",
        	"info": "2021",
        	"embed": "",
@@ -56,7 +63,7 @@
        	},
 	{
        	"name": "EPISODIO 5",
-        "image": "https://pics.filmaffinity.com/invasion-356318520-large.jpg",
+        "image": "https://i.postimg.cc/fyHshThF/serie-INVASION-Temp1.png",
         "url": "https://embedv.net/v/27BaOn1aDq2EMDX",
        	"info": "2021",
        	"embed": "",
@@ -67,7 +74,7 @@
        	},
 	{
        	"name": "EPISODIO 6",
-        "image": "https://pics.filmaffinity.com/invasion-356318520-large.jpg",
+        "image": "https://i.postimg.cc/fyHshThF/serie-INVASION-Temp1.png",
         "url": "https://embedv.net/v/Ro7kOVVJ3XwOZWB",
        	"info": "2021",
        	"embed": "",
@@ -78,7 +85,7 @@
        	},
 	{
        	"name": "EPISODIO 7",
-        "image": "https://pics.filmaffinity.com/invasion-356318520-large.jpg",
+        "image": "https://i.postimg.cc/fyHshThF/serie-INVASION-Temp1.png",
         "url": "https://embedv.net/v/qA3WOmGMDnJxKkz",
        	"info": "2021",
        	"embed": "",
@@ -89,7 +96,7 @@
        	},
 	{
        	"name": "EPISODIO 8",
-        "image": "https://pics.filmaffinity.com/invasion-356318520-large.jpg",
+        "image": "https://i.postimg.cc/fyHshThF/serie-INVASION-Temp1.png",
         "url": "https://embedv.net/v/YWA8E9wepYK5GmM",
        	"info": "2021",
        	"embed": "",
@@ -100,7 +107,7 @@
        	},
 	{
        	"name": "EPISODIO 9",
-        "image": "https://pics.filmaffinity.com/invasion-356318520-large.jpg",
+        "image": "https://i.postimg.cc/fyHshThF/serie-INVASION-Temp1.png",
         "url": "https://embedv.net/v/Ro7kOVVJ3noOZWB",
        	"info": "2021",
        	"embed": "",
@@ -111,8 +118,120 @@
        	},
 	{
        	"name": "EPISODIO 10",
-        "image": "https://pics.filmaffinity.com/invasion-356318520-large.jpg",
+        "image": "https://i.postimg.cc/fyHshThF/serie-INVASION-Temp1.png",
         "url": "https://embedv.net/v/YWA8E9wepX25GmM",
+       	"info": "2021",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 2",
+	"info": "",
+	"image": "https://i.postimg.cc/76578b7G/serie-INVASION-Temp2.png",
+	"stations":
+	[
+	{
+       	"name": "EPISODIO 1",
+        "image": "https://i.postimg.cc/76578b7G/serie-INVASION-Temp2.png",
+        "url": "https://filemoon.sx/d/85x93664k924/INVASI_N_2x01.mp4",
+       	"info": "2021",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 2",
+        "image": "https://i.postimg.cc/76578b7G/serie-INVASION-Temp2.png",
+        "url": "https://filemoon.sx/d/noe6ow1t7dd9/Invasion_2x02.mp4",
+       	"info": "2021",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+       	"name": "EPISODIO 3",
+        "image": "https://i.postimg.cc/76578b7G/serie-INVASION-Temp2.png",
+        "url": "https://filemoon.sx/d/dzez8ifuaoqu/Invasion_2x03.mp4",
+       	"info": "2021",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+       	"name": "EPISODIO 4",
+        "image": "https://i.postimg.cc/76578b7G/serie-INVASION-Temp2.png",
+        "url": "https://filemoon.sx/d/kg1ibxnv3upz/INVASI_N_2x04.mp4",
+       	"info": "2021",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+       	"name": "EPISODIO 5",
+        "image": "https://i.postimg.cc/76578b7G/serie-INVASION-Temp2.png",
+        "url": "https://filemoon.sx/d/d2t7yjj73kg0/INVASI_N_2x05.mp4",
+       	"info": "2021",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+       	"name": "EPISODIO 6",
+        "image": "https://i.postimg.cc/76578b7G/serie-INVASION-Temp2.png",
+        "url": "https://filemoon.sx/d/4rtucm3scqgv/INVASI_N_2x06.mp4",
+       	"info": "2021",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+       	"name": "EPISODIO 7",
+        "image": "https://i.postimg.cc/76578b7G/serie-INVASION-Temp2.png",
+        "url": "https://filemoon.sx/d/yqhf9a37ze8u/INVASI_N_2x07.mp4",
+       	"info": "2021",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+       	"name": "EPISODIO 8",
+        "image": "https://i.postimg.cc/76578b7G/serie-INVASION-Temp2.png",
+        "url": "https://filemoon.sx/d/evvttiu77z7p/INVASI_N_2x08.mp4",
+       	"info": "2021",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+       	"name": "EPISODIO 9",
+        "image": "https://i.postimg.cc/76578b7G/serie-INVASION-Temp2.png",
+        "url": "https://filemoon.sx/d/wpkik7ca803z/Invasi_n_2x09.mp4",
+       	"info": "2021",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+       	},
+       	"name": "EPISODIO 10",
+        "image": "https://i.postimg.cc/76578b7G/serie-INVASION-Temp2.png",
+        "url": "https://filemoon.sx/d/eezsrmxcoo2q/Invasi_n_2x10.mp4",
        	"info": "2021",
        	"embed": "",
        	"isHost": "true",
