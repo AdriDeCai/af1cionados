@@ -19,7 +19,7 @@
 	{
        	"name": "1x01 Contact ",
         "image": "https://i.postimg.cc/CMjM7GbG/serie-HALO-Temp1.png",
-        "url": "https://filemoon.sx/d/noybffitrv6i/Ver_halo_s01e01_esp_hdtv_1080p_mp4.mp4",
+        "url": "https://upstream.to/mvpp5qnc0k26",
        	"info": "2022",
        	"embed": "",
        	"isHost": "true",
@@ -30,7 +30,7 @@
 	{
        	"name": "1x02 Unbound ",
         "image": "https://i.postimg.cc/CMjM7GbG/serie-HALO-Temp1.png",
-        "url": "https://filemoon.sx/d/w0z1823216qr/Ver_halo_s01e02_esp_hdtv_1080p_mp4.mp4",
+        "url": "https://upstream.to/9jtibjgx1fxc",
        	"info": "2022",
        	"embed": "",
        	"isHost": "true",
@@ -41,7 +41,7 @@
 	{
        	"name": "1x03 Emergence ",
         "image": "https://i.postimg.cc/CMjM7GbG/serie-HALO-Temp1.png",
-        "url": "https://filemoon.sx/d/lrt2vgvmwcs9/Ver_halo_s01e03_esp_hdtv_1080p_mp4.mp4",
+        "url": "https://upstream.to/c5nkksusaqil",
        	"info": "2022",
        	"embed": "",
        	"isHost": "true",
@@ -63,7 +63,7 @@
 	{
        	"name": "1x05 Reckoning ",
         "image": "https://i.postimg.cc/CMjM7GbG/serie-HALO-Temp1.png",
-        "url": "https://filemoon.sx/d/gv99078aumq5/Ver_halo_s01e05_esp_hdtv_1080p_mp4.mp4",
+        "url": "https://upstream.to/7mmggn9ohl9l",
        	"info": "2022",
        	"embed": "",
        	"isHost": "true",
@@ -74,7 +74,7 @@
 	{
        	"name": "1x06 Solace ",
         "image": "https://i.postimg.cc/CMjM7GbG/serie-HALO-Temp1.png",
-        "url": "https://filemoon.sx/d/7i3zfmp7qzr1/Ver_halo_s01e06_esp_hdtv_1080p_mp4.mp4",
+        "url": "https://upstream.to/os97swmwulj0",
        	"info": "2022",
        	"embed": "",
        	"isHost": "true",
@@ -85,7 +85,7 @@
 	{
        	"name": "1x07 Inheritance ",
         "image": "https://i.postimg.cc/CMjM7GbG/serie-HALO-Temp1.png",
-        "url": "https://filemoon.sx/d/n898st1op92y/Ver_halo_s01e07_esp_hdtv_1080p_mp4.mp4",
+        "url": "https://upstream.to/urkfxm4rsqkt",
        	"info": "2022",
        	"embed": "",
        	"isHost": "true",
@@ -96,7 +96,7 @@
 	{
        	"name": "1x08 Allegiance ",
         "image": "https://i.postimg.cc/CMjM7GbG/serie-HALO-Temp1.png",
-        "url": "https://filemoon.sx/d/iivp94i2afkg/Ver_halo_s01e08_esp_hdtv_1080p_mp4.mp4",
+        "url": "https://upstream.to/c9psb27p5d4d",
        	"info": "2022",
        	"embed": "",
        	"isHost": "true",
@@ -107,7 +107,7 @@
 	{
        	"name": "1x09 Transcendence ",
         "image": "https://i.postimg.cc/CMjM7GbG/serie-HALO-Temp1.png",
-        "url": "https://filemoon.sx/d/suk0uet5c20e/Ver_halo_s01e09_esp_hdtv_1080p_mp4.mp4",
+        "url": "https://upstream.to/5dv88i66t541",
        	"info": "2022",
        	"embed": "",
        	"isHost": "true",
@@ -127,7 +127,7 @@
 	{
        	"name": "2x01 Sanctuary ",
         "image": "https://i.postimg.cc/LXGTsdx1/serie-HALO-Temp2.png",
-        "url": "https://filemoon.sx/d/z3h3hi3mbc63/Ver_Halo_S02E01L4T_mp4.mp4",
+        "url": "https://upstream.to/0himrhuid0i8",
        	"info": "2022",
        	"embed": "",
        	"isHost": "true",
@@ -138,7 +138,18 @@
 	{
        	"name": "2x02 Sword ",
         "image": "https://i.postimg.cc/LXGTsdx1/serie-HALO-Temp2.png",
-        "url": "https://filemoon.sx/d/6ktfneuerfon/Ver_Halo_S02E02L4T_mp4.mp4",
+        "url": "https://upstream.to/5debpp7ma2z1",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x03 Visegrad",
+        "image": "https://i.postimg.cc/LXGTsdx1/serie-HALO-Temp2.png",
+        "url": "https://vidmoly.me/w/spxmwcg9rzdl",
        	"info": "2022",
        	"embed": "",
        	"isHost": "true",
