@@ -16,9 +16,9 @@
 	"info": ""
 	},
 	{
-	"name": "EL SHOW DE GARDFIELD",
-	"image": "https://i.postimg.cc/CMt3DYvc/garfield.png",
-	"url": "https://af1cionados.vercel.app/serie%20EL%20SHOW%20DE%20GARDFIELD.w3u",
+	"name": "DON QUIJOTE",
+	"image": "https://pics.filmaffinity.com/don_quijote_de_la_mancha-158260967-large.jpg",
+	"url": "https://af1cionados.vercel.app/serie%20DON%20QUIJOTE.w3u",
 	"info": ""
 	},
 	{
@@ -38,6 +38,13 @@
 	"image": "https://i.postimg.cc/QtSXsPsR/lavida.png",
 	"url": "https://af1cionados.vercel.app/serie%20ERASE%20UNA%20VEZ%20LA%20VIDA",
 	"info": ""
+	},
+	{
+	"name": "SHOW DE GARDFIELD, EL",
+	"image": "https://i.postimg.cc/CMt3DYvc/garfield.png",
+	"url": "https://af1cionados.vercel.app/serie%20EL%20SHOW%20DE%20GARDFIELD.w3u",
+	"info": ""
 	}
+
 	]
 }
