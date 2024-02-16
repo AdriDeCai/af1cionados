@@ -37,8 +37,10 @@
 	"image": "https://pics.filmaffinity.com/don_quijote_de_la_mancha-158260967-large.jpg",
 	"url": "https://filemoon.sx/d/c3ldy4pfsly7/Don_Quijote_de_la_Mancha_03_Arden_los_libros_de_caballer_as.avi",
 	"embed": "true",
-	"isHot": "true",
-	"online": false
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
 	},
 	{
 	"name": "CAPITULO 4",
