@@ -1,0 +1,57 @@
+{
+"name": "WILLY FOGG",
+"image": "https://pics.filmaffinity.com/willy_fog_la_vuelta_al_mundo_en_80_dias-834857913-large.jpg",
+"url": "https://af1cionados.vercel.app/",
+"info": "2023",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": @YIsus_mEx",
+"stations":
+
+	[
+	      {
+	      "name": "CAPITULO 1",
+        "image": "https://pics.filmaffinity.com/willy_fog_la_vuelta_al_mundo_en_80_dias-834857913-large.jpg",
+        "url": "",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+       	"name": "EPISODIO 2",
+        "image": "https://pics.filmaffinity.com/willy_fog_la_vuelta_al_mundo_en_80_dias-834857913-large.jpg",
+        "url": "",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+        {
+	      "name": "CAPITULO 3",
+        "image": "https://pics.filmaffinity.com/willy_fog_la_vuelta_al_mundo_en_80_dias-834857913-large.jpg",
+        "url": "",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+       	"name": "EPISODIO 4",
+        "image": "https://pics.filmaffinity.com/willy_fog_la_vuelta_al_mundo_en_80_dias-834857913-large.jpg",
+        "url": "",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
