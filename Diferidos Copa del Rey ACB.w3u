@@ -61,6 +61,50 @@
         "stations":
             [
 		{
+       		"name": "DreamLand Gran Canaria VS Valencia Basket",
+	        "image": "https://i.postimg.cc/8Pq0Wrmt/Logo-Copa-del-Rey-ACB-2024.png",
+	        "url": "https://filemoon.sx/d/42g6abc1zmk5/Copa_del_Rey_Cuartos_Dreamland_Gran_Canaria_VS_Valencia_Basquet_150224.mp4",
+        	"info": "CUARTOS",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+		{
+       		"name": "Real Madrid VS UCAM Murcia",
+	        "image": "https://i.postimg.cc/8Pq0Wrmt/Logo-Copa-del-Rey-ACB-2024.png",
+	        "url": "https://filemoon.sx/d/3zv4j4dr5dsa/Copa_del_Rey_Cuartos_Real_Madrid_VS_Ucam_Murcia_150224.mp4",
+        	"info": "CUARTOS",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+		{
+       		"name": "",
+	        "image": "https://i.postimg.cc/8Pq0Wrmt/Logo-Copa-del-Rey-ACB-2024.png",
+	        "url": "",
+        	"info": "CUARTOS",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+		{
+       		"name": "",
+	        "image": "https://i.postimg.cc/8Pq0Wrmt/Logo-Copa-del-Rey-ACB-2024.png",
+	        "url": "",
+        	"info": "CUARTOS",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+		{
        		"name": "",
 	        "image": "https://i.postimg.cc/8Pq0Wrmt/Logo-Copa-del-Rey-ACB-2024.png",
 	        "url": "",
