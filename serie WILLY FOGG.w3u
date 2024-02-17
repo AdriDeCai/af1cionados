@@ -95,6 +95,94 @@
        	"online": "true",
         "userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
+       	},
+	{
+       	"name": "EPISODIO 9",
+        "image": "https://pics.filmaffinity.com/willy_fog_la_vuelta_al_mundo_en_80_dias-834857913-large.jpg",
+        "url": "https://embedv.net/v/KrdZ5kdMGklxmX4",
+       	"info": "",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 10",
+        "image": "https://pics.filmaffinity.com/willy_fog_la_vuelta_al_mundo_en_80_dias-834857913-large.jpg",
+        "url": "https://embedv.net/v/Ro7kOVVJ4mJOZWB",
+       	"info": "",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 11",
+        "image": "https://pics.filmaffinity.com/willy_fog_la_vuelta_al_mundo_en_80_dias-834857913-large.jpg",
+        "url": "https://embedv.net/v/8lKQxYVQ922EDGY",
+       	"info": "",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 12",
+        "image": "https://pics.filmaffinity.com/willy_fog_la_vuelta_al_mundo_en_80_dias-834857913-large.jpg",
+        "url": "https://embedv.net/v/dNjgOl4PMWnO9Wn",
+       	"info": "",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 13",
+        "image": "https://pics.filmaffinity.com/willy_fog_la_vuelta_al_mundo_en_80_dias-834857913-large.jpg",
+        "url": "https://embedv.net/v/njJYOd3djwqEe9o",
+       	"info": "",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 14",
+        "image": "https://pics.filmaffinity.com/willy_fog_la_vuelta_al_mundo_en_80_dias-834857913-large.jpg",
+        "url": "https://embedv.net/v/k3gG5q38pnRE1N2",
+       	"info": "",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 15",
+        "image": "https://pics.filmaffinity.com/willy_fog_la_vuelta_al_mundo_en_80_dias-834857913-large.jpg",
+        "url": "https://embedv.net/v/3Q0lxBWb96ZEj1J",
+       	"info": "",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 16",
+        "image": "https://pics.filmaffinity.com/willy_fog_la_vuelta_al_mundo_en_80_dias-834857913-large.jpg",
+        "url": "https://embedv.net/v/QNB7xA2WLl2E0WG",
+       	"info": "",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
        	}
 
 ]
