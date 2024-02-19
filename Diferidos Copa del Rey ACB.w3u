@@ -12,7 +12,7 @@
     [
         {
         "name": "Copa del Rey ACB 2022/23",
-        "image": "https://i.postimg.cc/MZ4891c1/Logo-Copa-del-Rey-ACB-2023-1.png",
+        "image": "https://i.postimg.cc/fypZXssz/copa-acb-23-new.png",
         "imageScale": "",
         "info": "",
         "stations":
@@ -55,7 +55,7 @@
 
         {
         "name": "Copa del Rey ACB 2023/24",
-        "image": "https://i.postimg.cc/8Pq0Wrmt/Logo-Copa-del-Rey-ACB-2024.png",
+        "image": "https://i.postimg.cc/pLgZS6Wm/copa-acb-new.png",
         "imageScale": "",
         "info":"",
         "stations":
@@ -105,7 +105,7 @@
         	"import": false
         	},
 		{
-       		"name": "-Real Madrid VS Valencia Basket",
+       		"name": "Real Madrid VS Valencia Basket",
 	        "image": "https://i.postimg.cc/8Pq0Wrmt/Logo-Copa-del-Rey-ACB-2024.png",
 	        "url": "https://filemoon.sx/d/fle1y363mcis/Real_Madrid_VS_Valencia_Basket_170224.mp4",
         	"info": "SEMIFINAL 1",
@@ -126,10 +126,10 @@
 		"userAgent":"PlusMediaPlayer/0.0.9",
         	"import": false
         	},
-	       {
- 	       	"name": "",
+	        {
+ 	       	"name": "FC Barcelona Vs Real Madrid",
 	        "image": "https://i.postimg.cc/8Pq0Wrmt/Logo-Copa-del-Rey-ACB-2024.png",
-	        "url": "",
+	        "url": "https://filemoon.sx/d/u8gp40zy4yn3",
         	"info": "FINAL",
         	"embed": "",
         	"isHost": "true",
