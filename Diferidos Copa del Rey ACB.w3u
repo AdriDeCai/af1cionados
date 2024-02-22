@@ -136,6 +136,17 @@
         	"online": "true",
 		"userAgent":"PlusMediaPlayer/0.0.9",
         	"import": false
+        	},
+	        {
+ 	       	"name": "FC Barcelona Vs Real Madrid",
+	        "image": "https://i.postimg.cc/8Pq0Wrmt/Logo-Copa-del-Rey-ACB-2024.png",
+	        "url": "https://embedv.net/v/qA3WOmGJ4kgxKkz",
+        	"info": "PREVIA FINAL POST",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
         	}
             ]
         }
