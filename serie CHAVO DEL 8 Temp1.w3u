@@ -24,6 +24,17 @@
 	{
 	"name": "CAPITULO 2",
         "image": "https://pics.filmaffinity.com/el_chavo_del_8-387429057-large.jpg",
+        "url": "https://embedv.net/v/l4vexvDzZQmO8B9",
+       	"info": "[1973]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 3",
+        "image": "https://pics.filmaffinity.com/el_chavo_del_8-387429057-large.jpg",
         "url": "",
        	"info": "[1973]",
        	"embed": "",
