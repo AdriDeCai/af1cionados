@@ -55,6 +55,22 @@
 	},
 
 	{
+	"name": "QATAR TEST 2024",
+	"image": "https://i.postimg.cc/8cLsjMZR/Moto-GP-Catar-Test-2024-Resumen.png",
+	"imageScale": "",
+	"info":"",
+	"stations":
+		[
+			{
+			"name": "QATAR TEST RESUMEN",
+			"info": "[Resumen]",
+			"image": "https://i.postimg.cc/8cLsjMZR/Moto-GP-Catar-Test-2024-Resumen.png",
+			"url": "https://filemoon.sx/d/9s74dcba6n7i/MotoGP_Test_Catar_-_Resumen_220224.mp4"
+			}
+		]
+	},
+
+	{
 	"name": "CIRCUITO LUSAIL INTERNATIONAL (QATAR)",
 	"image": "https://i.postimg.cc/50xS9Cqd/Bandera_Qatar.jpg",
 	"imageScale": "",
