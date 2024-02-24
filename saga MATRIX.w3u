@@ -3,32 +3,64 @@
 "name": "MATRIX",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "url": "https://aficionados.vercel.app/saga MATRIX.w3u",
-"image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/1999/3/w1280/qK76PKQLd6zlMn0u83Ej9YQOqPL.jpg",
+"image": "https://pics.filmaffinity.com/the_matrix-155050517-large.jpg",
 "telegram": "@yIsus_mEx",
 "info": "by YIsus_mEx",
 "stations":
 	[
                 {
                 "name": "Matrix",
+                "info":"[1999]",
+                "image": "https://pics.filmaffinity.com/the_matrix-155050517-large.jpg",
+                "url":"https://upstream.to/s3xfzn299a2e",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "online":"true"
+                },
+                {
+                "name": "Matrix",
                 "info":"[Latino][1999]",
-                "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/1999/3/w1280/qK76PKQLd6zlMn0u83Ej9YQOqPL.jpg",
+                "image": "https://pics.filmaffinity.com/the_matrix-155050517-large.jpg",
                 "url":"http://vod.tuxchannel.mx/peliculas4k/matrix.mkv",
                 "userAgent" : "PlusMediaPlayer/0.0.9",
                 "online":"true"
                 },
                 {
                 "name": "Matrix Reloaded",
+                "info":"[2003]",
+                "image": "https://pics.filmaffinity.com/the_matrix_reloaded-133935821-large.jpg",
+                "url":"https://upstream.to/fbg17oeq0bch",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "online":"true"
+                },
+                {
+                "name": "Matrix Reloaded",
                 "info":"[Latino][2003]",
-                "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2003/5/w1280/ayZkaN2f3ASjWW8ooCfuJT3T8Va.jpg",
+                "image": "https://pics.filmaffinity.com/the_matrix_reloaded-133935821-large.jpg",
                 "url":"http://vod.tuxchannel.mx/peliculas4k/the%20matrix%20reloaded.mkv",
                 "userAgent" : "PlusMediaPlayer/0.0.9",
                 "online":"true"
                 },
                 {
                 "name": "Matrix Revolutions",
+                "info":"[2003]",
+                "image": "https://pics.filmaffinity.com/the_matrix_revolutions-289564524-large.jpg",
+                "url":"https://upstream.to/hhmt824u1t9w",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "online":"true"
+                },
+                {
+                "name": "Matrix Revolutions",
                 "info":"[Latino][2003]",
-                "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2003/11/w1280/bkkS61w94ZVMNVd8KEyyJl2tnY5.jpg",
+                "image": "https://pics.filmaffinity.com/the_matrix_revolutions-289564524-large.jpg",
                 "url":"http://vod.tuxchannel.mx/peliculas4k/the%20matrix%20revolutions.mkv",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
+                "online":"true"
+                },
+                {
+                "name": "Matrix Resurrections",
+                "info":"[2021]",
+                "image": "https://pics.filmaffinity.com/the_matrix_resurrections-864937945-large.jpg",
+                "url":"https://upstream.to/m30ykqpgc04e",
                 "userAgent" : "PlusMediaPlayer/0.0.9",
                 "online":"true"
                 }
