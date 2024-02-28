@@ -7,7 +7,14 @@
 "info": "by Adri",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": "@YIsus_mEx",
-"stations":
+"groups":
+	[
+
+	{
+	"name": "TEMPORADA 1",
+	"image": "https://pics.filmaffinity.com/the_white_lotus-477876468-large.jpg",
+	"info": "by Adri",
+	"stations":
 	[
 
 	{
@@ -76,7 +83,93 @@
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	}
+	]
+	},
 
+	{
+	"name": "TEMPORADA 2",
+	"image": "https://pics.filmaffinity.com/the_white_lotus_2-649334934-large.jpg",
+	"info": "by Adri",
+	"stations":
+	[
+
+	{
+       	"name": "EPISODIO 1",
+        "image": "https://pics.filmaffinity.com/the_white_lotus_2-649334934-large.jpg",
+        "url": "https://embedv.net/v/QNB7xA26wX7E0WG",
+       	"info": "[Castellano][2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 2",
+        "image": "https://pics.filmaffinity.com/the_white_lotus_2-649334934-large.jpg",
+        "url": "https://embedv.net/v/04rQxWWo3Nexb2N",
+       	"info": "[Castellano][2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 3",
+        "image": "https://pics.filmaffinity.com/the_white_lotus_2-649334934-large.jpg",
+        "url": "https://embedv.net/v/6zeREaD1voGxZPa",
+       	"info": "[Castellano][2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 4",
+        "image": "https://pics.filmaffinity.com/the_white_lotus_2-649334934-large.jpg",
+        "url": "https://embedv.net/v/mMq75L8Dzjm5XPB",
+       	"info": "[Castellano][2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 5",
+        "image": "https://pics.filmaffinity.com/the_white_lotus_2-649334934-large.jpg",
+        "url": "https://embedv.net/v/MAlwEMYRNJMEJ39",
+       	"info": "[Castellano][2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 6",
+        "image": "https://pics.filmaffinity.com/the_white_lotus_2-649334934-large.jpg",
+        "url": "https://embedv.net/v/eL2157dP4eoxrw4",
+       	"info": "[Castellano][2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 7",
+        "image": "https://pics.filmaffinity.com/the_white_lotus_2-649334934-large.jpg",
+        "url": "https://embedv.net/v/ao9rxoRg7pJ5yGe",
+       	"info": "[Castellano][2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
 
 ]
 }
