@@ -1,0 +1,80 @@
+
+{
+"name": "PLAYLIST",
+"image": "https://pics.filmaffinity.com/the_playlist-819784656-large.jpg",
+"url": "https://af1cionados.vercel.app/",
+"info": "bY AdriDeCAi",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":
+	[
+
+	{
+	"name": "CAPITULO 1",
+        "image": "https://pics.filmaffinity.com/the_playlist-819784656-large.jpg",
+        "url": "https://filemoon.sx/d/gy6a26y7kj7j/S01E01_PlayLIst_1080p.mp4",
+       	"info": "[ESPAÑOL][2022]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 2",
+        "image": "https://pics.filmaffinity.com/the_playlist-819784656-large.jpg",
+        "url": "https://filemoon.sx/d/lfdgmzd7gep6/S01E02_PlayLIst_1080p.mp4",
+       	"info": "[ESPAÑOL][2022]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 3",
+        "image": "https://pics.filmaffinity.com/the_playlist-819784656-large.jpg",
+        "url": "https://filemoon.sx/d/s08nly3sx77z/S01E03_PlayLIst_1080p.mp4",
+       	"info": "[ESPAÑOL][2022]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 4",
+        "image": "https://pics.filmaffinity.com/the_playlist-819784656-large.jpg",
+        "url": "https://filemoon.sx/d/br1omgiy72s7/S01E04_PlayLIst_1080p.mp4",
+       	"info": "[ESPAÑOL][2022]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 5",
+        "image": "https://pics.filmaffinity.com/the_playlist-819784656-large.jpg",
+        "url": "https://filemoon.sx/d/4ngc7xucl607/S01E05_PlayLIst_1080p.mp4",
+       	"info": "[ESPAÑOL][2022]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 6",
+        "image": "https://pics.filmaffinity.com/the_playlist-819784656-large.jpg",
+        "url": "https://filemoon.sx/d/kozmrupmffq0/S01E06_PlayLIst_1080p.mp4",
+       	"info": "[ESPAÑOL][2022]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
