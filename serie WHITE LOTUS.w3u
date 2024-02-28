@@ -1,0 +1,116 @@
+
+
+{
+"name": "WHITE LOTUS",
+"image": "https://pics.filmaffinity.com/the_white_lotus-477876468-large.jpg",
+"url": "https://af1cionados.vercel.app/",
+"info": "2023",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":
+	[
+
+	{
+       	"name": "EPISODIO 1",
+        "image": "https://pics.filmaffinity.com/the_white_lotus-477876468-large.jpg",
+        "url": "",
+       	"info": "[Castellano]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 1",
+        "image": "https://pics.filmaffinity.com/the_white_lotus-477876468-large.jpg",
+        "url": "",
+       	"info": "[Latino]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 1",
+        "image": "https://pics.filmaffinity.com/the_white_lotus-477876468-large.jpg",
+        "url": "",
+       	"info": "[VOSE]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 2",
+        "image": "https://pics.filmaffinity.com/the_white_lotus-477876468-large.jpg",
+        "url": "",
+       	"info": "[Castellano]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 2",
+        "image": "https://pics.filmaffinity.com/the_white_lotus-477876468-large.jpg",
+        "url": "",
+       	"info": "[Latino]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 2",
+        "image": "https://pics.filmaffinity.com/the_white_lotus-477876468-large.jpg",
+        "url": "",
+       	"info": "[VOSE]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 3",
+        "image": "https://pics.filmaffinity.com/the_white_lotus-477876468-large.jpg",
+        "url": "",
+       	"info": "[Castellano]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 3",
+        "image": "https://pics.filmaffinity.com/the_white_lotus-477876468-large.jpg",
+        "url": "",
+       	"info": "[Latino]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 3",
+        "image": "https://pics.filmaffinity.com/the_white_lotus-477876468-large.jpg",
+        "url": "",
+       	"info": "[VOSE]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+
+
+]
+}
