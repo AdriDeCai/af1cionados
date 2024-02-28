@@ -1,0 +1,47 @@
+
+{
+"name": "GRAN ESTAFA DE LOS TELEOPERADORES",
+"image": "https://pics.filmaffinity.com/telemarketers-843564107-large.jpg",
+"url": "https://af1cionados.vercel.app/",
+"info": "2023",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":
+	[
+
+	{
+	"name": "CAPITULO 1",
+        "image": "https://pics.filmaffinity.com/telemarketers-843564107-large.jpg",
+        "url": "https://embedv.net/v/dNjgOl47jwVO9Wn",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 2",
+        "image": "https://pics.filmaffinity.com/telemarketers-843564107-large.jpg",
+        "url": "https://embedv.net/v/6zeREaD1GgjxZPa",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 3",
+        "image": "https://pics.filmaffinity.com/telemarketers-843564107-large.jpg",
+        "url": "https://embedv.net/v/8lKQxYVpZg8EDGY",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
