@@ -13,7 +13,7 @@
 	{
        	"name": "EPISODIO 1",
         "image": "https://pics.filmaffinity.com/the_white_lotus-477876468-large.jpg",
-        "url": "https://upstream.to/6drckry2vvtg",
+        "url": "https://embedv.net/v/ZMVoEr8zrqw59Pa",
        	"info": "[Castellano][2021]",
        	"embed": "",
        	"isHost": "true",
@@ -24,7 +24,7 @@
 	{
        	"name": "EPISODIO 2",
         "image": "https://pics.filmaffinity.com/the_white_lotus-477876468-large.jpg",
-        "url": "",
+        "url": "https://embedv.net/v/qM1VOPNnm8Bxo4k",
        	"info": "[Castellano][2021]",
        	"embed": "",
        	"isHost": "true",
@@ -35,7 +35,40 @@
 	{
        	"name": "EPISODIO 3",
         "image": "https://pics.filmaffinity.com/the_white_lotus-477876468-large.jpg",
-        "url": "",
+        "url": "https://embedv.net/v/vQBYEbNK0W8En1m",
+       	"info": "[Castellano][2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 4",
+        "image": "https://pics.filmaffinity.com/the_white_lotus-477876468-large.jpg",
+        "url": "https://embedv.net/v/kKJVORWkG6d53XD",
+       	"info": "[Castellano][2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 5",
+        "image": "https://pics.filmaffinity.com/the_white_lotus-477876468-large.jpg",
+        "url": "https://embedv.net/v/qA3WOmGVdnPxKkz",
+       	"info": "[Castellano][2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 6",
+        "image": "https://pics.filmaffinity.com/the_white_lotus-477876468-large.jpg",
+        "url": "https://embedv.net/v/qA3WOmGVdzPxKkz",
        	"info": "[Castellano][2021]",
        	"embed": "",
        	"isHost": "true",
