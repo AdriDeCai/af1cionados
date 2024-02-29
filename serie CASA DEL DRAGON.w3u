@@ -1,19 +1,19 @@
 
 {
-"name": "CASA DEL DRAGON",
+"name": "CASA DEL DRAGÓN",
 "image": "https://pics.filmaffinity.com/house_of_the_dragon-678918948-large.jpg",
-"url": "https://af1cionados.vercel.app/serie CASA DEL DRAGON.w3u",
-"info": "2022",
+"url": "https://af1cionados.vercel.app/",
+"info": "by AdriDeCai",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
-"telegram": @YIsus_mEx",
+"telegram": "@YIsus_mEx",
 "stations":
-
 	[
+
 	{
 	"name": "CAPITULO 1",
         "image": "https://pics.filmaffinity.com/house_of_the_dragon-678918948-large.jpg",
         "url": "https://embedv.net/v/8ozgENLXzMY5mjA",
-       	"info": "2022",
+       	"info": "[ESPAÑOL 2023]",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
@@ -24,7 +24,7 @@
 	"name": "CAPITULO 2",
         "image": "https://pics.filmaffinity.com/house_of_the_dragon-678918948-large.jpg",
         "url": "https://embedv.net/v/njJYOd3qXmvEe9o",
-       	"info": "2022",
+       	"info": "[ESPAÑOL 2023]",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
@@ -35,7 +35,7 @@
 	"name": "CAPITULO 3",
         "image": "https://pics.filmaffinity.com/house_of_the_dragon-678918948-large.jpg",
         "url": "https://embedv.net/v/3Q0lxBWm02LEj1J",
-       	"info": "2022",
+       	"info": "[ESPAÑOL 2023]",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
@@ -46,7 +46,7 @@
 	"name": "CAPITULO 4",
         "image": "https://pics.filmaffinity.com/house_of_the_dragon-678918948-large.jpg",
         "url": "https://embedv.net/v/ZMVoEr8zepq59Pa",
-       	"info": "2022",
+       	"info": "[ESPAÑOL 2023]",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
@@ -57,7 +57,7 @@
 	"name": "CAPITULO 5",
         "image": "https://pics.filmaffinity.com/house_of_the_dragon-678918948-large.jpg",
         "url": "https://embedv.net/v/VqbX53gLejd5Qzp",
-       	"info": "2022",
+       	"info": "[ESPAÑOL 2023]",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
@@ -68,7 +68,7 @@
 	"name": "CAPITULO 6",
         "image": "https://pics.filmaffinity.com/house_of_the_dragon-678918948-large.jpg",
         "url": "https://embedv.net/v/e028E6RGpvBEYAv",
-       	"info": "2022",
+       	"info": "[ESPAÑOL 2023]",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
@@ -79,7 +79,7 @@
 	"name": "CAPITULO 7",
         "image": "https://pics.filmaffinity.com/house_of_the_dragon-678918948-large.jpg",
         "url": "https://embedv.net/v/edVqE4r9L1w5YWm",
-       	"info": "2022",
+       	"info": "[ESPAÑOL 2023]",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
@@ -90,7 +90,7 @@
 	"name": "CAPITULO 8",
         "image": "https://pics.filmaffinity.com/house_of_the_dragon-678918948-large.jpg",
         "url": "https://embedv.net/v/qM1VOPNn0dmxo4k",
-       	"info": "2022",
+       	"info": "[ESPAÑOL 2023]",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
@@ -101,24 +101,14 @@
 	"name": "CAPITULO 9",
         "image": "https://pics.filmaffinity.com/house_of_the_dragon-678918948-large.jpg",
         "url": "https://embedv.net/v/4bQVOj7RBDv5wKm",
-       	"info": "2022",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
-	{
-	"name": "CAPITULO 10",
-        "image": "https://pics.filmaffinity.com/house_of_the_dragon-678918948-large.jpg",
-        "url": "https://embedv.net/v/l4vexvDovV4O8B9",
-       	"info": "2022",
+       	"info": "[ESPAÑOL 2023]",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	}
+
 
 ]
 }
