@@ -570,6 +570,17 @@
       "import": false
     },
     {
+      "name": "CAMPEONES",
+      "image": "https://pics.filmaffinity.com/campeones-981723931-large.jpg",
+      "url": "https://upstream.to/0l78gdf2uw2s",
+      "info": "[ESPAÑOL 2018]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
       "name": "CAMPEONEX",
       "image": "https://i.postimg.cc/Pq5GVbxX/Campeone-X-pelicula-2023.jpg",
       "url": "https://upstream.to/th4mr2czfvzi",
@@ -732,30 +743,6 @@
       "import": false
     },
     {
-      "name": "CORREDOR DEL LABERINTO, EL",
-      "image": "https://i.postimg.cc/vBBCNWHH/El-Corredor-del-Laberinto-I-2014-Pelicula.jpg",
-      "url": "https://upstream.to/6krxs3ms5frd",
-      "info": "2014",
-      "isHost": "true",
-      "online": "true"
-    },
-    {
-      "name": "CORREDOR DEL LABERINTO 2, EL",
-      "image": "https://i.postimg.cc/qBcZxbGX/El-Corredor-del-laberinto-2-2015-Pelicula.jpg",
-      "url": "https://upstream.to/4kuou0q3wedc",
-      "info": "2015",
-      "isHost": "true",
-      "online": "true"
-    },
-    {
-      "name": "CORREDOR DEL LABERINTO 3, EL",
-      "image": "https://i.postimg.cc/5y9533xn/El-Corredor-del-Laberinto-3-2018-Pelicula.jpg",
-      "url": "https://upstream.to/e1cifk3oidig",
-      "info": "2023",
-      "isHost": "true",
-      "online": "true"
-    },
-    {
       "name": "CORRIENTE, LA (IBIZA BLUE)",
       "image": "https://pics.filmaffinity.com/la_corriente-408056058-large.jpg",
       "url": "https://upstream.to/quue5xwmf6ll",
@@ -778,42 +765,6 @@
       "import": false
     },
     {
-      "name": "CREPUSCULO",
-      "info": "2008",
-      "image": "https://pics.filmaffinity.com/twilight-976997289-large.jpg",
-      "url": "https://upstream.to/pg2jfuh4q559",
-      "embed": "",
-      "isHost": "true",
-      "online": "true"
-    },
-    {
-      "name": "CREPUSCULO LUNA NUEVA",
-      "info": "2009",
-      "image": "https://pics.filmaffinity.com/the_twilight_saga_new_moon_twilight_2-890518239-large.jpg",
-      "url": "https://upstream.to/f6zwbj4uz5vn",
-      "embed": "",
-      "isHost": "true",
-      "online": "true"
-    },
-    {
-      "name": "CREPUSCULO ECLIPSE",
-      "info": "2010",
-      "image": "https://pics.filmaffinity.com/the_twilight_saga_eclipse_twilight_3-285102910-large.jpg",
-      "url": "https://upstream.to/qpmemtwf6pcm",
-      "embed": "",
-      "isHost": "true",
-      "online": "true"
-    },
-    {
-      "name": "CREPUSCULO AMANECER PARTE 2",
-      "info": "2012",
-      "image": "https://pics.filmaffinity.com/the_twilight_saga_breaking_dawn_part_1-471141705-large.jpg",
-      "url": "https://upstream.to/t0ap6g8nqyh4",
-      "embed": "",
-      "isHost": "true",
-      "online": "true"
-    },
-    {
       "name": "CRYPTO BOY",
       "image": "https://pics.filmaffinity.com/crypto_boy-881485591-large.jpg",
       "url": "https://upstream.to/8361ghzf0pcy",
@@ -832,16 +783,6 @@
       "embed": "",
       "isHost": "true",
       "online": "true"
-    },
-    {
-      "name": "DAVID BISBAL, EL DOCUMENTAL",
-      "info": "2023",
-      "image": "https://i.postimg.cc/vBdyNyZP/David-Bisbal-El-Documental-2023.png",
-      "url": "https://upstream.to/z50pumaeow55",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
     },
     {
       "name": "DARK HARVEST (COSECHA OSCURA)",
@@ -1021,7 +962,12 @@
       "name": "EJERCITO DE LOS MUERTOS, EL",
       "url": "https://upstream.to/a2e8za369ysv",
       "image": "https://i.postimg.cc/hGHj6sdd/photo-2023-08-28-16-58-35.jpg",
-      "info": "2021"
+      "info": "2021",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
     },
     {
       "name": "HOMBRE ARAÑA 3, EL",
@@ -1031,7 +977,8 @@
       "embed": "",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
     },
     {
       "name": "ELLA VINO DEL BOSQUE",
@@ -1051,7 +998,9 @@
       "url": "https://upstream.to/kulnwkctjp7i",
       "embed": "",
       "isHost": "true",
-      "online": "true"
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
     },
     {
       "name": "ENCIERRO",
@@ -1069,50 +1018,6 @@
       "image": "https://pics.filmaffinity.com/the_masked_scammer-852615862-large.jpg",
       "url": "https://upstream.to/m1lrjvfv2buf",
       "info": "2022",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "EQUALIZER 1",
-      "image": "https://i.postimg.cc/J0jn42pD/Equalizer-1-2014-Pelicula.jpg",
-      "url": "https://upstream.to/vzchv9u83ofx",
-      "info": "2014",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "EQUALIZER 2",
-      "image": "https://i.postimg.cc/2ydkfB5n/Equalizer-2-2018-Pelicula.jpg",
-      "url": "https://upstream.to/v2g3ziq2pcea",
-      "info": "2018",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "EQUALIZER 3",
-      "image": "https://i.postimg.cc/L4xQx8DW/Equalizer-3-2023-Pelicula.jpg",
-      "url": "https://upstream.to/kp7cmaq872zm",
-      "info": "2023",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "ERASE UNA VEZ UN ESTUDIO",
-      "image": "https://pics.filmaffinity.com/once_upon_a_studio-161910896-large.jpg",
-      "url": "https://upstream.to/7ptei7fdpl0d",
-      "info": "2023",
       "embed": "",
       "isHost": "true",
       "online": "true",
