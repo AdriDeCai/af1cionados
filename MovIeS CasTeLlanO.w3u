@@ -876,6 +876,17 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+	{
+    "name": "DE VUELTA EN EL STRIP",
+    "image": "https://pics.filmaffinity.com/back_on_the_strip-840332283-large.jpg",
+    "url": "https://upstream.to/kxkpbhbit5vt",
+    "info": "[Español 2023]",
+    "embed": "",
+    "isHost": "true",
+    "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+    "import": false
+    },
     {
       "name": "DECIBEL",
       "image": "https://pics.filmaffinity.com/decibel-619882342-large.jpg",
@@ -1657,6 +1668,17 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
+    },
+	{
+    "name": "LAURA Y EL MISTERIO DE LA NOVIA QUE ESPERO DEMASIADO",
+    "image": "https://pics.filmaffinity.com/laura_y_el_misterio_de_la_novia_que_espero_demasiado-358302813-large.jpg",
+    "url": "https://upstream.to/rrqygxg5jdb5",
+    "info": "[Español 2023]",
+    "embed": "",
+    "isHost": "true",
+    "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+    "import": false
     },
     {
       "name": "LEON POR UN DIA",
