@@ -2062,7 +2062,9 @@
       "url": "https://upstream.to/ajjxjrwas8te",
       "info": "2023",
       "isHost": "true",
-      "online": "true"
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
     },
     {
       "name": "NO DESCANSARÁS",
@@ -2081,7 +2083,9 @@
       "url": "https://upstream.to/c9p6n76wgeqk",
       "info": "2016",
       "isHost": "true",
-      "online": "true"
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
     },
     {
       "name": "NUNCA LLUEVE EN CALIFORNIA",
@@ -2089,7 +2093,9 @@
       "url": "https://upstream.to/fajv73k9ommj",
       "info": "2022",
       "isHost": "true",
-      "online": "true"
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
     },
     {
       "name": "NUNCA ME DEJARÁS",
@@ -2097,7 +2103,9 @@
       "url": "https://upstream.to/6rgec6siuzwd",
       "info": "2023",
       "isHost": "true",
-      "online": "true"
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
     },
     {
       "name": "NUOVO OLIMPO",
@@ -2150,16 +2158,6 @@
       "info": "2023",
       "isHost": "true",
       "online": "true"
-    },
-    {
-      "name": "OPERACION KANDAHAR [Subtitulada castellano]",
-      "image": "https://i.postimg.cc/m2HGTThG/Operacion-Kandahar-2023-Pelicula.jpg",
-      "url": "https://upstream.to/yjlanjr3uf0j",
-      "info": "2023",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
     },
     {
       "name": "OPERACION SEAWOLF",
@@ -2221,36 +2219,6 @@
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "PADRE NO HAY MAS QUE UNO 1",
-      "image": "https://pics.filmaffinity.com/padre_no_hay_mas_que_uno-289733769-large.jpg",
-      "url": "https://filemoon.sx/d/cgnwy1vdkjnq/Padre_No_Hay_Mas_que_Uno__2019_.mp4",
-      "info": "2019",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "PADRE NO HAY MAS QUE UNO 2",
-      "image": "https://pics.filmaffinity.com/padre_no_hay_mas_que_uno_2_la_llegada_de_la_suegra-719430009-large.jpg",
-      "url": "https://filemoon.sx/d/tg2vsco2coqr/Padre_no_hay_mas_que_Uno_II__2020_.mp4",
-      "info": "2020",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "PADRE NO HAY MAS QUE UNO 3",
-      "image": "https://pics.filmaffinity.com/padre_no_hay_mas_que_uno_3-400727246-large.jpg",
-      "url": "https://filemoon.sx/d/mqporuqu3wxq/Padre_no_hay_mas_que_Uno_III__2021_.mp4",
-      "info": "2022",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
       "import": false
     },
     {
@@ -2366,50 +2334,6 @@
       "image": "https://pics.filmaffinity.com/il_primo_giorno_della_mia_vita-830461077-large.jpg",
       "url": "https://upstream.to/dr2kayx48r3h",
       "info": "2023",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "[REC] TERROR SIN PAUSA",
-      "image": "https://i.postimg.cc/t4hC0Jp8/REC-Terror-sin-pausa-2022-Pelicula.jpg",
-      "url": "https://upstream.to/t4rwrffa8hwz",
-      "info": "2022",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "[REC] 1",
-      "image": "https://i.postimg.cc/qRZpcCx6/1-REC-2007-Pelicula.jpg",
-      "url": "https://upstream.to/0wdbn7z1h2n1",
-      "info": "2007",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "[REC] 2",
-      "image": "https://i.postimg.cc/qqbQvp0T/2-REC-2009-Pelicula.jpg",
-      "url": "https://upstream.to/uzvvrwem376f",
-      "info": "2009",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "[REC] 3 GENESIS",
-      "image": "https://i.postimg.cc/jSsyCLZY/3-REC-G-nesis-2012-Pelicula.jpg",
-      "url": "https://upstream.to/httvsqgg2woa",
-      "info": "2012",
       "embed": "",
       "isHost": "true",
       "online": "true",
@@ -2629,7 +2553,9 @@
       "url": "https://vidmoly.to/w/kv7olpzlb5ib",
       "embed": "",
       "isHost": "true",
-      "online": "true"
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
     },
     {
       "name": "SKINAMARINK",
@@ -2658,72 +2584,6 @@
       "image": "https://pics.filmaffinity.com/snowden-767575981-large.jpg",
       "url": "https://upstream.to/kikc2cy2aixj",
       "info": "2016",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "SOLO EN CASA 1 MI PEQUEÑO ANGELITO",
-      "image": "https://pics.filmaffinity.com/home_alone-163260879-large.jpg",
-      "url": "https://upstream.to/lxhp5u8ovzr9",
-      "info": "1990",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "SOLO EN CASA 2 PERDIDO EN NEW YORK",
-      "image": "https://pics.filmaffinity.com/home_alone_2_lost_in_new_york-122355314-large.jpg",
-      "url": "https://upstream.to/9moo0naxod0l",
-      "info": "1992",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "SOLO EN CASA 3",
-      "image": "https://pics.filmaffinity.com/home_alone_3-323309488-large.jpg",
-      "url": "https://upstream.to/i5azd1jkst4c",
-      "info": "1997",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "SOLO EN CASA 4",
-      "image": "https://pics.filmaffinity.com/home_alone_4_tv-904874300-large.jpg",
-      "url": "https://upstream.to/joxgoa27hcq4",
-      "info": "2002",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "SOLO EN CASA 5",
-      "image": "https://pics.filmaffinity.com/home_alone_the_holiday_heist_home_alone_5_tv-201997824-large.jpg",
-      "url": "https://upstream.to/x04c7wm32kdn",
-      "info": "2012",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "SOLO EN CASA, POR FIN",
-      "image": "https://pics.filmaffinity.com/home_sweet_home_alone-872888087-large.jpg",
-      "url": "https://filemoon.sx/d/49uhqv7wz4ie/Solo_en_casa__por_fin__Pelicula_2021_.mp4",
-      "info": "2021",
       "embed": "",
       "isHost": "true",
       "online": "true",
