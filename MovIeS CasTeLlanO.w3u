@@ -584,7 +584,7 @@
       "name": "CAMPEONEX",
       "image": "https://i.postimg.cc/Pq5GVbxX/Campeone-X-pelicula-2023.jpg",
       "url": "https://upstream.to/th4mr2czfvzi",
-      "info": "2023",
+      "info": "[2023]",
       "embed": "",
       "isHost": "true",
       "online": "true",
@@ -1117,7 +1117,9 @@
       "url": "https://upstream.to/1pvuc43or6o2",
       "embed": "",
       "isHost": "true",
-      "online": "true"
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
     },
     {
       "name": "FAST & FURIOUS X",
@@ -1520,17 +1522,6 @@
       "import": false
     },
     {
-      "name": "KATHRYN BIGELOW: HOLLYWOOD EN ACCION",
-      "image": "https://pics.filmaffinity.com/kathryn_bigelow_hollywood_sous_adrenaline-806501527-large.jpg",
-      "url": "https://upstream.to/2v8bjutnvu68",
-      "info": "2023",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
       "name": "KITCHEN, THE",
       "image": "https://pics.filmaffinity.com/the_kitchen-675001481-large.jpg",
       "url": "https://upstream.to/w61byt4ryd3e",
@@ -1802,17 +1793,6 @@
       "embed": "",
       "isHost": "true",
       "online": "true",
-      "import": false
-    },
-    {
-      "name": "MERKEL",
-      "image": "https://pics.filmaffinity.com/merkel-572914449-large.jpg",
-      "url": "https://upstream.to/5c77ju1qqpbm",
-      "info": "2022",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
     {
