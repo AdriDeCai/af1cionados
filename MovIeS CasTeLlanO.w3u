@@ -2609,116 +2609,6 @@
       "online": "true"
     },
     {
-      "name": "STAR WARS La guerra de las galaxias. Episodio IV: Una nueva esperanza",
-      "image": "https://pics.filmaffinity.com/star_wars-166209019-large.jpg",
-      "url": "https://upstream.to/kuniyfr2yr6g",
-      "info": "1977",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "STAR WARS La guerra de las galaxias. Episodio V: El imperio contraataca",
-      "image": "https://pics.filmaffinity.com/star_wars_episode_v_the_empire_strikes_back-701818523-large.jpg",
-      "url": "https://upstream.to/3jx33km7pmyr",
-      "info": "1980",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "STAR WARS La guerra de las galaxias. Episodio VI: El retorno del Jedi",
-      "image": "https://pics.filmaffinity.com/star_wars_episode_vi_return_of_the_jedi-643019465-large.jpg",
-      "url": "https://upstream.to/7b0tx21msb32",
-      "info": "1983",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "STAR WARS La guerra de las galaxias. Episodio II: El ataque de los clones",
-      "image": "https://pics.filmaffinity.com/star_wars_episode_ii_attack_of_the_clones-495166632-large.jpg",
-      "url": "https://upstream.to/ixvvugps2caw",
-      "info": "2002",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "STAR WARS La guerra de las galaxias. Episodio III: La venganza de los Sith",
-      "image": "https://pics.filmaffinity.com/star_wars_episode_iii_revenge_of_the_sith-699349136-large.jpg",
-      "url": "https://upstream.to/t619gcw8a6yt",
-      "info": "2005",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "STAR WARS Episode VII: El despertar de la Fuerza",
-      "image": "https://pics.filmaffinity.com/star_wars_episode_vii_the_force_awakens-625343391-large.jpg",
-      "url": "https://upstream.to/cdriyetwmort",
-      "info": "2015",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "STAR WARS Rogue One: Una historia de Star Wars",
-      "image": "https://pics.filmaffinity.com/rogue_one_a_star_wars_story-635726332-large.jpg",
-      "url": "https://upstream.to/17cfzschj0ye",
-      "info": "2016",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "STAR WARS Los últimos Jedi",
-      "image": "https://pics.filmaffinity.com/star_wars_the_last_jedi-535293064-large.jpg",
-      "url": "https://upstream.to/3u68zgd1zt5v",
-      "info": "2017",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "STAR WARS Una historia de Star Wars",
-      "image": "https://pics.filmaffinity.com/solo_a_star_wars_story-540929627-large.jpg",
-      "url": "https://upstream.to/k9ty37hv52y8",
-      "info": "2018",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "STAR WARS El ascenso de Skywalker",
-      "image": "https://pics.filmaffinity.com/star_wars_the_rise_of_skywalker-619389738-large.jpg",
-      "url": "https://upstream.to/1jql1rsy02zs",
-      "info": "2019",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
       "name": "STILLNESS IN THE STORM",
       "image": "https://pics.filmaffinity.com/gelditasuna_ekaitzean-474192990-large.jpg",
       "url": "https://upstream.to/t66fawtq89cr",
@@ -2777,8 +2667,11 @@
       "image": "https://pics.filmaffinity.com/tetris-208019433-mmed.jpg",
       "url": "https://upstream.to/33vpk3mwnm2q",
       "info": "2023",
+	"embed": "",
       "isHost": "true",
-      "online": "true"
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
     },
     {
       "name": "THE BEST MAN",
@@ -3102,7 +2995,9 @@
       "url": "https://upstream.to/befmdp5vubcz",
       "embed": "",
       "isHost": "true",
-      "online": "true"
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
     },
     {
       "name": "VIENTO SUR",
@@ -3133,7 +3028,9 @@
       "url": "https://upstream.to/vuuh438sji7y",
       "embed": "",
       "isHost": "true",
-      "online": "true"
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
     },
     {
       "name": "WHEN CHRISTMAS WAS YOUNG",
