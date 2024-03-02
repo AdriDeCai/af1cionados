@@ -1,0 +1,58 @@
+
+{
+"name": "[REC] TERROR SIN PAUSA",
+"image": "https://i.postimg.cc/t4hC0Jp8/REC-Terror-sin-pausa-2022-Pelicula.jpg",
+"url": "https://af1cionados.vercel.app/",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":
+	[
+
+    {
+      "name": "[REC] TERROR SIN PAUSA",
+      "image": "https://i.postimg.cc/t4hC0Jp8/REC-Terror-sin-pausa-2022-Pelicula.jpg",
+      "url": "https://upstream.to/t4rwrffa8hwz",
+      "info": "2022",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "[REC] 1",
+      "image": "https://i.postimg.cc/qRZpcCx6/1-REC-2007-Pelicula.jpg",
+      "url": "https://upstream.to/0wdbn7z1h2n1",
+      "info": "2007",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "[REC] 2",
+      "image": "https://i.postimg.cc/qqbQvp0T/2-REC-2009-Pelicula.jpg",
+      "url": "https://upstream.to/uzvvrwem376f",
+      "info": "2009",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "[REC] 3 GENESIS",
+      "image": "https://i.postimg.cc/jSsyCLZY/3-REC-G-nesis-2012-Pelicula.jpg",
+      "url": "https://upstream.to/httvsqgg2woa",
+      "info": "2012",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    }
+
+]
+}
