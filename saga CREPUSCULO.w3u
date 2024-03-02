@@ -1,0 +1,51 @@
+
+{
+"name": "CREPUSCULO",
+"image": "https://pics.filmaffinity.com/twilight-976997289-large.jpg",
+"url": "https://af1cionados.vercel.app/",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":
+	[
+
+    {
+      "name": "CREPUSCULO",
+      "info": "[Español 2008]",
+      "image": "https://pics.filmaffinity.com/twilight-976997289-large.jpg",
+      "url": "https://upstream.to/pg2jfuh4q559",
+      "embed": "",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
+      "name": "CREPUSCULO LUNA NUEVA",
+      "info": "[Español 2009]",
+      "image": "https://pics.filmaffinity.com/the_twilight_saga_new_moon_twilight_2-890518239-large.jpg",
+      "url": "https://upstream.to/f6zwbj4uz5vn",
+      "embed": "",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
+      "name": "CREPUSCULO ECLIPSE",
+      "info": "[Español 2010]",
+      "image": "https://pics.filmaffinity.com/the_twilight_saga_eclipse_twilight_3-285102910-large.jpg",
+      "url": "https://upstream.to/qpmemtwf6pcm",
+      "embed": "",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
+      "name": "CREPUSCULO AMANECER PARTE 2",
+      "info": "[Español 2012]",
+      "image": "https://pics.filmaffinity.com/the_twilight_saga_breaking_dawn_part_1-471141705-large.jpg",
+      "url": "https://upstream.to/t0ap6g8nqyh4",
+      "embed": "",
+      "isHost": "true",
+      "online": "true"
+    }
+
+
+]
+}
