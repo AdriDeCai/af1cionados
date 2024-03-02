@@ -1,0 +1,80 @@
+
+{
+"name": "SOLO EN CASA",
+"image": "https://pics.filmaffinity.com/home_alone-163260879-large.jp",
+"url": "https://af1cionados.vercel.app/",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":
+	[
+
+    {
+      "name": "SOLO EN CASA 1 MI PEQUEÑO ANGELITO",
+      "image": "https://pics.filmaffinity.com/home_alone-163260879-large.jpg",
+      "url": "https://upstream.to/lxhp5u8ovzr9",
+      "info": "1990",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "SOLO EN CASA 2 PERDIDO EN NEW YORK",
+      "image": "https://pics.filmaffinity.com/home_alone_2_lost_in_new_york-122355314-large.jpg",
+      "url": "https://upstream.to/9moo0naxod0l",
+      "info": "1992",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "SOLO EN CASA 3",
+      "image": "https://pics.filmaffinity.com/home_alone_3-323309488-large.jpg",
+      "url": "https://upstream.to/i5azd1jkst4c",
+      "info": "1997",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "SOLO EN CASA 4",
+      "image": "https://pics.filmaffinity.com/home_alone_4_tv-904874300-large.jpg",
+      "url": "https://upstream.to/joxgoa27hcq4",
+      "info": "2002",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "SOLO EN CASA 5",
+      "image": "https://pics.filmaffinity.com/home_alone_the_holiday_heist_home_alone_5_tv-201997824-large.jpg",
+      "url": "https://upstream.to/x04c7wm32kdn",
+      "info": "2012",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "SOLO EN CASA, POR FIN",
+      "image": "https://pics.filmaffinity.com/home_sweet_home_alone-872888087-large.jpg",
+      "url": "https://filemoon.sx/d/49uhqv7wz4ie/Solo_en_casa__por_fin__Pelicula_2021_.mp4",
+      "info": "2021",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    }
+
+]
+}
