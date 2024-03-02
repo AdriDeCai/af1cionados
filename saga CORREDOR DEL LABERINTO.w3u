@@ -1,0 +1,38 @@
+
+{
+"name": "CORREDOR DEL LABERINTO",
+"image": "https://i.postimg.cc/vBBCNWHH/El-Corredor-del-Laberinto-I-2014-Pelicula.jpg",
+"url": "https://af1cionados.vercel.app/",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":
+[
+
+    {
+      "name": "CORREDOR DEL LABERINTO, EL",
+      "image": "https://i.postimg.cc/vBBCNWHH/El-Corredor-del-Laberinto-I-2014-Pelicula.jpg",
+      "url": "https://upstream.to/6krxs3ms5frd",
+      "info": "[Español 2014]",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
+      "name": "CORREDOR DEL LABERINTO 2, EL",
+      "image": "https://i.postimg.cc/qBcZxbGX/El-Corredor-del-laberinto-2-2015-Pelicula.jpg",
+      "url": "https://upstream.to/4kuou0q3wedc",
+      "info": "[Español 2015]",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
+      "name": "CORREDOR DEL LABERINTO 3, EL",
+      "image": "https://i.postimg.cc/5y9533xn/El-Corredor-del-Laberinto-3-2018-Pelicula.jpg",
+      "url": "https://upstream.to/e1cifk3oidig",
+      "info": "[Español 2023]",
+      "isHost": "true",
+      "online": "true"
+    }
+
+]
+}
