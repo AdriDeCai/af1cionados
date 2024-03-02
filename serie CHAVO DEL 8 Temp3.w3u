@@ -13,7 +13,7 @@
 	{
 	"name": "CAPITULO 1",
         "image": "https://pics.filmaffinity.com/el_chavo_del_8-387429057-large.jpg",
-        "url": "",
+        "url": "https://embedv.net/v/KNWlEDNWYov5kbp",
        	"info": "[1975]",
        	"embed": "",
        	"isHost": "true",
@@ -24,7 +24,29 @@
 	{
 	"name": "CAPITULO 2",
         "image": "https://pics.filmaffinity.com/el_chavo_del_8-387429057-large.jpg",
-        "url": "",
+        "url": "https://embedv.net/v/wP2050erY3lxdmy",
+       	"info": "[1975]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 3",
+        "image": "https://pics.filmaffinity.com/el_chavo_del_8-387429057-large.jpg",
+        "url": "https://embedv.net/v/0DogOGMDYJjxKjM",
+       	"info": "[1975]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 4",
+        "image": "https://pics.filmaffinity.com/el_chavo_del_8-387429057-large.jpg",
+        "url": "https://embedv.net/v/4bQVOj7J6Rw5wKm",
        	"info": "[1975]",
        	"embed": "",
        	"isHost": "true",
