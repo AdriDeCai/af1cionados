@@ -1,0 +1,91 @@
+
+{
+"name": "REINA ROJA",
+"image": "https://pics.filmaffinity.com/reina_roja-983415661-large.jpg",
+"url": "https://af1cionados.vercel.app/",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":
+	[
+
+	{
+	"name": "1x01 Un salto",
+        "image": "https://pics.filmaffinity.com/reina_roja-983415661-large.jpg",
+        "url": "https://vidmoly.me/w/nrf7edlxafq7",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "1x02 Un tatuaje",
+        "image": "https://pics.filmaffinity.com/reina_roja-983415661-large.jpg",
+        "url": "https://vidmoly.me/w/bdbnarhathi0",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "1x03 Una pastilla",
+        "image": "https://pics.filmaffinity.com/reina_roja-983415661-large.jpg",
+        "url": "https://vidmoly.me/w/h30tsth48njg",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "1x04 Una tortilla",
+        "image": "https://pics.filmaffinity.com/reina_roja-983415661-large.jpg",
+        "url": "https://vidmoly.me/w/lvivp2f2dswf",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "1x05 Una decisión",
+        "image": "https://pics.filmaffinity.com/reina_roja-983415661-large.jpg",
+        "url": "https://vidmoly.me/w/eooh75yq5geq",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "1x06 Un disfraz",
+        "image": "https://pics.filmaffinity.com/reina_roja-983415661-large.jpg",
+        "url": "https://vidmoly.me/w/t1mvdqtfect6",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "1x07 Un espejo",
+        "image": "https://pics.filmaffinity.com/reina_roja-983415661-large.jpg",
+        "url": "https://vidmoly.me/w/glxmi85lo8u9",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
