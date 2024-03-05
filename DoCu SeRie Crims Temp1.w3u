@@ -1,0 +1,136 @@
+
+{
+"name": "CRIMS, TEMP1",
+"image": "https://pics.filmaffinity.com/crims-190785863-large.jpg",
+"url": "https://af1cionados.vercel.app/",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":
+	[
+
+	{
+	"name": "Brito y Picatoste (I)",
+        "image": "https://pics.filmaffinity.com/crims-190785863-large.jpg",
+        "url": "https://upstream.to/7zattn94xx4u",
+       	"info": "[Español 2020]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Brito y Picatoste (II)",
+        "image": "https://pics.filmaffinity.com/crims-190785863-large.jpg",
+        "url": "",
+       	"info": "[Español 2020]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "El Celador de Olot",
+        "image": "https://pics.filmaffinity.com/crims-190785863-large.jpg",
+        "url": "",
+       	"info": "[Español 2020]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "El Asesino del Putxet",
+        "image": "https://pics.filmaffinity.com/crims-190785863-large.jpg",
+        "url": "",
+       	"info": "[Español 2020]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Josep Talleda, el "Esperadme" (I)",
+        "image": "https://pics.filmaffinity.com/crims-190785863-large.jpg",
+        "url": "",
+       	"info": "[Español 2020]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Josep Talleda, el "Esperadme" (II)",
+        "image": "https://pics.filmaffinity.com/crims-190785863-large.jpg",
+        "url": "",
+       	"info": "[Español 2020]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Mataiaies",
+        "image": "https://pics.filmaffinity.com/crims-190785863-large.jpg",
+        "url": "",
+       	"info": "[Español 2020]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Machala",
+        "image": "https://pics.filmaffinity.com/crims-190785863-large.jpg",
+        "url": "",
+       	"info": "[Español 2020]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "La bibliotecaria Helena Jubany (I)",
+        "image": "https://pics.filmaffinity.com/crims-190785863-large.jpg",
+        "url": "",
+       	"info": "[Español 2020]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "La bibliotecaria Helena Jubany (II)",
+        "image": "https://pics.filmaffinity.com/crims-190785863-large.jpg",
+        "url": "",
+       	"info": "[Español 2020]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "¿Por qué matamos?",
+        "image": "https://pics.filmaffinity.com/crims-190785863-large.jpg",
+        "url": "",
+       	"info": "[Español 2020]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+
+	]
+}
