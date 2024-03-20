@@ -6,9 +6,15 @@
 "info": "bY AdriDeCai",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": "@YIsus_mEx",
-"stations":
+"groups":
 	[
 
+	{
+	"name": "TEMPORADA 1",
+	"info": "",
+	"image": "https://pics.filmaffinity.com/el_inmortal-934875828-large.jpg",
+	"stations":
+	[
 	{
 	"name": "Episodio 1",
 	"info": "[Español]",
@@ -97,6 +103,72 @@
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 2",
+	"info": "",
+	"image": "https://pics.filmaffinity.com/el_inmortal-934875828-large.jpg",
+	"stations":
+	[
+	{
+	"name": "Episodio 1",
+        "image": "https://pics.filmaffinity.com/el_inmortal-934875828-large.jpg",
+        "url": "https://bembed.net/v/3Q0lxBWZke8Ej1J",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Episodio 2",
+        "image": "https://pics.filmaffinity.com/el_inmortal-934875828-large.jpg",
+        "url": "https://filemoon.sx/d/vfm1rtcerpe3/2x02_Inmortal.mp4",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Episodio 3"
+        "image": "https://pics.filmaffinity.com/el_inmortal-934875828-large.jpg",
+        "url": "https://bembed.net/v/PlBVEZ0NwXX5Dv9",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Episodio 4",
+        "image": "https://pics.filmaffinity.com/el_inmortal-934875828-large.jpg",
+        "url": "",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Episodio 5",
+        "image": "https://pics.filmaffinity.com/el_inmortal-934875828-large.jpg",
+        "url": "",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	}
 
 	]
 }
