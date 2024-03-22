@@ -107,6 +107,17 @@
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
+       	},
+	{
+	"name": "CAPITULO 10",
+        "image": "https://pics.filmaffinity.com/house_of_the_dragon-678918948-large.jpg",
+        "url": "https://upstream.to/yi96k76drr1s",
+       	"info": "[ESPAÑOL 2023]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
        	}
 
 
