@@ -166,6 +166,17 @@
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
+       	},
+	{
+	"name": "Episodio 6",
+        "image": "https://pics.filmaffinity.com/el_inmortal-934875828-large.jpg",
+        "url": "https://bembed.net/v/b4ZJx21l8qA52P3",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
        	}
 	]
 	}
