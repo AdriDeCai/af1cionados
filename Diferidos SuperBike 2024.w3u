@@ -64,7 +64,7 @@
 	"stations":
 		[
 			{
-			"name": "SBK SUPERPOLE RACE",
+			"name": "SBK RACE 1",
 			"info":"[22-24 Marzo 2024]",
 			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
 			"url": "",
@@ -73,9 +73,9 @@
             		"online":"true"
 			},
 			{
-			"name": "SSP600 RACE 2",
+			"name": "SBK SUPERPOLE RACE",
 			"info":"[22-24 Marzo 2024]",
-			"image": "https://i.postimg.cc/Xq8Kn52Z/SBK-Verde.jpg",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
 			"url": "",
 			"embed":"",
             		"isHost":"true",
@@ -101,7 +101,7 @@
 	"stations":
 		[
 			{
-			"name": "SBK SUPERPOLE RACE",
+			"name": "SBK RACE 1",
 			"info":"[19-21 Abril 2024]",
 			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
 			"url": "",
@@ -110,9 +110,9 @@
             		"online":"true"
 			},
 			{
-			"name": "SSP600 RACE 2",
+			"name": "SBK SUPERPOLE RACE",
 			"info":"[19-21 Abril 2024]",
-			"image": "https://i.postimg.cc/Xq8Kn52Z/SBK-Verde.jpg",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
 			"url": "",
 			"embed":"",
             		"isHost":"true",
