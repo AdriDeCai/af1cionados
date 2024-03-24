@@ -1,0 +1,103 @@
+
+{
+"name": "MANO DE HIERRO",
+"image": "https://pics.filmaffinity.com/mano_de_hierro-489432127-large.jpg",
+"url": "https://af1cionados.vercel.app/",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":
+	[
+
+	{
+	"name": "CAPITULO 1",
+        "image": "https://pics.filmaffinity.com/mano_de_hierro-489432127-large.jpg",
+        "url": "https://vidmoly.me/w/w5o953jdtsuh",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 2",
+        "image": "https://pics.filmaffinity.com/mano_de_hierro-489432127-large.jpg",
+        "url": "https://vidmoly.me/w/uwike6wmdntw",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 3",
+        "image": "https://pics.filmaffinity.com/mano_de_hierro-489432127-large.jpg",
+        "url": "https://vidmoly.me/w/1r4p294cfpte",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 1",
+        "image": "https://pics.filmaffinity.com/mano_de_hierro-489432127-large.jpg",
+        "url": "",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 1",
+        "image": "https://pics.filmaffinity.com/mano_de_hierro-489432127-large.jpg",
+        "url": "",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 1",
+        "image": "https://pics.filmaffinity.com/mano_de_hierro-489432127-large.jpg",
+        "url": "",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 1",
+        "image": "https://pics.filmaffinity.com/mano_de_hierro-489432127-large.jpg",
+        "url": "",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 1",
+        "image": "https://pics.filmaffinity.com/mano_de_hierro-489432127-large.jpg",
+        "url": "",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+	]
+}
+
