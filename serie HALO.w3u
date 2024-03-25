@@ -156,6 +156,61 @@
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
+       	},
+	{
+       	"name": "2x04 Reach",
+        "image": "https://i.postimg.cc/LXGTsdx1/serie-HALO-Temp2.png",
+        "url": "https://vidmoly.me/w/shrbz6du3wxc",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x05 Aleria",
+        "image": "https://i.postimg.cc/LXGTsdx1/serie-HALO-Temp2.png",
+        "url": "https://vidmoly.me/w/aiezws5l4007",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x06 Onyx",
+        "image": "https://i.postimg.cc/LXGTsdx1/serie-HALO-Temp2.png",
+        "url": "https://vidmoly.me/w/pa4briw8csxk",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x07 Thermopylae",
+        "image": "https://i.postimg.cc/LXGTsdx1/serie-HALO-Temp2.png",
+        "url": "https://filemoon.sx/d/0njskeeaswkc",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x08 Halo",
+        "image": "https://i.postimg.cc/LXGTsdx1/serie-HALO-Temp2.png",
+        "url": "https://filemoon.sx/d/kfulrzp487vb",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
        	}
 	]
 	}
