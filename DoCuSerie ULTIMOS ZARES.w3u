@@ -1,0 +1,80 @@
+
+{
+"name": "LOS ULTIMOS ZARES",
+"image": "https://pics.filmaffinity.com/the_last_czars-588825856-large.jpg",
+"url": "https://af1cionados.vercel.app/",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":
+	[
+
+	{
+	"name": "CAPITULO 1",
+        "image": "https://pics.filmaffinity.com/the_last_czars-588825856-large.jpg",
+        "url": "https://vidmoly.me/w/439d6xevkvr4",
+       	"info": "[Español 2019]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 2",
+        "image": "https://pics.filmaffinity.com/the_last_czars-588825856-large.jpg",
+        "url": "https://vidmoly.me/w/1v0u6p4jkun5",
+       	"info": "[Español 2019]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 3",
+        "image": "https://pics.filmaffinity.com/the_last_czars-588825856-large.jpg",
+        "url": "https://vidmoly.me/w/ffvfx3hg7csj",
+       	"info": "[Español 2019]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 4",
+        "image": "https://pics.filmaffinity.com/the_last_czars-588825856-large.jpg",
+        "url": "https://vidmoly.me/w/ipiwztxks3d9",
+       	"info": "[Español 2019]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 5",
+        "image": "https://pics.filmaffinity.com/the_last_czars-588825856-large.jpg",
+        "url": "https://vidmoly.me/w/73vxjcl1mrar",
+       	"info": "[Español 2019]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 6",
+        "image": "https://pics.filmaffinity.com/the_last_czars-588825856-large.jpg",
+        "url": "https://vidmoly.me/w/15v58nwailwd",
+       	"info": "[Español 2019]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
