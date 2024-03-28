@@ -794,6 +794,15 @@
       "import": false
     },
     {
+      "name": "CUALQUIERA MENOS TÚ",
+      "info": "2023",
+      "image": "https://pics.filmaffinity.com/anyone_but_you-366144700-large.jpg",
+      "url": "https://bembed.net/v/qM1VOPNDG0Bxo4k",
+      "embed": "",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
       "name": "CULPA MIA",
       "info": "2023",
       "image": "https://pics.filmaffinity.com/Culpa_maia-785263687-large.jpg",
@@ -861,6 +870,17 @@
       "name": "DESCONOCIDA, LA",
       "image": "https://pics.filmaffinity.com/la_desconocida-550861357-large.jpg",
       "url": "https://upstream.to/imhdzcc6594z",
+      "info": "2023",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "DESCONOCIDOS",
+      "image": "https://pics.filmaffinity.com/all_of_us_strangers-586936978-large.jpg",
+      "url": "https://bembed.net/v/b4ZJx21W87852P3",
       "info": "2023",
       "embed": "",
       "isHost": "true",
@@ -1552,6 +1572,17 @@
       "name": "JUICIO AL DIABLO",
       "image": "https://pics.filmaffinity.com/the_devil_on_trial-581056175-large.jpg",
       "url": "https://upstream.to/pumyrxowxugi",
+      "info": "2023",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "KICKS KICKS, HISTORIA DE UNAS ZAPATILLAS",
+      "image": "https://pics.filmaffinity.com/kicks-357399910-large.jpg",
+      "url": "https://bembed.net/v/QNB7xA2Bn80E0WG",
       "info": "2023",
       "embed": "",
       "isHost": "true",
@@ -2375,6 +2406,15 @@
       "image": "https://i.postimg.cc/d0TptSM6/PIratas-de-Slicon-Valley-1999-Pelicula.jpg",
       "url": "https://upstream.to/68jlj58ejxhk",
       "info": "1999",
+      "userAgent": "",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
+      "name": "POBRES CRIATURAS",
+      "image": "https://pics.filmaffinity.com/poor_things-235700969-large.jpg",
+      "url": "https://bembed.net/v/QNB7xA2Bn80E0WG",
+      "info": "2023",
       "userAgent": "",
       "isHost": "true",
       "online": "true"
