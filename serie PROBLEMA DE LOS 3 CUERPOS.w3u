@@ -1,0 +1,102 @@
+
+{
+"name": "EL PROBLEMA DE LOS 3 CUERPOS",
+"image": "https://pics.filmaffinity.com/3_body_problem-967780596-large.jpg",
+"url": "https://af1cionados.vercel.app/",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":
+	[
+
+	{
+	"name": "CAPITULO 1",
+        "image": "https://pics.filmaffinity.com/3_body_problem-967780596-large.jpg",
+        "url": "https://bembed.net/v/njJYOd3VGj1Ee9o",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 2",
+        "image": "https://pics.filmaffinity.com/3_body_problem-967780596-large.jpg",
+        "url": "https://bembed.net/v/nyg9EKDWLzKObk4",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 3",
+        "image": "https://pics.filmaffinity.com/3_body_problem-967780596-large.jpg",
+        "url": "https://bembed.net/v/mMq75L849qN5XPB",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 4",
+        "image": "https://pics.filmaffinity.com/3_body_problem-967780596-large.jpg",
+        "url": "https://bembed.net/v/8ozgENLWvYo5mjA",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 5",
+        "image": "https://pics.filmaffinity.com/3_body_problem-967780596-large.jpg",
+        "url": "https://bembed.net/v/qM1VOPNDRrnxo4k",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 6",
+        "image": "https://pics.filmaffinity.com/3_body_problem-967780596-large.jpg",
+        "url": "https://bembed.net/v/7QWN5eypMRb59oR",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 7",
+        "image": "https://pics.filmaffinity.com/3_body_problem-967780596-large.jpg",
+        "url": "https://bembed.net/v/3Q0lxBWrBJnEj1J",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 8",
+        "image": "https://pics.filmaffinity.com/3_body_problem-967780596-large.jpg",
+        "url": "https://bembed.net/v/8lKQxYVJ8qeEDGY",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+	]
+}
