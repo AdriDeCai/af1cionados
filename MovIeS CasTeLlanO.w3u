@@ -1298,6 +1298,15 @@
       "online": "true"
     },
     {
+      "name": "GRAN SEDUCCION, LA",
+      "info": "2023",
+      "image": "https://pics.filmaffinity.com/la_gran_seduccion-290624226-large.jpg",
+      "url": "https://bembed.net/v/8ozgENLWvRZ5mjA",
+      "embed": "",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
       "name": "GRAN TURISMO",
       "image": "https://i.postimg.cc/cChjfF0N/Gran-Turismo-2023-Pelicula.jpg",
       "url": "https://upstream.to/8intna9hffm8",
@@ -2368,6 +2377,16 @@
       "image": "https://i.postimg.cc/sxFVgZ0Q/Partido-del-siglo-El-2022-Pelicula.jpg",
       "url": "https://upstream.to/4w94kkhrio0g",
       "info": "2022",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "PASION DE CRISTO, LA",
+      "image": "https://pics.filmaffinity.com/the_passion_of_the_christ-211498441-large.jpg",
+      "url": "https://bembed.net/v/QNB7xA2B1g0E0WG",
+      "info": "2004",
       "embed": "",
       "isHost": "true",
       "online": "true",
