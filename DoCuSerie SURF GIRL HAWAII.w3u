@@ -1,0 +1,58 @@
+
+{
+"name": "SURF GIRL HAWAII",
+"image": "https://i.postimg.cc/50KJRnKs/Surf-Girl-Hawaii-2023-Docu-Serie.jpg",
+"url": "https://af1cionados.vercel.app/",
+"info": "2023",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":
+
+	[
+	{
+	"name": "Welcome to the North Shore",
+        "image": "https://i.postimg.cc/50KJRnKs/Surf-Girl-Hawaii-2023-Docu-Serie.jpg",
+        "url": "https://bembed.net/v/NMRLEpreln45XaG",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Hurricane and Heartbreak",
+        "image": "https://i.postimg.cc/50KJRnKs/Surf-Girl-Hawaii-2023-Docu-Serie.jpg",
+        "url": "https://bembed.net/v/edVqE4r1wg15YWm",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Great Expectations",
+        "image": "https://i.postimg.cc/50KJRnKs/Surf-Girl-Hawaii-2023-Docu-Serie.jpg",
+        "url": "https://bembed.net/v/YWA8E9wPyBo5GmM",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Power of Pipeline",
+        "image": "https://i.postimg.cc/50KJRnKs/Surf-Girl-Hawaii-2023-Docu-Serie.jpg",
+        "url": "https://bembed.net/v/7QWN5eyPDk059oR",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
