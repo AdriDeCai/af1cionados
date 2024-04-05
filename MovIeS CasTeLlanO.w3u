@@ -229,6 +229,17 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+   {
+      "name": "ANATOMIA DE UNA CAIDA",
+      "image": "https://pics.filmaffinity.com/anatomie_d_une_chute-695566678-large.jpg",
+      "url": "",
+      "info": "2023",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
     {
       "name": "AIR",
       "info": "2023",
@@ -2536,6 +2547,17 @@
       "image": "https://i.postimg.cc/MH2QwTv4/El-regreso-de-Manson-2023-Pelicula.jpg",
       "url": "https://upstream.to/1adynq7whury",
       "info": "2023",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "RELIC",
+      "image": "https://pics.filmaffinity.com/the_relic-564081646-large.jpg",
+      "url": "",
+      "info": "1997",
       "embed": "",
       "isHost": "true",
       "online": "true",
