@@ -1,0 +1,47 @@
+
+{
+"name": "JOVENES OCULTOS",
+"image": "https://pics.filmaffinity.com/the_lost_boys-230422119-large.jpg",
+"url": "https://af1cionados.vercel.app/",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"groups":
+	[
+
+	{
+	"name": "Jovenes ocultos",
+        "image": "https://pics.filmaffinity.com/the_lost_boys-230422119-large.jpg",
+        "url": "",
+       	"info": "[Español 1987]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Jovenes ocultos, vampiros del surf",
+        "image": "https://pics.filmaffinity.com/lost_boys_2_the_tribe-508865780-large.jpg",
+        "url": "https://upstream.to/36lr18tzh4nz",
+       	"info": "[Español 2008]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Jovenes ocultos, sed de sangre",
+        "image": "https://pics.filmaffinity.com/lost_boys_the_thirst_lost_boys_3-739685241-large.jpg",
+        "url": "",
+       	"info": "[Español 2010]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
