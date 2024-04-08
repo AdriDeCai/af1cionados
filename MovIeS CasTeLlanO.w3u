@@ -1329,6 +1329,17 @@
       "online": "true"
     },
     {
+      "name": "GRAN EXCLUSIVA, LA",
+      "image": "https://pics.filmaffinity.com/scoop-735369885-large.jpg",
+      "url": "https://upstream.to/x5q828wt1yoj",
+      "info": "2024",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
       "name": "GRAN SEDUCCION, LA",
       "info": "2023",
       "image": "https://pics.filmaffinity.com/la_gran_seduccion-290624226-large.jpg",
