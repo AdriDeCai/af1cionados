@@ -17,7 +17,7 @@
 	"stations":
 	[
 	{
-       	"name": "",
+       	"name": "1x01 Episodio 1.1",
         "image": "https://i.postimg.cc/3Jgwq2YL/Entrevias-Temp1.jpg",
         "url": "",
        	"info": "2021",
@@ -28,7 +28,7 @@
        	"import": false
        	},
 	{
-       	"name": "",
+       	"name": "1x02 Episodio 2",
         "image": "https://i.postimg.cc/3Jgwq2YL/Entrevias-Temp1.jpg",
         "url": "",
        	"info": "2021",
@@ -39,7 +39,7 @@
        	"import": false
        	},
 	{
-       	"name": "",
+       	"name": "1x03 Episodio 3",
         "image": "https://i.postimg.cc/3Jgwq2YL/Entrevias-Temp1.jpg",
         "url": "",
        	"info": "2021",
@@ -50,7 +50,7 @@
        	"import": false
        	},
 	{
-       	"name": "",
+       	"name": "1x04 Lo que se esconde bajo la alfombra",
         "image": "https://i.postimg.cc/3Jgwq2YL/Entrevias-Temp1.jpg",
         "url": "",
        	"info": "2021",
@@ -61,7 +61,7 @@
        	"import": false
        	},
 	{
-       	"name": "",
+       	"name": "1x05 Episodio 5",
         "image": "https://i.postimg.cc/3Jgwq2YL/Entrevias-Temp1.jpg",
         "url": "",
        	"info": "2021",
@@ -72,7 +72,7 @@
        	"import": false
        	},
 	{
-       	"name": "",
+       	"name": "1x06 Episodio 6",
         "image": "https://i.postimg.cc/3Jgwq2YL/Entrevias-Temp1.jpg",
         "url": "",
        	"info": "2021",
@@ -83,7 +83,7 @@
        	"import": false
        	},
 	{
-       	"name": "",
+       	"name": "1x07 Episodio 7",
         "image": "https://i.postimg.cc/3Jgwq2YL/Entrevias-Temp1.jpg",
         "url": "",
        	"info": "2021",
@@ -94,7 +94,7 @@
        	"import": false
        	},
 	{
-       	"name": "",
+       	"name": "1x08 Episodio 8",
         "image": "https://i.postimg.cc/3Jgwq2YL/Entrevias-Temp1.jpg",
         "url": "",
        	"info": "2021",
