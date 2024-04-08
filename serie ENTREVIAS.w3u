@@ -7,9 +7,60 @@
 "info": "2023",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": @YIsus_mEx",
-"stations":
-
+"groups":
 	[
+
+	{
+	"name": "TEMPORADA 1",
+	"info": "2021",
+	"image": "https://i.postimg.cc/3Jgwq2YL/Entrevias-Temp1.jpg",
+	"stations":
+	[
+
+	{
+       	"name": "",
+        "image": "https://i.postimg.cc/3Jgwq2YL/Entrevias-Temp1.jpg",
+        "url": "",
+       	"info": "2021",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+	]
+	},
+
+	{
+	"name": "TEMPORADA 2",
+	"info": "2022",
+	"image": "https://i.postimg.cc/KvyGt4Bt/Entrevias-Temp2.jpg",
+	"stations":
+	[
+
+	{
+       	"name": "",
+        "image": "https://i.postimg.cc/KvyGt4Bt/Entrevias-Temp2.jpg",
+        "url": "",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+	]
+	},
+
+	{
+	"name": "TEMPORADA 3",
+	"info": "",
+	"image": "https://pics.filmaffinity.com/entrevias-919168511-large.jpg",
+	"stations":
+	[
+
 	{
        	"name": "3x01 Un palo en el avispero",
         "image": "https://pics.filmaffinity.com/entrevias-919168511-large.jpg",
@@ -98,6 +149,9 @@
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	}
+
+	]
+	}
 
 ]
 }
