@@ -1,0 +1,80 @@
+
+{
+"name": "PARASYTE LOS GRISES",
+"image": "https://pics.filmaffinity.com/parasyte_the_grey-748759742-large.jpg",
+"url": "https://af1cionados.vercel.app/",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":
+	[
+
+	{
+	"name": "CAPITULO 1",
+        "image": "https://pics.filmaffinity.com/parasyte_the_grey-748759742-large.jpg",
+        "url": "https://bembed.net/v/dNjgOl4wQvyO9Wn",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 2",
+        "image": "https://pics.filmaffinity.com/parasyte_the_grey-748759742-large.jpg",
+        "url": "https://bembed.net/v/27BaOn1VWPREMDX",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 3",
+        "image": "https://pics.filmaffinity.com/parasyte_the_grey-748759742-large.jpg",
+        "url": "https://bembed.net/v/KrdZ5kdw4r0xmX4",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 4",
+        "image": "https://pics.filmaffinity.com/parasyte_the_grey-748759742-large.jpg",
+        "url": "",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 5",
+        "image": "https://pics.filmaffinity.com/parasyte_the_grey-748759742-large.jpg",
+        "url": "https://bembed.net/v/l4vexvD14BoO8B9",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 6",
+        "image": "https://pics.filmaffinity.com/parasyte_the_grey-748759742-large.jpg",
+        "url": "https://bembed.net/v/KNWlEDNr82v5kbp",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
