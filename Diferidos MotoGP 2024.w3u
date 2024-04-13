@@ -163,8 +163,8 @@
 	},
 
 	{
-	"name": "CIRCUITO TERMAS DE RIO HONDO (ARGENTINA)",
-	"image": "https://i.postimg.cc/tJGkXKCK/Bandera-Argentina.jpg",
+	"name": "CIRCUIT OF THE AMERICAS (ESTADOS UNIDOS)",
+	"image": "https://i.postimg.cc/3wGXHKqP/Bandera-USA.jpg",
 	"imageScale": "",
 	"info":"ROUND 3",
 	"stations":
@@ -209,8 +209,8 @@
 	},
 
 	{
-	"name": "CIRCUIT OF THE AMERICAS (ESTADOS UNIDOS)",
-	"image": "https://i.postimg.cc/3wGXHKqP/Bandera-USA.jpg",
+	"name": "CIRCUITO TERMAS DE RIO HONDO (ARGENTINA)",
+	"image": "https://i.postimg.cc/tJGkXKCK/Bandera-Argentina.jpg",
 	"imageScale": "",
 	"info":"ROUND 4",
 	"stations":
