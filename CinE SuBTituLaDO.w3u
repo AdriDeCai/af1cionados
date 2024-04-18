@@ -354,6 +354,28 @@
       "import": false
     },
     {
+      "name": "CIVIL WAR [VOSE]",
+      "image": "https://pics.filmaffinity.com/civil_war-397793862-large.jpg",
+      "url": "",
+      "info": "2024",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "CIVIL WAR [Latino]",
+      "image": "https://pics.filmaffinity.com/civil_war-397793862-large.jpg",
+      "url": "",
+      "info": "2024",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
       "name": "CLAVE DEL CORAZON, LA [VOSE]",
       "image": "https://pics.filmaffinity.com/keys_to_the_heart-881328403-large.jpg",
       "url": "https://upstream.to/nk0hy9d643ul",
