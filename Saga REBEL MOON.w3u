@@ -1,0 +1,35 @@
+
+{
+"name": "REBEL MOON",
+"image": "https://pics.filmaffinity.com/rebel_moon_a_child_of_fire-103203161-large.jpg",
+"url": "https://af1cionados.vercel.app/",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":
+	[
+
+        {
+        "name": "Rebel Moon 1, La niña del fuego",
+        "image": "https://pics.filmaffinity.com/rebel_moon_a_child_of_fire-103203161-large.jpg",
+        "url": "https://filemoon.sx/d/ysd3aekq292c/Rebel_Moon__2023_Pelicula_.mp4",
+        "info": "[2023][Español]",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "import": false
+        },
+        {
+        "name": "Rebel Moon 2, La guerra que deja marcas",
+        "image": "https://pics.filmaffinity.com/rebel_moon_part_two_the_scargiver-347614416-large.jpg",
+        "url": "https://filemoon.sx/d/9uiwvmh47f8z/Rebel_Moon_2__2024_Pelicula_.mp4",
+        "info": "[2024][Español]",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "import": false
+        }
+	]
+}
