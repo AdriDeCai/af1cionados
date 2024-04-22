@@ -14,7 +14,7 @@
 
 		{
         "name": "AAA, Sin limite en el tiempo",
-        "image": "https://i.postimg.cc/nzy0jqg7/AAA-la-pel-cula-Sin-l-mite-en-el-tiempo-2010-Pelicula-infantil.jpg",
+        "image": "https://i.postimg.cc/CxMtkfkb/AAA-la-pel-cula-Sin-l-mite-en-el-tiempo-2010-Pelicula-infantil.png",
         "url": "https://upstream.to/r61vjpoykxcz",
         "info": "2010",
         "embed":"",
@@ -615,7 +615,7 @@
 	{ 
 	"name": "ICE AGE 1, La era del hielo", 
 	"info": "2002",
-	"image": "https://i.postimg.cc/KYYkHd9s/Ice-Age-1-La-era-del-hielo-2002-Pelicula-infantil.jpg", 
+	"image": "https://pics.filmaffinity.com/ice_age-893441955-large.jpg", 
 	"url": "https://upstream.to/bfatk58hfr2a", 
 	"embed":"",
 	"isHost":"true",
@@ -625,7 +625,7 @@
 	{ 
 	"name": "ICE AGE 2, El deshielo", 
 	"info": "2006",
-	"image": "https://i.postimg.cc/5NthjgRW/Ice-Age-2-El-deshielo-2006-Pelicula-infantil.jpg", 
+	"image": "https://pics.filmaffinity.com/ice_age_2_the_meltdown-398503562-large.jpg", 
 	"url": "https://upstream.to/whet4dp2a3kd", 
 	"embed":"",
 	"isHost":"true",
@@ -635,7 +635,7 @@
 	{ 
 	"name": "ICE AGE 3, El origen de los dinosaurios", 
 	"info": "2009",
-	"image": "https://i.postimg.cc/QMZYgJ0t/Ice-Age-3-El-origen-de-los-dinosaurios-2009-Pelicula-infantil.jpg", 
+	"image": "https://pics.filmaffinity.com/ice_age_dawn_of_the_dinosaurs_ice_age_3-898043670-large.jpg", 
 	"url": "https://upstream.to/ni12asvgc1oc", 
 	"embed":"",
 	"isHost":"true",
@@ -645,7 +645,7 @@
 	{ 
 	"name": "ICE AGE 4, La formación de los continentes", 
 	"info": "2012",
-	"image": "https://i.postimg.cc/LX6TvCfH/Ice-Age-4-La-formacion-de-los-continentes-2012-Pelicula-infantil.jpg", 
+	"image": "https://pics.filmaffinity.com/ice_age_continental_drift_ice_age_4-510028565-large.jpg", 
 	"url": "https://upstream.to/uqxhanp7a6h5", 
 	"embed":"",
 	"isHost":"true",
@@ -655,7 +655,7 @@
 	{ 
 	"name": "ICE AGE 5, El gran cataclismo", 
 	"info": "2016",
-	"image": "https://i.postimg.cc/3RRX2y5N/Ice-Age-5-El-gran-cataclismo-2016-Pelicula-infantil.jpg", 
+	"image": "https://pics.filmaffinity.com/ice_age_collision_course_ice_age_5-789172711-large.jpg", 
 	"url": "https://upstream.to/khvz8bu2sy7w", 
 	"embed":"",
 	"isHost":"true",
@@ -665,7 +665,7 @@
 	{ 
 	"name": "ICE AGE 6, Las aventuras de Buck", 
 	"info": "2022",
-	"image": "https://i.postimg.cc/qv4jzvRh/Ice-Age-6-Las-aventuras-de-Buck-2022-Pelicula-infantil.jpg", 
+	"image": "https://pics.filmaffinity.com/ice_age_the_last_adventure_of_scrat_the_end-527328293-large.jpg", 
 	"url": "https://upstream.to/qi1rmzkiplze", 
 	"embed":"",
 	"isHost":"true",
@@ -692,114 +692,6 @@
         "isHost":"true",
         "online":"true"
         },
-	{ 
-	"name": "INCREÍBLES 2, LOS",
-        "info":"2022",
-	"image": "https://i.postimg.cc/QCx1yn1s/Increibles-2-Los-2022-Pelicula-infantil.jpg", 
-	"url": "https://upstream.to/s3qsar4a4bfx", 
-        "embed":"",
-        "isHost":"true",
-        "online":"true"
-	},
-	{ 
-	"name": "INSPECTOR SUN Y LA MALDICION DE LA VIUDA NEGRA",
-        "info":"2022",
-	"image": "https://i.postimg.cc/sD2cBC25/Inspector-Sun-y-la-maldicion-de-la-viuda-negra-2022-Pelicula-infantil.jpg", 
-	"url": "https://vk.com/video791649042_456239383", 
-        "embed":"",
-        "isHost":"true",
-        "online":"true"
-	},
-	{ 
-	"name": "ICARO Y EL MINOTAURO", 
-	"info": "2022",
-	"image": "https://i.postimg.cc/xT0JSwrv/I-caro-y-el-minotauro-2022-Pelicula-familiar.jpg", 
-	"url": "https://upstream.to/ef3n4942n0j0", 
-	"embed":"",
-	"isHost":"true",
-	"online":"true",
-	"import": false
-	},
-	{ 
-	"name": "ICE AGE 1, La era del hielo", 
-	"info": "2002",
-	"image": "https://i.postimg.cc/KYYkHd9s/Ice-Age-1-La-era-del-hielo-2002-Pelicula-infantil.jpg", 
-	"url": "https://upstream.to/bfatk58hfr2a", 
-	"embed":"",
-	"isHost":"true",
-	"online":"true",
-	"import": false
-	},
-	{ 
-	"name": "ICE AGE 2, El deshielo", 
-	"info": "2006",
-	"image": "https://i.postimg.cc/5NthjgRW/Ice-Age-2-El-deshielo-2006-Pelicula-infantil.jpg", 
-	"url": "https://upstream.to/whet4dp2a3kd", 
-	"embed":"",
-	"isHost":"true",
-	"online":"true",
-	"import": false
-	},
-	{ 
-	"name": "ICE AGE 3, El origen de los dinosaurios", 
-	"info": "2009",
-	"image": "https://i.postimg.cc/QMZYgJ0t/Ice-Age-3-El-origen-de-los-dinosaurios-2009-Pelicula-infantil.jpg", 
-	"url": "https://upstream.to/ni12asvgc1oc", 
-	"embed":"",
-	"isHost":"true",
-	"online":"true",
-	"import": false
-	},
-	{ 
-	"name": "ICE AGE 4, La formación de los continentes", 
-	"info": "2012",
-	"image": "https://i.postimg.cc/LX6TvCfH/Ice-Age-4-La-formacion-de-los-continentes-2012-Pelicula-infantil.jpg", 
-	"url": "https://upstream.to/uqxhanp7a6h5", 
-	"embed":"",
-	"isHost":"true",
-	"online":"true",
-	"import": false
-	},
-	{ 
-	"name": "ICE AGE 5, El gran cataclismo", 
-	"info": "2016",
-	"image": "https://i.postimg.cc/3RRX2y5N/Ice-Age-5-El-gran-cataclismo-2016-Pelicula-infantil.jpg", 
-	"url": "https://upstream.to/khvz8bu2sy7w", 
-	"embed":"",
-	"isHost":"true",
-	"online":"true",
-	"import": false
-	},
-	{ 
-	"name": "ICE AGE 6, Las aventuras de Buck", 
-	"info": "2022",
-	"image": "https://i.postimg.cc/qv4jzvRh/Ice-Age-6-Las-aventuras-de-Buck-2022-Pelicula-infantil.jpg", 
-	"url": "https://upstream.to/qi1rmzkiplze", 
-	"embed":"",
-	"isHost":"true",
-	"online":"true",
-	"import": false
-	},
-	{
-       	"name": "INCIDENTE ALIENIGENA DEL PEQUEÑO ALAN, EL",
-       	"image": "https://pics.filmaffinity.com/lille_allan_den_menneskelige_antenne-791714557-large.jpg",
-       	"url": "https://upstream.to/7n6i57hiibt1",
-      	"info": "2022",
-      	"embed": "",
-      	"isHost": "true",
-      	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-      	"import": false
-      	},
-	{
-       	"name": "INCREIBLES, LOS",
-       	"info":"2004",
-       	"image": "https://i.postimg.cc/VL9PRG45/Increibles-Los-2004-Pelicula-infantil.jpg",
-       	"url":"https://upstream.to/xooe6xvqlopc",
-       	"embed":"",
-       	"isHost":"true",
-       	"online":"true"
-       	},
 	{ 
 	"name": "INCREÍBLES 2, LOS",
         "info":"2022",
