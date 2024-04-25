@@ -74,6 +74,28 @@
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
+       	},
+	{
+	"name": "CAPITULO 7",
+        "image": "https://pics.filmaffinity.com/muertos_s_l-497350368-large.jpg",
+        "url": "https://filemoon.sx/d/cwf1d36vbdwq/Muertos_S.L._-_1x07_.mp4",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 8",
+        "image": "https://pics.filmaffinity.com/muertos_s_l-497350368-large.jpg",
+        "url": "https://filemoon.sx/d/fh0rqsvq9rft/Muertos_S.L._-_1x08_.mp4",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
        	}
 
 ]
