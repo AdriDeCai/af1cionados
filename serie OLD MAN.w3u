@@ -50,6 +50,39 @@
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
+       	},
+	{
+	"name": "CAPITULO 5",
+        "image": "https://pics.filmaffinity.com/the_old_man-446336921-large.jpg",
+        "url": "",
+       	"info": "[Español 2022]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 6",
+        "image": "https://pics.filmaffinity.com/the_old_man-446336921-large.jpg",
+        "url": "",
+       	"info": "[Español 2022]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 7",
+        "image": "https://pics.filmaffinity.com/the_old_man-446336921-large.jpg",
+        "url": "",
+       	"info": "[Español 2022]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
        	}
 
 ]
