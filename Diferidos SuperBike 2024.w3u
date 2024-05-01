@@ -499,7 +499,44 @@
             		"online":"true"
 			}	
 		]
+	},
+	{
+	"name": "JEREZ DE LA FRONTERA (ESPAÑA)",
+	"image": "https://i.postimg.cc/HnqhLVD4/SBK-Round-12-Spain.png",
+	"imageScale": "",
+	"info":"ROUND 12",
+	"stations":
+		[
+			{
+			"name": "SBK SUPERPOLE RACE",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "SSP600 RACE 2",
+			"info":"",
+			"image": "https://i.postimg.cc/Xq8Kn52Z/SBK-Verde.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "SBK RACE 2",
+			"info":"",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}	
+		]
 	}
+
 
 
 	
