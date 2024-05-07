@@ -1,0 +1,191 @@
+
+{"name": "OZARK",
+"image": "https://pics.filmaffinity.com/ozark-806811895-large.jpg",
+"url": "https://af1cionados.vercel.app/",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":
+	[
+
+	{
+	"name": "TEMPORADA 1",
+	"info": "",
+	"image": "https://i.postimg.cc/MTN8gw7V/temporada-1-Ozark.jpg",
+	"stations":
+	[
+	{
+	"name": "CAPITULO 1",
+        "image": "https://i.postimg.cc/MTN8gw7V/temporada-1-Ozark.jpg",
+        "url": "https://filemoon.sx/d/j17py57oojd8/Ozark_T1_C01.mp4",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 2",
+        "image": "https://i.postimg.cc/MTN8gw7V/temporada-1-Ozark.jpg",
+        "url": "https://filemoon.sx/d/g4po9nwl1fgc/Ozark_T1_C02.mp4",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 3",
+        "image": "https://i.postimg.cc/MTN8gw7V/temporada-1-Ozark.jpg",
+        "url": "https://filemoon.sx/d/dfd21w6q6iu4/Ozark_T1_C03.mp4",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 4",
+        "image": "https://i.postimg.cc/MTN8gw7V/temporada-1-Ozark.jpg",
+        "url": "https://filemoon.sx/d/ckcqawhinb04/Ozark_T1_C04.mp4",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 5",
+        "image": "https://i.postimg.cc/MTN8gw7V/temporada-1-Ozark.jpg",
+        "url": "https://filemoon.sx/d/mkbxmtasoav1/Ozark_T1_C05.mp4",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 6",
+        "image": "https://i.postimg.cc/MTN8gw7V/temporada-1-Ozark.jpg",
+        "url": "https://filemoon.sx/d/3psea5lvh2ly/Ozark_T1_C06.mp4",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 7",
+        "image": "https://i.postimg.cc/MTN8gw7V/temporada-1-Ozark.jpg",
+        "url": "",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 8",
+        "image": "https://i.postimg.cc/MTN8gw7V/temporada-1-Ozark.jpg",
+        "url": "https://filemoon.sx/d/slrece98bnyj/Ozark_T1_C07.mp4",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 9",
+        "image": "https://i.postimg.cc/MTN8gw7V/temporada-1-Ozark.jpg",
+        "url": "https://filemoon.sx/d/ba713b24zxsf/Ozark_T1_C09.mp4",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 10",
+        "image": "https://i.postimg.cc/MTN8gw7V/temporada-1-Ozark.jpg",
+        "url": "https://filemoon.sx/d/uttmimudcqdl/Ozark_T1_C10.mp4",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 2",
+	"info": "",
+	"image": "https://i.postimg.cc/pXvSryLy/temporada-2-Ozark.jpg",
+	"stations":
+	[
+	{
+	"name": "CAPITULO 1",
+        "image": "https://i.postimg.cc/pXvSryLy/temporada-2-Ozark.jpg",
+        "url": "",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 3",
+	"info": "",
+	"image": "https://i.postimg.cc/Y0Rzhrdm/temporada-3-Ozark.jpg",
+	"stations":
+	[
+	{
+	"name": "CAPITULO 1",
+        "image": "https://i.postimg.cc/Y0Rzhrdm/temporada-3-Ozark.jpg",
+        "url": "",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 4",
+	"info": "",
+	"image": "https://i.postimg.cc/rFY5bY3c/temporada-4-Ozark.jpg",
+	"stations":
+	[
+	{
+	"name": "CAPITULO 1",
+        "image": "https://i.postimg.cc/rFY5bY3c/temporada-4-Ozark.jpg",
+        "url": "",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	}
+
+]
+}
