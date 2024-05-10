@@ -783,6 +783,17 @@
       "import": false
     },
     {
+      "name": "CORREO, EL",
+      "image": "https://pics.filmaffinity.com/el_correo-686123937-large.jpg",
+      "url": "",
+      "info": "2024",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
       "name": "CORRIENTE, LA (IBIZA BLUE)",
       "image": "https://pics.filmaffinity.com/la_corriente-408056058-large.jpg",
       "url": "https://upstream.to/quue5xwmf6ll",
@@ -3356,7 +3367,22 @@
       "url": "https://upstream.to/eidmrw2y451d",
       "embed": "",
       "isHost": "true",
-      "online": "true"
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "ZONA DE INTERES",
+      "info": "2023",
+      "image": "https://pics.filmaffinity.com/the_zone_of_interest-642266949-large.jpg",
+      "url": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
     }
+
+
 ]
 }
