@@ -649,6 +649,17 @@
       "isHost": "true",
       "online": "true"
     },
+        {
+        "name": "Cazafantasmas, Imperio Helado",
+        "image": "https://pics.filmaffinity.com/ghostbusters_frozen_empire-289306563-large.jpg",
+        "url": "https://upstream.to/79pnp7btyy5l",
+        "info": "[2024]",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "import": false
+        },
     {
       "name": "CEMENTERIO DE ANIMALES",
       "info": "2023",
