@@ -642,6 +642,17 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "CAPITAN AMERICA, EL PRIMER VENGADOR",
+        "info":"[Español][2011]",
+        "image": "https://pics.filmaffinity.com/captain_america_the_first_avenger-163477639-mmed.jpg",
+        "url": "https://upstream.to/mkzzv3njy5qk",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+        },
     {
       "name": "CASSANDRO",
       "info": "2023",
@@ -649,7 +660,9 @@
       "url": "https://upstream.to/jsqkw4322j60",
       "embed": "",
       "isHost": "true",
-      "online": "true"
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
     },
     {
       "name": "CAZADOR DE RECOMPENSAS, EL",
@@ -658,7 +671,9 @@
       "url": "https://upstream.to/5evp7ku0aw3t",
       "embed": "",
       "isHost": "true",
-      "online": "true"
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
     },
         {
         "name": "CAZAFANTASMAS, IMPERIO HELADO",
@@ -678,7 +693,9 @@
       "url": "https://upstream.to/t7t0hm13b6gu",
       "embed": "",
       "isHost": "true",
-      "online": "true"
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
     },
     {
       "name": "CENIZA",
@@ -687,7 +704,9 @@
       "url": "https://vidmoly.me/w/i5pyjagxfxes",
       "embed": "",
       "isHost": "true",
-      "online": "true"
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
     },
     {
       "name": "CID LA LEYENDA, EL",
@@ -696,7 +715,9 @@
       "url": "https://filemoon.sx/d/2xzzhcwjh0fy/Cid_Leyenda__2020_Pelicula_.mp4",
       "embed": "",
       "isHost": "true",
-      "online": "true"
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
     },
     {
       "name": "CLINT EASTWOOD, LA ULTIMA LEYENDA",
@@ -1600,6 +1621,15 @@
       "isHost": "true",
       "online": "true"
     },
+        {
+        "name": "IRON MAN 2",
+        "info":"2010",
+        "image": "https://pics.filmaffinity.com/iron_man_2-466103197-large.jpg",
+        "url": "https://upstream.to/suz7fm4i9cnq",
+        "userAgent" : "",
+        "online":"true",
+        "isHost": "true"
+        },
     {
       "name": "JAGUN JAGUN, THE WARRIOR",
       "image": "https://i.postimg.cc/P5XQLMpR/Jagun-Jagun-The-warrior-2023-Pelicula.jpg",
@@ -2695,6 +2725,17 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "SALEMS LOT",
+        "info":"2004",
+        "image": "https://pics.filmaffinity.com/El_misterio_de_Salem_s_Lot_Miniserie_de_TV-458498565-large.jpg",
+        "url": "https://upstream.to/8vqujgw184t0",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+        },
     {
       "name": "SANCTUARY",
       "image": "https://pics.filmaffinity.com/sanctuary-397852345-large.jpg",
