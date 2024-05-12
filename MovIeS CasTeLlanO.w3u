@@ -565,6 +565,17 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "BURT MUNRO, UN SUEÑO UNA LEYENDA",
+        "info":"2005",
+        "image": "https://pics.filmaffinity.com/Burt_Munro_Un_sueano_una_leyenda-825421915-large.jpg",
+        "url": "https://embedv.net/v/l4vexvD4JeVO8B9",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+        },
     {
       "name": "BUSCADORES DE FANTASMAS: LA GUARIDA DEL DIABLO",
       "image": "https://i.postimg.cc/3Jz200cP/Buscadores-de-Fantasmas-la-guarida-del-Diablo-2023.jpg",
@@ -650,7 +661,7 @@
       "online": "true"
     },
         {
-        "name": "Cazafantasmas, Imperio Helado",
+        "name": "CAZAFANTASMAS, IMPERIO HELADO",
         "image": "https://pics.filmaffinity.com/ghostbusters_frozen_empire-289306563-large.jpg",
         "url": "https://upstream.to/79pnp7btyy5l",
         "info": "[2024]",
@@ -3056,6 +3067,17 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "THOR",
+        "info":"2011",
+        "image": "https://pics.filmaffinity.com/Thor-223512549-large.jpg",
+        "url": "https://upstream.to/gu0hcbka9b6d",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+        },
     {
       "name": "TIBURON NEGRO",
       "image": "https://pics.filmaffinity.com/the_black_demon-983854267-large.jpg",
