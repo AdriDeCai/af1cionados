@@ -2993,6 +2993,17 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "THE GAME",
+        "info":"1997",
+        "image": "https://pics.filmaffinity.com/The_Game-701562383-large.jpg",
+        "url": "https://filemoon.sx/d/vowa62zlhmpo",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+        },
     {
       "name": "THE MARVELS",
       "image": "https://pics.filmaffinity.com/the_marvels-502364297-large.jpg",
@@ -3317,6 +3328,17 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+	"name": "VIDA ES BELLA, LA",
+        "info":"[2023]",
+        "image": "https://pics.filmaffinity.com/La_vida_es_bella-611574521-large.jpg",
+        "url": "https://filemoon.sx/d/sqvmvmwbh4c7",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+        },
     {
       "name": "VIRTUAL FIGHTER",
       "image": "https://pics.filmaffinity.com/one_more_shot-211374702-large.jpg",
@@ -3361,6 +3383,17 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "WISH, EL PODER DE LOS DIOSES",
+        "info":"[2023]",
+        "image": "https://pics.filmaffinity.com/Wish_El_poder_de_los_deseos-138082458-large.jpg",
+        "url": "https://filemoon.sx/d/ax28dtb16h40",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+        },
     {
       "name": "WINNIE THE POOH, MIEL Y SANGRE",
       "info": "2023",
