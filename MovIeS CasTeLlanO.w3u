@@ -2322,6 +2322,17 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+{
+      "name": "ONE DAY",
+      "image": "https://pics.filmaffinity.com/One_Day_Siempre_el_mismo_daia-871097561-large.jpg",
+      "url": "https://upstream.to/0bzerhdbxrbi",
+      "info": "2023",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
     {
       "name": "ONEFOUR: Against All Odds",
       "image": "https://pics.filmaffinity.com/onefour_against_all_odds-535989337-large.jpg",
