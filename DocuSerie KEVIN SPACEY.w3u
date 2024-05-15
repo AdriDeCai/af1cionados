@@ -1,0 +1,36 @@
+
+{
+"name": "KEVIN SPACEY, AL DESCUBIERTO",
+"image": "https://pics.filmaffinity.com/spacey_unmasked-719072852-large.jpg",
+"url": "https://af1cionados.vercel.app/",
+"info": "bY AdriDeCAi",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":
+[
+
+	{
+	"name": "CAPITULO 1",
+        "image": "https://pics.filmaffinity.com/spacey_unmasked-719072852-large.jpg",
+        "url": "",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 2",
+        "image": "https://pics.filmaffinity.com/spacey_unmasked-719072852-large.jpg",
+        "url": "",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
