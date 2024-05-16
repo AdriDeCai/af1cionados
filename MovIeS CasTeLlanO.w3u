@@ -1363,10 +1363,19 @@
       "import": false
     },
     {
-      "name": "GODZILLA vs KONG",
+      "name": "GODZILLA vs KONG, UNO CAERÁ",
       "info": "2021",
       "image": "https://pics.filmaffinity.com/godzilla_vs_kong-370227109-large.jpg",
       "url": "https://filemoon.sx/d/w71makz4t9kh/Godzilla_vs._Kong__2021_Pelicula_.mp4",
+      "embed": "",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
+      "name": "GODZILLA vs KONG, EL NUEVO IMPERIO",
+      "info": "2024",
+      "image": "https://pics.filmaffinity.com/godzilla_x_kong_the_new_empire-478803486-large.jpg",
+      "url": "https://listeamed.net/v/ao9rxoRLoPV5yGe",
       "embed": "",
       "isHost": "true",
       "online": "true"
