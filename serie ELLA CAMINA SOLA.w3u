@@ -1,0 +1,46 @@
+
+
+{"name": "ELLA CAMINA SOLA",
+"image": "https://pics.filmaffinity.com/ella_camina_sola-596367812-large.jpg",
+"url": "https://af1cionados.vercel.app/",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":[
+
+	{
+	"name": "CAPITULO 1",
+        "image": "https://pics.filmaffinity.com/ella_camina_sola-596367812-large.jpg",
+        "url": "https://listeamed.net/v/P0poO10k9QREz17",
+       	"info": "[2023]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 2",
+        "image": "https://pics.filmaffinity.com/ella_camina_sola-596367812-large.jpg",
+        "url": "https://listeamed.net/v/qM1VOPNr7ZGxo4k",
+       	"info": "[2023]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 3",
+        "image": "https://pics.filmaffinity.com/ella_camina_sola-596367812-large.jpg",
+        "url": "https://listeamed.net/v/ZMVoEr8vYD759Pa",
+       	"info": "[2023]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
