@@ -286,7 +286,19 @@
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
+       	},
+	{
+	"name": "CAPITULO 9",
+        "image": "https://pics.filmaffinity.com/leverage_redemption-262442111-large.jpg",
+        "url": "",
+       	"info": "[2022]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
        	}
+
 	]
 	}
 
