@@ -14,9 +14,122 @@
 	{
 	"name": "The People VS O.J. Simpson",
 	"image": "https://pics.filmaffinity.com/american_crime_story_the_people_v_o_j_simpson-872602318-large.jpg",
-	"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie AMERICAN CS Temp1.w3u",
-	"info": ""
+	"info": "",
+	"stations":
+	[
+	{
+	"name": "CAPITULO 1",
+	"image": "https://pics.filmaffinity.com/american_crime_story_the_people_v_o_j_simpson-872602318-large.jpg",
+	"url": "https://listeamed.net/v/l4vexvD2pjkO8B9",
+	"info": "",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
 	},
+	{
+	"name": "CAPITULO 2",
+	"image": "https://pics.filmaffinity.com/american_crime_story_the_people_v_o_j_simpson-872602318-large.jpg",
+	"url": "https://listeamed.net/v/edVqE4rd84D5YWm",
+	"info": "",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+	},
+	{
+	"name": "CAPITULO 3",
+	"image": "https://pics.filmaffinity.com/american_crime_story_the_people_v_o_j_simpson-872602318-large.jpg",
+	"url": "https://listeamed.net/v/YWA8E9wrzgG5GmM",
+	"info": "",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+	},
+	{
+	"name": "CAPITULO 4",
+	"image": "https://pics.filmaffinity.com/american_crime_story_the_people_v_o_j_simpson-872602318-large.jpg",
+	"url": "https://listeamed.net/v/Ro7kOVV4aRoOZWB",
+	"info": "",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+	},
+	{
+	"name": "CAPITULO 5",
+	"image": "https://pics.filmaffinity.com/american_crime_story_the_people_v_o_j_simpson-872602318-large.jpg",
+	"url": "https://listeamed.net/v/QNB7xA2LQjwE0WG",
+	"info": "",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+	},
+	{
+	"name": "CAPITULO 6",
+	"image": "https://pics.filmaffinity.com/american_crime_story_the_people_v_o_j_simpson-872602318-large.jpg",
+	"url": "https://listeamed.net/v/KrdZ5kdGBwaxmX4",
+	"info": "",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+	},
+	{
+	"name": "CAPITULO 7",
+	"image": "https://pics.filmaffinity.com/american_crime_story_the_people_v_o_j_simpson-872602318-large.jpg",
+	"url": "",
+	"info": "",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+	},
+	{
+	"name": "CAPITULO 8",
+	"image": "https://pics.filmaffinity.com/american_crime_story_the_people_v_o_j_simpson-872602318-large.jpg",
+	"url": "",
+	"info": "",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+	},
+	{
+	"name": "CAPITULO 9",
+	"image": "https://pics.filmaffinity.com/american_crime_story_the_people_v_o_j_simpson-872602318-large.jpg",
+	"url": "",
+	"info": "",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+	},
+	{
+	"name": "CAPITULO 10",
+	"image": "https://pics.filmaffinity.com/american_crime_story_the_people_v_o_j_simpson-872602318-large.jpg",
+	"url": "",
+	"info": "",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+	}
+	]
+	},
+
 	{
 	"name": "El asesinato de Gianni Versace",
 	"image": "https://pics.filmaffinity.com/the_assassination_of_gianni_versace_american_crime_story-396528629-large.jpg",
