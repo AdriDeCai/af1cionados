@@ -11,27 +11,161 @@
 
 	{
 	"name": "Temporada 1",
-	"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie BARRY Temp 1.w3u",
 	"image": "https://i.postimg.cc/brMHL7Pm/Barry-Temp-1.jpg",
-	"info": ""
+	"info": "",
+	"stations": 
+	[
+
+	{
+	"name": "Capitulo 1",
+	"url": "https://listeamed.net/v/6zeREaDYwb0xZPa",
+	"image": "https://i.postimg.cc/brMHL7Pm/Barry-Temp-1.jpg",
+	"info": "",
+	"userAgent": "",
+	"isHost": "",
+	"online": "",
+	"embed": "",
+	"import": false
 	},
+	{
+	"name": "Capitulo 2",
+	"url": "https://listeamed.net/v/vQBYEbNYyK6En1m",
+	"image": "https://i.postimg.cc/brMHL7Pm/Barry-Temp-1.jpg",
+	"info": "",
+	"userAgent": "",
+	"isHost": "",
+	"online": "",
+	"embed": "",
+	"import": false
+	},
+	{
+	"name": "Capitulo 3",
+	"url": "https://listeamed.net/v/PKN4OwnkDYnEDLj",
+	"image": "https://i.postimg.cc/brMHL7Pm/Barry-Temp-1.jpg",
+	"info": "",
+	"userAgent": "",
+	"isHost": "",
+	"online": "",
+	"embed": "",
+	"import": false
+	},
+	{
+	"name": "Capitulo 4",
+	"url": "https://listeamed.net/v/0DogOGM91JYxKjM",
+	"image": "https://i.postimg.cc/brMHL7Pm/Barry-Temp-1.jpg",
+	"info": "",
+	"userAgent": "",
+	"isHost": "",
+	"online": "",
+	"embed": "",
+	"import": false
+	},
+	{
+	"name": "Capitulo 5",
+	"url": "https://listeamed.net/v/ao9rxoRkDgm5yGe",
+	"image": "https://i.postimg.cc/brMHL7Pm/Barry-Temp-1.jpg",
+	"info": "",
+	"userAgent": "",
+	"isHost": "",
+	"online": "",
+	"embed": "",
+	"import": false
+	},
+	{
+	"name": "Capitulo 6",
+	"url": "https://listeamed.net/v/MAlwEMY2GRyEJ39",
+	"image": "https://i.postimg.cc/brMHL7Pm/Barry-Temp-1.jpg",
+	"info": "",
+	"userAgent": "",
+	"isHost": "",
+	"online": "",
+	"embed": "",
+	"import": false
+	},
+	{
+	"name": "Capitulo 7",
+	"url": "https://listeamed.net/v/g9Vd5JWb3G6xqQj",
+	"image": "https://i.postimg.cc/brMHL7Pm/Barry-Temp-1.jpg",
+	"info": "",
+	"userAgent": "",
+	"isHost": "",
+	"online": "",
+	"embed": "",
+	"import": false
+	},
+	{
+	"name": "Capitulo 8",
+	"url": "https://listeamed.net/v/LQm9OXNYPJKx1lg",
+	"image": "https://i.postimg.cc/brMHL7Pm/Barry-Temp-1.jpg",
+	"info": "",
+	"userAgent": "",
+	"isHost": "",
+	"online": "",
+	"embed": "",
+	"import": false
+	}
+
+	]
+	},
+
 	{
 	"name": "Temporada 2",
-	"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20BARRY%20Temp%202.w3u",
 	"image": "https://i.postimg.cc/kGVWVTSK/Barry-Temp-2.jpg",
-	"info": ""
+	"info": "",
+	"stations":
+	[
+	{
+	"name": "Capitulo 1",
+	"url": "",
+	"image": "https://i.postimg.cc/kGVWVTSK/Barry-Temp-2.jpg",
+	"info": "",
+	"userAgent": "",
+	"isHost": "",
+	"online": "",
+	"embed": "",
+	"import": false
+	}
+	]
 	},
+
 	{
 	"name": "Temporada 3",
-	"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20BARRY%20Temp%203.w3u",
 	"image": "https://i.postimg.cc/Dw5QM47W/Barry-Temp-3.jpg",
-	"info": ""
+	"info": "",
+	"stations":
+	[
+	{
+	"name": "Capitulo 1",
+	"url": "",
+	"image": "https://i.postimg.cc/Dw5QM47W/Barry-Temp-3.jpg",
+	"info": "",
+	"userAgent": "",
+	"isHost": "",
+	"online": "",
+	"embed": "",
+	"import": false
+	}
+	]
 	},
+
 	{
 	"name": "Temporada 4",
-	"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie BARRY Temp 4.w3u",
 	"image": "https://i.postimg.cc/8zyWH8bM/Barry-Temp-4.jpg",
-	"info": ""
+	"info": "",
+	"stations":
+	[
+	{
+	"name": "Capitulo 1",
+	"url": "",
+	"image": "https://i.postimg.cc/8zyWH8bM/Barry-Temp-4.jpg",
+	"info": "",
+	"userAgent": "",
+	"isHost": "",
+	"online": "",
+	"embed": "",
+	"import": false
+	}
+	]
 	}
 
 	]
