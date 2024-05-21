@@ -116,7 +116,84 @@
 	[
 	{
 	"name": "Capitulo 1",
-	"url": "",
+	"url": "https://listeamed.net/v/LQm9OXNYP2ex1lg",
+	"image": "https://i.postimg.cc/kGVWVTSK/Barry-Temp-2.jpg",
+	"info": "",
+        "isHost": "true",
+        "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"embed": "",
+	"import": false
+	},
+	{
+	"name": "Capitulo 2",
+	"url": "https://listeamed.net/v/b4ZJx21zRBR52P3",
+	"image": "https://i.postimg.cc/kGVWVTSK/Barry-Temp-2.jpg",
+	"info": "",
+        "isHost": "true",
+        "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"embed": "",
+	"import": false
+	},
+	{
+	"name": "Capitulo 3",
+	"url": "https://listeamed.net/v/KrdZ5kdADmbxmX4",
+	"image": "https://i.postimg.cc/kGVWVTSK/Barry-Temp-2.jpg",
+	"info": "",
+        "isHost": "true",
+        "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"embed": "",
+	"import": false
+	},
+	{
+	"name": "Capitulo 4",
+	"url": "https://listeamed.net/v/6zeREaDYw9jxZPa",
+	"image": "https://i.postimg.cc/kGVWVTSK/Barry-Temp-2.jpg",
+	"info": "",
+        "isHost": "true",
+        "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"embed": "",
+	"import": false
+	},
+	{
+	"name": "Capitulo 5",
+	"url": "https://listeamed.net/v/qL0YEyPkW9pxDRX",
+	"image": "https://i.postimg.cc/kGVWVTSK/Barry-Temp-2.jpg",
+	"info": "",
+        "isHost": "true",
+        "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"embed": "",
+	"import": false
+	},
+	{
+	"name": "Capitulo 6",
+	"url": "https://listeamed.net/v/kKJVORWYjP953XD",
+	"image": "https://i.postimg.cc/kGVWVTSK/Barry-Temp-2.jpg",
+	"info": "",
+        "isHost": "true",
+        "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"embed": "",
+	"import": false
+	},
+	{
+	"name": "Capitulo 7",
+	"url": "https://listeamed.net/v/ao9rxoRkD9e5yGe",
+	"image": "https://i.postimg.cc/kGVWVTSK/Barry-Temp-2.jpg",
+	"info": "",
+        "isHost": "true",
+        "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"embed": "",
+	"import": false
+	},
+	{
+	"name": "Capitulo 8",
+	"url": "https://listeamed.net/v/dNjgOl4qKGVO9Wn",
 	"image": "https://i.postimg.cc/kGVWVTSK/Barry-Temp-2.jpg",
 	"info": "",
         "isHost": "true",
