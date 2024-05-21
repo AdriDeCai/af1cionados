@@ -1,0 +1,40 @@
+
+{
+"name": "BARRY",
+"image": "https://i.postimg.cc/brMHL7Pm/Barry-Temp-1.jpg",
+"info": "bY AdriDeCai",
+"url": "https://af1cionados.vercel.app/",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"groups": 
+	[
+
+	{
+	"name": "Temporada 1",
+	"url": "",
+	"image": "https://i.postimg.cc/brMHL7Pm/Barry-Temp-1.jpg",
+	"info": ""
+	},
+	{
+	"name": "Temporada 2",
+	"url": "",
+	"image": "https://i.postimg.cc/kGVWVTSK/Barry-Temp-2.jpg",
+	"info": ""
+	},
+	{
+	"name": "Temporada 3",
+	"url": "",
+	"image": "https://i.postimg.cc/Dw5QM47W/Barry-Temp-3.jpg",
+	"info": ""
+	},
+	{
+	"name": "Temporada 4",
+	"url": "",
+	"image": "https://i.postimg.cc/8zyWH8bM/Barry-Temp-4.jpg",
+	"info": ""
+	}
+
+	]
+}
+
+
