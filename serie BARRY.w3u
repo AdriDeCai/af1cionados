@@ -21,9 +21,9 @@
 	"url": "https://listeamed.net/v/6zeREaDYwb0xZPa",
 	"image": "https://i.postimg.cc/brMHL7Pm/Barry-Temp-1.jpg",
 	"info": "",
-	"userAgent": "",
-	"isHost": "",
-	"online": "",
+        "isHost": "true",
+        "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
 	"embed": "",
 	"import": false
 	},
