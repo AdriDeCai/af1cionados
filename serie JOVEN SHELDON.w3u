@@ -1,0 +1,208 @@
+
+
+{"name": "JOVEN SHELDON",
+"image": "https://i.postimg.cc/4xzSjvd0/Temp1-Joven-Sheldon.jpg",
+"url": "https://af1cionados.vercel.app/",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"groups":[
+
+
+	{
+	"name": "TEMPORADA 1",
+	"info": "",
+	"image": "https://i.postimg.cc/4xzSjvd0/Temp1-Joven-Sheldon.jpg",
+	"stations":
+	[
+	{
+	"name": "CAPITULO 1",
+        "image": "https://i.postimg.cc/4xzSjvd0/Temp1-Joven-Sheldon.jpg",
+        "url": "https://listeamed.net/v/wP2050e6o0Bxdmy",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 2",
+        "image": "https://i.postimg.cc/4xzSjvd0/Temp1-Joven-Sheldon.jpg",
+        "url": "https://listeamed.net/v/mMq75L8oGK75XPB",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 3",
+        "image": "https://i.postimg.cc/4xzSjvd0/Temp1-Joven-Sheldon.jpg",
+        "url": "https://listeamed.net/v/PlBVEZ0YJ685Dv9",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 4",
+        "image": "https://i.postimg.cc/4xzSjvd0/Temp1-Joven-Sheldon.jpg",
+        "url": "https://listeamed.net/v/0DogOGM9B30xKjM",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 5",
+        "image": "https://i.postimg.cc/4xzSjvd0/Temp1-Joven-Sheldon.jpg",
+        "url": "https://listeamed.net/v/P0poO1062gREz17",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 6",
+        "image": "https://i.postimg.cc/4xzSjvd0/Temp1-Joven-Sheldon.jpg",
+        "url": "https://listeamed.net/v/qA3WOmGkBLgxKkz",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 2",
+	"info": "",
+	"image": "https://i.postimg.cc/668wgSN1/Temp2-Joven-Sheldon.jpg",
+	"stations":
+	[
+	{
+	"name": "CAPITULO 1",
+        "image": "https://i.postimg.cc/668wgSN1/Temp2-Joven-Sheldon.jpg",
+        "url": "",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 3",
+	"info": "",
+	"image": "https://i.postimg.cc/TwyS7zWV/Temp3-Joven-Sheldon.jpg",
+	"stations":
+	[
+	{
+	"name": "CAPITULO 1",
+        "image": "https://i.postimg.cc/TwyS7zWV/Temp3-Joven-Sheldon.jpg",
+        "url": "",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 4",
+	"info": "",
+	"image": "https://i.postimg.cc/mg5yXt3n/Temp4-Joven-Sheldon.jpg",
+	"stations":
+	[
+	{
+	"name": "CAPITULO 1",
+        "image": "https://i.postimg.cc/mg5yXt3n/Temp4-Joven-Sheldon.jpg",
+        "url": "",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 5",
+	"info": "",
+	"image": "https://i.postimg.cc/3JLXNdqw/Temp5-Joven-Sheldon.jpg",
+	"stations":
+	[
+	{
+	"name": "CAPITULO 1",
+        "image": "https://i.postimg.cc/3JLXNdqw/Temp5-Joven-Sheldon.jpg",
+        "url": "",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 6",
+	"info": "",
+	"image": "https://i.postimg.cc/3JLXNdqw/Temp5-Joven-Sheldon.jpg",
+	"stations":
+	[
+	{
+	"name": "CAPITULO 1",
+        "image": "https://i.postimg.cc/3JLXNdqw/Temp5-Joven-Sheldon.jpg",
+        "url": "",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 7",
+	"info": "",
+	"image": "https://i.postimg.cc/3JLXNdqw/Temp5-Joven-Sheldon.jpg",
+	"stations":
+	[
+	{
+	"name": "CAPITULO 1",
+        "image": "https://i.postimg.cc/3JLXNdqw/Temp5-Joven-Sheldon.jpg",
+        "url": "",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	}
+
+]
+}
