@@ -1,0 +1,66 @@
+{
+"name": "ROCKY",
+"image": "https://i.postimg.cc/9Xt3B5m1/Rocky-I.jpg",
+"url": "https://af1cionados.vercel.app/",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations": 
+                [
+
+                {
+                "name": "Rocky (Pelicula)",
+                "info":"(1976)",
+                "image": "https://i.postimg.cc/9Xt3B5m1/Rocky-I.jpg",
+                "url": "https://upstream.to/5ooywkr528j1",
+                "embed":"",
+                "isHost":"true",
+                "online":"true"
+                },                
+                {
+                "name": "Rocky II (Pelicula)",
+                "info":"(1979)",
+                "image": "https://i.postimg.cc/J44Fcsd4/Rocky-II.jpg",
+                "url": "https://upstream.to/2ub5pzq0bl0r",
+                "embed":"",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Rocky III (Pelicula)",
+                "info":"1982",
+                "image": "https://i.postimg.cc/3r99wq3D/24-Rocky-III-1982.jpg",
+                "url": "https://upstream.to/aobd7f0zrdyc",
+                "embed":"",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Rocky IV (Pelicula)",
+                "info":"1985",
+                "image": "https://i.postimg.cc/sgWp5HCm/25-Rocky-IV-1985.jpg",
+                "url": "https://upstream.to/nsjhr7aqkg54",
+                "embed":"",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Rocky V (Pelicula)",
+                "info":"1990",
+                "image": "https://i.postimg.cc/HxzKdsSr/26-Rocky-V-1990.jpg",
+                "url": "https://upstream.to/7kxerp15l4n9",
+                "embed":"",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Rocky Balboa (Pelicula)",
+                "info":"2006",
+                "image": "https://i.postimg.cc/MpwFMQhn/27-Rocky-Balboa-2006.jpg",
+                "url": "https://upstream.to/rktftwf7i6j1",
+                "embed":"",
+                "isHost":"true",
+                "online":"true"
+                }
+  ]
+}
