@@ -1,0 +1,89 @@
+{
+"name": "NUEVO AMANECER, UN",
+"image": "https://pics.filmaffinity.com/un_nuevo_amanecer-968523217-large.jpg",
+"url": "https://af1cionados.vercel.app/serie NUEVO AMANECER.w3u",
+"info": "2024",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": @YIsus_mEx",
+"stations":[
+
+	{
+       	"name": "EPISODIO 1",
+        "image": "https://pics.filmaffinity.com/un_nuevo_amanecer-968523217-large.jpg",
+        "url": "https://filemoon.sx/d/4u53eq5sfjgy/Un_Nuevo_Amanecer_1x01_Yo_Estaba_En_Mi_Casa_Con_Mi_Hija_A3P_WEB.mkv",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 2",
+        "image": "https://pics.filmaffinity.com/un_nuevo_amanecer-968523217-large.jpg",
+        "url": "https://filemoon.sx/d/zhxaffrg4wkg/Un_nuevo_amanecer_1x02_Yo_controlo_Kowalski_Spanish_Subs_A3P_WEB.mkv",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 3",
+        "image": "https://pics.filmaffinity.com/un_nuevo_amanecer-968523217-large.jpg",
+        "url": "https://filemoon.sx/d/238iz6kw6i6j/Un_nuevo_amanecer_1x03_Yo_estoy_de_las_normas_hasta_el_chirri_Kowalski.mkv",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 4",
+        "image": "https://pics.filmaffinity.com/un_nuevo_amanecer-968523217-large.jpg",
+        "url": "https://filemoon.sx/d/ugs5nyrgd54h/Un_nuevo_amanecer_1x04_Yo_os_dare_lo_que_quereis_Kowalski_Spanish.mkv",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 5",
+        "image": "https://pics.filmaffinity.com/un_nuevo_amanecer-968523217-large.jpg",
+        "url": "https://filemoon.sx/d/wlqv3hs56ycq/Un_nuevo_amanecer_1x05_Yo_no_estoy_preparada_todavia_Kowalski_Spanish.mkv",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 6",
+        "image": "https://pics.filmaffinity.com/un_nuevo_amanecer-968523217-large.jpg",
+        "url": "https://filemoon.sx/d/227xphs4hllv/Un_nuevo_amanecer_1x06_Yo_soy_un_juguete_roto_y_super_roto_Kowalski.mkv",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 7",
+        "image": "https://pics.filmaffinity.com/un_nuevo_amanecer-968523217-large.jpg",
+        "url": "https://filemoon.sx/d/mdb3vs9hc8gh/Un_nuevo_amanecer_1x07_Yo_te_queria_pedir_perdon_Kowalski_Spanish.mkv",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
