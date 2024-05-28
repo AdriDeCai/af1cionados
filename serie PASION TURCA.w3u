@@ -1,0 +1,78 @@
+{
+"name": "PASION TURCA",
+"image": "https://pics.filmaffinity.com/la_pasion_turca-999826511-large.jpg",
+"url": "https://af1cionados.vercel.app/serie PASION TURCA.w3u",
+"info": "2024",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": @YIsus_mEx",
+"stations":[
+
+	{
+       	"name": "EPISODIO 1",
+        "image": "https://pics.filmaffinity.com/la_pasion_turca-999826511-large.jpg",
+        "url": "",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 2",
+        "image": "https://pics.filmaffinity.com/la_pasion_turca-999826511-large.jpg",
+        "url": "",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 3",
+        "image": "https://pics.filmaffinity.com/la_pasion_turca-999826511-large.jpg",
+        "url": "",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 4",
+        "image": "https://pics.filmaffinity.com/la_pasion_turca-999826511-large.jpg",
+        "url": "",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 5",
+        "image": "https://pics.filmaffinity.com/la_pasion_turca-999826511-large.jpg",
+        "url": "",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 6",
+        "image": "https://pics.filmaffinity.com/la_pasion_turca-999826511-large.jpg",
+        "url": "",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
