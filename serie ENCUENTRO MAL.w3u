@@ -1,0 +1,55 @@
+{
+"name": "MI ENCUENTRO CON EL MAL",
+"image": "https://pics.filmaffinity.com/mi_encuentro_con_el_mal-982798627-large.jpg",
+"url": "https://af1cionados.vercel.app/serie ENCUENTRO MAL.w3u",
+"info": "2022",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": @YIsus_mEx",
+"stations":[
+
+  	    {
+       	"name": "EPISODIO 1",
+        "image": "https://pics.filmaffinity.com/mi_encuentro_con_el_mal-982798627-large.jpg",
+        "url": "https://filemoon.sx/d/dwxdghgmbzam/Mi_Encuentro_con_El_Mal_1x1_Lat_.mkv",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+        {
+       	"name": "EPISODIO 2",
+        "image": "https://pics.filmaffinity.com/mi_encuentro_con_el_mal-982798627-large.jpg",
+        "url": "https://filemoon.sx/d/tx4xjzt6wfg2/Mi_Encuentro_con_El_Mal_1x2_Lat.mkv",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+        {
+       	"name": "EPISODIO 3",
+        "image": "https://pics.filmaffinity.com/mi_encuentro_con_el_mal-982798627-large.jpg",
+        "url": "https://filemoon.sx/d/ofo5ur3ndc39/Mi_Encuentro_con_El_Mal_1x3_Lat_.mkv",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+        {
+       	"name": "EPISODIO 4",
+        "image": "https://pics.filmaffinity.com/mi_encuentro_con_el_mal-982798627-large.jpg",
+        "url": "https://filemoon.sx/d/dkonv8gm01dl/Mi_Encuentro_con_El_Mal_1x4_Lat_.mkv",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	      "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+]
+}
