@@ -1,0 +1,78 @@
+{
+"name": "ATASCO",
+"image": "https://pics.filmaffinity.com/atasco-386372183-large.jpg",
+"url": "https://af1cionados.vercel.app/serie ATASCO.w3u",
+"info": "2024",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": @YIsus_mEx",
+"stations":[
+
+	{
+       	"name": "EPISODIO 1",
+        "image": "https://pics.filmaffinity.com/atasco-386372183-large.jpg",
+        "url": "https://filemoon.sx/d/cs89vszkjsun/Atasco_-_S01E01_-_Maletero_-__by_Erpiyo_.mkv",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 2",
+        "image": "https://pics.filmaffinity.com/atasco-386372183-large.jpg",
+        "url": "https://filemoon.sx/d/q30wf2vd7cbr/Atasco_-_S01E02_-_Guantera_-__by_Erpiyo_.mkv",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 3",
+        "image": "https://pics.filmaffinity.com/atasco-386372183-large.jpg",
+        "url": "https://filemoon.sx/d/atnl7kclif1c/Atasco_-_S01E03_-_Luz_de_freno_-__by_Erpiyo_.mkv",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 4",
+        "image": "https://pics.filmaffinity.com/atasco-386372183-large.jpg",
+        "url": "https://filemoon.sx/d/j2orn2lnne72/Atasco_-_S01E04_-_Volante_-__by_Erpiyo_.mkv",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 5",
+        "image": "https://pics.filmaffinity.com/atasco-386372183-large.jpg",
+        "url": "https://filemoon.sx/d/251lugc4utlp/Atasco_-_S01E05_-_Cintur_n_de_seguridad_-__by_Erpiyo_.mkv",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 6",
+        "image": "https://pics.filmaffinity.com/atasco-386372183-large.jpg",
+        "url": "https://filemoon.sx/d/46kml7oducm3/Atasco_-_S01E06_-_Cierre_centralizado_-__by_Erpiyo_.mkv",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
