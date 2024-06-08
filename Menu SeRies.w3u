@@ -1034,6 +1034,13 @@
 		"import": false
 		},
 		{
+		"name": "Materia Oscura",
+		"image": "https://pics.filmaffinity.com/dark_matter-192577821-large.jpg",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20MATERIA%20OSCURA.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
 		"name": "Maxton Hall",
 		"url": "https://af1c1onados.vercel.app/Series.Maxton.Hall.w3u",
 		"image": "https://pics.filmaffinity.com/maxton_hall_die_welt_zwischen_uns-394220900-large.jpg",
