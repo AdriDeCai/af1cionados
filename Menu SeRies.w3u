@@ -1438,6 +1438,13 @@
 		"import": false
 		},
 		{
+		"name": "Sagrada Familia",
+		"image": "https://pics.filmaffinity.com/sagrada_familia-313579880-large.jpg",
+		"url": "https://af1cionados.vercel.app/serie SAGRADA FAMILIA.w3u",
+		"info": "bY. Adri",
+		"import": false
+		},
+		{
 		"name": "Sandman",
 		"image": "https://pics.filmaffinity.com/the_sandman-801503155-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie SANDMAN.w3u",
@@ -1445,10 +1452,10 @@
 		"import": false
 		},
 		{
-		"name": "Sagrada Familia",
-		"image": "https://pics.filmaffinity.com/sagrada_familia-313579880-large.jpg",
-		"url": "https://af1cionados.vercel.app/serie SAGRADA FAMILIA.w3u",
-		"info": "bY. Adri",
+		"name": "Sangre, Sexo y Realeza",
+		"image": "https://pics.filmaffinity.com/blood_sex_royalty-221080514-large.jpg",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20SANGRE.w3u",
+		"info": "bY AdriDeCai",
 		"import": false
 		},
 		{
