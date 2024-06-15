@@ -1589,6 +1589,13 @@
 		"import": false
 		},
 		{
+		"name": "Spartacus",
+		"image": "https://pics.filmaffinity.com/spartacus_blood_and_sand-485741234-large.jpg",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
 		"name": "StarGate SG1",
 		"image": "https://i.postimg.cc/d3WvqTJz/stargate.png",
 		"url": "https://af1c1onados.vercel.app/Series.StarGate.SG1.w3u",
