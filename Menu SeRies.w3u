@@ -1090,6 +1090,13 @@
 		"import": false
 		},
 		{
+		"name": "Merli",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20MERLI.w3u",
+		"image": "https://i.postimg.cc/6qtsM4sj/merli-1.jpg",
+		"info": "bY. Tintxi",
+		"import": false
+		},
+		{
 		"name": "Mesias, La",
 		"image": "https://pics.filmaffinity.com/la_mesias-995616904-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie%20LA%20MESIAS.w3u",
