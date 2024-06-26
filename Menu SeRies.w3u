@@ -867,6 +867,13 @@
 		"import": false
 		},
 		{
+		"name": "Hombres de Paco",
+		"image": "https://pics.filmaffinity.com/los_hombres_de_paco-592725717-large.jpg",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20NUDO.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
 		"name": "Homeland",
 		"image": "https://pics.filmaffinity.com/homeland-456200695-large.jpg",
 		"info": "bY. Adri",
@@ -1249,6 +1256,13 @@
 		"image": "https://pics.filmaffinity.com/la_novia_gitana-501277819-large.jpg",
 		"info": "bY. aDri",
 		"url": "https://af1cionados.vercel.app/serie%20LA%20NOVIA%20GITANA.w3u",
+		"import": false
+		},
+		{
+		"name": "Nudo, El",
+		"image": "https://pics.filmaffinity.com/el_nudo-204986984-large.jpg",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20COCINERA%20CASTAMAR.w3u",
+		"info": "bY AdriDeCai",
 		"import": false
 		},
 		{
