@@ -1187,6 +1187,16 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+	{
+        "name": "ESTRELLA AZUL, LA",
+        "image": "https://pics.filmaffinity.com/la_estrella_azul-666029724-large.jpg",
+        "url": "https://filemoon.sx/d/yebymwy9hd2n/Estrella_azul_2023_1080_mp4.ts",
+        "info": "[Españo 2023]",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
     {
       "name": "EXORCISMO DE DIOS, EL",
       "image": "https://i.postimg.cc/zGtHBpyT/El-exorcismo-de-Dios-2021-Pelicula.jpg",
