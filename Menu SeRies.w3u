@@ -777,6 +777,13 @@
 		"import": false
 		},
 		{
+		"name": "Gangs Of London",
+		"image": "https://pics.filmaffinity.com/gangs_of_london-413797235-large.jpg",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20GANGS%20OF%20LONDON.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
 		"name": "Generation",
 		"image": "https://pics.filmaffinity.com/genera_ion-734980897-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie GENERATION.w3u",
@@ -909,10 +916,24 @@
 		"import": false
 		},
 		{
+		"name": "Inocente, EL",
+		"image": "https://pics.filmaffinity.com/el_inocente-766786848-large.jpg",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20INOCENTE.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
 		"name": "Inside Man",
 		"image": "https://pics.filmaffinity.com/inside_man-531226120-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie%20INSIDE%20MAN%20(DESDE%20DENTRO).w3u",
 		"info": "bY. aDri",
+		"import": false
+		},
+		{
+		"name": "Irregulares, Los",
+		"image": "https://pics.filmaffinity.com/the_irregulars-275183513-large.jpg",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20IRREGULARES.w3u",
+		"info": "bY AdriDeCai",
 		"import": false
 		},
 		{
@@ -1590,6 +1611,27 @@
 		"image": "https://pics.filmaffinity.com/servant-383025291-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie SERVANT.w3u",
 		"info": "bY. Adri",
+		"import": false
+		},
+		{
+		"name": "Sexify",
+		"image": "https://pics.filmaffinity.com/sexify-695045535-large.jpg",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20SEXIFY.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
+		"name": "Sexo y Vida",
+		"image": "https://pics.filmaffinity.com/sex_life-881151684-large.jpg",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20SEXO%20y%20VIDA.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
+		"name": "Shadow and Bone",
+		"image": "https://pics.filmaffinity.com/shadow_and_bone-184093170-large.jpg",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20SHADOWBONE.w3u",
+		"info": "bY AdriDeCai",
 		"import": false
 		},
 		{
