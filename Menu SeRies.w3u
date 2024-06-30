@@ -1056,6 +1056,13 @@
 		"import": false
 		},
 		{
+		"name": "Libro de Boba Fett, El",
+		"image": "https://pics.filmaffinity.com/the_book_of_boba_fett-736176382-large.jpg",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20LIBRO%20BOBA.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
 		"name": "Line of Duty",
 		"url": "https://af1cionados.vercel.app/serie%20LINE%20OF%20DUTY.w3u",
 		"image": "https://pics.filmaffinity.com/line_of_duty-249873699-large.jpg",
