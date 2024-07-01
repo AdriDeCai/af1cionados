@@ -1412,6 +1412,13 @@
 		"import": false
 		},
 		{
+		"name": "Padrino de Harlem, EL",
+		"image": "https://pics.filmaffinity.com/godfather_of_harlem-315159440-large.jpg",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20PADRINO%20HARLEM.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
 		"name": "Pablo Escobar, Patron del mal",
 		"image": "https://pics.filmaffinity.com/pablo_escobar_el_patron_del_mal-432126437-large.jpg",
 		"info": "bY. yIsus",
@@ -1943,6 +1950,13 @@
 		"image": "https://pics.filmaffinity.com/las_viudas_de_los_jueves-827365390-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie VIUDAS DE LOS JUEVES.w3u",
 		"info": "bY. aDri",
+		"import": false
+		},
+		{
+		"name": "Vivir sin permiso",
+		"image": "https://pics.filmaffinity.com/vivir_sin_permiso-545657173-large.jpg",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20VIVIR%20SIN%20PERMISO.w3u",
+		"info": "bY AdriDeCai",
 		"import": false
 		},
 		{
