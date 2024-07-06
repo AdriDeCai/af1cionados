@@ -1224,6 +1224,13 @@
 		"import": false
 		},
 		{
+		"name": "Miami Vice",
+		"image": "https://pics.filmaffinity.com/miami_vice-984432127-large.jpg",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20MIAMI%20VICE.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
 		"name": "Miercoles",
 		"image": "https://pics.filmaffinity.com/wednesday-938002261-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie MIERCOLES.w3u",
