@@ -267,8 +267,8 @@
  			"info":"[Latino]",
  			"image":"https://i.postimg.cc/43WNTwVt/la-casa-del-dragon-temporada-2-poster-666eb7602c972.jpg",
  			"url":"https://erikcoldperson.com/ekqihnvrhn0g",
- 			"userAgent": "PlusMediaPlayer/0.0.9",
-			"isHost":"",
+ 			"userAgent": "",
+			"isHost":"true",
  			"online":"true"
 			},
 			{
