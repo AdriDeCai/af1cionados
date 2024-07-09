@@ -1521,7 +1521,99 @@
             		"online":"true"
 			}
 		]
+	},
+
+	{
+	"name": "CODIGO MOTO GP 2024",
+	"image": "https://i.postimg.cc/85qgdx1J/Codigo-Moto-GP-2024.jpg",
+	"imageScale": "",
+	"info":"",
+	"stations":
+		[
+			{
+			"name": "Codigo MotoGP Qatar 2024",
+			"info":"",
+			"image": "https://i.postimg.cc/50xS9Cqd/Bandera_Qatar.jpg",
+			"url": "https://upstream.to/avpnjp4m8z8e",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Codigo MotoGP Portugal 2024",
+			"info":"",
+			"image": "https://i.postimg.cc/pLRvXZMb/bandera-de-portugal-actual.jpg",
+			"url": "https://upstream.to/k65x1dws83p8",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Codigo MotoGP Estados Unidos 2024",
+			"info":"[Austin]",
+			"image": "https://i.postimg.cc/3wGXHKqP/Bandera_USA.jpg",
+			"url": "https://upstream.to/u8i5g1wzdbua",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Codigo MotoGP España 2024",
+			"info":"[Jerez de la Frontera]",
+			"image": "https://i.postimg.cc/QM7ynZJM/Bandera_España.jpg",
+			"url": "https://upstream.to/9xv5u9moo6fa",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Codigo MotoGP Francia 2024",
+			"info":"",
+			"image": "https://i.postimg.cc/sxHQY0ZF/Bandera-Francia.jpg",
+			"url": "https://upstream.to/ffplfjya0wkb",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Codigo MotoGP España 2024",
+			"info":"[Cataluña]",
+			"image": "https://i.postimg.cc/qR3GMwLN/Bandera-Catalunya.jpg",
+			"url": "https://upstream.to/ns8bqrwkje6x",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Codigo MotoGP Italia 2024",
+			"info":"",
+			"image": "https://i.postimg.cc/xCwn54zW/Bandera-Italia.jpg",
+			"url": "https://upstream.to/0uspdgy0k4or",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Codigo MotoGP Paises Bajos 2024",
+			"info":"",
+			"image": "https://i.postimg.cc/wjTB9d39/Bandera-Holanda.jpg",
+			"url": "https://upstream.to/2qs51udn8myf",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Codigo MotoGP Alemania 2024",
+			"info":"",
+			"image": "https://i.postimg.cc/L67GxCbW/Bandera-Alemania.jpg",
+			"url": "https://upstream.to/y4pudlbwhajg",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}
+		]
 	}
+
 
 	
 	]
