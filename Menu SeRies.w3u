@@ -1028,6 +1028,13 @@
 		"import": false
 		},
 		{
+		"name": "Last Light",
+		"image": "https://pics.filmaffinity.com/last_light-102263673-large.jpg",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20LAST%20LIGHT.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
 		"name": "Last of Us, The",
 		"image": "https://i.postimg.cc/HsB5tjmt/the-last-of-us.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.The.Last.Of.Us.w3u",
