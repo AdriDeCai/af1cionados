@@ -175,28 +175,28 @@
 	"stations":
 		[
 			{
-			"name": "SBK SUPERPOLE RACE",
-			"info":"",
+			"name": "SBK RACE 1",
+			"info":"[12-14 Junio 2024]",
 			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
-			"url": "",
+			"url": "https://filemoon.sx/d/h5u46c30b8mx/05_1_SBK_Race_1_Donington_Park__Reino_Unido__2024_ES_.ts",
 			"embed":"",
             		"isHost":"true",
             		"online":"true"
 			},
 			{
-			"name": "SSP600 RACE 2",
-			"info":"",
-			"image": "https://i.postimg.cc/Xq8Kn52Z/SBK-Verde.jpg",
-			"url": "",
+			"name": "SBK SUPERPOLE RACE",
+			"info":"[12-14 Junio 2024]",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "https://filemoon.sx/d/z1qsrwsc07le/05_2_SBK_Superpole_Race_Donington_Park__Reino_Unido__2024_ES_.ts",
 			"embed":"",
             		"isHost":"true",
             		"online":"true"
 			},
 			{
 			"name": "SBK RACE 2",
-			"info":"",
+			"info":"[12-14 Junio 2024]",
 			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
-			"url": "",
+			"url": "https://filemoon.sx/d/95dhainekaag/05_3_SBK_Race_2_Donington_Park__Reino_Unido__2024_ES_.ts",
 			"embed":"",
             		"isHost":"true",
             		"online":"true"
