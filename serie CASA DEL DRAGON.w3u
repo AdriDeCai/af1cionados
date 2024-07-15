@@ -278,6 +278,23 @@
  			"url":"https://erikcoldperson.com/cudt2tg8yeqb",
  			"isHost":"true",
  			"online":"true"
+			},
+			{
+ 			"name": "Episodio 05",
+ 			"info":"[Español]",
+ 			"image":"https://i.postimg.cc/43WNTwVt/la-casa-del-dragon-temporada-2-poster-666eb7602c972.jpg",
+ 			"url":"https://filemoon.sx/d/qb601p4r74o4/La_Casa_del_Dragon_2x05.mkv",
+ 			"isHost":"true",
+ 			"online":"true"
+			},
+			{
+ 			"name": "Episodio 05",
+ 			"info":"[Latino]",
+ 			"image":"",
+ 			"url":"",
+ 			"userAgent": "",
+			"isHost":"true",
+ 			"online":"true"
 			}
 		]
 	}
