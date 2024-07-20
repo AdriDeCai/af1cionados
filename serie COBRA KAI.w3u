@@ -222,10 +222,9 @@
 
 
 {"name": "Capitulo 10",
-
 "image": "https://www.dl.dropboxusercontent.com/s/dkgvra9r7k0bo9q/serie-cobrakai.jpg",
-
 "url": "https://uqload.com/embed-kx11o5aqycws.html"}]},
+
 
 {"name": "Temporada 5",
 "image": "https://www.dl.dropboxusercontent.com/s/btodnb6znduux2x/cobrakai5.jpg",
@@ -269,4 +268,71 @@
 
 {"name": "Capitulo 10",
 "image": "https://www.dl.dropboxusercontent.com/s/btodnb6znduux2x/cobrakai5.jpg",
-"url": "https://uqload.com/embed-3vq0tcdgvpot.html"}]}]}
+"url": "https://uqload.com/embed-3vq0tcdgvpot.html"}
+]}
+
+
+{"name": "Temporada 6",
+"image": "https://www.dl.dropboxusercontent.com/s/dkgvra9r7k0bo9q/serie-cobrakai.jpg",
+"stations": [
+
+    {
+      "name": "Capitulo 1",
+      "image": "https://www.dl.dropboxusercontent.com/s/dkgvra9r7k0bo9q/serie-cobrakai.jpg",
+      "url": "https://filemoon.sx/d/hylo02hhejul/S06_E01_Cobra_Kai_Paz_Valley_1080_mp4.mp4",
+      "info": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "Capitulo 2",
+      "image": "https://www.dl.dropboxusercontent.com/s/dkgvra9r7k0bo9q/serie-cobrakai.jpg",
+      "url": "https://filemoon.sx/d/cfxk8xuy13dc/S06_E02_Cobra_Kai_mp4.mp4",
+      "info": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "Capitulo 3",
+      "image": "https://www.dl.dropboxusercontent.com/s/dkgvra9r7k0bo9q/serie-cobrakai.jpg",
+      "url": "https://filemoon.sx/d/el8xy4lkpy5i/S06_E03_Cobra_Kai_1080p_Castellian_mp4.mp4",
+      "info": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "Capitulo 4",
+      "image": "https://www.dl.dropboxusercontent.com/s/dkgvra9r7k0bo9q/serie-cobrakai.jpg",
+      "url": "https://filemoon.sx/d/02j8qm8x9fhh/S06_E04_Cobra_Kai_m1080p_mp4.mp4",
+      "info": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "Capitulo 5",
+      "image": "https://www.dl.dropboxusercontent.com/s/dkgvra9r7k0bo9q/serie-cobrakai.jpg",
+      "url": "https://filemoon.sx/d/5ynrc9n41dwh/S06_E05_Cobra_Kai_m1080p_mp4.mp4",
+      "info": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    }
+    ]
+    }
+
+]
+}
