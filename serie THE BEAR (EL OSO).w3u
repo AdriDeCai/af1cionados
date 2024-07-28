@@ -622,6 +622,71 @@
         	"import": false
         	}
 	    ]
+	},
+
+        {
+        "name": "TEMPORADA 3",
+        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+        "imageScale": "",
+        "info": "",
+        "stations":
+            [
+	       {
+ 	       	"name": "Mañana",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://filemoon.sx/d/pieeqt8osynk/The_Bear_S03E01_Manana_1080p_DSNP_WEB_DL_DDP5_1_H_264_Bryan_122.mkv",
+        	"info": "3X01",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "A continuación",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://filemoon.sx/d/nawd05fj0dan/The_Bear_S03E02_A_continuacion_1080p_DSNP_WEB_DL_DDP5_1_H_264_Bryan.mkv",
+        	"info": "3X02",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Puertas",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://filemoon.sx/d/rawk99bbnl8q/The_Bear_S03E03_Listos_1080p_DSNP_WEB_DL_DDP5_1_H_264_Bryan_122.mkv",
+        	"info": "3X03",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Violet",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://filemoon.sx/d/mz2i5jjsl24r/The_Bear_S03E04_Violet_1080p_DSNP_WEB_DL_DDP5_1_H_264_Bryan_122.mkv",
+        	"info": "3X04",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Niños",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "https://filemoon.sx/d/syv1hwu6ki7w/The_Bear_S03E05_Ninos_1080p_DSNP_WEB_DL_DDP5_1_H_264_Bryan_122.mkv",
+        	"info": "3X05",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	}
+		]
 	}
 
 
