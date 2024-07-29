@@ -233,6 +233,13 @@
 		"import": false
 		},
 		{
+		"name": "Black Sails",
+		"image": "https://pics.filmaffinity.com/black_sails-188674894-large.jpg",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
 		"name": "Black Snow",
 		"image": "https://pics.filmaffinity.com/black_snow-404340713-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie%20BLACK%20SNOW.w3u",
@@ -1130,6 +1137,13 @@
 		"image": "https://pics.filmaffinity.com/locke_key-773725457-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie LOCKEKEY.w3u",
 		"info": "bY. Adri",
+		"import": false
+		},
+		{
+		"name": "Loki",
+		"image": "https://pics.filmaffinity.com/loki-953858491-large.jpg",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20LOKI.w3u",
+		"info": "bY AdriDeCai",
 		"import": false
 		},
 		{
