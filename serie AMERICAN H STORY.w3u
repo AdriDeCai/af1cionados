@@ -20,7 +20,7 @@
 	{
 	"name": "TEMPORADA 2 Asylum",
 	"image": "https://pics.filmaffinity.com/american_horror_story_asylum-378005929-large.jpg",
-	"url": "",
+	"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie AMERICAN H STORY Temp2.w3u",
 	"info": "2012"
 	},
 	{
@@ -28,6 +28,12 @@
 	"image": "https://pics.filmaffinity.com/american_horror_story_coven-190401960-large.jpg",
 	"url": "",
 	"info": "2013"
+	},
+	{
+	"name": "TEMPORADA 4 Freak Show",
+	"image": "https://pics.filmaffinity.com/american_horror_story_freak_show-615356216-large.jpg",
+	"url": "",
+	"info": "2014"
 	}
 
 ]
