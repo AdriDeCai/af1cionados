@@ -2045,6 +2045,13 @@
 		"import": false
 		},
 		{
+		"name": "Tribus de Europa",
+		"image": "https://pics.filmaffinity.com/tribes_of_europa-351690076-large.jpg",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie TRIBUS DE EUROPA.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
 		"name": "Trigger Point",
 		"image": "https://i.postimg.cc/RZ7tw1nF/Trigger-Point.png",
 		"url": "https://af1c1onados.vercel.app/Series.Trigger.Point.w3u",
@@ -2202,6 +2209,15 @@
          	"url": "https://af1c1onados.vercel.app/Series.Yu.Yu.Hakusho.w3u",
          	"info":"bY. yIsus",
          	"import": false
+        	},
+		{
+		"name": "Zero Chill (Sueños sobre Hielo)",
+		"image": "https://pics.filmaffinity.com/zero_chill-842061722-large.jpg",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/",
+		"info": "bY AdriDeCai",
+        	"import": false
         	}
+
+
 	]
 }
