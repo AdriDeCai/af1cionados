@@ -1147,6 +1147,13 @@
 		"import": false
 		},
 		{
+		"name": "Little Bird",
+		"image": "https://pics.filmaffinity.com/little_bird-749390673-large.jpg",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie LITTLE BIRD.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
 		"name": "Locomia",
 		"image": "https://pics.filmaffinity.com/Locomaia_Miniserie_de_TV-204391564-large.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.Locomia.w3u",
