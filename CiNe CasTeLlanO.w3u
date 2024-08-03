@@ -27,6 +27,15 @@
       "isHost": "true",
       "online": "true"
     },
+        {
+        "name": "13 FANTASMAS",
+        "image": "https://pics.filmaffinity.com/thirteen_ghosts_aka_thir13en_ghosts_aka_13_ghosts-625408527-large.jpg",
+        "url": "https://listeamed.net/v/eL2157d6gmWxrw4",
+        "info": "[Español] [2001]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "57 Segundos",
       "info": "2023",
@@ -801,6 +810,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "COMBUSTION",
+        "image": "https://pics.filmaffinity.com/combustion-398475316-large.jpg",
+        "url": "https://filemoon.sx/d/6u11eyeqjhhw",
+        "info": "[Español][2013]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
     {
       "name": "COMO DIOS MANDA",
       "image": "https://pics.filmaffinity.com/como_dios_manda-689886286-large.jpg",
@@ -2026,6 +2044,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "MANIAC",
+        "image": "https://pics.filmaffinity.com/maniac-997708578-large.jpg",
+        "url": "https://listeamed.net/v/ao9rxoRkpoM5yGe",
+        "info": "[Español] [2012]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "MANSION ENCANTADA",
       "image": "https://pics.filmaffinity.com/haunted_mansion-135612291-large.jpg",
@@ -3027,6 +3054,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "SONRISAS y LAGRIMAS",
+        "image": "https://pics.filmaffinity.com/the_sound_of_music-366969305-large.jpg",
+        "url": "https://upstream.to/v3l2iy966mh7",
+        "info": "[Español] [1965]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "SKINAMARINK",
       "image": "https://pics.filmaffinity.com/skinamarink-587056182-large.jpg",
