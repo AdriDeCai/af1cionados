@@ -393,52 +393,6 @@
 	},
 
 	{
-	"name": "SOKOL INTERNATIONAL RACETRACK (KAZAJISTAN)",
-	"image": "https://i.postimg.cc/kGyH7N2R/Bandera-Kazakistan.jpg",
-	"imageScale": "",
-	"info":"ROUND 9",
-	"stations":
-		[
-			{
-			"name": "Sprint MotoGP",
-			"info":"",
-			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
-			"url": "",
-			"embed":"",
-            		"isHost":"true",
-            		"online":"true"
-			},
-			{
-			"name": "Carrera Moto3",
-			"info":"",
-			"image": "https://i.postimg.cc/0NVcSYXZ/Logo-Moto3.jpg",
-			"url": "",
-			"embed":"",
-            		"isHost":"true",
-            		"online":"true"
-			},
-			{
-			"name": "Carrera Moto2",
-			"info":"",
-			"image": "https://i.postimg.cc/wB10hyKp/Logo-Moto2.jpg",
-			"url": "",
-			"embed":"",
-            		"isHost":"true",
-            		"online":"true"
-			},
-			{
-			"name": "Carrera MotoGP",
-			"info":"",
-			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
-			"url": "",
-			"embed":"",
-            		"isHost":"true",
-            		"online":"true"
-			}
-		]
-	},
-
-	{
 	"name": "TT CIRCUIT ASSEN (PAISES BAJOS)",
 	"image": "https://i.postimg.cc/wjTB9d39/Bandera-Holanda.jpg",
 	"imageScale": "",
@@ -541,7 +495,7 @@
 			"name": "Sprint MotoGP",
 			"info":"",
 			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
-			"url": "https://upstream.to/d12megn0lojx",
+			"url": "https://filemoon.sx/d/13f2jkg75bbw/Gran_Breta_a_Sprin_MotoGP.mp4",
 			"embed":"",
             		"isHost":"true",
             		"online":"true"
