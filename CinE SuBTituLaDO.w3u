@@ -18,6 +18,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "2001 MANIACS: Field of Screams",
+        "image": "https://pics.filmaffinity.com/2001_Maniacs_Field_of_Screams-713962749-large.jpg",
+        "url": "https://filemoon.sx/d/l6o17bxfklwm",
+        "info": "[Vose.Sub] [2010]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "A LITTLE WHITE LIE [VOSE]",
       "image": "https://pics.filmaffinity.com/a_little_white_lie-125493809-large.jpg",
@@ -748,7 +757,7 @@
       "import": false
     },
     {
-      "name": "Los Juegos del Hambre: Balada de Pájaros Cantores y Serpientes",
+      "name": "JUEGOS DEL HAMBRE, BALADA DE PAJAROS CANTORES Y SERPIENTES",
       "image": "https://m.media-amazon.com/images/S/pv-target-images/8aab9c0fe573b72ae14786b3ef8b787eb6bc50624017043e5c7b96d490f5551f.jpg",
       "url": "https://filemoon.sx/d/4m1a9syuy18f",
       "info": "2023",
@@ -756,6 +765,15 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
+        {
+        "name": "KILLER, THE",
+        "info":"[Vose.Sub][2023]",
+        "image": "https://images.saymedia-content.com/.image/t_share/MjAyMDcyNzkxMjk2NzEzOTUw/the-killer-2023-movie-review.jpg",
+        "url": "https://filemoon.sx/d/ri3sm99xtey6",
+        "userAgent" : "",
+        "online":"true",
+        "isHost": "true"
+        }
     {
       "name": "KNUCKLE GIRL [VOSE]",
       "image": "https://pics.filmaffinity.com/knuckle_girl-620362254-large.jpg",
@@ -767,6 +785,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "LAZOS DE VIDA",
+        "image": "https://labutacaweb.com/wp-content/uploads/2024/03/65cf6d287d6b2bbc947f154971748299397047693146.jpg",
+        "url": "https://filemoon.sx/d/g0sknfkwrvnm",
+        "info": "[Vose.Sub].[2023]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "LONG LIVE LOVE! [VOSE]",
       "image": "https://pics.filmaffinity.com/lever_elsker_savner-737350684-large.jpg",
@@ -930,6 +957,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "NEFARIOUS,LA PALABRA DEL DIABLO",
+        "image": "https://mx.web.img2.acsta.net/pictures/23/11/06/17/22/0771192.jpg",
+        "url": "https://filemoon.sx/e/qdweximlx6e1",
+        "info": "[Vose.Sub] [2023]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "NIGHT OF THE HUNTED [VOSE]",
       "image": "https://pics.filmaffinity.com/night_of_the_hunted-186226531-large.jpg",
@@ -981,6 +1017,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "ONE DAY",
+        "image": "https://pics.filmaffinity.com/One_Day_Siempre_el_mismo_daia-871097561-large.jpg",
+        "url": "https://filemoon.sx/d/xshg7et6cmpa",
+        "info": "[Vose.Sub].[2011]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "OPERACION KANDAHAR [VOSE]",
       "image": "https://i.postimg.cc/m2HGTThG/Operacion-Kandahar-2023-Pelicula.jpg",
@@ -1013,6 +1058,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "PAST LIVES",
+        "info":"[Vose.Sub][2023]",
+        "image": "https://i.postimg.cc/NG5Pm57K/past.jpg",
+        "url": "https://filemoon.sx/d/jfzlx4xg88gy",
+        "userAgent" : "",
+        "online":"true",
+        "isHost": "true"
+        },
     {
       "name": "PRAISE THIS [VOSE]",
       "image": "https://pics.filmaffinity.com/praise_this-576028644-large.jpg",
@@ -1382,6 +1436,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "TRIANGLE",
+        "image": "https://pics.filmaffinity.com/Triangle-730388712-large.jpg",
+        "url": "https://filemoon.sx/e/azku5qvctco9",
+        "info": "[Vose.Sub] [2019]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "ULTIMO OBJETIVO, EL [VOSE]",
       "info": "2023",
@@ -1479,6 +1542,17 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "ZINDAGI MILEGI DOBARA",
+        "image": "https://pics.filmaffinity.com/zindagi_na_milegi_dobara-308043676-large.jpg",
+        "url": "https://filemoon.sx/d/8q183vktayga",
+        "info": "[2011][VOSE]",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "import": false
+        },
     {
       "name": "ZOMBIE TOWN [VOSE]",
       "image": "https://pics.filmaffinity.com/zombie_town-990953811-large.jpg",
