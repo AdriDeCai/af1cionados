@@ -249,19 +249,19 @@
 	"stations":
 		[
 			{
-			"name": "SBK SUPERPOLE RACE",
+			"name": "SBK RACE 1",
 			"info":"",
 			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
 			"url": "",
 			"embed":"",
             		"isHost":"true",
             		"online":"true"
-			},
+			}	
 			{
-			"name": "SSP600 RACE 2",
+			"name": "SBK SUPERPOLE RACE",
 			"info":"",
-			"image": "https://i.postimg.cc/Xq8Kn52Z/SBK-Verde.jpg",
-			"url": "",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "https://listeamed.net/v/g9Vd5JWZ4rvxqQj",
 			"embed":"",
             		"isHost":"true",
             		"online":"true"
@@ -270,7 +270,7 @@
 			"name": "SBK RACE 2",
 			"info":"",
 			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
-			"url": "",
+			"url": "https://listeamed.net/v/6zeREaDXglmxZPa",
 			"embed":"",
             		"isHost":"true",
             		"online":"true"
