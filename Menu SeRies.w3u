@@ -583,6 +583,13 @@
 		"import": false
 		},
 		{
+		"name": "Domina",
+		"image": "https://pics.filmaffinity.com/domina-427995375-large.jpg",
+		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie DOMINA.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
 		"name": "Dopesick",
 		"image": "https://pics.filmaffinity.com/dopesick-922434010-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie%20DOPESICK.w3u",
