@@ -1,0 +1,32 @@
+
+{
+"name": "TRILOGIA YELLOWSTONE",
+"image": "https://pics.filmaffinity.com/yellowstone-884945491-large.jpg",
+"url": "https://af1cionados.vercel.app/serie YELLOWSTONE.w3u",
+"info": "bY AdriDeCai",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"groups":
+	[
+
+	{
+	"name": "Parte 1 1883",
+	"image": "https://pics.filmaffinity.com/1883-821404322-large.jpg",
+	"url": "https://raw.githubusercontent.com/AdriDeCai/Trilogia-YELLOWSTONE/main/Parte1.1883.w3u",
+	"info": ""
+	},
+	{
+	"name": "Parte 2 1923",
+	"image": "https://pics.filmaffinity.com/1923-614554373-large.jpg",
+	"url": "https://raw.githubusercontent.com/AdriDeCai/Trilogia-YELLOWSTONE/main/Parte2.1923.w3u",
+	"info": ""
+	},
+	{
+	"name": "Parte 3 Yellowstone",
+	"image": "https://pics.filmaffinity.com/yellowstone-884945491-large.jpg",
+	"url": "https://raw.githubusercontent.com/AdriDeCai/Trilogia-YELLOWSTONE/main/Parte3.Yellowstone.w3u",
+	"info": ""
+	}
+
+]
+}
