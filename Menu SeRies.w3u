@@ -107,6 +107,13 @@
 		"import": false
 		},
 		{
+		"name": "Ark, The,
+		"image": "https://i.postimg.cc/DwYgMHCq/The-Ark.png",
+		"url": "https://af1c1onados.vercel.app/Series.The.Ark.w3u",
+		"info": "bY. yIsus",
+		"import": false
+		},
+		{
 		"name": "Ashoka",
 		"image": "https://www.dodmagazine.es/wp-content/uploads/2023/04/poster-de-ashoka.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.Ahsoka.w3u",
@@ -188,6 +195,13 @@
 		"image": "https://i.postimg.cc/mr0HWW1n/batle.png",
 		"url": "https://af1c1onados.vercel.app/Series.Battlestar.Galactica.w3u",
 		"info": "by. Falken",
+		"import": false
+		},
+		{
+		"name": "Bear, The (El oso)",
+		"image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+		"url": "https://af1cionados.vercel.app/serie%20THE%20BEAR%20(EL%20OSO).w3u",
+		"info": "bY. aDri",
 		"import": false
 		},
 		{
@@ -663,13 +677,6 @@
 		"name": "El Ministerio del Tiempo",
 		"image": "https://i.postimg.cc/WpCBWCs4/ministerio.png",
 		"url": "https://af1c1onados.vercel.app/Series.Ministerio.Del.Tiempo.w3u",
-		"info": "bY. yIsus",
-		"import": false
-		},
-		{
-		"name": "El Problema De Los 3 Cuerpos",
-		"image": "https://es.web.img3.acsta.net/pictures/24/03/08/10/40/0547006.jpg",
-		"url": "https://af1c1onados.vercel.app/Series.El.Problema.De.Los.3.Cuerpos.w3u",
 		"info": "bY. yIsus",
 		"import": false
 		},
@@ -1769,6 +1776,13 @@
 		"import": false
 		},
 		{
+		"name": "Problema De Los 3 Cuerpos, El",
+		"image": "https://es.web.img3.acsta.net/pictures/24/03/08/10/40/0547006.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.El.Problema.De.Los.3.Cuerpos.w3u",
+		"info": "bY. yIsus",
+		"import": false
+		},
+		{
 		"name": "Problema de los 3 cuerpos",
 		"image": "https://pics.filmaffinity.com/3_body_problem-967780596-large.jpg",
 		"info": "bY. Adri",
@@ -2071,20 +2085,6 @@
 		"image": "https://i.postimg.cc/RFNhLmFZ/tokio-sezon-1.png",
 		"info": "bY. yIsus",
 		"url": "https://af1c1onados.vercel.app/Series.Tokyo.Vice.w3u",
-		"import": false
-		},
-		{
-		"name": "The Ark",
-		"image": "https://i.postimg.cc/DwYgMHCq/The-Ark.png",
-		"url": "https://af1c1onados.vercel.app/Series.The.Ark.w3u",
-		"info": "bY. yIsus",
-		"import": false
-		},
-		{
-		"name": "The Bear (El oso)",
-		"image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
-		"url": "https://af1cionados.vercel.app/serie%20THE%20BEAR%20(EL%20OSO).w3u",
-		"info": "bY. aDri",
 		"import": false
 		},
 		{
