@@ -10,25 +10,26 @@
 "groups":
      [
           {
-          "name": "DiFeriDos BoXing 2024",
-          "image": "https://i.postimg.cc/k5WStwQ7/box-2024-new.png",
-          "url": "https://pastebin.com/X7Hx9Tw4",
+          "name": "DiFeriDos ReMenBer BoXing",
+          "image": "https://i.postimg.cc/7LkGZF86/boxing-new.png",
+          "url": "https://pastebin.com/rYsrfJDX",
           "info":"",
           "import": false
           },
           {
           "name": "DiFeriDos BoXing 2023",
           "image": "https://i.postimg.cc/tgZXLPVV/Box-2023-new.png",
-          "url": "https://af1cionados.vercel.app/Diferidos Boxing 2023.w3u",
+          "url": "https://pastebin.com/4zNvtq6U",
           "info":"",
           "import": false
           },
           {
-          "name": "DiFeriDos ReMenBer BoXing",
-          "image": "https://i.postimg.cc/7LkGZF86/boxing-new.png",
-          "url": "https://pastebin.com/rYsrfJDX",
+          "name": "DiFeriDos BoXing 2024",
+          "image": "https://i.postimg.cc/k5WStwQ7/box-2024-new.png",
+          "url": "https://pastebin.com/X7Hx9Tw4",
           "info":"",
           "import": false
           }
+
      ]
 }
