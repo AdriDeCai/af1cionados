@@ -1089,7 +1089,7 @@
         	"url": "https://iosmirror.cc/hls/80084840.m3u8",
         	"info":"7x01",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	},
@@ -1099,7 +1099,7 @@
         	"url": "https://iosmirror.cc/hls/80084841.m3u8",
         	"info":"7x02",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	},
@@ -1109,7 +1109,7 @@
         	"url": "https://iosmirror.cc/hls/80084842.m3u8",
         	"info":"7x03",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	},
@@ -1119,7 +1119,7 @@
         	"url": "https://iosmirror.cc/hls/80084843.m3u8",
         	"info":"7x04",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	},
@@ -1129,7 +1129,7 @@
         	"url": "https://iosmirror.cc/hls/80084844.m3u8",
         	"info":"7x05",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	},
@@ -1139,7 +1139,7 @@
         	"url": "https://iosmirror.cc/hls/80084845.m3u8",
         	"info":"7x06",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	},
@@ -1149,7 +1149,7 @@
         	"url": "https://iosmirror.cc/hls/80084846.m3u8",
         	"info":"7x07",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	},
@@ -1159,7 +1159,7 @@
         	"url": "https://iosmirror.cc/hls/80084847.m3u8",
         	"info":"7x08",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	},
@@ -1169,7 +1169,7 @@
         	"url": "https://iosmirror.cc/hls/80084848.m3u8",
         	"info":"7x09",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	},
@@ -1179,7 +1179,7 @@
         	"url": "https://iosmirror.cc/hls/80084849.m3u8",
         	"info":"7x10",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	},
@@ -1189,7 +1189,7 @@
         	"url": "https://iosmirror.cc/hls/80084850.m3u8",
         	"info":"7x11",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	},
@@ -1199,7 +1199,7 @@
         	"url": "https://iosmirror.cc/hls/80084851.m3u8",
         	"info":"7x12",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	},
@@ -1209,7 +1209,7 @@
         	"url": "https://iosmirror.cc/hls/80084852.m3u8",
         	"info":"7x13",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	},
@@ -1219,7 +1219,7 @@
         	"url": "https://iosmirror.cc/hls/80084853.m3u8",
         	"info":"7x14",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	},
@@ -1229,7 +1229,7 @@
         	"url": "https://iosmirror.cc/hls/80084854.m3u8",
         	"info":"7x15",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	},
@@ -1239,7 +1239,7 @@
         	"url": "https://iosmirror.cc/hls/80084855.m3u8",
         	"info":"7x16",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	}
@@ -1258,7 +1258,7 @@
         	"url": "https://iosmirror.cc/hls/81006447.m3u8",
         	"info":"8x01",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	},
@@ -1268,7 +1268,7 @@
         	"url": "https://iosmirror.cc/hls/81006448.m3u8",
         	"info":"8x02",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	},
@@ -1278,7 +1278,7 @@
         	"url": "https://iosmirror.cc/hls/81006449.m3u8",
         	"info":"8x03",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	},
@@ -1288,7 +1288,7 @@
         	"url": "https://iosmirror.cc/hls/81006450.m3u8",
         	"info":"8x04",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	},
@@ -1298,7 +1298,7 @@
         	"url": "https://iosmirror.cc/hls/81006451.m3u8",
         	"info":"8x05",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	},
@@ -1308,7 +1308,7 @@
         	"url": "https://iosmirror.cc/hls/81006452.m3u8",
         	"info":"8x06",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	},
@@ -1318,7 +1318,7 @@
         	"url": "https://iosmirror.cc/hls/81006453.m3u8",
         	"info":"8x07",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	},
@@ -1328,7 +1328,7 @@
         	"url": "https://iosmirror.cc/hls/81006454.m3u8",
         	"info":"8x08",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	},
@@ -1338,7 +1338,7 @@
         	"url": "https://iosmirror.cc/hls/81006455.m3u8",
         	"info":"8x09",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	},
@@ -1348,7 +1348,7 @@
         	"url": "https://iosmirror.cc/hls/81006456.m3u8",
         	"info":"8x10",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	},
@@ -1358,7 +1358,7 @@
         	"url": "https://iosmirror.cc/hls/81006457.m3u8",
         	"info":"8x11",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	},
@@ -1368,7 +1368,7 @@
         	"url": "https://iosmirror.cc/hls/81006458.m3u8",
         	"info":"8x12",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	},
@@ -1378,7 +1378,7 @@
         	"url": "https://iosmirror.cc/hls/81006459.m3u8",
         	"info":"8x13",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	},
@@ -1388,7 +1388,7 @@
         	"url": "https://iosmirror.cc/hls/81006460.m3u8",
         	"info":"8x14",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	},
@@ -1398,7 +1398,7 @@
         	"url": "https://iosmirror.cc/hls/81006461.m3u8",
         	"info":"8x15",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	},
@@ -1408,7 +1408,7 @@
         	"url": "https://iosmirror.cc/hls/81006462.m3u8",
         	"info":"8x16",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	}
@@ -1427,7 +1427,7 @@
         	"url": "https://iosmirror.cc/hls/81143875.m3u8",
         	"info":"9x01",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	},
@@ -1437,7 +1437,7 @@
         	"url": "https://iosmirror.cc/hls/81143876.m3u8",
         	"info":"9x02",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	},
@@ -1447,7 +1447,7 @@
         	"url": "https://iosmirror.cc/hls/81143877.m3u8",
         	"info":"9x03",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	},
@@ -1457,7 +1457,7 @@
         	"url": "https://iosmirror.cc/hls/81143878.m3u8",
         	"info":"9x04",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	},
@@ -1467,7 +1467,7 @@
         	"url": "https://iosmirror.cc/hls/81143879.m3u8",
         	"info":"9x05",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	},
@@ -1477,7 +1477,7 @@
         	"url": "https://iosmirror.cc/hls/81143880.m3u8",
         	"info":"9x06",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	},
@@ -1487,7 +1487,7 @@
         	"url": "https://iosmirror.cc/hls/81143881.m3u8",
         	"info":"9x07",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	},
@@ -1497,7 +1497,7 @@
         	"url": "https://iosmirror.cc/hls/81143882.m3u8",
         	"info":"9x08",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	},
@@ -1507,7 +1507,7 @@
         	"url": "https://iosmirror.cc/hls/81143883.m3u8",
         	"info":"9x09",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	},
@@ -1517,7 +1517,7 @@
         	"url": "https://iosmirror.cc/hls/81143884.m3u8",
         	"info":"9x10",
         	"referer" : "referer=https://iosmirror.cc/",
-        	"isHost":"true",
+        	"isHost":"",
         	"online":"true",
         	"import": false
         	}
