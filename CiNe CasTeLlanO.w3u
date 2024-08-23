@@ -709,6 +709,15 @@
       "import": false
     },
         {
+        "name": "CAMPO DE BATALLA, LA TIERRA",
+        "image": "https://pics.filmaffinity.com/battlefield_earth-447193993-large.jpg",
+        "url": "https://filemoon.sx/d/ntwgeajwohwm/Campo_de_batalla_la_tierra__2000_Pelicula__esp_1080p_mp4.mp4",
+        "info": "[Español][2000]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+        {
         "name": "CAPITAN AMERICA, EL PRIMER VENGADOR",
         "info":"[Español][2011]",
         "image": "https://pics.filmaffinity.com/captain_america_the_first_avenger-163477639-mmed.jpg",
@@ -969,6 +978,15 @@
       "isHost": "true",
       "online": "true"
     },
+        {
+        "name": "CUATRO PLUMAS, LAS",
+        "image": "https://pics.filmaffinity.com/the_four_feathers-351848918-large.jpg",
+        "url": "https://filemoon.sx/d/b21zi1uo7pkd/Cuatro_plumas__2002_Pelicula__1080p_Castellano_mp4.mp4",
+        "info": "[Español][2002]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
     {
       "name": "CULPA MIA",
       "info": "2023",
@@ -1084,6 +1102,15 @@
         "online":"true",
         "isHost": "true"
         },
+	    {
+        "name": "DI QUE SI",
+        "image": "https://pics.filmaffinity.com/yes_man-597620171-large.jpg",
+       	"url": "https://filemoon.sx/d/kupdj9813e2w/Di_que_s___2008_Pelicula_.mkv",
+       	"info":"[Español][1994]",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true"
+       	},
     {
       "name": "DIA DE LA MADRE",
       "image": "https://i.postimg.cc/QtmYkKQv/Dia-de-la-madre-2023-Pelicula.jpg",
@@ -1105,6 +1132,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+	    {
+        "name": "DOS MAS DOS",
+        "image": "https://pics.filmaffinity.com/dos_mas_dos-777490188-large.jpg",
+       	"url": "https://filemoon.sx/d/2k9yiclt695t/Dos_mas_dos__2012_Pelicula_by_Erpiyo_.avi",
+       	"info":"[Español][2012]",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true"
+       	},
     {
       "name": "DONCELLA, LA",
       "image": "https://pics.filmaffinity.com/sluzka-850281933-large.jpg",
@@ -1319,6 +1355,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "EXTINCTION",
+        "image": "https://pics.filmaffinity.com/Extinction-163886271-large.jpg",
+        "url": "https://filemoon.sx/d/xa80sjulsbu4",
+        "info": "[Español][2015]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
     {
       "name": "EXTRACCION 2",
       "image": "https://i.postimg.cc/y8RkgFyj/Extracci-n-2-2023-Pelicula.jpg",
@@ -1490,6 +1535,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+	    {
+        "name": "GHOST DOG, EL CAMINO DEL SAMURAI",
+        "image": "https://pics.filmaffinity.com/ghost_dog_the_way_of_the_samurai-116365163-large.jpg",
+       	"url": "https://filemoon.sx/d/fetregakp5ln/Ghost_Dog_El_camino_del_samurai__1999_Pelicula__pelisporuntubo.avi",
+       	"info":"[Español][1999]",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true"
+       	},
     {
       "name": "GODZILLA vs KONG, UNO CAERÁ",
       "info": "2021",
@@ -2016,6 +2070,15 @@
         "online": "true",
         "userAgent": ""
         },
+        {
+        "name": "LUGAR MARAVILLOSO, UN",
+        "image": "https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/91/83/91/20165847.jpg",
+        "url": "https://filemoon.sx/d/37i5lfe5yw93",
+        "info": "[Español-Vose.Sub][2004]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
     {
       "name": "KEPLER SEXTO B",
       "image": "https://pics.filmaffinity.com/kepler_sexto_b-844010377-large.jpg",
@@ -2223,6 +2286,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "MENUDAS PIEZAS",
+        "image": "https://pics.filmaffinity.com/menudas_piezas-781090336-large.jpg",
+        "url": "https://filemoon.sx/d/isxmatnld2ib/Menudas_Piezas__2024_Pelicula__1080p_cast_mp4.mp4",
+        "info": "[Español][2024]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
     {
       "name": "MERCENARIOS 4, LOS (INDESTRUCTIBLES)",
       "image": "https://pics.filmaffinity.com/expend4bles-749216540-large.jpg",
@@ -2308,25 +2380,6 @@
       "import": false
     },
     {
-      "name": "MISION IMPOSIBLE 6, FALLOUT",
-      "image": "https://i.postimg.cc/k4fRR5zD/Mision-Imposible-6-Fallout-2023-Pelicula.jpg",
-      "url": "https://upstream.to/0s2c8gcvzoy0",
-      "info": "2023",
-      "isHost": "true",
-      "online": "true"
-    },
-    {
-      "name": "MISION IMPOSIBLE, SENTENCIA MORTAL PARTE 1",
-      "image": "https://pics.filmaffinity.com/mission_impossible_dead_reckoning_part_one-902615661-large.jpg",
-      "url": "https://upstream.to/jejgtdaqxw3b",
-      "info": "2023",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
       "name": "MISION PANAMA",
       "image": "https://i.postimg.cc/Yq4ZwrGq/Misio-n-Panama-2022-Pelicula.jpg",
       "url": "https://upstream.to/jca4snduf3ym",
@@ -2375,6 +2428,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+	    {
+        "name": "MONSTRUO, EL",
+        "image": "https://i.postimg.cc/XqNcjtLB/Monstruo-El-1994-Pelicula.jpg",
+       	"url": "https://filemoon.sx/d/52pgnembg06i/Montruo_El_Roberto_Benigni__1994_Pelicula__Spanish_Italian_Subs_BDrip_1080p.mkv",
+       	"info":"[Español][1994]",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true"
+       	},
     {
       "name": "MONSTRUO",
       "image": "https://pics.filmaffinity.com/kaibutsu-770906467-large.jpg",
@@ -2667,6 +2729,15 @@
       "online": "true",
       "import": false
     },
+        {
+        "name": "PANICO A LA DERIVA",
+        "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/1/w1280/paC5cDd4ClDBegVSvPVslYHKdgt.jpg",
+       	"url": "https://www.linkbox.to/f-detail/ZnA0cDNvMDAwYjls0",
+       	"info":"[Español][2022]",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true"
+       	},
     {
       "name": "PAPAS A LA ANTIGUA",
       "image": "https://pics.filmaffinity.com/old_dads-193189772-large.jpg",
@@ -2786,6 +2857,15 @@
       "isHost": "true",
       "online": "true"
     },
+        {
+        "name": "POR TUS MUERTOS",
+        "image": "https://pics.filmaffinity.com/por_tus_muertos-727983337-large.jpg",
+        "url": "https://filemoon.sx/d/74gmgao21lvz/Por_tus_muertos__2024_Pelicula__1080_mp4.mp4",
+        "info": "[Español][2024]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
     {
       "name": "PORTAL AL MAS ALLA, EL",
       "image": "https://i.postimg.cc/Bv73LxKh/Portal-del-ma-s-alla-El-2018-Pelicula.jpg",
