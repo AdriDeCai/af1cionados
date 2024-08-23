@@ -717,7 +717,16 @@
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
+      "import":false
+        },
+        {
+        "name": "CARA A CARA (FACE OFF)",
+        "image": "https://m.media-amazon.com/images/I/61Dv807JBvL._AC_UF894,1000_QL80_.jpg",
+        "url": "https://filemoon.sx/d/zua2np3x4880",
+        "info": "[Españo 1997]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
         },
     {
       "name": "CASSANDRO",
@@ -1428,6 +1437,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "FRESH",
+        "image": "https://es.web.img2.acsta.net/pictures/22/03/21/17/30/4116877.jpg",
+        "url": "https://filemoon.sx/d/8m27ki3o0g8a",
+        "info": "[Español 2022]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
     {
       "name": "FUGA (BREAKOUT)",
       "image": "https://pics.filmaffinity.com/breakout-574162472-large.jpg",
@@ -3226,6 +3244,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "T-34",
+        "image": "https://pics.filmaffinity.com/t_34-559651330-large.jpg",
+        "url": "https://upstream.to/8krshahf2brd",
+        "info": "[Español 2018]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
     {
       "name": "TACTICAS EN EL AMOR 2",
       "image": "https://i.postimg.cc/2yq3KqX6/Tácticas_en_el_Amor_2_(2022)(Pelicula).jpg",
@@ -3656,6 +3683,26 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "VIDA DE BRIAN, LA",
+        "image": "https://pics.filmaffinity.com/monty_python_s_life_of_brian-402192024-large.jpg",
+        "url": "https://filemoon.sx/d/sf3vzwhaz8ap/Vida_de_Brian__1979_Pelicula_.mp4",
+        "info": "[Español][1979]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
+        {
+	"name": "VIDA ES BELLA, LA",
+        "info":"[2023]",
+        "image": "https://pics.filmaffinity.com/La_vida_es_bella-611574521-large.jpg",
+        "url": "https://filemoon.sx/d/sqvmvmwbh4c7",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+        },
     {
       "name": "VIEJO ROBLE, EL",
       "info": "2023",
@@ -3678,18 +3725,7 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-        {
-	"name": "VIDA ES BELLA, LA",
-        "info":"[2023]",
-        "image": "https://pics.filmaffinity.com/La_vida_es_bella-611574521-large.jpg",
-        "url": "https://filemoon.sx/d/sqvmvmwbh4c7",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-        },
-    {
+	{
       "name": "VIRTUAL FIGHTER",
       "image": "https://pics.filmaffinity.com/one_more_shot-211374702-large.jpg",
       "url": "https://upstream.to/6rq3b4j0ids3",
