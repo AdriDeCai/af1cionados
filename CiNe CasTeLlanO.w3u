@@ -514,6 +514,16 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "BEATEN TO DEATH",
+        "image": "https://i.postimg.cc/D01t2yXW/Beatento-Death-Slip3-D.png",
+        "url": "https://filemoon.sx/d/6upsvx48ucdk",
+        "info": "[2023][Español]",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "BEAU TIENE MIEDO",
       "info": "2023",
@@ -523,6 +533,16 @@
       "isHost": "true",
       "online": "true"
     },
+        {
+        "name": "BEEKEEPER, EL PROTECTOR",
+        "image": "https://pics.filmaffinity.com/the_beekeeper-593721159-large.jpg",
+        "url": "https://filemoon.sx/d/rklhmhj60zmx",
+        "info": "[2024][Español]",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "BELL KEEPER, THE",
       "image": "https://pics.filmaffinity.com/the_bell_keeper-809091047-large.jpg",
@@ -821,6 +841,17 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "CIVIL WAR",
+        "image": "https://pics.filmaffinity.com/civil_war-397793862-large.jpg",
+        "url": "https://filemoon.sx/d/5es42rtjrzs8",
+        "info": "[2024][Español]",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "import": false
+        },
     {
       "name": "CLON DE TYRONE, EL",
       "image": "https://i.postimg.cc/s2c8QwSL/Clon-de-Tyrone-El-2023-Pelicula.jpg",
@@ -996,6 +1027,16 @@
       "isHost": "true",
       "online": "true"
     },
+        {
+        "name": "DAMAGED",
+        "image": "https://pics.filmaffinity.com/damaged-762795810-large.jpg",
+        "url": "https://filemoon.sx/d/imovnxrkz5li",
+        "info": "[2024][Español]",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "DARK HARVEST (COSECHA OSCURA)",
       "image": "https://pics.filmaffinity.com/dark_harvest-901698076-large.jpg",
@@ -1040,6 +1081,16 @@
 	"userAgent":"PlusMediaPlayer/0.0.9",
     "import": false
     },
+        {
+        "name": "DEADPOOL and LOBEZNO",
+        "image": "https://pics.filmaffinity.com/deadpool_wolverine-864471588-large.jpg",
+        "url": "https://listeamed.net/v/4bQVOj7wr0X5wKm",
+        "info": "[2024][Español]",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "DECIBEL",
       "image": "https://pics.filmaffinity.com/decibel-619882342-large.jpg",
@@ -1471,6 +1522,17 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "FOLLOW ME (Sin Salida)",
+        "image": "https://pics.filmaffinity.com/follow_me-538723749-large.jpg",
+        "url": "https://filemoon.sx/d/z93ov2ek1r9g",
+        "info": "[2020][Español]",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "import": false
+        },
     {
       "name": "FORTALEZA, LA",
       "image": "https://i.postimg.cc/9F80YC98/Fortaleza-La-2023-Pelicula.jpg",
@@ -1604,6 +1666,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "GRETA (LA VIUDA)",
+        "image": "https://pics.filmaffinity.com/greta-807585991-large.jpg",
+        "url": "https://filemoon.sx/d/lry2bnv1exhz",
+        "info": "[2019][Español]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "GUARDIANAS DEL PLANETA, LAS",
       "image": "https://pics.filmaffinity.com/les_gardiennes_de_la_planete-321296342-large.jpg",
@@ -1615,6 +1686,16 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "HA NACIDO UNA ESTRELLA",
+        "image": "https://pics.filmaffinity.com/a_star_is_born-447479418-large.jpg",
+        "url": "https://filemoon.sx/d/bm5a9kuguum",
+        "info": "[2018][Español]",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "HABLAME",
       "info": "2023",
@@ -1849,6 +1930,15 @@
       "isHost": "true",
       "online": "true"
     },
+        {
+        "name": "JOVENCITO FRANKESTEIN",
+        "image": "https://pics.filmaffinity.com/young_frankenstein-226542108-large.jpg",
+        "url": "https://filemoon.sx/d/2w1saj2p75bi",
+        "info": "[1974][Español]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "JUEGO BONITO, EL",
       "image": "https://pics.filmaffinity.com/the_beautiful_game-897217159-large.jpg",
@@ -2079,6 +2169,16 @@
         "online": "true",
         "userAgent": ""
         },
+        {
+        "name": "LUGAR TRANQUILO, UN. DIA 1",
+        "image": "https://pics.filmaffinity.com/a_quiet_place_day_one-758712709-large.jpg",
+        "url": "https://listeamed.net/v/e028E6R1doQEYAv",
+        "info": "[2024][Español]",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "KEPLER SEXTO B",
       "image": "https://pics.filmaffinity.com/kepler_sexto_b-844010377-large.jpg",
@@ -2145,17 +2245,6 @@
       "name": "MAGGIE MOORE(S)",
       "image": "https://pics.filmaffinity.com/maggie_moore_s-883706575-large.jpg",
       "url": "https://upstream.to/nq3986g8j9sx",
-      "info": "2023",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "MAGIC MARTINEZ, EL ULTIMO GALOPE",
-      "image": "https://pics.filmaffinity.com/magic_martinez_el_ultimo_galope-784166194-large.jpg",
-      "url": "https://upstream.to/6e3e65ulg7qm",
       "info": "2023",
       "embed": "",
       "isHost": "true",
@@ -2253,6 +2342,16 @@
         "image": "https://pics.filmaffinity.com/mary_poppins-798780385-large.jpg",
         "url": "https://filemoon.sx/d/9bam9t7a6s9a/Mary_Poppins__1964_Pelicula_.mp4",
         "info": "[Español] [1964]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "MATUSALEN",
+        "image": "https://pics.filmaffinity.com/matusalen-219429490-large.jpg",
+        "url": "https://filemoon.sx/d/6wz4i20g7t4i",
+        "info": "[2023][Español]",
+        "embed": "",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
@@ -2379,6 +2478,16 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "MINISTERIO DE LA GUERRA SUCIA, EL",
+        "image": "https://pics.filmaffinity.com/the_ministry_of_ungentlemanly_warfare-905775707-large.jpg",
+        "url": "https://filemoon.sx/d/k3b3gsa712sn",
+        "info": "[2024][Español]",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "MISION PANAMA",
       "image": "https://i.postimg.cc/Yq4ZwrGq/Misio-n-Panama-2022-Pelicula.jpg",
@@ -3061,6 +3170,16 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
         },
+        {
+        "name": "SALVADOR, PUIG ANTICH",
+        "image": "https://pics.filmaffinity.com/salvador_puig_antich-842407212-large.jpg",
+        "url": "https://listeamed.net/v/njJYOd3JojnEe9o",
+        "info": "[2006][Español]",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "SANCTUARY",
       "image": "https://pics.filmaffinity.com/sanctuary-397852345-large.jpg",
@@ -3587,6 +3706,16 @@
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "import": false
+        },
+        {
+        "name": "ULTIMO LATE NIGHT, EL",
+        "image": "https://pics.filmaffinity.com/El_aultimo_late_night-258028056-large.jpg",
+        "url": "https://filemoon.sx/d/bxlkohcuba3o",
+        "info": "[2023][Español]",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
         },
     {
       "name": "UMMA",
