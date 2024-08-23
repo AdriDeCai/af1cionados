@@ -783,6 +783,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "CHRISTINE",
+        "image": "https://pics.filmaffinity.com/john_carpenter_s_christine-110565595-large.jpg",
+        "url": "https://upstream.to/gaiz7ppm9w3n",
+        "info": "[Español][1983]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
     {
       "name": "CID LA LEYENDA, EL",
       "info": "2020",
@@ -1929,6 +1938,15 @@
       "isHost": "true",
       "online": "true"
     },
+        {
+        "name": "LIKE DOGS",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/0a3254da10b1706dd2839943d8e8b48e0be8911792556df6ff44451890792466.jpg",
+        "url": "https://filemoon.sx/d/2dd0w4q3i1yc",
+        "info": "[Español][2021]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
     {
       "name": "LIUBEN",
       "image": "https://i.postimg.cc/2SxJHMFS/Liuben-2023-Pelicula.jpg",
@@ -1971,6 +1989,15 @@
       "isHost": "true",
       "online": "true"
     },
+        {
+        "name": "LOVE STORY",
+        "image": "https://m.media-amazon.com/images/I/A1Z5rN-xRPL._AC_UF894,1000_QL80_.jpg",
+        "url": "https://filemoon.sx/d/9lp03z70ci48",
+        "info": "[Español][1970]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
     {
       "name": "KEPLER SEXTO B",
       "image": "https://pics.filmaffinity.com/kepler_sexto_b-844010377-large.jpg",
@@ -3609,6 +3636,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "VICTOR VICTORIA",
+        "image": "https://scottross79.wordpress.com/wp-content/uploads/2021/03/victor-victoria-poster-reduced.jpg",
+        "url": "https://www.linkbox.to/f-detail/ZnA0bjM4MDAwaHB50",
+        "info": "[Español][1982]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
     {
       "name": "VIDA MARAVILLOSA, UNA",
       "info": "2023",
@@ -3750,6 +3786,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+          {
+        "name": "ZODIAC",
+        "image": "https://pics.filmaffinity.com/zodiac-856909935-large.jpg",
+        "url": "https://upstream.to/dqxrse4k9n7b",
+        "info": "[Español 2007]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
     {
       "name": "ZONA DE INTERES",
       "info": "2023",
