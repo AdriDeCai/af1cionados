@@ -822,6 +822,15 @@
       "import": false
     },
         {
+        "name": "CHICA SALVAJE",
+        "info": "[2022][Español]",
+        "image": "https://pics.filmaffinity.com/La_chica_salvaje-490808897-large.jpg",
+        "url": "https://filemoon.sx/d/8sslp46ltu1p",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
         "name": "CHRISTINE",
         "image": "https://pics.filmaffinity.com/john_carpenter_s_christine-110565595-large.jpg",
         "url": "https://upstream.to/gaiz7ppm9w3n",
@@ -1037,6 +1046,15 @@
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
         },
+        {
+        "name": "CUÑADOS",
+        "info": "[2021][Español]",
+        "image": "https://pics.filmaffinity.com/cunados-414673027-large.jpg",
+        "url": "https://filemoon.sx/d/e2dhoqdb7ia8/Cu_ados__2021_Pelicula_.mp4",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "DARK HARVEST (COSECHA OSCURA)",
       "image": "https://pics.filmaffinity.com/dark_harvest-901698076-large.jpg",
@@ -1183,6 +1201,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "DOCTOR SUEÑO",
+        "info": "[2019][Español]",
+        "image": "https://pics.filmaffinity.com/doctor_sleep-419012383-large.jpg",
+        "url": "https://filemoon.sx/d/5jj8sfetm54x",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
 	    {
         "name": "DOS MAS DOS",
         "image": "https://pics.filmaffinity.com/dos_mas_dos-777490188-large.jpg",
@@ -1961,6 +1988,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "JUEGO DEL ASESINO, EL",
+        "info": "[2018][Español]",
+        "image": "https://pics.filmaffinity.com/El_juego_del_asesino-293811897-large.jpg",
+        "url": "https://filemoon.sx/d/vwyr9ce2wuxn",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "JUEGO LIMPIO",
       "image": "https://pics.filmaffinity.com/fair_play-736598807-large.jpg",
@@ -3077,6 +3113,15 @@
       "isHost": "true",
       "online": "true"
     },
+        {
+        "name": "RIVALES",
+        "info": "[2024][Español]",
+        "image": "https://pics.filmaffinity.com/challengers-325765300-large.jpg",
+        "url": "https://filemoon.sx/d/tj3bjq8akvoa/Rivales._2024_._ESP_.mp4",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "ROBERT, EL MUÑECO MALDITO",
       "image": "https://pics.filmaffinity.com/shock_docs_the_curse_of_robert_the_doll-445723040-large.jpg",
@@ -3382,6 +3427,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "SNATCH: CERDOS y DIAMANTES",
+        "info": "[2000][Español]",
+        "image": "https://pics.filmaffinity.com/Snatch_Cerdos_y_diamantes-921179475-large.jpg",
+        "url": "https://filemoon.sx/d/agrzqe59x2m0",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "SNOWDEN",
       "image": "https://pics.filmaffinity.com/snowden-767575981-large.jpg",
@@ -3706,6 +3760,15 @@
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "import": false
+        },
+        {
+        "name": "ULTIMO GUERRERO, EL: LAS RAICES DEL MAL",
+        "info": "[2021][Español]",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/a8153bd0852709d2fc14bf52f347af10de45443394f9a745d08b12ae6b3da040.jpg",
+        "url": "https://filemoon.sx/d/bn4w1me0gubk",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
         },
         {
         "name": "ULTIMO LATE NIGHT, EL",
