@@ -2299,6 +2299,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "MAIXABEL",
+        "info": "[2021][Español]",
+        "image": "https://pics.filmaffinity.com/Maixabel-491379276-large.jpg",
+        "url": "https://filemoon.sx/d/is8v1bcckjmp",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "MAL DIA LO TIENE CUALQUIERA",
       "image": "https://pics.filmaffinity.com/un_mal_dia_lo_tiene_cualquiera-735793961-large.jpg",
