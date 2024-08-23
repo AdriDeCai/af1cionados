@@ -685,6 +685,61 @@
         	"online": "true",
 		"userAgent":"PlusMediaPlayer/0.0.9",
         	"import": false
+        	},
+	       {
+ 	       	"name": "Servilletas",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "",
+        	"info": "3X06",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Legado",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "",
+        	"info": "3X07",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Cubitos de hielo",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "",
+        	"info": "3X08",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Disculpas",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "",
+        	"info": "3X09",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "Para siempre",
+	        "image": "https://pics.filmaffinity.com/the_bear-982511761-large.jpg",
+	        "url": "",
+        	"info": "3X10",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
         	}
 		]
 	}
