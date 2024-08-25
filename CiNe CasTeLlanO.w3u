@@ -211,7 +211,6 @@
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
         },
-
     {
       "name": "ALCARRAS",
       "image": "https://pics.filmaffinity.com/alcarras-600661704-large.jpg",
@@ -284,6 +283,15 @@
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "import": false
+        },
+        {
+        "name": "AMOR EN TODA LA CARA",
+        "image": "https://www.filmaffinity.com/es/film587583.html",
+        "url": "https://filemoon.sx/d/nmpbdqep9o3d/Amor_en_toda_la_cara__2024_Pelicula_.mp4",
+        "info": "[Español][2024]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
         },
    {
       "name": "ANATOMIA DE UNA CAIDA",
@@ -3081,6 +3089,15 @@
       "isHost": "true",
       "online": "true"
     },
+        {
+        "name": "¿POR QUE SE FROTAN LAS PATITAS?",
+        "image": "https://pics.filmaffinity.com/por_que_se_frotan_las_patitas-257630999-large.jpg",
+        "url": "https://filemoon.sx/d/mm2eldsv5t80/_Por_que_se_frotan_las_patitas___2006_Pelicula__esp_dvdrip_mp4.mp4",
+        "info": "[Español][2006]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": ""
+        },
         {
         "name": "POR TUS MUERTOS",
         "image": "https://pics.filmaffinity.com/por_tus_muertos-727983337-large.jpg",
