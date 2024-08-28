@@ -428,6 +428,17 @@
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
+       	},
+	{
+	"name": "CAPITULO 2",
+        "image": "https://i.postimg.cc/TwyS7zWV/Temp3-Joven-Sheldon.jpg",
+        "url": "",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
        	}
 	]
 	},
@@ -480,6 +491,105 @@
 	[
 	{
 	"name": "CAPITULO 1",
+        "image": "https://i.postimg.cc/3JLXNdqw/Temp5-Joven-Sheldon.jpg",
+        "url": "https://filemoon.sx/d/6vnq7ir6cnpk/El_Joven_Sheldon_6x1_HDTV_720pCap_601AC3_5_1_Castellanolwww_AtomoHD.mkv",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 2",
+        "image": "https://i.postimg.cc/3JLXNdqw/Temp5-Joven-Sheldon.jpg",
+        "url": "https://filemoon.sx/d/zwmhfrgrxrdj/El_Joven_Sheldon_6x2_HDTV_720pCap_602AC3_5_1_Castellanolwww_AtomoHD.mkv",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 3",
+        "image": "https://i.postimg.cc/3JLXNdqw/Temp5-Joven-Sheldon.jpg",
+        "url": "https://filemoon.sx/d/q945k5ohrv31/El_Joven_Sheldon_6x3_HDTV_720pCap_603AC3_5_1_Castellanolwww_AtomoHD.mkv",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 4",
+        "image": "https://i.postimg.cc/3JLXNdqw/Temp5-Joven-Sheldon.jpg",
+        "url": "https://filemoon.sx/d/v5aq9kge4eqr/El_Joven_Sheldon_6x4_HDTV_720pCap_604AC3_5_1_Castellanolwww_AtomoHD.mkv",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 5",
+        "image": "https://i.postimg.cc/3JLXNdqw/Temp5-Joven-Sheldon.jpg",
+        "url": "https://filemoon.sx/d/ngh8weg0kdi3/El_Joven_Sheldon_6x5_HDTV_720pCap_605AC3_5_1_Castellanolwww_AtomoHD.mkv",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 6",
+        "image": "https://i.postimg.cc/3JLXNdqw/Temp5-Joven-Sheldon.jpg",
+        "url": "https://filemoon.sx/d/gnhqxfvscdnr/El_Joven_Sheldon_6x6_HDTV_720pCap_606AC3_5_1_Castellanolwww_AtomoHD.mkv",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 7",
+        "image": "https://i.postimg.cc/3JLXNdqw/Temp5-Joven-Sheldon.jpg",
+        "url": "https://filemoon.sx/d/64omv6d1ryq9/El_joven_Sheldon_6x7_HDTV_720pCap_607AC3_5_1_Castellanolwww_atomoHD.mkv",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 8",
+        "image": "https://i.postimg.cc/3JLXNdqw/Temp5-Joven-Sheldon.jpg",
+        "url": "https://filemoon.sx/d/tu99zkskiyur/El_joven_Sheldon_6x8_HDTV_720pCap_608AC3_5_1_Castellanolwww_AtomoHD.mkv",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 9",
+        "image": "https://i.postimg.cc/3JLXNdqw/Temp5-Joven-Sheldon.jpg",
+        "url": "https://filemoon.sx/d/79ml9290x9r3/El_joven_Sheldon_6x9_HDTV_720pCap_609AC3_5_1_Castellanolwww_AtomoHD.mkv",
+       	"info": "[Español]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 10",
         "image": "https://i.postimg.cc/3JLXNdqw/Temp5-Joven-Sheldon.jpg",
         "url": "",
        	"info": "[Español]",
