@@ -10,6 +10,12 @@
 	[
 
 	{
+	"name": "AGALLAS EL PERRO COBARDE",
+	"image": "https://pics.filmaffinity.com/courage_the_cowardly_dog-831906700-large.jpg",
+	"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie.animada.agallas.perro.cobarde.index.w3u",
+	"info": ""
+	},
+	{
 	"name": "DAVID EL GNOMO",
 	"image": "https://pics.filmaffinity.com/david_el_gnomo-903681745-large.jpg",
 	"url": "https://af1cionados.vercel.app/serie DAVID GNOMO.w3u",
@@ -49,6 +55,12 @@
 	"name": "ERASE UNA VEZ LA VIDA",
 	"image": "https://i.postimg.cc/QtSXsPsR/lavida.png",
 	"url": "https://af1cionados.vercel.app/serie%20ERASE%20UNA%20VEZ%20LA%20VIDA",
+	"info": ""
+	},
+	{
+	"name": "HORA AVENTURAS",
+	"image": "https://pics.filmaffinity.com/adventure_time_come_along_with_me-959122329-large.jpg",
+	"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie.animada.hora.aventuras.index.w3u",
 	"info": ""
 	},
 	{
