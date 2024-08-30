@@ -310,6 +310,13 @@
 		"import": false
 		},
 		{
+		"name": "Boys,The",
+		"image": "https://i.postimg.cc/kg4JZvmQ/00.png",
+		"url": "https://af1c1onados.vercel.app/Series.The.Boys.w3u",
+		"info": "bY. yIsus",
+		"import": false
+		},
+		{
 		"name": "Breaking Bad",
 		"image": "https://i.postimg.cc/pdN6yMCq/00.png",
 		"url": "https://af1c1onados.vercel.app/Series.Breaking.Bad.w3u",
@@ -426,6 +433,13 @@
 		"image": "https://pics.filmaffinity.com/las_chicas_del_cable-235756879-large.jpg",
 		"info": "bY. Adri",
 		"url": "https://af1cionados.vercel.app/serie CHICAS DEL CABLE%2C LAS.w3u",
+		"import": false
+		},
+		{
+		"name": "Chosen, The",
+		"image": "https://i.postimg.cc/7LY7Tbwx/los-elegidos.png",
+		"url": "https://af1c1onados.vercel.app/Series.The.Chosen.w3u",
+		"info": "bY. yIsus",
 		"import": false
 		},
 		{
@@ -2113,20 +2127,6 @@
 		"image": "https://i.postimg.cc/RFNhLmFZ/tokio-sezon-1.png",
 		"info": "bY. yIsus",
 		"url": "https://af1c1onados.vercel.app/Series.Tokyo.Vice.w3u",
-		"import": false
-		},
-		{
-		"name": "The Boys",
-		"image": "https://i.postimg.cc/kg4JZvmQ/00.png",
-		"url": "https://af1c1onados.vercel.app/Series.The.Boys.w3u",
-		"info": "bY. yIsus",
-		"import": false
-		},
-		{
-		"name": "The Chosen",
-		"image": "https://i.postimg.cc/7LY7Tbwx/los-elegidos.png",
-		"url": "https://af1c1onados.vercel.app/Series.The.Chosen.w3u",
-		"info": "bY. yIsus",
 		"import": false
 		},
 		{
