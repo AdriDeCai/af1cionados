@@ -7,6 +7,12 @@
 "groups":
     [
         {
+        "name": "ǤᑌᎥᗩ ᗪᗴᑭᗝᖇ丅Ꭵᐯᗩ",
+        "image": "https://i.postimg.cc/Fsg47J4h/Guia-Deportes.png",
+        "url": "https://af1c1onados.vercel.app/Programacion.Deportiva.json",
+        "import": false
+        },
+        {
         "name": "ᗴᐯᗴᑎ丅ᗝᔕ ᗪᗴᒪ ᗪᎥᗩ",
         "image": "https://i.postimg.cc/TwvMZVSb/PPV-Iive-new.png",
         "url": "https://af1c1onados.vercel.app/10.EVEntOs.dEl.DiA.w3u",
