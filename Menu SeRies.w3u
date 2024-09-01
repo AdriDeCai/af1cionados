@@ -2137,6 +2137,13 @@
 		"import": false
 		},
 		{
+		"name": "TOR",
+		"image": "https://images.justwatch.com/poster/314637714/s718/tor.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.Tor.w3u",
+		"info": "bY. aDri",
+		"import": false
+		},
+		{
 		"name": "Tokyo Vice",
 		"image": "https://i.postimg.cc/RFNhLmFZ/tokio-sezon-1.png",
 		"info": "bY. yIsus",
@@ -2172,7 +2179,7 @@
 		"import": false
 		},
 		{
-		"name": "El Tiempo entre Costuras",
+		"name": "Tiempo entre Costuras",
 		"image": "https://pics.filmaffinity.com/el_tiempo_entre_costuras-341395574-large.jpg",
 		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20TIEMPO%20ENTRE%20COSTURAS.w3u",
 		"info": "bY AdriDeCai",
