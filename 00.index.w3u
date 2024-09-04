@@ -1,7 +1,7 @@
 {
-"name": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"name": "Prueba nuevo index lista",
 "author": "YIᔕᑌᔕ MΣX",
-"image": "https://i.postimg.cc/rwRvTnHY/Rinnegan.png",
+"image": "https://i.postimg.cc/wvk90zNC/Free.jpg",
 "url": "https://af1cionados.vercel.app/00.index.w3u",
 "telegram": "Lista_AF1CIONADOS",
 "info":"Agradecimientos Especiales a                                                                                                    *Lucas*  *Manujaz*  *AdrideCai*",
@@ -16,13 +16,13 @@
         {
         "name": "Android",
         "image": "https://i.postimg.cc/cLFrhQRx/Android.jpg",
-        "url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS/main/af1cionados.w3u",
+        "url": "",
         "import": false
         },
         {
         "name": "iOS Apple",
         "image": "https://i.postimg.cc/bvdyNJd6/logo-Apple.jpg",
-        "url": "https://af1cionados.vercel.app/Af1iPhone.w3u",
+        "url": "",
         "info":"bY. lUCas",
         "import": false
         }
