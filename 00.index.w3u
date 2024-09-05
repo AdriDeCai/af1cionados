@@ -32,6 +32,13 @@
         "url": "https://pastebin.com/UWXsWLF9",
         "info":"",
         "import": false
+        },
+        {
+        "name": "Mi iP",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYGKP_TRC00Mg5FxRcIZ43o0vga9qcD3DQBQ&s",
+        "url": "https://www.cual-es-mi-ip.net/",
+        "info":"",
+        "import": false
         }
     ]
 }
