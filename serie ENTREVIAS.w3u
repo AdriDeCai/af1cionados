@@ -299,7 +299,37 @@
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	}
+	]
+	},
 
+	{
+	"name": "TEMPORADA 4",
+	"info": "2024",
+	"image": "https://i.postimg.cc/s2W84VqV/temporada-4.webp",
+	"stations":
+	[
+	{
+       	"name": "4x01 Episodio",
+        "image": "https://i.postimg.cc/s2W84VqV/temporada-4.webp",
+        "url": "https://filemoon.sx/d/oplytwmcskil/Entrevias_4x01.mp4",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "4x02 Episodio",
+        "image": "",
+        "url": "",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
 	]
 	}
 
