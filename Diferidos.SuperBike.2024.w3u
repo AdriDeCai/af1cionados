@@ -317,52 +317,15 @@
 	},
 
 	{
-	"name": "MANDALIKA (INDONESIA)",
-	"image": "https://i.postimg.cc/2y3ypyDm/02-Motul-Indonesian-Round.png",
-	"imageScale": "",
-	"info":"ROUND 2",
-	"stations":
-		[
-			{
-			"name": "SBK SUPERPOLE RACE",
-			"info":"",
-			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
-			"url": "https://upstream.to/jiccmpjm0xnu",
-			"embed":"",
-            		"isHost":"true",
-            		"online":"true"
-			},
-			{
-			"name": "SSP600 RACE 2",
-			"info":"",
-			"image": "https://i.postimg.cc/Xq8Kn52Z/SBK-Verde.jpg",
-			"url": "https://upstream.to/zo76f44gfc4i",
-			"embed":"",
-            		"isHost":"true",
-            		"online":"true"
-			},
-			{
-			"name": "SBK RACE 2",
-			"info":"",
-			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
-			"url": "https://upstream.to/vcag55s0x4jj",
-			"embed":"",
-            		"isHost":"true",
-            		"online":"true"
-			}	
-		]
-	},	
-
-	{
-	"name": "ENZO E DINO FERRARI DI IMOLA (ITALIA)",
+	"name": "ACERBIS (ITALIA)",
 	"image": "https://i.postimg.cc/63S9YpKD/SBK-Round-10-Italia.png",
 	"imageScale": "",
 	"info":"ROUND 10",
 	"stations":
 		[
 			{
-			"name": "SBK SUPERPOLE RACE",
-			"info":"",
+			"name": "SBK RACE 1",
+			"info":"[20-22 Sept 2024]",
 			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
 			"url": "",
 			"embed":"",
@@ -370,8 +333,8 @@
             		"online":"true"
 			},
 			{
-			"name": "SSP600 RACE 2",
-			"info":"",
+			"name": "SBK SUPERPOLE RACE",
+			"info":"[20-22 Sept 2024]",
 			"image": "https://i.postimg.cc/Xq8Kn52Z/SBK-Verde.jpg",
 			"url": "",
 			"embed":"",
@@ -380,7 +343,7 @@
 			},
 			{
 			"name": "SBK RACE 2",
-			"info":"",
+			"info":"[20-22 Sept 2024]",
 			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
 			"url": "",
 			"embed":"",
@@ -391,15 +354,15 @@
 	},
 
 	{
-	"name": "MOTORLAND ARAGON (ESPAÑA)",
+	"name": "TISSOT ARAGON (ESPAÑA)",
 	"image": "https://i.postimg.cc/WbmnZ9MP/SBK-Round-11-Arag-n.png",
 	"imageScale": "",
 	"info":"ROUND 11",
 	"stations":
 		[
 			{
-			"name": "SBK SUPERPOLE RACE",
-			"info": "",
+			"name": "SBK RACE 1",
+			"info":"[27-29 Sept 2024]",
 			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
 			"url": "",
 			"embed":"",
@@ -407,8 +370,8 @@
             		"online":"true"
 			},
 			{
-			"name": "SSP600 RACE 2",
-			"info": "",
+			"name": "SBK SUPERPOLE RACE",
+			"info":"[27-29 Sept 2024]",
 			"image": "https://i.postimg.cc/Xq8Kn52Z/SBK-Verde.jpg",
 			"url": "",
 			"embed":"",
@@ -417,7 +380,7 @@
 			},
 			{
 			"name": "SBK RACE 2",
-			"info": "",
+			"info":"[27-29 Sept 2024]",
 			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
 			"url": "",
 			"embed":"",
@@ -428,7 +391,44 @@
 	},
 
 	{
-	"name": "JEREZ DE LA FRONTERA (ESPAÑA)",
+	"name": "ESTORIL (PORTUGAL)",
+	"image": "https://i.postimg.cc/SNfGFFMX/SBK-Round-7-Portugal.png",
+	"imageScale": "",
+	"info":"ROUND 11",
+	"stations":
+		[
+			{
+			"name": "SBK RACE 1",
+			"info":"[11-13 Octubre 2024]",
+			"image": "https://i.postimg.cc/SNfGFFMX/SBK-Round-7-Portugal.png",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "SBK SUPERPOLE RACE",
+			"info":"[11-13 Octubre 2024]",
+			"image": "https://i.postimg.cc/SNfGFFMX/SBK-Round-7-Portugal.png",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "SBK RACE 2",
+			"info":"[11-13 Octubre 2024]",
+			"image": "https://i.postimg.cc/SNfGFFMX/SBK-Round-7-Portugal.png",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}	
+		]
+	},
+
+	{
+	"name": "PROMETEON (ESPAÑA)",
 	"image": "https://i.postimg.cc/HnqhLVD4/SBK-Round-12-Spain.png",
 	"imageScale": "",
 	"info":"ROUND 12",
