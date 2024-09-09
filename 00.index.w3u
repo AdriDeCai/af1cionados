@@ -1,5 +1,5 @@
 {
-"name": "Prueba nuevo index lista",
+"name": "index lista",
 "author": "YIᔕᑌᔕ MΣX",
 "image": "https://i.postimg.cc/wvk90zNC/Free.jpg",
 "url": "https://af1cionados.vercel.app/00.index.w3u",
@@ -38,6 +38,7 @@
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYGKP_TRC00Mg5FxRcIZ43o0vga9qcD3DQBQ&s",
         "url": "https://www.cual-es-mi-ip.net/",
         "info":"",
+        "embed": "true",
         "import": false
         }
     ]
