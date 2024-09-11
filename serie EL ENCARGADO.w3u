@@ -224,6 +224,92 @@
         	"import": false
 		}
 		]
+	},
+
+	{
+	"name": "TEMPORADA 3",
+	"image": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
+	"info": "",
+	"stations":
+		[
+	       {
+ 	       	"name": "3x01 La Convención",
+	        "image": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
+	        "url": "",
+        	"info": "",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "3x02 Soluciones integrales Basurto",
+	        "image": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
+	        "url": "",
+        	"info": "",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "3x03 Y bueh...",
+	        "image": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
+	        "url": "",
+        	"info": "",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "3x04 Otra oportunidad",
+	        "image": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
+	        "url": "",
+        	"info": "",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "3x05 Un beso en los labios",
+	        "image": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
+	        "url": "",
+        	"info": "",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "3x06 TBA",
+	        "image": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
+	        "url": "",
+        	"info": "",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "3x07 TBA",
+	        "image": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
+	        "url": "",
+        	"info": "",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+		}
+		]
 	}
 
 
