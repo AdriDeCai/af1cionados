@@ -604,6 +604,13 @@
 		"import": false
 		},
 		{
+		"name": "Desde el Mañana",
+		"url": "https://af1c1onados.vercel.app/",
+		"image": "https://pics.filmaffinity.com/desde_el_manana-937990695-large.jpg",
+		"info": "bY. yIsus",
+		"import": false
+		},
+		{
 		"name": "Deudas",
 		"image": "https://pics.filmaffinity.com/deudas-619671478-large.jpg",
 		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20DEUDAS.w3u",
@@ -675,9 +682,16 @@
 		},
 		{
 		"name": "Dr. House MD",
+		"url": "https://af1c1onados.vercel.app/Series.Dr.House.w3u",
 		"image": "https://i.postimg.cc/k4kbF9zc/house.png",
 		"info": "bY. yIsus",
-		"url": "https://af1c1onados.vercel.app/Series.Dr.House.w3u",
+		"import": false
+		},
+		{
+		"name": "Echo",
+		"url": "https://af1c1onados.vercel.app/Series.Echo.w3u",
+		"image": "https://pics.filmaffinity.com/echo-145714260-large.jpg",
+		"info": "bY. yIsus",
 		"import": false
 		},
 		{
