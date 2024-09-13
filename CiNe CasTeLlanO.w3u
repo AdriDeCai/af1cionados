@@ -84,6 +84,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "1898 LOS ULTIMOS DE FILIPINAS",
+        "info": "[2016][Español]",
+        "image": "https://pics.filmaffinity.com/1898_los_ultimos_de_filipinas-735303912-large.jpg",
+        "url": "https://filemoon.sx/d/fzqe0q9f7l4s/Los_ultimos_Filipinas_1898_Pelicula.mp4",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "20.000 ESPECIES DE ABEJAS",
       "info": "2023",
