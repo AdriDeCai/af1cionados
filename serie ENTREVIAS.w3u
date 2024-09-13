@@ -321,6 +321,17 @@
        	},
 	{
        	"name": "4x02 Episodio",
+        "image": "https://i.postimg.cc/s2W84VqV/temporada-4.webp",
+        "url": "https://filemoon.sx/d/wqfvhcbgwlyc",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "4x03 Episodio",
         "image": "",
         "url": "",
        	"info": "2024",
