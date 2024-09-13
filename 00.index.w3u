@@ -8,12 +8,6 @@
 "groups":
     [
         {
-        "name": "ǤᑌᎥᗩ ᗪᗴᑭᗝᖇ丅Ꭵᐯᗩ",
-        "image": "https://i.postimg.cc/Fsg47J4h/Guia-Deportes.png",
-        "url": "https://af1c1onados.vercel.app/Programacion.Deportiva.json",
-        "import": false
-        },
-        {
         "name": "Android",
         "image": "https://i.postimg.cc/cLFrhQRx/Android.jpg",
         "url": "https://af1cionados.vercel.app/01.index.Android.w3u",
@@ -24,21 +18,6 @@
         "image": "https://i.postimg.cc/bvdyNJd6/logo-Apple.jpg",
         "url": "https://af1cionados.vercel.app/02.index.iOS.w3u",
         "info":"bY. lUCas",
-        "import": false
-        },
-        {
-        "name": "丅 ᗪ 丅",
-        "image": "https://i.postimg.cc/W317y4K7/TDT.png",
-        "url": "https://pastebin.com/UWXsWLF9",
-        "info":"",
-        "import": false
-        },
-        {
-        "name": "Mi iP",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYGKP_TRC00Mg5FxRcIZ43o0vga9qcD3DQBQ&s",
-        "url": "https://www.cual-es-mi-ip.net/",
-        "info":"",
-        "embed": "true",
         "import": false
         }
     ]
