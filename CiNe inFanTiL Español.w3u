@@ -884,11 +884,20 @@
         "online":"true"
 	},
 	{ 
+	"name": "LUCA",
+        "info":"2021",
+	"image": "https://pics.filmaffinity.com/luca-907827591-large.jpg", 
+	"url": "https://filemoon.sx/d/mt17kc4jrm0k/Luca_2021_Pelicula_Infantil.mp4", 
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+	},
+	{ 
 	"name": "LUCK",
         "info":"2022",
 	"image": "https://pics.filmaffinity.com/lucky_hank-204921043-large.jpg", 
 	"url": "https://uqload.com/hzmr6nvihvbu.html", 
-        "embed":"",
+        "embed":"true",
         "isHost":"true",
         "online":"true"
 	},
