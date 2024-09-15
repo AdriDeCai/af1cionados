@@ -229,8 +229,8 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-    {
-      "name": "Algea God of Pain",
+      {
+      "name": "ALGEA GOD OF PAIN",
       "image": "https://i.postimg.cc/GtNnVsQX/Algea-God-of-pain.jpg",
       "url": "https://filemoon.sx/d/tkwj499f2ssq",
       "info": "2023",
@@ -240,6 +240,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "ALGUNOS HOMBRES BUENOS",
+        "info": "[1992][Español]",
+        "image": "https://pics.filmaffinity.com/a_few_good_men-646229005-large.jpg",
+        "url": "https://filemoon.sx/d/rvqlzx0j4edm/Algunos_hombres_buenos__1992_Pelicula_.mp4",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "ALLELUHAH",
       "image": "https://pics.filmaffinity.com/allelujah-754219144-large.jpg",
@@ -1336,6 +1345,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "DOMINGO CUALQUIERA, UN",
+        "info": "[1999][Español]",
+        "image": "https://pics.filmaffinity.com/any_given_sunday-662031456-large.jpg",
+        "url": "https://filemoon.sx/d/5q78ee46hbdm/Domingo_cualquiera__1999_Pelicula_.mp4",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "DOWN LOW",
       "image": "https://pics.filmaffinity.com/down_low-745663140-large.jpg",
@@ -1995,6 +2013,15 @@
       "online": "true",
       "import": false
     },
+        {
+        "name": "INMORTALES. LOS",
+        "info": "[1986][Español]",
+        "image": "https://pics.filmaffinity.com/highlander-639407404-large.jpg",
+        "url": "https://filemoon.sx/d/8jq4tm5xz47r/Ver_Inmortales__1986_Pelicula__esp_dvdrip_mkv.mp4",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "INSIDIOUS, LA PUERTA ROJA",
       "image": "https://i.postimg.cc/3w67NLxL/Insidious,_La_puerta_roja_(2023)(Pelicula).jpg",
@@ -2626,6 +2653,15 @@
       "online": "true",
       "import": false
     },
+        {
+        "name": "MESITA DEL COMEDOR, LA",
+        "info": "[2022][Español]",
+        "image": "https://pics.filmaffinity.com/la_mesita_del_comedor-401694950-large.jpg",
+        "url": "https://filemoon.sx/d/7ibzwwjb1z2a",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "MI CRIMEN",
       "image": "https://i.postimg.cc/sDSJN1W1/Mi_crimen_(2023)(Pelicula).jpg",
