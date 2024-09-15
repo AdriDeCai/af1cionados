@@ -688,6 +688,15 @@
       "online": "true"
     },
     {
+      "name": "Boxeador",
+      "info": "[2024][Español]",
+      "image": "https://pics.filmaffinity.com/bokser-490785284-large.jpg",
+      "url": "https://filemoon.sx/d/94x1n4ch3e5r",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
       "name": "BRUMA, LA",
       "info": "2018",
       "image": "https://i.postimg.cc/GhVDxqY5/La-Bruma-2018-Pelicula.jpg",
@@ -1415,6 +1424,15 @@
       "online": "true"
     },
     {
+      "name": "El Funeral",
+      "info": "[2023][Español]",
+      "image": "https://pics.filmaffinity.com/The_Funeral-924535808-large.jpg",
+      "url": "https://filemoon.sx/d/leuuywv7hvrm",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
       "name": "EN TEMPORADA BAJA",
       "info": "2022",
       "image": "https://i.postimg.cc/pTBQ8Hs8/En-temporada-baja-HDRip-2022-Pelicula.jpg",
@@ -1870,6 +1888,15 @@
       "online": "true"
     },
     {
+      "name": "Hit Man: Asesino por casualidad",
+      "info": "[2023][Español]",
+      "image": "https://pics.filmaffinity.com/hit_man-846757571-large.jpg",
+      "url": "https://filemoon.sx/d/oofs7pennsv2",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
       "name": "HOLY SPIDER",
       "info": "2022",
       "image": "https://i.postimg.cc/fTQDtGCp/Holy-Spider-2022-Pelicula.jpg",
@@ -2196,6 +2223,33 @@
     "import": false
     },
     {
+     "name": "La Liberacion",
+     "info": "[2024][Español]",
+     "image": "https://pics.filmaffinity.com/La_liberaciaon-199592217-large.jpg",
+     "url": "https://filemoon.sx/d/0oeswmwgjyry",
+     "isHost": "true",
+     "online": "true",
+     "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
+      "name": "La Otra Cara de la Luna",
+      "info": "[2024][Español]",
+      "image": "https://pics.filmaffinity.com/fly_me_to_the_moon-279859131-large.jpg",
+      "url": "https://filemoon.sx/d/zm92ewuspacz",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
+     "name": "La Reina del Convento",
+     "info": "[2024][Español]",
+     "image": "https://pics.filmaffinity.com/La_reina_del_convento-845921689-large.jpg",
+     "url": "https://filemoon.sx/d/oeqmqtxz78z3",
+     "isHost": "true",
+     "online": "true",
+     "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
       "name": "LEON POR UN DIA",
       "image": "https://i.postimg.cc/tCPbQVXL/Leon-por-un-dia-2023-Pelicula.jpg",
       "url": "https://upstream.to/ujzskrk4395c",
@@ -2266,6 +2320,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+    {
+      "name": "Los Vigilantes",
+      "info": "[2024][Español]",
+      "image": "https://pics.filmaffinity.com/the_watchers-599911256-large.jpg",
+      "url": "https://filemoon.sx/d/amcan2ie69ai",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+     },
     {
       "name": "LOVE AGAIN",
       "info": "2023",
@@ -2741,6 +2804,15 @@
       "import": false
     },
     {
+      "name": "Nefarious, cuando habla el diablo",
+      "info": "[2023][Español]",
+      "image": "https://pics.filmaffinity.com/nefarious-652173351-large.jpg",
+      "url": "https://filemoon.sx/d/0mdo8x24ji1u",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
       "name": "NEGOCIO DEL DOLOR, EL",
       "image": "https://pics.filmaffinity.com/pain_hustlers-140078745-large.jpg",
       "url": "https://upstream.to/hqzrh2g9insf",
@@ -2938,14 +3010,13 @@
       "import": false
     },
     {
-      "name": "OPPENHEIMER",
-      "image": "https://i.postimg.cc/MGCMgTX6/Oppenheimer-2023-Pelicula.jpg",
-      "url": "https://filemoon.sx/d/1k55xsw9nvg1/Oppenheimer__2023_Pelicula_.mp4",
-      "info": "2023",
-      "embed": "",
+      "name": "Oppenheimer",
+      "info": "[2023][Español]",
+      "image": "https://es.web.img3.acsta.net/pictures/23/05/25/13/41/1835431.jpg",
+      "url": "https://filemoon.sx/d/n26qxt2m536v",
       "isHost": "true",
       "online": "true",
-      "import": false
+      "userAgent": "PlusMediaPlayer/0.0.9"
     },
     {
       "name": "ORIGEN DEL MAL, EL",
