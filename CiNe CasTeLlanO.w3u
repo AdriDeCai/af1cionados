@@ -1933,7 +1933,7 @@
       "online": "true"
     },
     {
-      "name": "Hit Man: Asesino por casualidad",
+      "name": "HIT MAN, ASESINO POR CASUALIDAD",
       "info": "[2023][Español]",
       "image": "https://pics.filmaffinity.com/hit_man-846757571-large.jpg",
       "url": "https://filemoon.sx/d/oofs7pennsv2",
@@ -2055,6 +2055,17 @@
       "image": "https://pics.filmaffinity.com/bs_high-641395991-large.jpg",
       "url": "https://upstream.to/cpmwysgocnmq",
       "info": "2023",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "INTERSTELLAR",
+      "image": "https://pics.filmaffinity.com/interstellar-366875261-large.jpg",
+      "url": "https://filemoon.sx/d/suhtbl3oxuvj/Interestellar_2016_Pelicula.mp4",
+      "info": "2014",
       "embed": "",
       "isHost": "true",
       "online": "true",
@@ -2384,7 +2395,7 @@
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
     {
-      "name": "Longlegs",
+      "name": "LONGLEGS",
       "info": "[2024][Español]",
       "image": "https://pics.filmaffinity.com/Longlegs-983258407-large.jpg",
       "url": "https://filemoon.sx/d/05pv2wl6fv54",
@@ -2876,7 +2887,7 @@
       "import": false
     },
     {
-      "name": "Nefarious, cuando habla el diablo",
+      "name": "NEFARIOUS, CUANDO HABLA EL DIABLO",
       "info": "[2023][Español]",
       "image": "https://pics.filmaffinity.com/nefarious-652173351-large.jpg",
       "url": "https://filemoon.sx/d/0mdo8x24ji1u",
@@ -2941,6 +2952,17 @@
       "image": "https://pics.filmaffinity.com/bed_rest-683114702-large.jpg",
       "url": "https://upstream.to/hirnctef9jpv",
       "info": "2022",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "NO MIRES ARRIBA",
+      "image": "https://pics.filmaffinity.com/don_t_look_up-492729563-large.jpg",
+      "url": "https://filemoon.sx/d/3kv6g9kkmcgl/No_mires_arriba_2021_Pelicula.mp4",
+      "info": "2021",
       "embed": "",
       "isHost": "true",
       "online": "true",
@@ -3022,6 +3044,17 @@
       "import": false
     },
     {
+      "name": "OKJA",
+      "image": "https://pics.filmaffinity.com/okja-902722161-large.jpg",
+      "url": "https://filemoon.sx/d/ns8cvfqsls0u/0kj4_2017_Pelicula.mp4",
+      "info": "2017",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
       "name": "ONE TRUE LOVES",
       "image": "https://pics.filmaffinity.com/one_true_loves-752437388-large.jpg",
       "url": "https://upstream.to/jixbtuiptpkr",
@@ -3082,7 +3115,7 @@
       "import": false
     },
     {
-      "name": "Oppenheimer",
+      "name": "OPPENHEIMER",
       "info": "[2023][Español]",
       "image": "https://es.web.img3.acsta.net/pictures/23/05/25/13/41/1835431.jpg",
       "url": "https://filemoon.sx/d/n26qxt2m536v",
@@ -3242,6 +3275,15 @@
       "isHost": "true",
       "online": "true",
       "import": false
+    },
+    {
+      "name": "PIEL QUE HABITO, LA",
+      "image": "https://pics.filmaffinity.com/la_piel_que_habito-288333714-large.jpg",
+      "url": "https://filemoon.sx/d/kivez4f8tzm2/Piel_que_habito__La_2011_Pelicula.mp4",
+      "info": "2011",
+      "userAgent": "",
+      "isHost": "true",
+      "online": "true"
     },
     {
       "name": "PILOTO, EL",
