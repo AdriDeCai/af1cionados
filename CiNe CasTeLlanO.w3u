@@ -797,6 +797,17 @@
       "import": false
     },
     {
+      "name": "CAMINO",
+      "image": "https://pics.filmaffinity.com/camino-996322995-large.jpg",
+      "url": "https://filemoon.sx/d/1vmne33aaghx/Camino_2008_Pelicula.mp4",
+      "info": "2008",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
       "name": "CAMINO A LA PERDICIÓN",
       "image": "https://pics.filmaffinity.com/road_to_perdition-545895668-large.jpg",
       "url": "https://upstream.to/6lpe92r0rd9u",
@@ -1469,7 +1480,7 @@
       "online": "true"
     },
     {
-      "name": "El Funeral",
+      "name": "EL FUNERAL",
       "info": "[2023][Español]",
       "image": "https://pics.filmaffinity.com/The_Funeral-924535808-large.jpg",
       "url": "https://filemoon.sx/d/leuuywv7hvrm",
@@ -1925,6 +1936,15 @@
       "online": "true"
     },
     {
+      "name": "HIJOS DE LOS HOMBRES",
+      "info": "2006",
+      "image": "https://pics.filmaffinity.com/children_of_men-423341707-large.jpg",
+      "url": "https://filemoon.sx/d/l6rrrfzh0pe8/Hijos_de_los_hombres_2006_Pelicula.mp4",
+      "embed": "",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
       "name": "HIPSTER EN LA ESPAÑA VACIA, UN",
       "info": "2024",
       "image": "https://pics.filmaffinity.com/un_hipster_en_la_espana_vacia-557976310-large.jpg",
@@ -2051,6 +2071,16 @@
         "userAgent": "PlusMediaPlayer/0.0.9"
         },
     {
+      "name": "INOCENCIA INTERRUMPIDA",
+      "image": "https://pics.filmaffinity.com/girl_interrupted-423867996-large.jpg",
+      "url": "https://filemoon.sx/d/t0c0fk38v4op/Inocencia_Interrumpida_1999_Pelicula.mp4",
+      "info": "1999",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
       "name": "INSIDIOUS, LA PUERTA ROJA",
       "image": "https://i.postimg.cc/3w67NLxL/Insidious,_La_puerta_roja_(2023)(Pelicula).jpg",
       "url": "https://filemoon.sx/d/uersbdgjnvri/Insidious_the_red_door__2023_Pelicula_.mp4",
@@ -2124,6 +2154,15 @@
       "info": "2010",
       "image": "https://pics.filmaffinity.com/iron_man_2-466103197-large.jpg",
       "url": "https://upstream.to/suz7fm4i9cnq",
+      "userAgent": "",
+      "online": "true",
+      "isHost": "true"
+    },
+    {
+      "name": "ISLA DE PERROS",
+      "info": "2018",
+      "image": "https://pics.filmaffinity.com/isle_of_dogs-327002857-large.jpg",
+      "url": "https://filemoon.sx/d/a4ufxwgqxp65/Isla_de_perros_2018_Pelicula.mp4",
       "userAgent": "",
       "online": "true",
       "isHost": "true"
@@ -2269,6 +2308,17 @@
       "image": "https://pics.filmaffinity.com/voleuses-186647442-large.jpg",
       "url": "",
       "info": "2023",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "LAMB",
+      "image": "https://pics.filmaffinity.com/lamb-172164023-large.jpg",
+      "url": "https://filemoon.sx/d/5kfrsm6266xi/Lamb_2021_Pelicula.mp4",
+      "info": "2021",
       "embed": "",
       "isHost": "true",
       "online": "true",
@@ -3277,6 +3327,16 @@
       "import": false
     },
     {
+      "name": "PEQUEÑA MISS SUNSHINE",
+      "image": "https://pics.filmaffinity.com/little_miss_sunshine-534650278-large.jpg",
+      "url": "https://filemoon.sx/d/hrdtqjo2sh0w/Peque_a_Miss_Sunshine_2006_Pelicula.mp4",
+      "info": "2006",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
       "name": "PESO DE LA DUDA, EL",
       "image": "https://i.postimg.cc/vHgGKyM5/Peso-de-la-duda-El-2022-Pelicula.png",
       "url": "https://upstream.to/ogrll7l1lv4x",
@@ -3381,6 +3441,17 @@
       "import": false
     },
     {
+      "name": "QUO VADIS, AIDA",
+      "image": "https://pics.filmaffinity.com/quo_vadis_aida-722475590-large.jpg",
+      "url": "https://filemoon.sx/d/skpv93qz66p2/Quo_Vadis_Aida_2021_Pelicula.mp4",
+      "info": "2021",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
       "name": "RED SOCIAL",
       "image": "https://pics.filmaffinity.com/the_social_network-421032493-large.jpg",
       "url": "https://embedv.net/v/P0poO101Ly1Ez17",
@@ -3427,6 +3498,15 @@
       "image": "https://i.postimg.cc/GpjqKLDH/Renfield-DVD-BR-Screener-2023-Pelicula.jpg",
       "url": "https://upstream.to/tuhlzl1da1mg",
       "info": "2023",
+      "userAgent": "",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
+      "name": "REQUIEM POR UN SUEÑO",
+      "image": "https://pics.filmaffinity.com/requiem_for_a_dream-174867645-large.jpg",
+      "url": "https://filemoon.sx/d/zv37ht3m0j8c/Requiem_por_un_sue_o_2000_Pelicula.mp4",
+      "info": "2000",
       "userAgent": "",
       "isHost": "true",
       "online": "true"
