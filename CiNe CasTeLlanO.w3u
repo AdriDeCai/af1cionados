@@ -230,6 +230,17 @@
       "import": false
     },
     {
+      "name": "Algea God of Pain",
+      "image": "https://i.postimg.cc/GtNnVsQX/Algea-God-of-pain.jpg",
+      "url": "https://filemoon.sx/d/tkwj499f2ssq",
+      "info": "2023",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
       "name": "ALLELUHAH",
       "image": "https://pics.filmaffinity.com/allelujah-754219144-large.jpg",
       "url": "https://upstream.to/4f816qz9xwxy",
@@ -3310,6 +3321,15 @@
       "image": "https://i.postimg.cc/GpjqKLDH/Renfield-DVD-BR-Screener-2023-Pelicula.jpg",
       "url": "https://upstream.to/tuhlzl1da1mg",
       "info": "2023",
+      "userAgent": "",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
+      "name": "RESPIRA",
+      "image": "https://pics.filmaffinity.com/Respira-611213507-large.jpg",
+      "url": "https://filemoon.sx/d/6559d2x4ikrq",
+      "info": "2024",
       "userAgent": "",
       "isHost": "true",
       "online": "true"
