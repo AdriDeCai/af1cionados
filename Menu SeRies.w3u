@@ -464,6 +464,13 @@
 		"import": false
 		},
 		{
+    		"name": "Chucky",
+    		"url": "https://af1c1onados.vercel.app/Series.Chucky.w3u",
+    		"image": "https://pics.filmaffinity.com/chucky-209085492-large.jpg",
+		"info": "bY. yIsus",
+		"import": false
+		},
+		{
 		"name": "Cicatriz",
 		"image": "https://pics.filmaffinity.com/cicatriz-345401313-large.jpg",
 		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie CICATRIZ.w3u",
