@@ -241,6 +241,15 @@
       "import": false
     },
         {
+        "name": "ALGO PASA CON MARY",
+        "info": "[1998][Español]",
+        "image": "https://pics.filmaffinity.com/there_s_something_about_mary-465333352-large.jpg",
+        "url": "https://filemoon.sx/d/r6yuql63pt3b/Algo_pasa_con_Mary__1998_Pelicula__esp_1080p_mp4.mp4",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
         "name": "ALGUNOS HOMBRES BUENOS",
         "info": "[1992][Español]",
         "image": "https://pics.filmaffinity.com/a_few_good_men-646229005-large.jpg",
@@ -636,6 +645,15 @@
       "isHost": "true",
       "online": "true"
     },
+        {
+        "name": "BITELCHUS",
+        "info": "[1988][Español]",
+        "image": "https://pics.filmaffinity.com/beetlejuice-194191930-large.jpg",
+        "url": "https://filemoon.sx/d/bbbwrmiauhco/Bitelchus__1988_Pelicula__esp_bluray_1080p_mkv.mp4",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "BLACK FRIDAY",
       "image": "https://i.postimg.cc/hGdnqFJS/Black-Friday-2023-Pelicula.jpg",
