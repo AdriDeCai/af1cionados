@@ -2358,7 +2358,7 @@
       "import": false
     },
     {
-      "name": "La Liberacion",
+      "name": "LA LIBERACION",
       "info": "[2024][Español]",
       "image": "https://pics.filmaffinity.com/La_liberaciaon-199592217-large.jpg",
       "url": "https://filemoon.sx/d/0oeswmwgjyry",
@@ -2460,6 +2460,15 @@
       "info": "[2024][Español]",
       "image": "https://pics.filmaffinity.com/the_watchers-599911256-large.jpg",
       "url": "https://filemoon.sx/d/amcan2ie69ai",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
+      "name": "LOCK and STOCK",
+      "info": "[1998][Español]",
+      "image": "https://pics.filmaffinity.com/lock_stock_and_two_smoking_barrels-536698978-large.jpg",
+      "url": "https://filemoon.sx/d/0lc6pdfe0kr6",
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
