@@ -2396,6 +2396,17 @@
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
     {
+      "name": "LEJOS DEL CIELO",
+      "image": "https://pics.filmaffinity.com/far_from_heaven-171600081-large.jpg",
+      "url": "",
+      "info": "[2002][Español]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
       "name": "LEON POR UN DIA",
       "image": "https://i.postimg.cc/tCPbQVXL/Leon-por-un-dia-2023-Pelicula.jpg",
       "url": "https://upstream.to/ujzskrk4395c",
