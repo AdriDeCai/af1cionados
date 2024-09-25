@@ -37,6 +37,13 @@
 		"import": false
 		},
 		{
+		"name": "Absentia",
+		"image": "https://pics.filmaffinity.com/absentia-847229464-large.jpg",
+		"url": "https://series-af1cionados.vercel.app/serie%20ABSENTIA.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
 		"name": "Agencia Lockwood",
 		"image": "https://pics.filmaffinity.com/lockwood_co-903524341-large.jpg",
 		"info": "bY. Adri",
@@ -2067,6 +2074,13 @@
 		"image": "https://pics.filmaffinity.com/servant-383025291-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie SERVANT.w3u",
 		"info": "bY. Adri",
+		"import": false
+		},
+		{
+		"name": "Severance (Separacion)",
+		"image": "https://pics.filmaffinity.com/severance-173208648-large.jpg",
+		"url": "https://series-af1cionados.vercel.app/serie%20SEVERANCE.w3u",
+		"info": "bY AdriDeCai",
 		"import": false
 		},
 		{
