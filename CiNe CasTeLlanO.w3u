@@ -1834,6 +1834,15 @@
       "online": "true"
     },
     {
+      "name": "GUARDIAN INVISIBLE",
+      "info": "2017",
+      "image": "https://pics.filmaffinity.com/El_guardiaan_invisible-726992780-large.jpg",
+      "url": "https://filemoon.sx/d/wunbvzp9calw",
+      "embed": "",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
       "name": "GRAN EQUIPO, UN",
       "image": "https://pics.filmaffinity.com/wochenendrebellen-295759657-large.jpg",
       "url": "https://filemoon.sx/d/rgbmy355if9i/Un_gran_equipo__2023_Pelicula_.mkv",
@@ -2387,13 +2396,24 @@
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
     {
-      "name": "La REINA DEL CONVENTO",
+      "name": "LA REINA DEL CONVENTO",
       "info": "[2024][Español]",
       "image": "https://pics.filmaffinity.com/La_reina_del_convento-845921689-large.jpg",
       "url": "https://filemoon.sx/d/oeqmqtxz78z3",
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
+      "name": "LEGADO EN LOS HUESOS",
+      "image": "https://pics.filmaffinity.com/Legado_en_los_huesos-614158704-large.jpg",
+      "url": "https://filemoon.sx/d/2so44ynjtoe6",
+      "info": "[2019][Español]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
     },
     {
       "name": "LEJOS DEL CIELO",
@@ -3138,6 +3158,17 @@
       "image": "https://pics.filmaffinity.com/objective_burma-188518820-large.jpg",
       "url": "https://upstream.to/l20b53q4jtv3",
       "info": "1945",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "OFRENDA A LA TORMENTA",
+      "image": "https://pics.filmaffinity.com/Ofrenda_a_la_tormenta-322757933-large.jpg",
+      "url": "https://filemoon.sx/d/vr378u7e3xk0",
+      "info": "[2020][ESPAÑOL]",
       "embed": "",
       "isHost": "true",
       "online": "true",
