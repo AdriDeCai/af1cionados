@@ -1277,7 +1277,7 @@
     {
       "name": "DEADPOOL and LOBEZNO",
       "image": "https://pics.filmaffinity.com/deadpool_wolverine-864471588-large.jpg",
-      "url": "https://filemoon.sx/d/kew0qmto46o5",
+      "url": "https://filemoon.sx/d/kv8y8nh4snzb",
       "info": "[2024][Español]",
       "embed": "",
       "isHost": "true",
@@ -1687,6 +1687,15 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
+    },
+    {
+      "name": "FARO",
+      "image": "https://pics.filmaffinity.com/faro-213593399-mmed.jpg",
+      "url": "https://filemoon.sx/d/jfvqlajnsvyt",
+      "info": "[Español][2024]",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
     },
     {
       "name": "FATUM",
@@ -2374,6 +2383,17 @@
       "import": false
     },
     {
+      "name": "KEPLER SEXTO B",
+      "image": "https://pics.filmaffinity.com/kepler_sexto_b-844010377-large.jpg",
+      "url": "https://upstream.to/wdl9qbp9eb5v",
+      "info": "2023",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
       "name": "KITCHEN, THE",
       "image": "https://pics.filmaffinity.com/the_kitchen-675001481-large.jpg",
       "url": "https://upstream.to/w61byt4ryd3e",
@@ -2635,17 +2655,6 @@
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
     {
-      "name": "KEPLER SEXTO B",
-      "image": "https://pics.filmaffinity.com/kepler_sexto_b-844010377-large.jpg",
-      "url": "https://upstream.to/wdl9qbp9eb5v",
-      "info": "2023",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
       "name": "MACHINE, THE",
       "info": "2023",
       "image": "https://i.postimg.cc/hGyX5HtY/Machine-The-HDRip-2023-Pelicula.jpg",
@@ -2806,6 +2815,15 @@
       "image": "https://pics.filmaffinity.com/mary_poppins-798780385-large.jpg",
       "url": "https://filemoon.sx/d/9bam9t7a6s9a/Mary_Poppins__1964_Pelicula_.mp4",
       "info": "[Español] [1964]",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
+      "name": "MASCOTAS EN APUROS",
+      "image": "https://pics.filmaffinity.com/gracie_and_pedro_pets_to_the_rescue-909786605-mmed.jpg",
+      "url": "https://filemoon.sx/d/3p5ojzaw0qt5",
+      "info": "[Español][2024]",
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
@@ -3806,6 +3824,15 @@
       "isHost": "true",
       "online": "true",
       "import": false
+    },
+    {
+      "name": "THE WASP",
+      "image": "https://pics.filmaffinity.com/the_wasp-485747197-mmed.jpg",
+      "url": "https://filemoon.sx/d/c90s6u2kz4ss",
+      "info": "[Español][2024]",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
     },
     {
       "name": "SABOR DE LAS COSAS SIMPLES, EL",
