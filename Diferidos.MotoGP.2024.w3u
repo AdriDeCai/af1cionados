@@ -778,17 +778,17 @@
 	},
 
 	{
-	"name": "BUDHH INTERNATIONAL CIRCUIT (INDIA)",
-	"image": "https://i.postimg.cc/PqjNd7FR/Bandera_India.jpg",
+	"name": "MOBILITY RESORT MOTEGI (JAPON)",
+	"image": "https://i.postimg.cc/7LGTmRQs/Bandera_Japon.jpg",
 	"imageScale": "",
-	"info":"ROUND 16",
+	"info":"ROUND 18",
 	"stations":
 		[
 			{
 			"name": "Sprint MotoGP",
-			"info":"",
+			"info":"[idioma ruso]",
 			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
-			"url": "",
+			"url": "https://listeamed.net/v/P0poO1Bj0Yk5z17",
 			"embed":"",
             		"isHost":"true",
             		"online":"true"
@@ -824,10 +824,10 @@
 	},
 
 	{
-	"name": "MOBILITY RESORT MOTEGI (JAPON)",
-	"image": "https://i.postimg.cc/7LGTmRQs/Bandera_Japon.jpg",
+	"name": "BUDHH INTERNATIONAL CIRCUIT (INDIA)",
+	"image": "https://i.postimg.cc/PqjNd7FR/Bandera_India.jpg",
 	"imageScale": "",
-	"info":"ROUND 18",
+	"info":"ROUND 16",
 	"stations":
 		[
 			{
