@@ -803,6 +803,15 @@
             		"online":"true"
 			},
 			{
+			"name": "Sprint MotoGP",
+			"info":"[idioma castellano español]",
+			"image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+			"url": "https://filemoon.sx/d/afp7xkighour",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
 			"name": "Carrera Moto3",
 			"info":"",
 			"image": "https://i.postimg.cc/0NVcSYXZ/Logo-Moto3.jpg",
