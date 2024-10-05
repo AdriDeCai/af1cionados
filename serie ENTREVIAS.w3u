@@ -351,6 +351,17 @@
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
+       	},
+	{
+       	"name": "4x05 Episodio",
+        "image": "https://i.postimg.cc/s2W84VqV/temporada-4.webp",
+        "url": "https://filemoon.sx/d/1oukywdk4bzs/Entrevias_4x05.mp4",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
        	}
 	]
 	}
