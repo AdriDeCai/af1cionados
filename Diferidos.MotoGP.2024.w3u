@@ -766,25 +766,7 @@
       [
         {
           "name": "Sprint MotoGP",
-          "info": "[idioma ruso]",
-          "image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
-          "url": "https://listeamed.net/v/P0poO1Bj0Yk5z17",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
-          "online": "true"
-        },
-        {
-          "name": "Sprint MotoGP",
-          "info": "[idioma ingles]",
-          "image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
-          "url": "https://listeamed.net/v/qA3WOmMjGXNOKkz",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
-          "online": "true"
-        },
-        {
-          "name": "Sprint MotoGP",
-          "info": "[idioma castellano español]",
+          "info": "[español]",
           "image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
           "url": "https://filemoon.sx/d/afp7xkighour",
           "userAgent": "PlusMediaPlayer/0.0.9",
@@ -795,7 +777,7 @@
           "name": "Carrera Moto3",
           "info": "",
           "image": "https://i.postimg.cc/0NVcSYXZ/Logo-Moto3.jpg",
-          "url": "",
+          "url": "https://listeamed.net/v/VqbX53BPlgdOQzp",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
           "online": "true"
@@ -804,7 +786,7 @@
           "name": "Carrera Moto2",
           "info": "",
           "image": "https://i.postimg.cc/wB10hyKp/Logo-Moto2.jpg",
-          "url": "",
+          "url": "https://listeamed.net/v/P0poO1Bjgmd5z17",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
           "online": "true"
