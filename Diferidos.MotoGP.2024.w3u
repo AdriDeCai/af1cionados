@@ -802,51 +802,7 @@
         }
       ]
     },
-    {
-      "name": "BUDHH INTERNATIONAL CIRCUIT (INDIA)",
-      "image": "https://i.postimg.cc/PqjNd7FR/Bandera_India.jpg",
-      "imageScale": "",
-      "info": "ROUND 16",
-      "stations": 
-      [
-        {
-          "name": "Sprint MotoGP",
-          "info": "",
-          "image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
-          "url": "",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
-          "online": "true"
-        },
-        {
-          "name": "Carrera Moto3",
-          "info": "",
-          "image": "https://i.postimg.cc/0NVcSYXZ/Logo-Moto3.jpg",
-          "url": "",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
-          "online": "true"
-        },
-        {
-          "name": "Carrera Moto2",
-          "info": "",
-          "image": "https://i.postimg.cc/wB10hyKp/Logo-Moto2.jpg",
-          "url": "",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
-          "online": "true"
-        },
-        {
-          "name": "Carrera MotoGP",
-          "info": "",
-          "image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
-          "url": "",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
-          "online": "true"
-        }
-      ]
-    },
+
     {
       "name": "PHILLIP ISLAND (AUSTRALIA)",
       "image": "https://i.postimg.cc/5t78QbxV/Bandera-Australia.jpg",
@@ -892,6 +848,7 @@
         }
       ]
     },
+
     {
       "name": "CHANG INTERNATIONAL CIRCUIT (TAILANDIA)",
       "image": "https://i.postimg.cc/vBmW9d1c/Bandera_Tailandia.jpg",
@@ -937,6 +894,7 @@
         }
       ]
     },
+
     {
       "name": "SEPANG INTERNATIONAL CIRCUIT (MALASIA)",
       "image": "https://i.postimg.cc/pTmVN0hm/Bandera_Malasia.jpg",
@@ -982,6 +940,7 @@
         }
       ]
     },
+
     {
       "name": " CIRCUITO RICARDO TORMO (ESPAÑA)",
       "image": "https://i.postimg.cc/CMRGwBsV/Bandera_Comunitat_Valenciana.jpg",
