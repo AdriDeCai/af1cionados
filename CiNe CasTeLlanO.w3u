@@ -675,17 +675,15 @@
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
         },
-      {
-      "name": "BITELCHUS.. BITELCHUS",
-      "image": "https://i.postimg.cc/DZtRp3P6/GTwu-XY-Ww-AAUu-By-jpg-large.jpg",
-      "url": "https://filemoon.sx/d/zc2gz44ug5vu",
-      "info": "2024",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-     },
+        {
+          "name": "BITELCHUS.. BITELCHUS",
+          "info": "[2024][Español]",
+          "image": "https://i.postimg.cc/DZtRp3P6/GTwu-XY-Ww-AAUu-By-jpg-large.jpg",
+          "url": "https://filemoon.sx/d/zc2gz44ug5vu",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9"
+          },
     {
       "name": "BLACK FRIDAY",
       "image": "https://i.postimg.cc/hGdnqFJS/Black-Friday-2023-Pelicula.jpg",
@@ -2645,8 +2643,7 @@
       "info": "[Español][2021]",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "isHost": "true",
-      "online": "true",
-      "userAgent": ""
+      "online": "true"
     },
     {
       "name": "LIUBEN",
