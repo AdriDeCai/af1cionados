@@ -1664,6 +1664,15 @@
 			"embed":"",
             		"isHost":"true",
             		"online":"true"
+			},
+			{
+			"name": "Codigo MotoGP Japon 2024",
+			"info":"",
+			"image": "https://i.postimg.cc/7LGTmRQs/Bandera_Japon.jpg",
+			"url": "https://filemoon.sx/d/h6yjabjkkr4x",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
 			}
 		]
 	}
