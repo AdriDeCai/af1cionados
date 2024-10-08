@@ -569,6 +569,16 @@
       "import": false
     },
     {
+      "name": "BANDIDA: LA NÚMERO UNO",
+      "image": "https://pics.filmaffinity.com/bandida_a_numero_um-317863483-mmed.jpg",
+      "url": "https://listeamed.net/v/dNjgOlPQemqO9Wn",
+      "info": "[2024]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
       "name": "BARBIE",
       "info": "2023",
       "image": "https://i.postimg.cc/wvWCQtS7/Barbie-2023-Pelicula.jpg",
@@ -1553,10 +1563,37 @@
       "online": "true"
     },
     {
+      "name": "EL EXORCISMO DE EASTFIELD",
+      "info": "[2024][Español]",
+      "image": "https://pics.filmaffinity.com/godless_the_eastfield_exorcism-515150274-mmed.jpg",
+      "url": "https://filemoon.sx/d/0lcsf5jg7cul",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
       "name": "EL FUNERAL",
       "info": "[2023][Español]",
       "image": "https://pics.filmaffinity.com/The_Funeral-924535808-large.jpg",
       "url": "https://filemoon.sx/d/leuuywv7hvrm",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
+      "name": "EL HOYO",
+      "info": "[2019][Español]",
+      "image": "https://pics.filmaffinity.com/el_hoyo-987825598-mmed.jpg",
+      "url": "https://filemoon.sx/d/ozm79jp4xbly",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
+      "name": "EL HOYO 2",
+      "info": "[2024][Español]",
+      "image": "https://pics.filmaffinity.com/el_hoyo_2-950031332-mmed.jpg",
+      "url": "https://filemoon.sx/d/phrmixm3rl5z",
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
@@ -2689,6 +2726,16 @@
       "name": "LUGAR TRANQUILO, UN. DIA 1",
       "image": "https://pics.filmaffinity.com/a_quiet_place_day_one-758712709-large.jpg",
       "url": "https://listeamed.net/v/e028E6R1doQEYAv",
+      "info": "[2024][Español]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
+      "name": "LLUVIA ÁCIDA",
+      "image": "https://pics.filmaffinity.com/acide-477650327-mmed.jpg",
+      "url": "https://listeamed.net/v/4bQVOj3Mer85wKm",
       "info": "[2024][Español]",
       "embed": "",
       "isHost": "true",
