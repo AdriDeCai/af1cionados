@@ -2613,6 +2613,7 @@
       "info": "2014",
       "image": "https://pics.filmaffinity.com/Laibranos_del_mal-722448802-large.jpg",
       "url": "https://upstream.to/ogho2kojxfzf",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "isHost": "true",
       "online": "true"
@@ -2622,6 +2623,17 @@
       "info": "2023",
       "image": "https://i.postimg.cc/MZV1WzSd/Libro-del-amor-El-2022-Pelicula.jpg",
       "url": "https://upstream.to/rs567t8204ij",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
+      "name": "LIBRO NEGRO, EL",
+      "info": "2006",
+      "image": "https://pics.filmaffinity.com/zwartboek_black_book-397886486-large.jpg",
+      "url": "https://listeamed.net/v/0DogOGWNAJ7OKjM",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "isHost": "true",
       "online": "true"
@@ -2631,6 +2643,7 @@
       "image": "https://m.media-amazon.com/images/S/pv-target-images/0a3254da10b1706dd2839943d8e8b48e0be8911792556df6ff44451890792466.jpg",
       "url": "https://filemoon.sx/d/2dd0w4q3i1yc",
       "info": "[Español][2021]",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "isHost": "true",
       "online": "true",
       "userAgent": ""
