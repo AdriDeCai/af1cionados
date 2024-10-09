@@ -569,6 +569,16 @@
       "import": false
     },
     {
+      "name": "BANDERA, LA",
+      "image": "https://pics.filmaffinity.com/la_bandera-137924178-large.jpg",
+      "url": "https://filemoon.sx/d/hy6q75cxw7ln/Bandera__La__2024_Pelicula.mp4",
+      "info": "[2024]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
       "name": "BANDIDA: LA NÚMERO UNO",
       "image": "https://pics.filmaffinity.com/bandida_a_numero_um-317863483-mmed.jpg",
       "url": "https://listeamed.net/v/dNjgOlPQemqO9Wn",
@@ -1872,10 +1882,21 @@
       "import": false
     },
     {
+      "name": "FRAGUA, LA",
+      "image": "https://pics.filmaffinity.com/the_forge-998430397-large.jpg",
+      "url": "https://filemoon.sx/d/oh2911eq926j/Fragua__La__2024__Pelicula.mp4",
+      "info": "[Español 2024]",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": ""
+    },
+    {
       "name": "FRESH",
       "image": "https://es.web.img2.acsta.net/pictures/22/03/21/17/30/4116877.jpg",
       "url": "https://filemoon.sx/d/8m27ki3o0g8a",
       "info": "[Español 2022]",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "isHost": "true",
       "online": "true",
       "userAgent": ""
@@ -2075,10 +2096,22 @@
       "import": false
     },
     {
+      "name": "HIERBA DEL DIABLO, LA",
+      "image": "https://pics.filmaffinity.com/la_hierba_del_diablo-632169254-large.jpg",
+      "url": "https://filemoon.sx/d/6xyktdsgruq5/Hierba_del_diablo__La__2024__Pelicula.mp4",
+      "info": "2024",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
       "name": "HIJO, EL",
       "info": "2022",
       "image": "https://i.postimg.cc/W4pXFWJg/Hijo-El-2022-Pelicula.jpg",
       "url": "https://upstream.to/1m91wlgbqd9s",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "isHost": "true",
       "online": "true"
@@ -2088,6 +2121,7 @@
       "info": "2006",
       "image": "https://pics.filmaffinity.com/children_of_men-423341707-large.jpg",
       "url": "https://filemoon.sx/d/l6rrrfzh0pe8/Hijos_de_los_hombres_2006_Pelicula.mp4",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "isHost": "true",
       "online": "true"
@@ -2106,6 +2140,7 @@
       "info": "1980",
       "image": "https://pics.filmaffinity.com/hallmark_hall_of_fame_a_tale_of_two_cities_tv-747445932-large.jpg",
       "url": "https://filemoon.sx/d/ajlgijh03udv/Historia_dos_ciudades__1980_Pelicula_.mp4",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "isHost": "true",
       "online": "true"
@@ -2115,6 +2150,7 @@
       "info": "[2023][Español]",
       "image": "https://pics.filmaffinity.com/hit_man-846757571-large.jpg",
       "url": "https://filemoon.sx/d/oofs7pennsv2",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
@@ -2124,6 +2160,7 @@
       "info": "2022",
       "image": "https://i.postimg.cc/fTQDtGCp/Holy-Spider-2022-Pelicula.jpg",
       "url": "https://upstream.to/n4h7gvuwh7ey",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "isHost": "true",
       "online": "true"
@@ -2314,6 +2351,7 @@
       "name": "INVITACION A UN ASESINATO",
       "image": "https://i.postimg.cc/dVXZBdvr/Invitacion-a-un-asesinato-2023-Pelicula.jpg",
       "url": "https://upstream.to/orgtbl6963u4",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "info": "2023",
       "embed": "",
       "isHost": "true",
@@ -2324,6 +2362,7 @@
       "name": "IRATI",
       "image": "https://i.postimg.cc/26sL4TqN/Irati-2023-Pelicula.jpg",
       "url": "https://upstream.to/5xx7ixtapff2",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "info": "2023",
       "isHost": "true",
       "online": "true"
@@ -2342,6 +2381,7 @@
       "info": "2018",
       "image": "https://pics.filmaffinity.com/isle_of_dogs-327002857-large.jpg",
       "url": "https://filemoon.sx/d/a4ufxwgqxp65/Isla_de_perros_2018_Pelicula.mp4",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "userAgent": "",
       "online": "true",
       "isHost": "true"
@@ -2370,6 +2410,7 @@
       "info": "2019",
       "image": "https://pics.filmaffinity.com/joker-790658206-large.jpg",
       "url": "https://listeamed.net/v/qA3WOmG1qy9xKkz",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "isHost": "true",
       "online": "true"
@@ -2607,6 +2648,17 @@
       "import": false
     },
     {
+      "name": "LETRA CON SANGRE ENTRA, LA",
+      "image": "https://pics.filmaffinity.com/last_the_night_aka_pacerville-102277706-large.jpg",
+      "url": "https://filemoon.sx/d/6qr99afub2xb/Letra_con_sangre_entra__La__2022__Pelicula.mp4",
+      "info": "2022",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
       "name": "LIBRANOS DEL MAL",
       "info": "2014",
       "image": "https://pics.filmaffinity.com/Laibranos_del_mal-722448802-large.jpg",
@@ -2657,6 +2709,17 @@
       "import": false
     },
     {
+      "name": "LO DESCONOCIDO, LA PIRAMIDE PERDIDA",
+      "image": "https://i.postimg.cc/zXjrKDfH/Lo_desconocido,_La_pirámide_perdida_(2023)(Pelicula).jpg",
+      "url": "https://upstream.to/t4o5kgw1kxgj",
+      "info": "2023",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
       "name": "LO QUE EL VIENTO SE LLEVÓ",
       "image": "https://pics.filmaffinity.com/gone_with_the_wind-432251527-large.jpg",
       "url": "https://upstream.to/1oyooy2euxb7",
@@ -2668,10 +2731,10 @@
       "import": false
     },
     {
-      "name": "LO DESCONOCIDO, LA PIRAMIDE PERDIDA",
-      "image": "https://i.postimg.cc/zXjrKDfH/Lo_desconocido,_La_pirámide_perdida_(2023)(Pelicula).jpg",
-      "url": "https://upstream.to/t4o5kgw1kxgj",
-      "info": "2023",
+      "name": "LO QUE HAY DENTRO",
+      "image": "https://pics.filmaffinity.com/it_s_what_s_inside-784679476-large.jpg",
+      "url": "https://filemoon.sx/d/8tkdcl4xllte/Lo_que_hay_dentro__2024__Pelicula.mp4",
+      "info": "1939",
       "embed": "",
       "isHost": "true",
       "online": "true",
