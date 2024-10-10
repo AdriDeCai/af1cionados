@@ -4158,15 +4158,6 @@
       "import": false
     },
     {
-      "name": "SE TERMINO EL TIEMPO",
-      "info": "2021",
-      "image": "https://i.postimg.cc/j2zb1pCj/Se-termino-el-tiempo-2021-Pelicula.jpg",
-      "url": "https://upstream.to/jq1r97d4ew4k",
-      "embed": "",
-      "isHost": "true",
-      "online": "true"
-    },
-    {
       "name": "SE TU MISMA",
       "info": "2023",
       "image": "https://i.postimg.cc/5tLGHPyN/S-t-misma-2023-Pelicula.jpg",
@@ -4267,6 +4258,17 @@
       "info": "2023",
       "image": "https://pics.filmaffinity.com/sola-500468966-large.jpg",
       "url": "https://embedv.net/v/m7WJxgJmy0d5Bze",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+{
+      "name": "SOMBRAS DEL PASADO",
+      "image": "https://i.postimg.cc/fbn14cn7/IMG-20241010-105454-760.jpg",
+      "url": "https://filemoon.sx/d/wp8ydzzh7vs2",
+      "info": "[2024]",
       "embed": "",
       "isHost": "true",
       "online": "true",
