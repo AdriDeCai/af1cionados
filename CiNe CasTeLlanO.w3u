@@ -4738,6 +4738,7 @@
       "info": "2023",
       "image": "https://i.postimg.cc/VNMx7h8T/Vacaciones-de-Verano-2023-Pelicula.jpg",
       "url": "https://listeamed.net/v/3Q0lxBW3oGwEj1J",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "isHost": "true",
       "online": "true",
@@ -4748,6 +4749,7 @@
       "info": "2023",
       "image": "https://pics.filmaffinity.com/10_jours_encore_sans_maman-536420326-large.jpg",
       "url": "https://filemoon.sx/d/oa4srbpwneuy/Vacaciones_sin_mama___2023_Pelicula_.mkv",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "isHost": "true",
       "online": "true",
@@ -4758,6 +4760,7 @@
       "info": "2023",
       "image": "https://pics.filmaffinity.com/valle_de_sombras-890942438-large.jpg",
       "url": "https://listeamed.net/v/6zeREaDrjoexZPa",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "isHost": "true",
       "online": "true",
@@ -4768,6 +4771,7 @@
       "info": "2023",
       "image": "https://i.postimg.cc/fL9VhHhs/msg1216117830-11006.jpg",
       "url": "https://listeamed.net/v/3Q0lxBW3olKEj1J",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "isHost": "true",
       "online": "true",
@@ -4857,10 +4861,10 @@
       "name": "VIDA DE BRIAN, LA",
       "image": "https://pics.filmaffinity.com/monty_python_s_life_of_brian-402192024-large.jpg",
       "url": "https://filemoon.sx/d/sf3vzwhaz8ap/Vida_de_Brian__1979_Pelicula_.mp4",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "info": "[Español][1979]",
       "isHost": "true",
-      "online": "true",
-      "userAgent": ""
+      "online": "true"
     },
     {
       "name": "VIDA ES BELLA, LA",
@@ -4951,6 +4955,17 @@
       "import": false
     },
     {
+      "name": "WIND RIVER",
+      "info": "[2017]",
+      "image": "https://pics.filmaffinity.com/wind_river-870274639-large.jpg",
+      "url": "https://listeamed.net/v/k3gG5q838wkO1N2",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
       "name": "WINNIE THE POOH, MIEL Y SANGRE",
       "info": "2023",
       "image": "https://i.postimg.cc/cJ198KHm/photo-2023-10-16-11-04-31.jpg",
@@ -4965,6 +4980,7 @@
       "info": "2023",
       "image": "https://pics.filmaffinity.com/wonka-476523968-large.jpg",
       "url": "https://filemoon.sx/d/vjydoza62h95/Wonka__2023_Pelicula_.mp4",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "isHost": "true",
       "online": "true",
