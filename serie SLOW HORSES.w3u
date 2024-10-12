@@ -233,7 +233,82 @@
        	"import": false
        	}
 	]
+	},
+
+	{
+	"name": "TEMPORADA 4",
+	"info": "2022",
+	"image": "https://i.postimg.cc/cJ65SYhm/slow-horses-4.jpg",
+	"stations":
+	[
+	{
+       	"name": "4x01 Suplantacion de identidad",
+	"image": "https://i.postimg.cc/cJ65SYhm/slow-horses-4.jpg",
+        "url": "",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "4x02 Un extraño llega al pueblo",
+	"image": "https://i.postimg.cc/cJ65SYhm/slow-horses-4.jpg",
+        "url": "",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "4x03 En que estas pensando",
+	"image": "https://i.postimg.cc/cJ65SYhm/slow-horses-4.jpg",
+        "url": "",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "4x04 Regreso",
+	"image": "https://i.postimg.cc/cJ65SYhm/slow-horses-4.jpg",
+        "url": "",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "4x05 Grave peligro",
+	"image": "https://i.postimg.cc/cJ65SYhm/slow-horses-4.jpg",
+        "url": "",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "4x06 Hola y adios",
+	"image": "https://i.postimg.cc/cJ65SYhm/slow-horses-4.jpg",
+        "url": "",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
 	}
 
-	]
+]
 }
