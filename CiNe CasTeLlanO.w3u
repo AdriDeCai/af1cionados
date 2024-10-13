@@ -3155,8 +3155,19 @@
     {
       "name": "MI SOLEDAD TIENE ALAS",
       "image": "https://pics.filmaffinity.com/mi_soledad_tiene_alas-983107004-large.jpg",
-      "url": "https://upstream.to/0irz1b6nbwcs",
+      "url": "https://gamovideo.net/jp0t1xt75u7m",
       "info": "2023",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "MIEDO Y ASCO EN LAS VEGAS",
+      "image": "https://pics.filmaffinity.com/fear_and_loathing_in_las_vegas-268871395-large.jpg",
+      "url": "https://listeamed.net/v/qM1VOPeNJlJ5o4k",
+      "info": "1998",
       "embed": "",
       "isHost": "true",
       "online": "true",
