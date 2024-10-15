@@ -170,6 +170,13 @@
 		"import": false
 		},
 		{
+		"name": "Azules, Las",
+		"image": "https://pics.filmaffinity.com/las_azules-635617266-large.jpg",
+		"url": "https://series-af1cionados.vercel.app/serie%20AZULES%20LAS.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
 		"name": "Baby Reindeer",
 		"image": "https://images.hive.blog/DQmaKgDuoeQ36jWbnEnf271ShdbqtixEmqUVa3sNbK8R7UQ/Bebe-Reno.jpeg",
 		"url": "https://af1c1onados.vercel.app/Series.Baby.Reindeer.w3u",
@@ -1603,6 +1610,13 @@
 		"import": false
 		},
 		{
+		"name": "Mono Malo",
+		"image": "https://pics.filmaffinity.com/bad_monkey-862554487-large.jpg",
+		"url": "https://series-af1cionados.vercel.app/serie%20MONO%20MALO.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
 		"name": "Monstruos de Cracovia",
 		"image": "https://pics.filmaffinity.com/krakowskie_potwory-974544161-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie MONSTRUOS CRACOVIA.w3u",
@@ -2001,6 +2015,13 @@
 		"import": false
 		},
 		{
+		"name": "Refugio",
+		"image": "https://pics.filmaffinity.com/harlan_coben_s_shelter-601488242-large.jpg",
+		"url": "https://series-af1cionados.vercel.app/serie%20REFUGIO.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
 		"name": "Reina Roja, La",
 		"image": "https://pics.filmaffinity.com/reina_roja-983415661-large.jpg",
 		"info": "bY. aDri",
@@ -2096,6 +2117,13 @@
 		"image": "https://pics.filmaffinity.com/segunda_muerte-677813938-large.jpg",
 		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie%20SEGUNDA%20MUERTE.w3u",
 		"info": "bY. aDri",
+		"import": false
+		},
+		{
+		"name": "Serpent Queen",
+		"image": "https://pics.filmaffinity.com/the_serpent_queen-367582113-large.jpg",
+		"url": "https://series-af1cionados.vercel.app/serie%20SERPENT%20QUEEN.w3u",
+		"info": "bY AdriDeCai",
 		"import": false
 		},
 		{
