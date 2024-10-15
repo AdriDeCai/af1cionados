@@ -373,6 +373,17 @@
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
+       	},
+	{
+       	"name": "4x07 Episodio",
+        "image": "https://i.postimg.cc/s2W84VqV/temporada-4.webp",
+        "url": "https://filemoon.sx/d/v9e6222490on",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
        	}
 	]
 	}
