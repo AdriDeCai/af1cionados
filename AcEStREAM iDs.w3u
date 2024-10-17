@@ -7,7 +7,13 @@
     "info": "Lista recopilada de Ids. bY. Lukas",
     "groups": 
 	[
-
+	{
+        "name": "ACESTREAM MIX",
+        "image": "https://i.postimg.cc/Wp0X5yWD/logo-acestream-2.png",
+        "url": "https://actualsebastian.vercel.app/base.txt",
+        "info":"bY. lUCas",
+        "import": false
+        },
 	{
 	"name": "CANALES ESPAÑA",
 	"image": "https://i.postimg.cc/NfQ1LMZP/logo-spain.png",
