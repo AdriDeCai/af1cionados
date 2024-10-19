@@ -435,17 +435,17 @@
 	"stations":
 		[
 			{
-			"name": "SBK SUPERPOLE RACE",
-			"info":"",
+			"name": "SBK RACE 1",
+			"info":"[18-20 Octubre 2024]",
 			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
-			"url": "",
+			"url": "https://listeamed.net/v/edVqE4llDy4EYWm",
 			"embed":"",
             		"isHost":"true",
             		"online":"true"
 			},
 			{
-			"name": "SSP600 RACE 2",
-			"info":"",
+			"name": "SBK SUPERPOLE RACE",
+			"info":"[18-20 Octubre 2024]",
 			"image": "https://i.postimg.cc/Xq8Kn52Z/SBK-Verde.jpg",
 			"url": "",
 			"embed":"",
@@ -454,7 +454,7 @@
 			},
 			{
 			"name": "SBK RACE 2",
-			"info":"",
+			"info":"[18-20 Octubre 2024]",
 			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
 			"url": "",
 			"embed":"",
