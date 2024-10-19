@@ -761,12 +761,12 @@
       "name": "MOBILITY RESORT MOTEGI (JAPON)",
       "image": "https://i.postimg.cc/7LGTmRQs/Bandera_Japon.jpg",
       "imageScale": "",
-      "info": "ROUND 18",
+      "info": "ROUND 16",
       "stations": 
       [
         {
           "name": "Sprint MotoGP",
-          "info": "[español]",
+          "info": "",
           "image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
           "url": "https://filemoon.sx/d/1w6edk4t2quy",
           "userAgent": "PlusMediaPlayer/0.0.9",
@@ -807,14 +807,14 @@
       "name": "PHILLIP ISLAND (AUSTRALIA)",
       "image": "https://i.postimg.cc/5t78QbxV/Bandera-Australia.jpg",
       "imageScale": "",
-      "info": "ROUND 19",
+      "info": "ROUND 17",
       "stations": 
       [
         {
           "name": "Sprint MotoGP",
           "info": "",
           "image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
-          "url": "",
+          "url": "https://filemoon.sx/d/4aawj4khmnor",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
           "online": "true"
