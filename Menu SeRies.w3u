@@ -30,16 +30,16 @@
 		"import": false
 		},
 		{
-		"name": "Accidente",
-		"image": "https://i.postimg.cc/jS75FbsG/Accidente.png",
-		"url": "https://af1c1onados.vercel.app/Series.Accidente.w3u",
-		"info": "bY. yIsus",
-		"import": false
-		},
-		{
 		"name": "Abogadas, Las",
 		"image": "https://pics.filmaffinity.com/las_abogadas-780110917-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20ABOGADAS.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
+		"name": "Abogado del Lincoln",
+		"image": "https://pics.filmaffinity.com/the_lincoln_lawyer-712454950-large.jpg",
+		"url": "https://series-af1cionados.vercel.app/serie%20ABOGADO%20LINCOLN.w3u",
 		"info": "bY AdriDeCai",
 		"import": false
 		},
@@ -48,6 +48,13 @@
 		"image": "https://pics.filmaffinity.com/absentia-847229464-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20ABSENTIA.w3u",
 		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
+		"name": "Accidente",
+		"image": "https://i.postimg.cc/jS75FbsG/Accidente.png",
+		"url": "https://af1c1onados.vercel.app/Series.Accidente.w3u",
+		"info": "bY. yIsus",
 		"import": false
 		},
 		{
