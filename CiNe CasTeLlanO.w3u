@@ -2010,6 +2010,17 @@
       "import": false
     },
     {
+      "name": "FUGA DE PRISION",
+      "image": "https://pics.filmaffinity.com/jailbreak_love_on_the_run-707206311-large.jpg",
+      "url": "https://listeamed.net/v/KrdZ5kMMryjEmX4",
+      "info": "2024",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
       "name": "FUNDADOR, EL",
       "image": "https://pics.filmaffinity.com/the_founder-172341798-large.jpg",
       "url": "https://embedv.net/v/MAlwEMq3qkEJ39X",
@@ -3188,15 +3199,14 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-
     {
       "name": "MENUDAS PIEZAS",
       "image": "https://pics.filmaffinity.com/menudas_piezas-781090336-large.jpg",
       "url": "https://filemoon.sx/d/isxmatnld2ib/Menudas_Piezas__2024_Pelicula__1080p_cast_mp4.mp4",
       "info": "[Español][2024]",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "isHost": "true",
-      "online": "true",
-      "userAgent": ""
+      "online": "true"
     },
     {
       "name": "MERCENARIOS 4, LOS (INDESTRUCTIBLES)",
@@ -3896,6 +3906,15 @@
       "online": "true"
     },
     {
+      "name": "POLIAMOR PARA PRINCIPIANTES",
+      "image": "https://pics.filmaffinity.com/poliamor_para_principiantes-439576252-large.jpg",
+      "url": "https://listeamed.net/v/0DogOGWW0nYOKjM",
+      "info": "2021",
+      "userAgent": "",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
       "name": "¿POR QUE SE FROTAN LAS PATITAS?",
       "image": "https://pics.filmaffinity.com/por_que_se_frotan_las_patitas-257630999-large.jpg",
       "url": "https://filemoon.sx/d/mm2eldsv5t80/_Por_que_se_frotan_las_patitas___2006_Pelicula__esp_dvdrip_mp4.mp4",
@@ -4150,9 +4169,28 @@
       "import": false
     },
     {
+      "name": "ROMPER EL CIRCULO",
+      "image": "https://pics.filmaffinity.com/it_ends_with_us-815379231-large.jpg",
+      "url": "https://listeamed.net/v/QNB7xAWWbW2O0WG",
+      "info": "2024",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "userAgent": "",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
       "name": "THE WASP",
       "image": "https://pics.filmaffinity.com/the_wasp-485747197-mmed.jpg",
       "url": "https://filemoon.sx/d/c90s6u2kz4ss",
+      "info": "[Español][2024]",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
+      "name": "TRAMPA, LA",
+      "image": "https://pics.filmaffinity.com/trap-586929828-large.jpg",
+      "url": "https://listeamed.net/v/b4ZJx2mm49R52P3",
       "info": "[Español][2024]",
       "isHost": "true",
       "online": "true",
