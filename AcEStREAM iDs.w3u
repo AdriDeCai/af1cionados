@@ -1182,6 +1182,24 @@
 			"info":"IDIOMA ESPAÑOL",
 			"image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png",
 			"url": "acestream://162942adc047d0f78eac056effbe5bbec54a5e51"
+			},
+			{
+			"name": "UFC",
+			"info":"IDIOMA ESPAÑOL",
+			"image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png",
+			"url": "http://127.0.0.1:6878/ace/m/7438702963ad27eab81ee25634eac24f541083a4/56458a14d13473a1105c242b3c3c6b62.m3u8"
+			},
+			{
+			"name": "UFC",
+			"info":"IDIOMA ESPAÑOL",
+			"image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png",
+			"url": "http://127.0.0.1:6878/ace/m/7438702963ad27eab81ee25634eac24f541083a4/8090f25b7cbcda8b3672b6b33e0f415b.m3u8"
+			},
+			{
+			"name": "UFC",
+			"info":"IDIOMA ESPAÑOL",
+			"image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png",
+			"url": "http://127.0.0.1:6878/ace/m/be9d751f2e5323a49d4aad66a0ff2f5c0318d8e2/bf4836c5ddb1f02a11be47241b4a9120.m3u8"
 			}
 		]
 	},
