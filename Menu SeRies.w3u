@@ -2572,10 +2572,10 @@
 		"import": false
 		},
 		{
-		"name": "Una Vida Perfecta",
-		"image": "https://i.postimg.cc/1tjZvDPX/la-vida.png",
-		"url": "https://af1c1onados.vercel.app/Series.Una.Vida.Perfecta.w3u",
-		"info": "bY. yIsus",
+		"name": "Ultima noche en Tremor",
+		"image": "https://pics.filmaffinity.com/la_ultima_noche_en_tremor-266647551-large.jpg",
+		"url": "https://series-af1cionados.vercel.app/serie%20ULTIMA%20NOCHE%20TREMOR.w3u",
+		"info": "bY AdriDeCai",
 		"import": false
 		},
 		{
@@ -2611,6 +2611,13 @@
 		"image": "https://pics.filmaffinity.com/verguenza-915692316-large.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.Verguenza.w3u",
 		"info": "bY. aDri",
+		"import": false
+		},
+		{
+		"name": "Vida Perfecta, Una",
+		"image": "https://i.postimg.cc/1tjZvDPX/la-vida.png",
+		"url": "https://af1c1onados.vercel.app/Series.Una.Vida.Perfecta.w3u",
+		"info": "bY. yIsus",
 		"import": false
 		},
 		{
