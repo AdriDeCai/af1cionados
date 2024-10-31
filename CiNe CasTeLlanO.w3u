@@ -1144,10 +1144,11 @@
       "name": "COMBUSTION",
       "image": "https://pics.filmaffinity.com/combustion-398475316-large.jpg",
       "url": "https://filemoon.sx/d/6u11eyeqjhhw",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "info": "[Español][2013]",
       "isHost": "true",
       "online": "true",
-      "userAgent": ""
+      "import": false
     },
     {
       "name": "COMO DIOS MANDA",
@@ -1271,6 +1272,16 @@
       "image": "https://pics.filmaffinity.com/the_four_feathers-351848918-large.jpg",
       "url": "https://filemoon.sx/d/b21zi1uo7pkd/Cuatro_plumas__2002_Pelicula__1080p_Castellano_mp4.mp4",
       "info": "[Español][2002]",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": ""
+    },
+    {
+      "name": "CUERPO, EL",
+      "image": "https://pics.filmaffinity.com/el_cuerpo-616402885-large.jpg",
+      "url": "https://listeamed.net/v/4bQVOj3WX8m5wKm",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "info": "[Español][2012]",
       "isHost": "true",
       "online": "true",
       "userAgent": ""
