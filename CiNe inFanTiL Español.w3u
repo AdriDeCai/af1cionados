@@ -32,16 +32,16 @@
         "online":"true",
         "import": false
         },
-		{ 
-		"name": "ABOMINABLE", 
-		"info": "2019",
-		"image": "https://m.media-amazon.com/images/I/81kdaaa24fL._SL1500_.jpg", 
-		"url": "https://uqload.com/wj4u46sdr4pk.html",
+	{ 
+	"name": "ABOMINABLE", 
+	"info": "2019",
+	"image": "https://m.media-amazon.com/images/I/81kdaaa24fL._SL1500_.jpg", 
+	"url": "https://uqload.com/wj4u46sdr4pk.html",
         "embed":"",
         "isHost":"true",
         "online":"true",
         "import": false   
-		},
+	},
 	{
        	"name": "ADAM SANDLER ES LEO",
         "image": "https://pics.filmaffinity.com/leo-530546739-large.jpg",
@@ -53,36 +53,36 @@
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
-		{ 
-		"name": "AINBO LA GUERRERA DEL AMAZONAS", 
-		"info": "2021",
-		"image": "https://pictures.betaseries.com/films/affiches/es/76093.jpg", 
-		"url": "https://uqload.com/gdc85iaxxcad.html",
+	{ 
+	"name": "AINBO LA GUERRERA DEL AMAZONAS", 
+	"info": "2021",
+	"image": "https://pictures.betaseries.com/films/affiches/es/76093.jpg", 
+	"url": "https://uqload.com/gdc85iaxxcad.html",
         "embed":"",
         "isHost":"true",
         "online":"true",
         "import": false
-		},
-		{ 
-		"name": "ANGRY BIRDS, LA PELICULA", 
-		"info": "2012",
-		"image": "https://i.postimg.cc/d3zqwT3F/Angry-Birds-2012-Pelicula-infantil.jpg", 
-		"url": "https://upstream.to/cpgfitsgdood",
+	},
+	{ 
+	"name": "ANGRY BIRDS, LA PELICULA", 
+	"info": "2012",
+	"image": "https://i.postimg.cc/d3zqwT3F/Angry-Birds-2012-Pelicula-infantil.jpg", 
+	"url": "https://upstream.to/cpgfitsgdood",
         "embed":"",
         "isHost":"true",
         "online":"true",
         "import": false
-		},
-		{ 
-		"name": "ANGRY BIRDS 2", 
-		"info": "2019",
-		"image": "https://i.postimg.cc/cLgMTvVS/Angry-Birds-2-2019-Pelicula-infantil.jpg", 
-		"url": "https://upstream.to/o8a7ip0xwl2y",
+	},
+	{ 
+	"name": "ANGRY BIRDS 2", 
+	"info": "2019",
+	"image": "https://i.postimg.cc/cLgMTvVS/Angry-Birds-2-2019-Pelicula-infantil.jpg", 
+	"url": "https://upstream.to/o8a7ip0xwl2y",
         "embed":"",
         "isHost":"true",
         "online":"true",
         "import": false
-		},
+	},
         {
         "name": "ASOMBROSO MAURICIO, EL",
         "image": "https://pics.filmaffinity.com/the_amazing_maurice-509934440-large.jpg",
