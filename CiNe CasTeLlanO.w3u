@@ -641,6 +641,17 @@
       "import": false
     },
     {
+      "name": "BEAST, THE (LA BESTIA)",
+      "image": "https://pics.filmaffinity.com/la_bete_the_beast-736483119-large.jpg",
+      "url": "https://listeamed.net/v/LQm9OXrKboex1lg",
+      "info": "[2023][Español]",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
       "name": "BEATEN TO DEATH",
       "image": "https://i.postimg.cc/D01t2yXW/Beatento-Death-Slip3-D.png",
       "url": "https://filemoon.sx/d/6upsvx48ucdk",
@@ -1332,10 +1343,10 @@
       "image": "https://pics.filmaffinity.com/he_went_that_way-500679527-large.jpg",
       "url": "https://listeamed.net/v/04rQxWLL10JEb2N",
       "info": "2024",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
     {
@@ -1343,10 +1354,11 @@
       "image": "https://pics.filmaffinity.com/el_dorado-289917108-large.jpg",
       "url": "https://filemoon.sx/d/j6yg49pcjs3a/Dorado_1988_Pelicula.mp4",
       "info": "[1988][Español]",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
+      "import": false
     },
     {
       "name": "CUÑADOS",
@@ -1358,14 +1370,25 @@
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
     {
+      "name": "DADDIO",
+      "image": "https://pics.filmaffinity.com/daddio-948002843-large.jpg",
+      "url": "https://listeamed.net/v/pVa4E8vLnlz5kzM",
+      "info": "[2024]",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
       "name": "DARK HARVEST (COSECHA OSCURA)",
       "image": "https://pics.filmaffinity.com/dark_harvest-901698076-large.jpg",
       "url": "https://upstream.to/ta561nrq5fxc",
       "info": "2023",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
     {
@@ -1373,10 +1396,10 @@
       "image": "https://pics.filmaffinity.com/de_noche_los_gatos_son_pardos-120552355-large.jpg",
       "url": "https://upstream.to/z4rkdjcm6i2h",
       "info": "2023",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
     {
@@ -1384,10 +1407,10 @@
       "image": "https://pics.filmaffinity.com/de_perdidos_a_rio-791997757-large.jpg",
       "url": "https://filemoon.sx/d/fi4vhqop6s1j",
       "info": "2023",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
     {
@@ -1395,10 +1418,10 @@
       "image": "https://pics.filmaffinity.com/back_on_the_strip-840332283-large.jpg",
       "url": "https://upstream.to/kxkpbhbit5vt",
       "info": "[Español 2023]",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
     {
@@ -1406,20 +1429,21 @@
       "image": "https://pics.filmaffinity.com/deadpool_wolverine-864471588-large.jpg",
       "url": "https://filemoon.sx/d/kv8y8nh4snzb",
       "info": "[2024][Español]",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
+      "import": false
     },
     {
       "name": "DECIBEL",
       "image": "https://pics.filmaffinity.com/decibel-619882342-large.jpg",
       "url": "https://upstream.to/0m6rcltojej9",
       "info": "2023",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
     {
@@ -1427,19 +1451,21 @@
       "image": "https://es.web.img3.acsta.net/pictures/14/03/14/10/01/583434.jpg",
       "url": "https://ok.ru/video/7607344106031",
       "info": "[Español][2006]",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
       "isHost": "true",
       "online": "true",
-      "userAgent": ""
+      "import": false
     },
     {
       "name": "DESCANSA EN PAZ",
       "image": "https://pics.filmaffinity.com/handtering_av_udode-294632491-large.jpg",
       "url": "https://listeamed.net/v/wP205011ApLxdmy",
       "info": "2024",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
     {
@@ -1447,10 +1473,10 @@
       "image": "https://pics.filmaffinity.com/descarrilados-162221097-large.jpg",
       "url": "https://filemoon.sx/d/qw4hmf6fu1qa",
       "info": "2021",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
     {
@@ -1458,10 +1484,10 @@
       "image": "https://pics.filmaffinity.com/la_desconocida-550861357-large.jpg",
       "url": "https://upstream.to/imhdzcc6594z",
       "info": "2023",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
     {
@@ -1469,10 +1495,10 @@
       "image": "https://pics.filmaffinity.com/all_of_us_strangers-586936978-large.jpg",
       "url": "https://bembed.net/v/b4ZJx21W87852P3",
       "info": "2023",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
     {
@@ -1480,10 +1506,10 @@
       "image": "https://pics.filmaffinity.com/desmadre_incluido-417627596-large.jpg",
       "url": "https://upstream.to/p5lsos2d1cps",
       "info": "2022",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
     {
@@ -1491,25 +1517,29 @@
       "info": "[Español][1943]",
       "image": "https://cloud10.todocoleccion.online/cine-peliculas-dvd/tc/2018/01/28/15/110792591.jpg",
       "url": "https://filemoon.sx/d/6cyddrvrn408",
-      "userAgent": "",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "isHost": "true",
       "online": "true",
-      "isHost": "true"
+      "import": false
     },
     {
       "name": "DI QUE SI",
       "image": "https://pics.filmaffinity.com/yes_man-597620171-large.jpg",
       "url": "https://filemoon.sx/d/kupdj9813e2w/Di_que_s___2008_Pelicula_.mkv",
       "info": "[Español][1994]",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "isHost": "true",
-      "online": "true"
+      "online": "true",
+      "import": false
     },
     {
       "name": "DIA DE LA MADRE",
       "image": "https://i.postimg.cc/QtmYkKQv/Dia-de-la-madre-2023-Pelicula.jpg",
       "url": "http://vidmoly.me/w/fah8sgt5weum",
       "info": "2023",
-      "embed": "",
+      "embed": "True",
       "isHost": "true",
       "online": "true",
       "import": false
@@ -1519,6 +1549,7 @@
       "image": "https://pics.filmaffinity.com/afraid-617156352-large.jpg",
       "url": "https://filemoon.sx/d/w1afp3pcvp1g/Diabolica__Afraid__2024_Pelicula.mp4",
       "info": "2024",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "isHost": "true",
       "online": "true",
@@ -1544,6 +1575,17 @@
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "DISCOVERY, THE",
+      "image": "https://pics.filmaffinity.com/the_discovery-202566591-large.jpg",
+      "url": "https://listeamed.net/v/b4ZJx2mX8aR52P3",
+      "info": "[2017][Español]",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
       "import": false
     },
 {
