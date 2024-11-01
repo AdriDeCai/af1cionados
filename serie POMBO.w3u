@@ -6,10 +6,14 @@
 "info": "by YIsus_mEx",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳",
 "telegram": "@YIsus_mEx",
-"stations":
+"groups":
 	[
 
-
+	{
+	"name": "TEMPORADA 1",
+	"image": "https://pics.filmaffinity.com/pombo-832713967-large.jpg",
+	"stations":
+	[
 	{
        	"name": "1x01 La gran familia Pombo",
         "image": "https://pics.filmaffinity.com/pombo-832713967-large.jpg",
@@ -54,6 +58,60 @@
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 2",
+	"image": "https://pics.filmaffinity.com/pombo-832713967-large.jpg",
+	"stations":
+	[
+	{
+       	"name": "2x01 ",
+        "image": "https://pics.filmaffinity.com/pombo-832713967-large.jpg",
+        "url": "https://upstream.to/dy4bhr49crnn",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x02 ",
+        "image": "https://pics.filmaffinity.com/pombo-832713967-large.jpg",
+        "url": "https://upstream.to/vrboa3ipxgky",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x03 ",
+        "image": "https://pics.filmaffinity.com/pombo-832713967-large.jpg",
+        "url": "https://upstream.to/8eamswwroc4x",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x04 ",
+        "image": "https://pics.filmaffinity.com/pombo-832713967-large.jpg",
+        "url": "https://upstream.to/gnyqcmg2kz70",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	}
 
 	]
 }
