@@ -2170,6 +2170,7 @@
       "info": "2017",
       "image": "https://pics.filmaffinity.com/El_guardiaan_invisible-726992780-large.jpg",
       "url": "https://filemoon.sx/d/wunbvzp9calw",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "isHost": "true",
       "online": "true"
@@ -2363,6 +2364,17 @@
       "image": "https://pics.filmaffinity.com/spider_man_3_spiderman_3-381165300-mmed.jpg",
       "url": "https://filemoon.sx/d/ancn6evqw0os",
       "info": "2007",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+{
+      "name": "HOMBRES LOBO, LOS",
+      "image": "https://i.postimg.cc/Wzx7FDzD/IMG-20241101-100044-972.jpg",
+      "url": "https://file-mi11ljwj-embed.com/d/3jr76x8m7ics",
+      "info": "2024",
       "embed": "",
       "isHost": "true",
       "online": "true",
