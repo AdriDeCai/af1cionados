@@ -67,6 +67,7 @@
       "info": "2023",
       "image": "https://pics.filmaffinity.com/57_seconds-102208376-large.jpg",
       "url": "https://filemoon.sx/d/m9ith38yabw7/57_segundos__2023_Pelicula_.mp4",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "isHost": "true",
       "online": "true"
@@ -172,6 +173,7 @@
       "info": "2019",
       "image": "https://pics.filmaffinity.com/adults_in_the_room-152448709-large.jpg",
       "url": "https://filemoon.sx/d/y9mwmk0vmo33/Adults_In_The_Room__2020_Pelicula___BluRay_RIP_AC3_5.1_Castellano_.avi",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "isHost": "true",
       "online": "true"
@@ -295,6 +297,7 @@
       "info": "2001",
       "image": "https://pics.filmaffinity.com/wit_tv-185275865-large.jpg",
       "url": "https://filemoon.sx/d/er3rd908clzx",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "isHost": "true",
       "online": "true"
@@ -304,6 +307,7 @@
       "info": "1998",
       "image": "https://pics.filmaffinity.com/american_history_x-201185607-large.jpg",
       "url": "https://filemoon.sx/d/kln8qs58c0d3",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "isHost": "true",
       "online": "true"
@@ -373,6 +377,17 @@
       "image": "https://pics.filmaffinity.com/appendage-890844689-large.jpg",
       "url": "https://upstream.to/8k7ctokqg6wl",
       "info": "2023",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "APOCALIPSIS Z : EL PRINCIPIO DEL FIN",
+      "image": "https://i.postimg.cc/gct9SbNS/XFOYAUFZPRFLJAHOVQXS7-KHLRU.jpg",
+      "url": "https://file-mi11ljwj-embed.com/d/vgwpzqglgvcf",
+      "info": "2024",
       "embed": "",
       "isHost": "true",
       "online": "true",
