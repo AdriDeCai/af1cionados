@@ -1682,6 +1682,15 @@
 			"embed":"",
             		"isHost":"true",
             		"online":"true"
+			},
+			{
+			"name": "Codigo MotoGP Tailandia 2024",
+			"info":"",
+			"image": "https://i.postimg.cc/vBmW9d1c/Bandera_Tailandia.jpg",
+			"url": "https://filemoon.sx/d/8fb1uli59qfb/18_C_digo_-_MotoGP_Tailandia.mp4",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
 			}
 		]
 	}
