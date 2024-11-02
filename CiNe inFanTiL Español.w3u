@@ -1452,6 +1452,15 @@
        	"online":"true"  
 	},
 	{ 
+	"name": "ROBOT SALVAJE (WILD ROBOT)",
+	"info": "2024",
+	"image": "https://pics.filmaffinity.com/the_wild_robot-598191664-large.jpg", 
+	"url": "",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true"
+	},
+	{ 
 	"name": "RON DA ERROR",
 	"info": "2021",
 	"image": "https://lumiere-a.akamaihd.net/v1/images/image_d47d3d91.jpeg?region=0%2C0%2C540%2C810", 
