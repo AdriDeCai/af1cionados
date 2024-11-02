@@ -2752,10 +2752,9 @@
         	"import": false
         	},
 		{
-    		"name": "PlutoTV - TV 🇪🇸",
-    		"epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/es.xml.gz",
-    		"image": "https://helmerluzo.github.io/PlutoTV_HL/icons/plutotv.png",
-    		"url": "https://raw.githubusercontent.com/AdriDeCai/DoCu-SeRies/refs/heads/main/PlutoTV_tv_ES.w3u",
+  		"name": "Plataformas TV Streaming",
+  		"image": "https://play-lh.googleusercontent.com/ICIwZq2BuLLEom4c6-lFAnhEMCrno26Oad9BOs5tM6R_LFRjX-XMMXR9L9monyhGDZQ",
+  		"url": "https://docuseries.vercel.app/PlataformasTvStream.w3u",
 		"info": "bY AdriDeCai",
         	"import": false
         	}
