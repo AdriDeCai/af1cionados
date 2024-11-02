@@ -2750,8 +2750,15 @@
 		"url": "https://raw.githubusercontent.com/AdriDeCai/series/main/serie ZERO CHILL.w3u",
 		"info": "bY AdriDeCai",
         	"import": false
+        	},
+		{
+    		"name": "PlutoTV - TV 🇪🇸",
+    		"epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/es.xml.gz",
+    		"image": "https://helmerluzo.github.io/PlutoTV_HL/icons/plutotv.png",
+    		"url": "https://raw.githubusercontent.com/AdriDeCai/DoCu-SeRies/refs/heads/main/PlutoTV_tv_ES.w3u",
+		"info": "bY AdriDeCai",
+        	"import": false
         	}
-
 
 	]
 }
