@@ -1,0 +1,52 @@
+{
+  "name": "Plataformas TV Streaming",
+  "author": "AdriDeCai",
+  "image": "https://play-lh.googleusercontent.com/ICIwZq2BuLLEom4c6-lFAnhEMCrno26Oad9BOs5tM6R_LFRjX-XMMXR9L9monyhGDZQ",
+  "url": "https://raw.githubusercontent.com/AdriDeCai/DoCu-SeRies/refs/heads/main/PlataformasTvStream.w3u",
+  "telegram": "",
+  "info": "[Canales Oficiales Gratuitos y 100% Legales]",
+  "groups": 
+      [
+
+    {
+      "name": "TDTChannels",
+      "image": "https://play-lh.googleusercontent.com/xABFSEF3L4NzA_jJd4jv-ikF_sopZ2vh2ujYj4zDua9w00vsmXkL_Qnw4VyV-42EtO-L=w240-h480",
+      "url": "https://www.tdtchannels.com/lists/tvradio.w3u"
+    },
+    {
+      "name": "Pluto TV",
+      "image": "https://logodownload.org/wp-content/uploads/2021/05/pluto-tv-logo-0-2048x2048.png",
+      "url": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/AIO.w3u"
+    },
+    {
+      "name": "Runtime TV",
+      "image": "https://sergiojamon.com/wp-content/uploads/2021/12/runtime.jpg",
+      "url": "https://helmerluzo.github.io/RuntimeTV_HL/tv/w3u/RuntimeTV_tv.w3u"
+    },
+    {
+      "name": "Plex TV",
+      "image": "https://preview.redd.it/new-plex-logo-v0-5x93lknmuaw81.jpg?width=640&crop=smart&auto=webp&s=d097e242da8496e0cbf4bd016134b759acfb491c",
+      "url": "https://megalista.vercel.app/megalista_tv/plextv.w3u"
+    },
+    {
+      "name": "Samsung TV Plus",
+      "image": "https://i.imgur.com/yBJOxBd.jpg",
+      "url": "https://megalista.vercel.app/megalista_tv/samsungtvplus.w3u"
+    },
+    {
+      "name": "Rakuten TV",
+      "image": "https://image.similarpng.com/very-thumbnail/2020/06/Logo-rakuten-tv-transparent-PNG.png",
+      "url": "https://raw.githubusercontent.com/HelmerLuzo/RakutenTV_HL/main/tv/w3u/RakutenTV_tv.w3u"
+    },
+    {
+      "name": "RadTV",
+      "image": "https://martyninj.com/wp-content/uploads/2017/11/RadTV_title.png",
+      "url": "https://raw.githubusercontent.com/HelmerLuzo/RadTV_HL/main/tv/w3u/RadTV_tv.w3u"
+    },
+    {
+      "name": "CanelaTV",
+      "image": "https://th.bing.com/th/id/OIP.5A-bvpkAO_lO2OotuVwBHgAAAA?w=300&h=300&rs=1&pid=ImgDetMain",
+      "url": "https://raw.githubusercontent.com/HelmerLuzo/CanelaTV_HL/main/tv/w3u/CanelaTV_tv.w3u"
+    }
+  ]
+}
