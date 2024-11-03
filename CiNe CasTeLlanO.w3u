@@ -2479,6 +2479,17 @@
       "isHost": "true",
       "online": "true"
     },
+{
+      "name": "IMAGINARIO",
+      "image": "https://i.postimg.cc/528zfhZW/IMG-20241103-204015-352.jpg",
+      "url": "https://filemoon.sx/d/6twb5h0evrur",
+      "info": "2024",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
     {
       "name": "INCENDIES",
       "image": "https://pics.filmaffinity.com/Incendies-245390654-large.jpg",
