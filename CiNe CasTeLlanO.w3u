@@ -1368,8 +1368,7 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "info": "[Español][2012]",
       "isHost": "true",
-      "online": "true",
-      "userAgent": ""
+      "online": "true"
     },
     {
       "name": "CULPA MIA",
@@ -2040,7 +2039,7 @@
       "name": "FENOMENAS",
       "image": "https://pics.filmaffinity.com/fenomenas-452592836-large.jpg",
       "url": "https://filemoon.sx/d/d4qw77z8faua/Fenomenas_-_2023.mp4",
-      "userAgent": "PlusMediaPlayer/0.0.9"
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "info": "2023",
       "embed": "",
       "isHost": "true",
@@ -2150,8 +2149,7 @@
       "info": "[Español 2024]",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "isHost": "true",
-      "online": "true",
-      "userAgent": ""
+      "online": "true"
     },
     {
       "name": "FRESH",
@@ -2160,8 +2158,7 @@
       "info": "[Español 2022]",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "isHost": "true",
-      "online": "true",
-      "userAgent": ""
+      "online": "true"
     },
     {
       "name": "FUGA (BREAKOUT)",
@@ -2701,7 +2698,6 @@
       "image": "https://pics.filmaffinity.com/isle_of_dogs-327002857-large.jpg",
       "url": "https://filemoon.sx/d/a4ufxwgqxp65/Isla_de_perros_2018_Pelicula.mp4",
       "userAgent": "PlusMediaPlayer/0.0.9",
-      "userAgent": "",
       "online": "true",
       "isHost": "true"
     },
@@ -4117,7 +4113,6 @@
       "url": "https://filemoon.sx/d/kivez4f8tzm2/Piel_que_habito__La_2011_Pelicula.mp4",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "info": "2011",
-      "userAgent": "",
       "isHost": "true",
       "online": "true"
     },
@@ -4164,8 +4159,7 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "info": "[Español][2006]",
       "isHost": "true",
-      "online": "true",
-      "userAgent": ""
+      "online": "true"
     },
     {
       "name": "POR TUS MUERTOS",
@@ -4174,8 +4168,7 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "info": "[Español][2024]",
       "isHost": "true",
-      "online": "true",
-      "userAgent": ""
+      "online": "true"
     },
     {
       "name": "PORTAL AL MAS ALLA, EL",
@@ -4317,7 +4310,6 @@
       "url": "https://filemoon.sx/d/zv37ht3m0j8c/Requiem_por_un_sue_o_2000_Pelicula.mp4",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "info": "2000",
-      "userAgent": "",
       "isHost": "true",
       "online": "true"
     },
@@ -4327,7 +4319,6 @@
       "url": "https://filemoon.sx/d/6559d2x4ikrq",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "info": "2024",
-      "userAgent": "",
       "isHost": "true",
       "online": "true"
     },
@@ -4428,7 +4419,6 @@
       "url": "https://listeamed.net/v/QNB7xAWWbW2O0WG",
       "info": "2024",
       "userAgent": "PlusMediaPlayer/0.0.9",
-      "userAgent": "",
       "isHost": "true",
       "online": "true"
     },
