@@ -1066,6 +1066,17 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+{
+      "name": "CASA EN LLAMAS, LA",
+      "image": "https://pics.filmaffinity.com/casa_en_flames-906244724-large.jpg",
+      "url": "https://filemoon.sx/d/q0d1cn59sqhb",
+      "info": "2024",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
     {
       "name": "CASSANDRO",
       "info": "2023",
@@ -2258,6 +2269,16 @@
       "info": "2017",
       "image": "https://pics.filmaffinity.com/El_guardiaan_invisible-726992780-large.jpg",
       "url": "https://filemoon.sx/d/wunbvzp9calw",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
+      "name": "GUIA DEL DESFILADERO, EL",
+      "info": "2007",
+      "image": "https://pics.filmaffinity.com/pathfinder-397475723-large.jpg",
+      "url": "https://filemoon.sx/d/tgajdua6lh1z",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "isHost": "true",
