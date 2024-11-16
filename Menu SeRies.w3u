@@ -1099,6 +1099,13 @@
 		"import": false
 		},
 		{
+		"name": "Franquicia",
+		"image": "https://pics.filmaffinity.com/the_franchise-713982606-large.jpg",
+		"url": "https://series-af1cionados.vercel.app/serie%20FRANQUICIA.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
 		"name": "Frasier",
 		"image": "https://i.postimg.cc/59Q6JgKC/frasier00.png",
 		"url": "https://af1c1onados.vercel.app/Series.Frasier.w3u",
