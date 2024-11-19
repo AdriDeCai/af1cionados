@@ -1713,8 +1713,28 @@
 			{
 			"name": "Codigo MotoGP Malasia 2024",
 			"info":"",
-			"image": "",
+			"image": "https://i.postimg.cc/pTmVN0hm/Bandera_Malasia.jpg",
 			"url": "https://filemoon.sx/d/vg75hr8a87pj/19_C_digo_MotoGP_-_Malasia.mp4",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Codigo MotoGP España 2024",
+			"info":"[Valencia Solidarity DANA]",
+			"image": "https://i.postimg.cc/QM7ynZJM/Bandera_España.jpg",
+			"url": "https://filemoon.sx/d/fo28rawxvnel/20_C_digo_MotoGP_-_Especial_Campe_n_del_Mundo.mp4",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "Gala FIM MotoGP AWARDS 2024",
+			"info":"",
+			"image": "https://i.postimg.cc/4ywJSsp1/Gala-FIM-Moto-GP-AWARDS-2024.jpg",
+			"url": "https://filemoon.sx/d/ofhw2pi45kzq/Gala_FIM_MotoGP_Awards_2024_ES.mp4",
 			"userAgent":"PlusMediaPlayer/0.0.9",
 			"embed":"",
             		"isHost":"true",
