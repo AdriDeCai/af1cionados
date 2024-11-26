@@ -220,6 +220,16 @@
        	"isHost": "true",
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9"
+       	},
+	{
+       	"name": "S15 E4 Un chorrillo muy triste, un heredero putero",
+        "image": "https://i.postimg.cc/wvPf7My7/La-que-se-avecina-temporada-15.jpg",
+        "url": "h",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9"
        	}
 	]
 	}
