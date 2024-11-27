@@ -685,11 +685,11 @@
       "name": "BANDIDA: LA NÚMERO UNO",
       "image": "https://pics.filmaffinity.com/bandida_a_numero_um-317863483-mmed.jpg",
       "url": "https://listeamed.net/v/dNjgOlPQemqO9Wn",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "info": "[2024]",
       "embed": "",
       "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
+      "online": "true"
     },
     {
       "name": "BARBIE",
@@ -2103,6 +2103,16 @@
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
     {
+      "name": "FEMME",
+      "image": "https://pics.filmaffinity.com/femme-744558625-large.jpg",
+      "url": "https://filemoon.sx/d/vz7atftj1b2u/Femme_HDRip_-_Telegram_-__estrenoscine1.mp4",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "info": "2023",
+      "embed": "",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
       "name": "FENOMENAS",
       "image": "https://pics.filmaffinity.com/fenomenas-452592836-large.jpg",
       "url": "https://filemoon.sx/d/d4qw77z8faua/Fenomenas_-_2023.mp4",
@@ -2315,6 +2325,16 @@
       "image": "https://pics.filmaffinity.com/El_guardiaan_invisible-726992780-large.jpg",
       "url": "https://filemoon.sx/d/wunbvzp9calw",
       "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
+      "name": "GUERRA DE PANDORA",
+      "image": "https://pics.filmaffinity.com/battle_for_pandora-776107913-large.jpg",
+      "url": "https://filemoon.sx/d/dwv8luoj6ie0/Guerra_de_Pandora__2022_.mp4",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "info": "2022",
       "embed": "",
       "isHost": "true",
       "online": "true"
@@ -2674,6 +2694,17 @@
       "name": "INDIANA JONES Y EL DIAL DEL DESTINO",
       "image": "https://i.postimg.cc/3NwwxNWB/Indiana-Jones-y-el-dial-del-destino-2023-Pelicula.jpg",
       "url": "https://upstream.to/kw8fbke3s5qf",
+      "info": "2023",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "INFILTRADO (INSIDE MAN)",
+      "image": "https://pics.filmaffinity.com/inside_man-498619725-large.jpg",
+      "url": "https://filemoon.sx/d/r43ckglxb1na/Infiltrado_HDRip_-_Telegram_-__estrenoscine1.mp4",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "info": "2023",
       "embed": "",
       "isHost": "true",
@@ -4980,7 +5011,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-{
+    {
+      "name": "SOCIEDAD AMERICANA DE NEGROS MAGICOS, LA",
+      "image": "https://pics.filmaffinity.com/the_american_society_of_magical_negroes-458586123-large.jpg",
+      "url": "https://filemoon.sx/d/svhtk7ai8sng/La_sociedad_americana_de_negros_m_gicos__2024__Pelicula.mp4",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "info": "2024",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+     },
+    {
       "name": "SOL DE JUSTICIA",
       "image": "https://i.postimg.cc/P5K3kH7b/IMG-20240929-122249-314.jpg",
       "url": "https://filemoon.sx/d/nq5zsnun61fx",
@@ -5584,6 +5626,17 @@
       "info": "2023",
       "image": "https://i.postimg.cc/1zCG2y7Y/Vuelo-Al-L-mite-2023-Pelicula.jpg",
       "url": "https://upstream.to/vuuh438sji7y",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "WANTED MAN",
+      "image": "https://pics.filmaffinity.com/wanted_man-382746509-large.jpg",
+      "url": "https://filemoon.sx/d/ee7ekpqhz696/Wanted_man_2024_Pelicula.mp4",
+      "info": "2024",
       "embed": "",
       "isHost": "true",
       "online": "true",
