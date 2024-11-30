@@ -1027,10 +1027,21 @@
         "import": false
 	},
        	{
+        "name": "MOANNA 2",
+        "info":"2024",
+        "image": "https://pics.filmaffinity.com/moana_2-581593866-large.jpg",
+        "url":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+       	{
         "name": "MOLLY MOON Y EL INCREIBLE LIBRO DEL HIPNOTISMO",
         "info":"2015",
         "image": "https://i.postimg.cc/JtwzHHg8/Molly-Moon-y-el-increible-libro-del-hipnotismo-2015-Pelicula-infantil.jpg",
-        "url":"https://www.youtube.com/watch?v=BOtQNhsfAg4&list=PLaI8tcGP-lUuKdCQKgGzA1DW3vLn4tdqJ&index=31",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"url":"https://www.youtube.com/watch?v=BOtQNhsfAg4&list=PLaI8tcGP-lUuKdCQKgGzA1DW3vLn4tdqJ&index=31",
         "embed":"",
         "isHost":"true",
         "online":"true"
@@ -1040,6 +1051,7 @@
         "info":"2023",
         "image": "https://i.postimg.cc/t4cGF73r/Momias-2023-Pelicula-familiar.jpg",
         "url":"https://upstream.to/i8qhcgw39qt9",
+	"userAgent":"PlusMediaPlayer/0.0.9",
         "embed":"",
         "isHost":"true",
         "online":"true"
