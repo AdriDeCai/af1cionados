@@ -1741,10 +1741,27 @@
             		"online":"true"
 			}
 		]
-	}
+	},
 
+{
+"name": "VIDA EN ROJO, LA",
+"image": "https://i.ibb.co/TP1hx60/dazn-presenta-la-vida-en-rojo-un-documental-sobre-ducati.jpg",
+"imageScale": "",
+"info":"",
+"stations":
+[
+{
+"name": "VIDA EN ROJO, LA",
+"info":"[2024][Español]",
+"image": "https://i.ibb.co/TP1hx60/dazn-presenta-la-vida-en-rojo-un-documental-sobre-ducati.jpg",
+"url": "https://iplayerhls.com/e/2t5f0rik3dtg",
+"embed":"",
+"isHost":"true",
+"online":"true"
+}            
+]
+}
 
-	
-	]
+]
 }
 
