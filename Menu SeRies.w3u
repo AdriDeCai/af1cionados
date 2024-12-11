@@ -1260,6 +1260,13 @@
 		"import": false
 		},
 		{
+		"name": "Grito de las mariposas",
+		"image": "https://pics.filmaffinity.com/el_grito_de_las_mariposas-331585964-large.jpg",
+		"url": "https://series-af1cionados.vercel.app/serie%20GRITO%20MARIPOSAS.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
 		"name": "Halo",
 		"image": "https://pics.filmaffinity.com/halo_the_series-517902218-large.jpg",
 		"info": "bY. Adri",
@@ -1362,6 +1369,13 @@
 		"image": "https://i.postimg.cc/tJyX5kCD/hotel-coca.png",
 		"url": "https://af1c1onados.vercel.app/Series.Hotel.Cocaine.w3u",
 		"info": "bY. yIsus",
+		"import": false
+		},
+		{
+		"name": "Hysteria",
+		"image": "https://pics.filmaffinity.com/hysteria-689716597-large.jpg",
+		"url": "https://series-af1cionados.vercel.app/serie%20HYSTERIA.w3u",
+		"info": "bY AdriDeCai",
 		"import": false
 		},
 		{
@@ -2277,6 +2291,13 @@
 		"name": "Reacher",
 		"image": "https://pics.filmaffinity.com/reacher-712434170-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20REACHER.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
+		"name": "Red King, The",
+		"image": "https://pics.filmaffinity.com/the_red_king-628785033-large.jpg",
+		"url": "https://series-af1cionados.vercel.app/serie%20RED%20KING.w3u",
 		"info": "bY AdriDeCai",
 		"import": false
 		},
