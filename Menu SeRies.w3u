@@ -7,19 +7,25 @@
 "info": "Lista_AF1CIONADOS",
 "groups": 
 	[
-
 		{
-		"name": "30 Monedas",
-		"image": "https://pics.filmaffinity.com/30_monedas_t2-490944362-large.jpg",
-		"url": "https://af1cionados.vercel.app/serie%2030%20MONEDAS.w3u",
-		"info": "bY. aDri",
+		"name": "1992",
+		"image": "https://pics.filmaffinity.com/1992-689216468-large.jpg",
+		"url": "https://af1c1onados.vercel.app/Series.1992.w3u",
+		"info": "bY. yIsus",
 		"import": false
-		},
+		},		
 		{
 		"name": "1899",
 		"image": "https://pics.filmaffinity.com/1899-620331296-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie 1899.w3u",
 		"info": "bY. Adri",
+		"import": false
+		},
+		{
+		"name": "30 Monedas",
+		"image": "https://pics.filmaffinity.com/30_monedas_t2-490944362-large.jpg",
+		"url": "https://af1cionados.vercel.app/serie%2030%20MONEDAS.w3u",
+		"info": "bY. aDri",
 		"import": false
 		},
 		{
