@@ -242,9 +242,19 @@
 	"userAgent":"PlusMediaPlayer/0.0.9"
        	},
 	{
-       	"name": "S15 E6 Un Business Angel Un holocausto Paloma",
+       	"name": "S15 E6 Un Business Angel Un holocausto Paloma y Un Zorreo En El Recreo",
         "image": "https://i.postimg.cc/wvPf7My7/La-que-se-avecina-temporada-15.jpg",
         "url": "https://listeamed.net/v/edVqE4lknVMEYWm",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9"
+       	},
+	{
+       	"name": "S15 E7 Una Empresa Inclusiva, Una Suegra Adoptiva y Un Muro a Traición",
+        "image": "https://i.postimg.cc/wvPf7My7/La-que-se-avecina-temporada-15.jpg",
+        "url": "https://filemoon.to/d/wfxo6k0wh0d8/Avecina_15x07__1080_.mp4",
        	"info": "2024",
        	"embed": "",
        	"isHost": "true",
