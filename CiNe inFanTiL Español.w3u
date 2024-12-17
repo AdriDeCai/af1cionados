@@ -1463,6 +1463,17 @@
        	"online":"true" 
 	},
 	{
+	"name": "REY LEON",
+       	"image": "https://pics.filmaffinity.com/the_lion_king-357729583-large.jpg",
+       	"url": "https://filemoon.to/d/rqsqnf2ekbcn/El_Rey_Leon__2019__Pelicula_Infantil_espa_ol.mp4",
+       	"info":"2019",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true",
+       	"import": false
+	},
+	{
 	"name": "REY MONO",
        	"image": "https://i.postimg.cc/K8sRScQf/El-Rey-Mono-232332190-large.jpg",
        	"url": "https://upstream.to/31de1yhemlgt",
