@@ -9,8 +9,7 @@
 "stations":
     [
 
-
-		{
+	{
         "name": "AAA, Sin limite en el tiempo",
         "image": "https://i.postimg.cc/CxMtkfkb/AAA-la-pel-cula-Sin-l-mite-en-el-tiempo-2010-Pelicula-infantil.png",
         "url": "https://upstream.to/r61vjpoykxcz",
@@ -56,6 +55,7 @@
 	"info": "2021",
 	"image": "https://pictures.betaseries.com/films/affiches/es/76093.jpg", 
 	"url": "https://uqload.com/gdc85iaxxcad.html",
+      	"userAgent": "PlusMediaPlayer/0.0.9",
         "embed":"",
         "isHost":"true",
         "online":"true",
@@ -66,6 +66,7 @@
 	"info": "2012",
 	"image": "https://i.postimg.cc/d3zqwT3F/Angry-Birds-2012-Pelicula-infantil.jpg", 
 	"url": "https://upstream.to/cpgfitsgdood",
+      	"userAgent": "PlusMediaPlayer/0.0.9",
         "embed":"",
         "isHost":"true",
         "online":"true",
@@ -76,6 +77,7 @@
 	"info": "2019",
 	"image": "https://i.postimg.cc/cLgMTvVS/Angry-Birds-2-2019-Pelicula-infantil.jpg", 
 	"url": "https://upstream.to/o8a7ip0xwl2y",
+      	"userAgent": "PlusMediaPlayer/0.0.9",
         "embed":"",
         "isHost":"true",
         "online":"true",
@@ -86,6 +88,7 @@
         "image": "https://pics.filmaffinity.com/the_amazing_maurice-509934440-large.jpg",
         "url": "https://upstream.to/mvkk9wjr5ojc",
         "info": "2022",
+      	"userAgent": "PlusMediaPlayer/0.0.9",
         "embed":"",
         "isHost":"true",
         "online":"true",
@@ -96,6 +99,7 @@
         "image": "https://i.postimg.cc/L50yZWjt/Asterix-y-Obelix-el-reino-milenario-2023-Pelicula-familiar.jpg",
         "url": "https://upstream.to/em9odjmf6dy1",
         "info": "2023",
+      	"userAgent": "PlusMediaPlayer/0.0.9",
         "embed":"",
         "isHost":"true",
         "online":"true",
@@ -108,6 +112,7 @@
 	"info": "2023",
 	"image": "https://i.postimg.cc/x8yG77BY/Barbie-Skipper-y-su-gran-aventura-como-canguro-2023-Pelicula-familiar.jpg", 
 	"url": "http://vidmoly.me/w/4sgir1x4m4lh",
+      	"userAgent": "PlusMediaPlayer/0.0.9",
         "embed":"",
         "isHost":"true",
         "online":"true",
@@ -118,6 +123,7 @@
 	"info": "2017",
 	"image": "https://i.postimg.cc/2yC2Z2Bn/Batman-vs-Dos-Caras-2017-Pelicula-familiar.jpg", 
 	"url": "https://upstream.to/ze6hq1id707x",
+      	"userAgent": "PlusMediaPlayer/0.0.9",
         "embed": "",
         "isHost": "true",
         "online": "true",
@@ -128,6 +134,7 @@
 	"info": "1987",
 	"image": "https://i.postimg.cc/CLTHYB2w/Benji-el-perseguido-1987-Pelicula-infantil.jpg", 
 	"url": "https://www.youtube.com/watch?v=v_7Zt0n6CYg&list=PLaI8tcGP-lUuKdCQKgGzA1DW3vLn4tdqJ&index=29",
+      	"userAgent": "PlusMediaPlayer/0.0.9",
         "embed":"",
         "isHost":"true",
         "online":"true",
@@ -138,6 +145,7 @@
 	"info": "2020",
 	"image": "https://pics.filmaffinity.com/Bob_Esponja_Un_h_roe_al_rescate-830044791-large.jpg", 
 	"url": "https://uqload.com/rw6nyupresw3.html",
+      	"userAgent": "PlusMediaPlayer/0.0.9",
         "embed":"",
         "isHost":"true",
         "online":"true",
