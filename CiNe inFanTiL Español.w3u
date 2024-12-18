@@ -533,12 +533,24 @@
        	"online":"true",
        	"import": false
 	},
+	{
+	"name": "FUTBOLIN (METEGOL)",
+        "image": "https://pics.filmaffinity.com/metegol-867708817-large.jpg", 
+        "url": "https://filemoon.to/d/u4yjszs8n1no/Futbolin__Metegol__2013_Pelicula_infantil.mp4",
+	"info": "2013", 
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true",
+       	"import": false
+	},
 
 	{ 
 	"name": "GALLINA TURULECA, LA",
 	"info": "",
 	"image": "https://pics.filmaffinity.com/La_gallina_Turuleca-543555397-large.jpg", 
-	"url": "https://uqload.com/2o2hbn3lm06n.html", 
+	"url": "https://uqload.com/2o2hbn3lm06n.html",
+	"userAgent":"PlusMediaPlayer/0.0.9",
 	"embed":"",
 	"isHost":"true",
 	"online":"true"     
@@ -547,7 +559,8 @@
 	"name": "GATO CON BOTAS, EL ULTIMO DESEO",
 	"info": "2022",
 	"image": "https://i.postimg.cc/XJ6cVhYn/Gato-con-botas-el-ultimo-deseo-2022-Pelicula-familiar.jpg", 
-	"url": "https://upstream.to/x24u678ibkdo", 
+	"url": "https://upstream.to/x24u678ibkdo",
+	"userAgent":"PlusMediaPlayer/0.0.9",
 	"embed":"",
 	"isHost":"true",
 	"online":"true"     
