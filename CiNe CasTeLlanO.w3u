@@ -2641,7 +2641,15 @@
       "info": "[2023][Español]",
       "image": "https://pics.filmaffinity.com/hit_man-846757571-large.jpg",
       "url": "https://filemoon.to/d/oofs7pennsv2",
-      "userAgent": "PlusMediaPlayer/0.0.9",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
+      "name": "HLM PUSSY",
+      "info": "[2023][Español]",
+      "image": "https://pics.filmaffinity.com/hlm_pussy-278015752-large.jpg",
+      "url": "https://filemoon.to/d/11uzipvb8ix1/HLM_Pussy__2024_.mp4",
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
@@ -4990,6 +4998,17 @@
       "image": "https://pics.filmaffinity.com/on_the_line-204090545-large.jpg",
       "url": "https://embedv.net/v/ao9rxoRWgdL5yGe",
       "info": "2023",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "SEÑOR DE LA GUERRA",
+      "image": "https://pics.filmaffinity.com/lord_of_war-604520828-large.jpg",
+      "url": "https://filemoon.to/d/0hhazxa7tlpn/El_se_or_de_la_guerra__2005_.mp4",
+      "info": "2005",
       "embed": "",
       "isHost": "true",
       "online": "true",
