@@ -199,6 +199,17 @@
 	"import": false
 	},
 	{
+	"name": "CASCANUECES, EL",
+	"image": "https://pics.filmaffinity.com/the_nutcracker_in_3d-822708750-large.jpg", 
+	"url": "https://filemoon.to/d/kcuyj25dn5ox/El_Cascanueces__2010__Pelicula_infantil_espa_ol.mkv",
+	"info": "2010",
+      	"userAgent": "PlusMediaPlayer/0.0.9",
+	"embed":"",
+	"isHost":"true",
+	"online":"true",
+	"import": false
+	},
+	{
        	"name": "CHICKEN RUN, AMANECER DE LOS NUGGETS",
         "image": "https://pics.filmaffinity.com/chicken_run_dawn_of_the_nugget-363717549-large.jpg",
         "url": "https://upstream.to/f1ky3dngts8j",
@@ -227,7 +238,7 @@
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9",
+	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
        	{
@@ -696,6 +707,16 @@
         "online":"true" 
 	},
 
+	{
+        "name": "HILDA Y EL REY DE LA MONTAÑA",
+        "image": "https://pics.filmaffinity.com/hilda_and_the_mountain_king-193746390-large.jpg",
+        "url":"https://filemoon.to/d/u0qgdpw95o1a/Hilda_y_el_rey_de_la_monta_a__2021__Pelicula_infantil_espa_ol.mkv",
+        "info":"2021",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"embed":"",
+        "isHost":"true",
+        "online":"true" 
+	},
 
 	{ 
 	"name": "ICARO Y EL MINOTAURO", 
