@@ -143,12 +143,23 @@
         "online":"true",
         "import": false
 	},
-
+	{ 
+	"name": "BUFFALO KIDS",
+	"image": "https://pics.filmaffinity.com/buffalo_kids-634012768-large.jpg",
+	"url": "https://filemoon.to/d/fdvne4wb6cay/Buffalo_kids__2024__Pelicula_infantil_espa_ol.mp4",
+	"info": "2024",
+      	"userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+	},
 	{
 	"name": "CABALLEROS DEL ZODIACO, LOS",
 	"info": "2023",
 	"url": "https://vk.com/video791649042_456239379",
 	"image": "https://i.postimg.cc/yxQQ5Yhv/Caballero-del-Zodiaco-20223-Pelicula-infantil.jpg",
+      	"userAgent": "PlusMediaPlayer/0.0.9",
 	"embed":"",
 	"isHost":"true",
 	"online":"true",
@@ -159,6 +170,7 @@
 	"info": "2022",
 	"url": "https://upstream.to/titpdcr9b4c7",
 	"image": "https://i.postimg.cc/mr1vngsC/Camino-a-la-libertad-2022-Pelicula-infantil.jpg",
+      	"userAgent": "PlusMediaPlayer/0.0.9",
 	"embed":"",
 	"isHost":"true",
 	"online":"true",
