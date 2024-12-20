@@ -10,10 +10,22 @@
     [
 
 	{
+        "name": "10 VIDAS",
+        "image": "https://pics.filmaffinity.com/10_lives-671616032-large.jpg",
+        "url": "https://filemoon.to/d/0qj3tgz5h6fz/10_vidas__2024__Pelicula_infantil_espa_ol.mp4",
+        "info": "2024",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+	{
         "name": "AAA, Sin limite en el tiempo",
         "image": "https://i.postimg.cc/CxMtkfkb/AAA-la-pel-cula-Sin-l-mite-en-el-tiempo-2010-Pelicula-infantil.png",
         "url": "https://upstream.to/r61vjpoykxcz",
         "info": "2010",
+	"userAgent":"PlusMediaPlayer/0.0.9",
         "embed":"",
         "isHost":"true",
         "online":"true",
@@ -24,6 +36,7 @@
         "image": "https://i.postimg.cc/4dvq1yLL/Abulele-2015-Pelicula-infantil.jpg",
         "url": "https://upstream.to/5lnpuzv3s3v0",
         "info": "2015",
+	"userAgent":"PlusMediaPlayer/0.0.9",
         "embed":"",
         "isHost":"true",
         "online":"true",
@@ -34,6 +47,7 @@
 	"info": "2019",
 	"image": "https://m.media-amazon.com/images/I/81kdaaa24fL._SL1500_.jpg", 
 	"url": "https://uqload.com/wj4u46sdr4pk.html",
+	"userAgent":"PlusMediaPlayer/0.0.9",
         "embed":"",
         "isHost":"true",
         "online":"true",
