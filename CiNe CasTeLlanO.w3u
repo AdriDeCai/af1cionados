@@ -1516,6 +1516,15 @@
       "online": "true"
     },
     {
+      "name": "CUERVO, EL",
+      "image": "https://pics.filmaffinity.com/the_crow-115009898-large.jpg",
+      "url": "https://listeamed.net/v/eL2157KnYgJ5rw4",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "info": "[Español][2024]",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
       "name": "CULPA MIA",
       "info": "2023",
       "image": "https://pics.filmaffinity.com/Culpa_maia-785263687-large.jpg",
@@ -4220,6 +4229,17 @@
       "image": "https://pics.filmaffinity.com/the_engineer-798281061-large.jpg",
       "url": "https://filemoon.to/d/wxn3ifqh4imt/Objetivo._Hamas__2023_.mp4",
       "info": "2023",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "ODIO EL VERANO",
+      "image": "https://pics.filmaffinity.com/odio_el_verano-647510264-large.jpg",
+      "url": "https://listeamed.net/v/PlBVEZ1oLW0xDv9",
+      "info": "2024",
       "embed": "",
       "isHost": "true",
       "online": "true",
