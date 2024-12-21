@@ -911,6 +911,13 @@
 		"import": false
 		},
 		{
+		"name": "El Chacal",
+		"image": "https://lumiere-a.akamaihd.net/v1/images/el_chacal_-_now_streaming_-_disney_e7b3430c.png",
+		"url": "https://af1c1onados.vercel.app/Series.El.Chacal.w3u",
+		"info": "bY. yIsus",
+		"import": false
+		},
+		{
 		"name": "El Chapo",
 		"image": "https://i.postimg.cc/wTTspHqf/chapo.png",
 		"url": "https://af1c1onados.vercel.app/Series.El.Chapo.w3u",
