@@ -411,8 +411,25 @@
 			"embed":"",
             		"isHost":"true",
             		"online":"true"
+			},
+			{
+			"name": "Vida en rojo, La",
+			"info":"[2024][Español]",
+			"image": "https://i.ibb.co/TP1hx60/dazn-presenta-la-vida-en-rojo-un-documental-sobre-ducati.jpg",
+			"url": "https://iplayerhls.com/e/2t5f0rik3dtg",
+			"embed":"",
+			"isHost":"true",
+			"online":"true"
+			},
+			{
+			"name": "Maverick: Dos Vidas",
+			"info":"[2024][Español]",
+			"image": "https://i.postimg.cc/bwVHD8yk/DAZN-Maverick-Dos-Vidas.webp",
+			"url": "https://filemoon.to/d/z4i52qwm3kxi",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"isHost":"true",
+			"online":"true"
 			}
-		]
 	},
 
 	{
@@ -1741,44 +1758,8 @@
             		"online":"true"
 			}
 		]
-	},
+	}
 
-{
-"name": "VIDA EN ROJO, LA",
-"image": "https://i.ibb.co/TP1hx60/dazn-presenta-la-vida-en-rojo-un-documental-sobre-ducati.jpg",
-"imageScale": "",
-"info":"",
-"stations":
-[
-{
-"name": "VIDA EN ROJO, LA",
-"info":"[2024][Español]",
-"image": "https://i.ibb.co/TP1hx60/dazn-presenta-la-vida-en-rojo-un-documental-sobre-ducati.jpg",
-"url": "https://iplayerhls.com/e/2t5f0rik3dtg",
-"embed":"",
-"isHost":"true",
-"online":"true"
-}            
-]
-},
-{
-"name": "Maverick: Dos Vidas",
-"image": "https://i.postimg.cc/bwVHD8yk/DAZN-Maverick-Dos-Vidas.webp",
-"imageScale": "",
-"info":"",
-"stations":
-[
-{
-"name": "Maverick: Dos Vidas",
-"info":"[2024][Español]",
-"image": "https://i.postimg.cc/bwVHD8yk/DAZN-Maverick-Dos-Vidas.webp",
-"url": "https://filemoon.to/d/z4i52qwm3kxi",
-"userAgent":"PlusMediaPlayer/0.0.9",
-"isHost":"true",
-"online":"true"
-}            
-]
-}
 ]
 }
 
