@@ -907,6 +907,17 @@
         "info":"1998",
         "image": "https://pics.filmaffinity.com/kirikou_et_la_sorciere_kirikou_and_the_sorceress-289653207-large.jpg",
         "url":"https://upstream.to/61jsnpqj8840",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+	},
+	{
+        "name": "KLAUS",
+        "image": "https://pics.filmaffinity.com/klaus-456555401-large.jpg",
+        "url":"https://upstream.to/61jsnpqj8840",
+        "info":"2019",
+        "userAgent": "PlusMediaPlayer/0.0.9",
         "embed":"",
         "isHost":"true",
         "online":"true"
