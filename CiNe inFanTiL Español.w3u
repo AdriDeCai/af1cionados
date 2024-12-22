@@ -1470,6 +1470,17 @@
        	"import": false
        	},
 	{
+       	"name": "PICO DE ORO Y SUS AMIGOS",
+        "image": "https://pics.filmaffinity.com/goldbeak-994534069-large.jpg",
+        "url": "https://listeamed.net/v/4bQVOj3Q1Gm5wKm",
+       	"info": "2023",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+       	"import": false
+       	},
+	{
        	"name": "POLAR EXPRESS, THE",
         "image": "https://pics.filmaffinity.com/the_polar_express-375183738-large.jpg",
         "url": "https://filemoon.to/d/k2quvcqthkm9/Polar_express_2004_Pelicula_Infantil_esp_1080p_mp4.mp4",
