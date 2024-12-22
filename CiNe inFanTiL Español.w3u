@@ -380,6 +380,17 @@
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
+	{
+       	"name": "DOUNIA Y EL ECO DEL TAMBOR",
+        "image": "https://pics.filmaffinity.com/dounia_le_grand_pays_blanc-426493772-large.jpg",
+        "url": "https://listeamed.net/v/njJYOdd6K0aOe9o",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
 
 	{
 	"name": "ELEFANTA DEL MAGO, LA",
@@ -610,6 +621,16 @@
 	"isHost":"true",
 	"online":"true"     
 	},
+	{ 
+	"name": "GATO TABBY Y OTRAS HISTORIAS FELINAS",
+	"image": "https://pics.filmaffinity.com/tabby_mctat-249465626-large.jpg", 
+	"url": "https://listeamed.net/v/MAlwEMW3L1k5J39",
+	"info": "2024",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"embed":"",
+	"isHost":"true",
+	"online":"true"     
+	},
 	{
        	"name": "GATOS NO BAILAN, LOS",
         "image": "https://pics.filmaffinity.com/cats_don_t_dance-424188979-large.jpg",
@@ -729,6 +750,16 @@
         "online":"true" 
 	},
 
+	{
+        "name": "HEROES DE CENTRAL PARK",
+        "image": "https://pics.filmaffinity.com/les_inseparables-441062706-large.jpg",
+        "url":"https://listeamed.net/v/PlBVEZ1oyKaxDv9",
+        "info":"2023",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"embed":"",
+        "isHost":"true",
+        "online":"true" 
+	},
 	{
         "name": "HILDA Y EL REY DE LA MONTAÑA",
         "image": "https://pics.filmaffinity.com/hilda_and_the_mountain_king-193746390-large.jpg",
