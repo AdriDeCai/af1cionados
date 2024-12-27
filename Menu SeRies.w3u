@@ -1098,7 +1098,7 @@
 		"import": false
 		},
 		{
-		"name": "The Exorcist",
+		"name": "Exorcist, the",
 		"image": "https://pics.filmaffinity.com/the_exorcist-710181330-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20EXORCIST%20THE.w3u",
 		"info": "bY AdriDeCai",
@@ -1220,6 +1220,13 @@
 		"name": "From",
 		"image": "https://pics.filmaffinity.com/from-265636059-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie FROM.w3u",
+		"info": "bY AdriDeCai",
+		"import": false
+		},
+		{
+		"name": "Furias",
+		"image": "https://pics.filmaffinity.com/furies-396992442-large.jpg",
+		"url": "https://series-af1cionados.vercel.app/serie%20FURIAS.w3u",
 		"info": "bY AdriDeCai",
 		"import": false
 		},
