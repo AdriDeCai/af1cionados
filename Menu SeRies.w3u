@@ -1,5 +1,15 @@
+
+////////
+//////// ATENCION, ESTE ARCHIVO YA NO SE USA PARA EL MENU DE THE "SERIES"
+//////// EL NUEVO ARCHIVO ESTA UBICADO EN LA SECCION SERIES DEL GITHUB DE ADRIDECAI
+////////
+//////// PARA INUTILIZAR ESTE ARCHIVO, SE HA PROCEDIDO A ELIMINAR LA PRIMERA COMILLA DE name
+//////// QUEDANDO =====>>>>>>>     name": "Series",
+////////
+
+
 {
-"name": "Series",
+name": "Series",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
 "url": "https://af1cionados.vercel.app/Menu SeRies.w3u",
