@@ -1370,7 +1370,6 @@
 "online": "true",
 "import": false
 },
-
     {
       "name": "COMBUSTION",
       "image": "https://pics.filmaffinity.com/combustion-398475316-large.jpg",
@@ -1532,6 +1531,15 @@
       "isHost": "true",
       "online": "true",
       "import": false
+    },
+    {
+      "name": "CUANDO ACECHA LA MALDAD",
+      "image": "https://pics.filmaffinity.com/cuando_acecha_la_maldad-702811959-large.jpg",
+      "url": "https://listeamed.net/v/ZMVoErbkVjqE9Pa",
+      "info": "[Español][2023]",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
     },
     {
       "name": "CUATRO PLUMAS, LAS",
