@@ -250,8 +250,8 @@
 
 	{
 	"name": "TEMPORADA 3",
-	"info": "2025",
 	"image": "https://decine21.com/img/upload/obras/machos-alfa-46364/src/machos-alfa-46364-c.jpg",
+	"info": "2025",
 	"stations":
 	[
 	{
@@ -266,9 +266,9 @@
        	"import": false
        	},
 	{
-       	"name": "3x02 ",
+       	"name": "3x02 Bolleras fijo",
         "image": "https://decine21.com/img/upload/obras/machos-alfa-46364/src/machos-alfa-46364-c.jpg",
-        "url": "https:",
+        "url": "https://filemoon.to/d/0qhy0v5y0qg1/Machos_alfa_S03E02_Bollera_fijo.mp4",
        	"info": "2025",
        	"embed": "",
        	"isHost": "true",
@@ -277,7 +277,7 @@
        	"import": false
        	},
 	{
-       	"name": "3x03 ",
+       	"name": "3x03 El que se pilla, pierde",
         "image": "https://decine21.com/img/upload/obras/machos-alfa-46364/src/machos-alfa-46364-c.jpg",
         "url": "https:",
        	"info": "2025",
