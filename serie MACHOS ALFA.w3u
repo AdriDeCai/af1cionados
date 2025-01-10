@@ -16,7 +16,6 @@
 	"image": "https://www.formulatv.com/images/series/posters/2800/2892/dest_3.jpg",
 	"stations":
 	[
-
 	{
        	"name": "1x01 En deconstrucción",
         "image": "https://www.formulatv.com/images/series/posters/2800/2892/dest_3.jpg",
@@ -127,7 +126,6 @@
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	}
-
 	]
 	},
 
@@ -137,7 +135,6 @@
 	"image": "https://pics.filmaffinity.com/machos_alfa-669719382-large.jpg",
 	"stations":
 	[
-
 	{
        	"name": "2x01 Me siento como… deconstruido",
         "image": "https://pics.filmaffinity.com/machos_alfa-669719382-large.jpg",
@@ -242,6 +239,125 @@
         "image": "https://pics.filmaffinity.com/machos_alfa-669719382-large.jpg",
         "url": "https://filemoon.sx/d/3wvjrkk6r7kb/Ver_mchs_lff_2x10_m720p_mp4.mp4",
        	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 3",
+	"info": "2025",
+	"image": "https://decine21.com/img/upload/obras/machos-alfa-46364/src/machos-alfa-46364-c.jpg",
+	"stations":
+	[
+	{
+       	"name": "3x01 Hombres evolucionantes",
+        "image": "https://decine21.com/img/upload/obras/machos-alfa-46364/src/machos-alfa-46364-c.jpg",
+        "url": "https://filemoon.to/d/xlneu54umktf/Machos_alfa_S03E01_Hombres_evolucionantes.mp4",
+       	"info": "2025",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x02 ",
+        "image": "https://decine21.com/img/upload/obras/machos-alfa-46364/src/machos-alfa-46364-c.jpg",
+        "url": "https:",
+       	"info": "2025",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x03 ",
+        "image": "https://decine21.com/img/upload/obras/machos-alfa-46364/src/machos-alfa-46364-c.jpg",
+        "url": "https:",
+       	"info": "2025",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x04 ",
+        "image": "https://decine21.com/img/upload/obras/machos-alfa-46364/src/machos-alfa-46364-c.jpg",
+        "url": "https:",
+       	"info": "2025",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x05 ",
+        "image": "https://decine21.com/img/upload/obras/machos-alfa-46364/src/machos-alfa-46364-c.jpg",
+        "url": "https:",
+       	"info": "2025",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x06 ",
+        "image": "https://decine21.com/img/upload/obras/machos-alfa-46364/src/machos-alfa-46364-c.jpg",
+        "url": "https:",
+       	"info": "2025",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x07 ",
+        "image": "https://decine21.com/img/upload/obras/machos-alfa-46364/src/machos-alfa-46364-c.jpg",
+        "url": "https:",
+       	"info": "2025",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x08 ",
+        "image": "https://decine21.com/img/upload/obras/machos-alfa-46364/src/machos-alfa-46364-c.jpg",
+        "url": "https:",
+       	"info": "2025",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x09 ",
+        "image": "https://decine21.com/img/upload/obras/machos-alfa-46364/src/machos-alfa-46364-c.jpg",
+        "url": "https:",
+       	"info": "2025",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "3x10 ",
+        "image": "https://decine21.com/img/upload/obras/machos-alfa-46364/src/machos-alfa-46364-c.jpg",
+        "url": "https:",
+       	"info": "2025",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
