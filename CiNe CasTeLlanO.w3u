@@ -2586,6 +2586,17 @@
       "online": "true"
     },
     {
+      "name": "FUEGO",
+      "image": "https://pics.filmaffinity.com/fuego-307183310-large.jpg",
+      "url": "https://listeamed.net/v/6zeREa0XG0jxZPa",
+      "info": "2014",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
       "name": "FUGA (BREAKOUT)",
       "image": "https://pics.filmaffinity.com/breakout-574162472-large.jpg",
       "url": "https://upstream.to/0v7m4hh9h1h5",
