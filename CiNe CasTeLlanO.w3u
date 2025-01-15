@@ -1287,6 +1287,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "CAZA, La",
+        "info": "[2012][Español]",
+        "image": "https://pics.filmaffinity.com/jagten_the_hunt-754157806-large.jpg",
+        "url": "https://filemoon.to/d/2ejd4dazgk48",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "CAZADOR DE RECOMPENSAS, EL",
       "info": "2022",
@@ -2682,6 +2691,24 @@
       "online": "true"
     },
     {
+      "name": "GHOSTLAND",
+      "image": "https://pics.filmaffinity.com/ghostland-186804143-large.jpg",
+      "info": "[2018]",
+      "url": "https://filemoon.to/d/4jwuzenwrayv/Ghostland_2018_Pelicula_esp_web_1080p_mkv.mp4",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "isHost": "true",
+      "online": "true"
+    },
+       {
+        "name": "GLADIATOR",
+        "info": "[2000][Español]",
+        "image": "https://es.web.img3.acsta.net/medias/nmedia/18/70/92/02/20149073.jpg",
+        "url": "https://filemoon.to/d/yaakq9zzhi0m",
+        "online": "true",
+        "isHost": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+    {
       "name": "GLADIATOR 2",
       "image": "https://pics.filmaffinity.com/gladiator_ii-808387712-large.jpg",
       "info": "[2024]",
@@ -2831,6 +2858,15 @@
       "isHost": "true",
       "online": "true"
     },
+        {
+        "name": "HARRIET, EN BUSCA DE LA LIBERTAD",
+        "info": "[2019][Español]",
+        "online": "true",
+        "image": "https://pics.filmaffinity.com/harriet-601150025-large.jpg",
+        "url": "https://filemoon.to/d/bvitklx2pfc6",
+        "isHost": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "HELEN MIRREN, DESAFIANTE Y MAJESTUOSA",
       "image": "https://pics.filmaffinity.com/helen_mirren_une_actrice_royale-278624186-large.jpg",
@@ -2932,6 +2968,15 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
+        {
+        "name": "HOGAR",
+        "info": "[2020][Español]",
+        "image": "https://pics.filmaffinity.com/Hogar-588283070-large.jpg",
+        "url": "https://filemoon.to/d/c41z3saeoo7j",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "HOLY SPIDER",
       "info": "2022",
@@ -3319,6 +3364,15 @@
       "isHost": "true",
       "online": "true"
     },
+        {
+        "name": "JESUS DE NAZARET",
+        "info": "[1977][Español]",
+        "online": "true",
+        "image": "https://pics.filmaffinity.com/jesus_of_nazareth-101677941-large.jpg",
+        "url": "https://filemoon.to/d/r160i7gxc84m/Jesus_Nazaret_1977_Pelicula_Edicion_Especial_DVDRIP_Spanish_mkv.mp4",
+        "isHost": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
 {
       "name": "JIRAFA EN EL BALCÓN, UNA",
       "image": "https://i.postimg.cc/8zS8TW7G/IMG-20241108-161101-259.jpg",
