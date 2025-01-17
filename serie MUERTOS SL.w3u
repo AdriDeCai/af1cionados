@@ -6,9 +6,14 @@
 "info": "bY AdriDeCai",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": "@YIsus_mEx",
-"stations":
+"groups":
 	[
 
+	{	
+	"name": "TEMPORADA 1",
+	"image": "https://pics.filmaffinity.com/muertos_s_l-497350368-large.jpg",
+	"stations":
+	[
 	{
 	"name": "CAPITULO 1",
         "image": "https://pics.filmaffinity.com/muertos_s_l-497350368-large.jpg",
@@ -97,6 +102,38 @@
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	}
+	]
+	},
+
+	{	
+	"name": "TEMPORADA 2",
+	"image": "https://pics.filmaffinity.com/muertos_s_l-497350368-large.jpg",
+	"stations":
+	[
+	{
+	"name": "CAPITULO 1",
+        "image": "https://pics.filmaffinity.com/muertos_s_l-497350368-large.jpg",
+        "url": "https://filemoon.to/d/2ozvajqy7c0t/2x01_Muertos_S.L._online__2024__-_Movistar_Plus_.mp4",
+       	"info": "[Español 2025]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 2",
+        "image": "https://pics.filmaffinity.com/muertos_s_l-497350368-large.jpg",
+        "url": "https://filemoon.to/d/15b4u1h71f99/2x02_Muertos_S.L._online__2024__-_Movistar_Plus_.mp4",
+       	"info": "[Español 2025]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	}
 
 ]
 }
