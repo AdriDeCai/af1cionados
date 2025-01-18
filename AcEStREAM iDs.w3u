@@ -139,40 +139,12 @@
 	},
 
 	{
-	"name": "MOVISTAR PLUS [1080]",
-	"image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
-	"imageScale": "",
-	"info":"",
-	"stations":
-		[
-			{
-			"name": "MOVISTAR PLUS [1080]",
-			"info":"582f",
-			"image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
-			"url": "acestream://56ac8e227d526e722624675ccdd91b0cc850582f"
-			}
-		]
-	},
-
-	{
 	"name": "LA LIGA EA SPORT",
 	"image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
 	"imageScale": "",
 	"info":"",
 	"stations":
 		[
-		{
-		"name": "LaLiga Tv Bar [1080]",
-		"info":"b53f",
-		"image": "https://i.postimg.cc/ncTvcSw3/liga-bar.png",
-		"url": "acestream://94d34491106e00394835c8cb68aa94481339b53f"
-		},
-		{
-		"name": "LaLiga Tv Bar [1080]",
-		"info":"990e",
-		"image": "https://i.postimg.cc/ncTvcSw3/liga-bar.png",
-		"url": "acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e"
-		},
 		{
 		"name": "M LaLiga [UHD]",
 		"info": "05cf",
@@ -231,19 +203,19 @@
 		"name": "M LaLiga 4 [1080]",
 		"info": "4a86",
 		"image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
-		"url": "acestream://eee6144058d6106c243cbde774b05bff4a704a86"
+		"url": "acestream://68697ea4f261289d97bbc3418ad3cbc4180aa32f"
 		},
 		{
-		"name": "M LaLiga 5 [1080]",
-		"info": "70b2",
-		"image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
-		"url": "acestream://535394f62a810bc5aeb25be75ea5ff7d03e070b2"
+		"name": "LaLiga Tv Bar [1080]",
+		"info":"b53f",
+		"image": "https://i.postimg.cc/ncTvcSw3/liga-bar.png",
+		"url": "acestream://94d34491106e00394835c8cb68aa94481339b53f"
 		},
 		{
-		"name": "M LaLiga 6 [1080]",
-		"info": "b51b",
-		"image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
-		"url": "acestream://c896d37778f9e43549a788fc22206a655895b51b"
+		"name": "LaLiga Tv Bar [1080]",
+		"info":"990e",
+		"image": "https://i.postimg.cc/ncTvcSw3/liga-bar.png",
+		"url": "acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e"
 		},
 		{
 		"name": "DAZN LaLiga [1080][Multiaudio]",
@@ -274,12 +246,6 @@
 		"info": "53d9",
 		"image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
 		"url": "acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9"
-		},
-		{
-		"name": "DAZN LaLiga 3 [1080][Multiaudio]",
-		"info": "ba74",
-		"image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
-		"url": "acestream://8c71f0e0a5476e10950fc827f9d2a507340aba74"
 		}
 		]
 	},
@@ -318,36 +284,6 @@
 			"info": "13ea",
 			"image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
 			"url": "acestream://fefd45ed6ff415e05f1341b7d9da2988eacd13ea"
-			},
-			{
-			"name": "LaLiga HyperMotion 4",
-			"info": "bbf2",
-			"image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-			"url": "acestream://ef3a9359800bba51018fe00ac84afb8e79a7bbf2"
-			},
-			{
-			"name": "LaLiga HyperMotion 5",
-			"info": "2af0",
-			"image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-			"url": "acestream://7a6f7c3acc3689c40f2300432723c55d41222af0"
-			},
-			{
-			"name": "LaLiga HyperMotion 6",
-			"info": "f631",
-			"image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-			"url": "acestream://5bd78125bd1e98c3f49e98910ed15e39d0b9f631"
-			},
-			{
-			"name": "LaLiga HyperMotion 7",
-			"info": "0f69",
-			"image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-			"url": "acestream://b7e43c2c3887864193578eb57079955c50070f69"
-			},
-			{
-			"name": "LaLiga HyperMotion 8",
-			"info": "d7b8",
-			"image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-			"url": "acestream://11c89343be863cf2a69b3973747c629d9e79d7b8"
 			}
 		]
 	},
@@ -361,27 +297,15 @@
 		[
 			{
 			"name": "COPA DEL REY 1 (1080)",
+			"info": "e8d1",
+			"image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
+			"url": "acestream://f785c45f32379c3b0e332c20bbd05a7fb311e8d1"
+			},
+			{
+			"name": "COPA DEL REY 2 (1080)",
 			"info": "61b4",
 			"image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
 			"url": "acestream://f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4"
-			},
-			{
-			"name": "COPA DEL REY PLUS (1080)",
-			"info": "496e",
-			"image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
-			"url": "acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e"
-			},
-			{
-			"name": "COPA DEL REY (1080)(MULTIAUDIO)",
-			"info": "d281",
-			"image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
-			"url": "acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281"
-			},
-			{
-			"name": "COPA DEL REY (1080)",
-			"info": "443d",
-			"image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
-			"url": "acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d"
 			},
 			{
 			"name": "COPA DEL REY (720)",
@@ -662,28 +586,28 @@
 	"stations":
 		[
 			{
-			"name": "DAZN F1 Multicamara [UHD]",
-			"info": "346e",
+			"name": "DAZN F1 [1080]",
+			"info": "9dc9",
 			"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-			"url": "acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e"
+			"url": "acestream://d6281d4e6310269b416180442a470d23a4a99dc9"
 			},
 			{
 			"name": "DAZN F1 [1080]",
-			"info": "3f4d",
+			"info": "63b6",
 			"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-			"url": "acestream://5789ca155323664edd293b848606688edf803f4d"
+			"url": "acestream://2c6e4c897661e6b0257bfe931b66d20b2ec763b6"
 			},
 			{
 			"name": "DAZN F1 [1080]",
-			"info": "3dd5",
+			"info": "2dfa",
 			"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-			"url": "acestream://9dad717d99b29a05672166258a77c25b57713dd5"
+			"url": "acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa"
 			},
 			{
 			"name": "DAZN F1 [720]",
-			"info": "65c2",
+			"info": "4b85",
 			"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-			"url": "acestream://e1fcad9de0c782c157fde6377805c58297ab65c2"
+			"url": "acestream://268289e7a3c5209960b53b4d43c8c65fab294b85"
 			}
 		]
 	},
