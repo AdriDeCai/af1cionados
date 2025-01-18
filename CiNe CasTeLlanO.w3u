@@ -1128,6 +1128,17 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
      },
+{
+      "name": "CALENDARIO MORTAL",
+      "image": "https://pics.filmaffinity.com/der_heimweg_aka_sebastian_fitzeks_der_heimweg-230380923-large.jpg",
+      "url": "https://filemoon.to/d/l0pr1cndpk5x/Calendario.mortal.2025.1080p.WEB-DL-DUAL.mkv",
+      "info": "2025",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+     },
     {
       "name": "CALLES DE FUEGO",
       "image": "https://pics.filmaffinity.com/streets_of_fire-403171158-large.jpg",
@@ -1223,7 +1234,7 @@
       "info": "[Español][2000]",
       "isHost": "true",
       "online": "true",
-      "userAgent": ""
+      "userAgent": "PlusMediaPlayer/0.0.9"
     },
     {
       "name": "CAPITAN AMERICA, EL PRIMER VENGADOR",
@@ -1243,7 +1254,7 @@
       "info": "[Españo 1997]",
       "isHost": "true",
       "online": "true",
-      "userAgent": ""
+      "userAgent": "PlusMediaPlayer/0.0.9"
     },
         {
         "name": "CASA DE CERA, LA",
