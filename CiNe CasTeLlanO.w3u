@@ -225,6 +225,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "ALONE",
+        "info": "[2020][Español]",
+        "image": "https://pics.filmaffinity.com/Alone-958860872-large.jpg",
+        "url": "https://filemoon.to/d/f1ewbkdme4gd",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
 {
       "name": "AGUANTA LA RESPIRACIÓN",
       "image": "https://i.postimg.cc/wBXyRQfB/IMG-20241009-114501-593.jpg",
@@ -823,6 +832,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "BAY, THE",
+        "info": "[2012][Español]",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDEzMWU2YWUtOWVkMy00OTg0LTkyMjctMDA3MDc2NGViYjU5XkEyXkFqcGc@._V1_.jpg",
+        "url": "https://filemoon.to/d/0983zxwh02hl",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "BEAST, THE (LA BESTIA)",
       "image": "https://pics.filmaffinity.com/la_bete_the_beast-736483119-large.jpg",
@@ -973,6 +991,15 @@
       "isHost": "true",
       "online": "true"
     },
+        {
+        "name": "BOAT,THE",
+        "info": "[2023][Español]",
+        "image": "https://pics.filmaffinity.com/the_boat-434513519-large.jpg",
+        "url": "https://filemoon.to/d/vy15kwf6ibzk",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "BOB MARLEY, ONE LOVE",
       "info": "2024",
@@ -4228,6 +4255,15 @@
       "import": false
     },
         {
+        "name": "MERCY",
+        "info": "[2014][Español]",
+        "image": "https://www.ibs.it/images/5053083023935_0_536_0_75.jpg",
+        "url": "https://filemoon.to/d/9rbwwza73ibq",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
         "name": "MESITA DEL COMEDOR, LA",
         "info": "[2022][Español]",
         "image": "https://pics.filmaffinity.com/la_mesita_del_comedor-401694950-large.jpg",
@@ -4362,6 +4398,15 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
+        {
+        "name": "MINORITY REPORT",
+        "info": "[2002][Español]",
+        "image": "https://pics.filmaffinity.com/minority_report-245842962-large.jpg",
+        "url": "https://filemoon.to/d/cukzbeftwmy5",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "MISION PANAMA",
       "image": "https://i.postimg.cc/Yq4ZwrGq/Misio-n-Panama-2022-Pelicula.jpg",
@@ -5669,6 +5714,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "SHOW DE THRUMAN, EL",
+        "info": "[1998][Español]",
+        "image": "https://pics.filmaffinity.com/El_show_de_Truman-130091557-large.jpg",
+        "url": "https://listeamed.net/v/k3gG5q80QyBO1N2",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
 {
 "name": "SILENCIO DE LAS PALABRAS, EL",
 "image": "https://i.postimg.cc/vZQSWV8j/IMG-20241205-100024-606.jpg",
