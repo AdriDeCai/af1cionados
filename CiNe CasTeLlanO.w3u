@@ -5223,6 +5223,17 @@
       "import": false
     },
     {
+      "name": "PREDESTINATIONS",
+      "image": "https://pics.filmaffinity.com/predestination-972600742-large.jpg",
+      "url": "https://listeamed.net/v/KrdZ5kMVXMaEmX4",
+      "info": "2014",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
       "name": "PRIMER DIA DE MI VIDA, EL",
       "image": "https://pics.filmaffinity.com/il_primo_giorno_della_mia_vita-830461077-large.jpg",
       "url": "https://upstream.to/dr2kayx48r3h",
@@ -6276,6 +6287,17 @@
       "info": "2011",
       "image": "https://pics.filmaffinity.com/Thor-223512549-large.jpg",
       "url": "https://upstream.to/gu0hcbka9b6d",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "THREE AMIGOS",
+      "info": "1986",
+      "image": "https://pics.filmaffinity.com/three_amigos-739056074-large.jpg",
+      "url": "https://listeamed.net/v/VqbX53BvKpBOQzp",
       "embed": "",
       "isHost": "true",
       "online": "true",
