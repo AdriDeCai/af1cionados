@@ -5122,6 +5122,15 @@
 "import": false
 },
     {
+      "name": "PLANETA LIBRE",
+      "info": "[1996][Español]",
+      "image": "https://www.justwatch.com/images/poster/159965911/s718/planeta-libre.jpg",
+      "url": "https://filemoon.to/d/vzqserr4712n",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
       "name": "POBRES CRIATURAS",
       "image": "https://pics.filmaffinity.com/poor_things-235700969-large.jpg",
       "url": "https://bembed.net/v/QNB7xA2Bn80E0WG",
@@ -5227,6 +5236,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "PUENTE HASTA TERABITHIA",
+        "info": "[2007][Español]",
+        "image": "https://pics.filmaffinity.com/Un_puente_hacia_Terabithia-349890819-large.jpg",
+        "url": "https://vidhideplus.com/file/136sjplpra1y",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "PUNTOS SUSPENSIVOS",
       "image": "https://pics.filmaffinity.com/puntos_suspensivos-800133577-large.jpg",
