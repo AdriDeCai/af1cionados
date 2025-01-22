@@ -2071,6 +2071,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
      },
+        {
+        "name": "DJANGO DESENCADENADO",
+        "info": "[2012][Español]",
+        "image": "https://es.web.img2.acsta.net/medias/nmedia/18/92/38/67/20383018.jpg",
+        "url": "https://upstream.to/qn0bb9jd7xmw",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "DOCTOR SUEÑO",
       "info": "[2019][Español]",
@@ -5009,6 +5018,15 @@
       "online": "true",
       "import": false
     },
+        {
+        "name": "PEARL HARBOR",
+        "info": "[2001][Español]",
+        "image": "https://es.web.img3.acsta.net/pictures/14/02/26/13/43/492816.jpg",
+        "url": "https://upstream.to/7utoj1vkn1ix",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "PELICULA BARATA, UNA",
       "image": "https://pics.filmaffinity.com/una_pelicula_barata-687115231-large.jpg",
@@ -5433,6 +5451,15 @@
       "isHost": "true",
       "online": "true"
     },
+    {
+      "name": "REY EN LA HABANA, UN",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTY0MDAyYzMtNmU4ZC00YjA5LThjNzgtZjNhM2E1NjNmM2JkXkEyXkFqcGc@._V1_.jpg",
+      "info": "[2005]",
+      "url": "https://ryderjet.com/file/ik0ung268pbi",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "isHost": "true",
+      "online": "true"
+    },
 {
       "name": "REZ BALL",
       "image": "https://i.postimg.cc/RZPrbx7y/IMG-20240929-231318-703.jpg",
@@ -5582,6 +5609,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "SADNESS, THE",
+        "info": "[2021][Español]",
+        "image": "https://images.justwatch.com/poster/270316548/s718/the-sadness.jpg",
+        "url": "https://filemoon.to/d/oii47j3d0kjs",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "SALA DE PROFESORES",
       "image": "https://pics.filmaffinity.com/das_lehrerzimmer-488995644-large.jpg",
@@ -5648,6 +5684,15 @@
       "import": false
     },
     {
+      "name": "SE TU MISMA",
+      "info": "2023",
+      "image": "https://i.postimg.cc/5tLGHPyN/S-t-misma-2023-Pelicula.jpg",
+      "url": "https://upstream.to/hoc37koqksk9",
+      "embed": "",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
       "name": "SECADEROS",
       "image": "https://pics.filmaffinity.com/secaderos-715036939-large.jpg",
       "url": "https://upstream.to/y0bmpyujckjs",
@@ -5669,6 +5714,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+    {
+      "name": "SEGUNDO PREMIO",
+      "image": "https://pics.filmaffinity.com/segundo_premio-839408415-large.jpg",
+      "info": "[2024]",
+      "url": "https://ryderjet.com/file/osafnb3pq13b",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "isHost": "true",
+      "online": "true"
+    },
 {
 "name": "SEIS TRIPLE OCHO",
 "image": "https://i.postimg.cc/JzFz69hf/IMG-20241223-085107-649.jpg",
@@ -5680,26 +5734,6 @@
 "userAgent": "PlusMediaPlayer/0.0.9",
 "import": false
 },
-    {
-      "name": "SEÑOR DE LA GUERRA",
-      "image": "https://pics.filmaffinity.com/lord_of_war-604520828-large.jpg",
-      "url": "https://filemoon.to/d/0hhazxa7tlpn/El_se_or_de_la_guerra__2005_.mp4",
-      "info": "2005",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "SE TU MISMA",
-      "info": "2023",
-      "image": "https://i.postimg.cc/5tLGHPyN/S-t-misma-2023-Pelicula.jpg",
-      "url": "https://upstream.to/hoc37koqksk9",
-      "embed": "",
-      "isHost": "true",
-      "online": "true"
-    },
     {
       "name": "SHAZAM",
       "info": "2023",
@@ -5818,11 +5852,40 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "SMILE",
+        "info": "[2022][Español]",
+        "image": "https://pics.filmaffinity.com/Smile-843278209-mmed.jpg",
+        "url": "https://filemoon.to/d/q02yio5dqwco",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "SMILE 2",
       "image": "https://i.postimg.cc/YqjZXJYz/IMG-20241119-183616-232.jpg",
       "url": "https://swishsrv.com/e/8y11od287i0y",
       "info": "2024",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+        {
+        "name": "SEÑOR DE LA GUERRA, EL",
+        "info": "[2005][Español]",
+        "image": "https://pics.filmaffinity.com/lord_of_war-604520828-large.jpg",
+        "url": "https://filemoon.to/d/xpa54goajvlc",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+    {
+      "name": "SEÑOR DE LA GUERRA",
+      "image": "https://pics.filmaffinity.com/lord_of_war-604520828-large.jpg",
+      "url": "https://filemoon.to/d/0hhazxa7tlpn/El_se_or_de_la_guerra__2005_.mp4",
+      "info": "2005",
       "embed": "",
       "isHost": "true",
       "online": "true",
@@ -6070,6 +6133,15 @@
 "userAgent": "PlusMediaPlayer/0.0.9",
 "import": false
 },
+        {
+        "name": "TAXI DRIVER",
+        "info": "[1976][Español]",
+        "image": "https://images.justwatch.com/poster/308916776/s718/taxi-driver.jpg",
+        "url": "https://filemoon.to/d/q1tti2821zay",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "TE ESTOY AMANDO LOCAMENTE",
       "image": "https://pics.filmaffinity.com/te_estoy_amando_locamente-779963184-large.jpg",
@@ -6305,6 +6377,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "TRAMPA, LA",
+        "info": "[2024][Español]",
+        "image": "https://es.web.img3.acsta.net/img/6f/23/6f23fb1b04dc2b8ca6aba2f896fb0195.jpg",
+        "url": "https://vidhideplus.com/v/kbskua1p41ou",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "TRANSFORMER, EL DESPERTAR DE LAS BESTIAS",
       "info": "2023",
@@ -6334,6 +6415,15 @@
 "isHost": "true",
 "online": "true"
 },
+        {
+        "name": "TURISTAS",
+        "info": "[2006][Español]",
+        "image": "https://pics.filmaffinity.com/Turistas-439075858-mmed.jpg",
+        "url": "https://filemoon.to/d/saw10tl73087",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "ULTIMO GUERRERO, EL: LAS RAICES DEL MAL",
       "info": "[2021][Español]",
