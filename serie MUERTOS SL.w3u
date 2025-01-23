@@ -131,6 +131,28 @@
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
+       	},
+	{
+	"name": "CAPITULO 3",
+        "image": "https://pics.filmaffinity.com/muertos_s_l-497350368-large.jpg",
+        "url": "https://filemoon.to/d/dwytm1gw5dig/2x03_Muertos_S.L._online__2024__-_Movistar_Plus_.mp4",
+       	"info": "[Español 2025]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 4",
+        "image": "https://pics.filmaffinity.com/muertos_s_l-497350368-large.jpg",
+        "url": "https://filemoon.to/d/y7l2y4je9ktc/2x04_Muertos_S.L._online__2024__-_Movistar_Plus_.mp4",
+       	"info": "[Español 2025]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
        	}
 	]
 	}
