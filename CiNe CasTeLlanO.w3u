@@ -195,11 +195,22 @@
       "isHost": "true",
       "online": "true"
     },
+{
+      "name": "ABUELA Y EL FORASTERO, LA",
+      "info": "2024",
+      "image": "https://pics.filmaffinity.com/l_avia_i_el_foraster-705439334-large.jpg",
+      "url": "https://listeamed.net/v/PKN4OwWGkyXODLj",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "isHost": "true",
+      "online": "true"
+    },
     {
       "name": "ADICCION PERFECTA",
       "info": "2023",
       "image": "https://i.postimg.cc/8cwMB9hw/ADICCION_PERFECTA_(2023_)(Pelicula).jpg",
       "url": "https://upstream.to/wusm62nkl42v",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "isHost": "true",
       "online": "true"
@@ -4957,6 +4968,16 @@
       "isHost": "true",
       "online": "true",
       "import": false
+    },
+{
+      "name": "PALACIO ESTILISTAS",
+      "info": "2023",
+      "image": "https://pics.filmaffinity.com/palacio_estilistas-855020728-large.jpg",
+      "url": "https://listeamed.net/v/nyg9EKM3RQa5bk4",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "isHost": "true",
+      "online": "true"
     },
     {
       "name": "PANICO A LA DERIVA",
