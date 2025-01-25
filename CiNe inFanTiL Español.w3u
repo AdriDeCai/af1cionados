@@ -247,7 +247,7 @@
         "info":"2022",
         "image": "https://i.postimg.cc/c4653Wzf/Chip-y-Chop-los-guardianes-rescatadores-2022-pelicula-infantil.jpg",
         "url":"https://upstream.to/fnbj3d83na3d",
-        "embed":"",
+        "userAgent":"PlusMediaPlayer/0.0.9",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -268,7 +268,7 @@
         "info":"2018",
         "image": "https://i.postimg.cc/MHC7T24X/Coco-2017-Pelicula-infantil.jpg",
         "url":"https://upstream.to/95h5vdr6hseo",
-        "embed":"",
+        "userAgent":"PlusMediaPlayer/0.0.9",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -284,7 +284,7 @@
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
-		{
+	{
        	"name": "COPPELIA",
         "image": "https://pics.filmaffinity.com/coppelia-612414923-large.jpg",
         "url": "https://upstream.to/59mkjvj5euot",
@@ -292,37 +292,37 @@
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9",
+	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
    	
 
-		{
+	{
         "name": "DEL REVÉS (iNSIDE OUT)",
         "image": "https://i.postimg.cc/QMYZVC7X/Del-Reves-2015-Pelicula-infantil.jpg",
        	"url": "https://upstream.to/kodq926pb4pi",
        	"info":"2015",
-       	"embed":"",
+       	"userAgent":"PlusMediaPlayer/0.0.9",
        	"isHost":"true",
        	"online":"true",
        	"import": false
        	},
-		{
+	{
         "name": "DEL REVÉS 2 (iNSIDE OUT 2)",
         "image": "https://pics.filmaffinity.com/inside_out_2-365634749-large.jpg",
        	"url": "https://filemoon.to/d/a8pfa7oxizeb/Del_rev_s_2__2024_.mp4",
        	"info":"2024",
-       	"embed":"",
+       	"userAgent":"PlusMediaPlayer/0.0.9",
        	"isHost":"true",
        	"online":"true",
        	"import": false
        	},
-		{
+	{
         "name": "DIARIO DE GREG, EL",
         "info":"2021",
         "image": "https://i.postimg.cc/1z76mzQt/El-diario-de-Greg-2021-Pelicula-infantil.jpg",
         "url":"https://upstream.to/uc1rdnziuwn0",
-		"embed":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
         "isHost":"true",
         "online":"true" 
 		},
@@ -342,7 +342,7 @@
        	"image": "https://i.postimg.cc/7L1K8PKB/Dieciocho-otra-vez-2023-Pelicula-infantil.jpg",
        	"url": "https://upstream.to/470mfe5gmy0a",
        	"info":"2023",
-       	"embed":"",
+       	"userAgent":"PlusMediaPlayer/0.0.9",
        	"isHost":"true",
        	"online":"true",
        	"import": false
@@ -364,7 +364,7 @@
        	"url": "https://upstream.to/4lqwqzc6hsfu",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"info":"2022",
-       	"embed":"",
+       	"userAgent":"PlusMediaPlayer/0.0.9",
        	"isHost":"true",
        	"online":"true",
        	"import": false
