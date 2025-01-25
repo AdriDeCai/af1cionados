@@ -36,9 +36,31 @@
       "online": "true"
     },
     {
-      "name": "8 APELLIDOS MARROQUÍS",
+      "name": "8 APELLIDOS 1 (VASCOS)",
+      "image": "https://pics.filmaffinity.com/ocho_apellidos_vascos-836127633-large.jpg",
+      "url": "",
+      "info": "2014",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "8 APELLIDOS 2 (CATALANES)",
+      "image": "https://pics.filmaffinity.com/ocho_apellidos_catalanes-640444128-large.jpg",
+      "url": "",
+      "info": "2015",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "8 APELLIDOS 3 (MARROQUÍS)",
       "image": "https://pics.filmaffinity.com/ocho_apellidos_marroquis-568123490-large.jpg",
-      "url": "https://bembed.net/v/k3gG5q37QyoE1N2",
+      "url": "",
       "info": "2023",
       "embed": "",
       "isHost": "true",
