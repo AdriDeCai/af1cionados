@@ -1959,7 +1959,7 @@
         "name": "TROLLS 1",
         "image": "https://pics.filmaffinity.com/trolls-351313154-large.jpg", 
 	"info": "2016",
-        "url": "",
+        "url": "https://listeamed.net/v/eL2157MdPoRErw4",
         "embed":"",
         "isHost":"true",
         "online":"true",
@@ -1975,7 +1975,16 @@
         "online":"true",
         "import": false
 	},
-
+	{ 
+        "name": "TROLLS 3, TODOS JUNTOS",
+        "image": "https://pics.filmaffinity.com/trolls_band_together-317254315-large.jpg", 
+	"info": "2023",
+        "url": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+	},
 
 	{ 
 	"name": "UN MUNDO DE FANTASIA WILLY WONKA Y LA FABRICA DE CHOCOLATE",
