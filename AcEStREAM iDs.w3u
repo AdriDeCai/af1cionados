@@ -7,6 +7,7 @@
     "info": "Lista recopilada de Ids. bY. Lukas",
     "groups": 
 	[
+
 	{
         "name": "ACESTREAM MIX",
         "image": "https://i.postimg.cc/Wp0X5yWD/logo-acestream-2.png",
@@ -14,23 +15,6 @@
         "info":"bY. lUCas",
         "import": false
         },
-
-	{
-	"name": "DAKAR 2025",
-	"image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.rcnradio.com%2F_next%2Fimage%3Furl%3Dhttps%253A%252F%252Ffiles.rcnradio.com%252Fpublic%252Fstyles%252F16_9%252Fpublic%252F2025-01%252FRallyDakar.jpg%253FVersionId%253DoetFGb9lyFhzZIsIXimPQughgSiEMZ05%2526h%253Dc74750f6%2526itok%253D-k9kZkqM%26w%3D3840%26q%3D75&f=1&nofb=1&ipt=a19207f9b150c8fb57abcd17be8d7f766ee0418a44c8e437f6322e2b165a4b2e&ipo=images",
-	"imageScale": "",
-	"info":"",
-	"stations":
-	[
-        	{
-        	"name": "DAKAR 2025",
-        	"info": "7de9",
-        	"online":"true",
-        	"image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.rcnradio.com%2F_next%2Fimage%3Furl%3Dhttps%253A%252F%252Ffiles.rcnradio.com%252Fpublic%252Fstyles%252F16_9%252Fpublic%252F2025-01%252FRallyDakar.jpg%253FVersionId%253DoetFGb9lyFhzZIsIXimPQughgSiEMZ05%2526h%253Dc74750f6%2526itok%253D-k9kZkqM%26w%3D3840%26q%3D75&f=1&nofb=1&ipt=a19207f9b150c8fb57abcd17be8d7f766ee0418a44c8e437f6322e2b165a4b2e&ipo=images",
-        	"url": "acestream://f8a1acbf088e8484d178b52e86ab2510f8417de9"
-        	}
-	]
-	},
 
 	{
 	"name": "CANALES ESPAÑA",
