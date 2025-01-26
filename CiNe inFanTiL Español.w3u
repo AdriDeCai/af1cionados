@@ -1956,10 +1956,20 @@
         "import": false
 	},
 	{ 
+        "name": "TROLLS 1",
+        "image": "https://pics.filmaffinity.com/trolls-351313154-large.jpg", 
+	"info": "2016",
+        "url": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+	},
+	{ 
         "name": "TROLLS 2, GIRA MUNDIAL",
-	"info": "2020",
         "image": "https://i.postimg.cc/3RvyBd2B/Trolls-2-Gira-Mundial-2020-Pelicula-infantil.jpg", 
-        "url": "https://upstream.to/2d5lit3cn448",
+	"info": "2020",
+        "url": "https://listeamed.net/v/QNB7xA326oXO0WG",
         "embed":"",
         "isHost":"true",
         "online":"true",
