@@ -5535,6 +5535,7 @@
       "image": "https://i.postimg.cc/KjZ5ZH4V/El-rio-de-la-ira-2022-Pelicula.jpg",
       "url": "http://vidmoly.me/w/qzdmi43nhzdb",
       "info": "2022",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "userAgent": "",
       "isHost": "true",
       "online": "true"
@@ -5606,33 +5607,6 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "isHost": "true",
       "online": "true"
-    },
-    {
-      "name": "THE WASP",
-      "image": "https://pics.filmaffinity.com/the_wasp-485747197-mmed.jpg",
-      "url": "https://filemoon.to/d/c90s6u2kz4ss",
-      "info": "[Español][2024]",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
-    {
-      "name": "TRAMPA, LA",
-      "image": "https://pics.filmaffinity.com/trap-586929828-large.jpg",
-      "url": "https://listeamed.net/v/b4ZJx2mm49R52P3",
-      "info": "[Español][2024]",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
-    {
-      "name": "TREN DE LOS NIÑOS, EL",
-      "image": "https://pics.filmaffinity.com/il_treno_dei_bambini-993617059-large.jpg",
-      "url": "https://listeamed.net/v/0DogOGWd898OKjM",
-      "info": "[Español][2024]",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
     },
     {
       "name": "SABOR DE LAS COSAS SIMPLES, EL",
@@ -5791,10 +5765,21 @@
         "userAgent": "PlusMediaPlayer/0.0.9"
         },
     {
-      "name": "SEÑOR DE LA GUERRA",
+      "name": "SEÑOR DE LA GUERRA, EL",
       "image": "https://pics.filmaffinity.com/lord_of_war-604520828-large.jpg",
       "url": "https://filemoon.to/d/0hhazxa7tlpn/El_se_or_de_la_guerra__2005_.mp4",
       "info": "2005",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "SEVEN",
+      "image": "https://pics.filmaffinity.com/seven_se7en-734875211-large.jpg",
+      "url": "",
+      "info": "1995",
       "embed": "",
       "isHost": "true",
       "online": "true",
@@ -6223,6 +6208,15 @@
       "import": false
     },
     {
+      "name": "THE WASP",
+      "image": "https://pics.filmaffinity.com/the_wasp-485747197-mmed.jpg",
+      "url": "https://filemoon.to/d/c90s6u2kz4ss",
+      "info": "[Español][2024]",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
       "name": "THE BEST MAN",
       "image": "https://i.postimg.cc/x1djxNJS/The_best_man_(2023)(Pelicula).jpg",
       "url": "https://upstream.to/p78f7a0d5ze0",
@@ -6456,6 +6450,15 @@
         "userAgent": "PlusMediaPlayer/0.0.9"
         },
     {
+      "name": "TRAMPA, LA",
+      "image": "https://pics.filmaffinity.com/trap-586929828-large.jpg",
+      "url": "https://listeamed.net/v/b4ZJx2mm49R52P3",
+      "info": "[Español][2024]",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
       "name": "TRANSFORMER, EL DESPERTAR DE LAS BESTIAS",
       "info": "2023",
       "image": "https://pics.filmaffinity.com/transformers_rise_of_the_beasts-717876501-large.jpg",
@@ -6484,6 +6487,15 @@
 "isHost": "true",
 "online": "true"
 },
+    {
+      "name": "TREN DE LOS NIÑOS, EL",
+      "image": "https://pics.filmaffinity.com/il_treno_dei_bambini-993617059-large.jpg",
+      "url": "https://listeamed.net/v/0DogOGWd898OKjM",
+      "info": "[Español][2024]",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
         {
         "name": "TURISTAS",
         "info": "[2006][Español]",
