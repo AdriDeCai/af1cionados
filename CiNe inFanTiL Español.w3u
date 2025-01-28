@@ -15,6 +15,7 @@
         "url": "https://filemoon.to/d/0qj3tgz5h6fz/10_vidas__2024__Pelicula_infantil_espa_ol.mp4",
         "info": "2024",
 	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
         "embed":"",
         "isHost":"true",
         "online":"true",
@@ -143,6 +144,18 @@
         "online": "true",
         "import": false
 	},
+	{
+        "name": "BEE MOVIE",
+        "image": "https://pics.filmaffinity.com/bee_movie-441375499-large.jpg",
+        "url": "https://filemoon.to/d/3ajer4wioo5r/Bee.Movie._Spanish.English.Subs_.HD.1080p.x264-AC3..mkv",
+        "info": "2024",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
 	{ 
 	"name": "BENJI, EL PERSEGUIDO",
 	"info": "1987",
@@ -1135,6 +1148,18 @@
         "import": false
 	},
 	{
+        "name": "MIRACULOUS WORLD PARIS",
+        "image": "https://pics.filmaffinity.com/miraculous_world_paris_tales_of_shadybug_and_claw_noir-214644211-large.jpg",
+        "url": "https://filemoon.to/d/b2omduiuwc6b/Miraculous_World_Par_s__las_aventuras_de_Shadybug_y_Claw_Noir.mkv",
+        "info": "2023",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+	{
         "name": "MIXED BY ERRY",
 	"info": "2022",
 	"image": "https://i.postimg.cc/qvC2dTjq/Mixed-by-Erry-2023-Pelicula-familiar.jpg", 
@@ -1184,14 +1209,17 @@
         "isHost":"true",
         "online":"true"
         },
-       	{
+	{
         "name": "MUNDO EXTRAÑO",
-        "info":"2022",
-        "image": "https://i.postimg.cc/VNfG8LMd/Mundo-extra-o-2022-Pelicula-infantil.jpg",
-        "url":"https://upstream.to/7fq70hel3gf7",
+        "image": "https://pics.filmaffinity.com/strange_world-991340546-large.jpg",
+        "url": "https://filemoon.to/d/b953naey1e47/Mundo_Extra_o__2022_.mp4",
+        "info": "2022",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
         "embed":"",
         "isHost":"true",
-        "online":"true"
+        "online":"true",
+        "import": false
         },
 	{
        	"name": "NAVIDAD DEL PEQUEÑO BATMAN, LA",
@@ -1531,6 +1559,18 @@
 	"online":"true",
 	"import": false
 	},
+	{
+        "name": "RALPH ROMPE INTERNET",
+        "image": "https://pics.filmaffinity.com/ralph_breaks_the_internet-862794954-large.jpg",
+        "url": "https://filemoon.to/d/p7svsuay07o1/Ralph_Rompe_Internet__2018___CanalesLocos_.mkv",
+        "info": "2018",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
 	{ 
 	"name": "RATONPOLIS",
        	"info":"2006",
@@ -2173,7 +2213,19 @@
        	"isHost":"true",
        	"online":"true",
        	"import": false
-       	}
+       	},
+	{
+        "name": "ZOOTROPOLIS",
+        "image": "https://pics.filmaffinity.com/zootopia-155827662-large.jpg",
+        "url": "https://filemoon.to/d/fq7xlg1q2z3n/Zootropolis_-_2016_-_DVDRemux_-_CENTURYON_.mkv",
+        "info": "2016",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        }
 
 
     ]
