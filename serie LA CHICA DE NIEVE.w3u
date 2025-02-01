@@ -5,9 +5,14 @@
 "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20LA%20CHICA%20DE%20NIEVE.w3u",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳",
 "telegram": "@YIsus_mEx",
-"stations":
+"groups":
  [
 
+	{
+	"name": "TEMPORADA 1",
+	"image": "https://pics.filmaffinity.com/la_chica_de_nieve-216036834-large.jpg",
+	"stations":
+	[
 	{
        	"name": "1x01 LA CHICA DE NIEVE",
         "image": "https://pics.filmaffinity.com/la_chica_de_nieve-216036834-large.jpg",
@@ -74,6 +79,82 @@
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	}
+	]
+	},
+
+	{
+	"name": "TEMPORADA 2",
+	"image": "https://pics.filmaffinity.com/la_chica_de_nieve_2_el_juego_del_alma-956317682-large.jpg",
+	"stations":
+	[
+	{
+       	"name": "2x01 LA CHICA DE NIEVE",
+        "image": "https://pics.filmaffinity.com/la_chica_de_nieve_2_el_juego_del_alma-956317682-large.jpg",
+        "url": "https://filemoon.to/d/cy8uljmqm4in/La_chica_de_nieve_S02E01_Episodio_1.mp4",
+       	"info": "2025",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x02 LA CHICA DE NIEVE",
+        "image": "https://pics.filmaffinity.com/la_chica_de_nieve_2_el_juego_del_alma-956317682-large.jpg",
+        "url": "https://filemoon.to/d/tfjwleegx9ik/La_chica_de_nieve_S02E02_Episodio_2.mp4",
+       	"info": "2025",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x03 LA CHICA DE NIEVE",
+        "image": "https://pics.filmaffinity.com/la_chica_de_nieve_2_el_juego_del_alma-956317682-large.jpg",
+        "url": "https://filemoon.to/d/dz8lr71wvfgq/La_chica_de_nieve_S02E03_Episodio_3.mp4",
+       	"info": "2025",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x04 LA CHICA DE NIEVE",
+        "image": "https://pics.filmaffinity.com/la_chica_de_nieve_2_el_juego_del_alma-956317682-large.jpg",
+        "url": "https:",
+       	"info": "2025",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x05 LA CHICA DE NIEVE",
+        "image": "https://pics.filmaffinity.com/la_chica_de_nieve_2_el_juego_del_alma-956317682-large.jpg",
+        "url": "https:",
+       	"info": "2025",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "2x06 LA CHICA DE NIEVE",
+        "image": "https://pics.filmaffinity.com/la_chica_de_nieve_2_el_juego_del_alma-956317682-large.jpg",
+        "url": "https:",
+       	"info": "2025",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	}
 
 	]
 }
