@@ -1,742 +1,726 @@
 {
-"name": "JUEGO DE TRONOS",
-"image": "https://pics.filmaffinity.com/game_of_thrones-293142110-large.jpg",
-"info": "",
-"url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20JUEGO%20DE%20TRONOS.w3u",
-"telegram": "@YIsus_mEx",
-"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
-"groups": 
-	[
-	{
-	"name": "TEMPORADA 1",
-	"image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
-	"info": "",
-	"stations":
-		[
-		{
-		"name": "1x01 Se acerca el invierno",
-		"info": "",
-		"image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
-		"url": "https://upstream.to/o3xslvli8s99",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "1x02 El Camino Real",
-		"info": "",
-		"image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
-		"url": "https://upstream.to/tzpbjfbc1sy9",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "1x03 Lord Nieve ",
-		"info": "",
-		"image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
-		"url": "https://upstream.to/04h3oqq10dba",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "1x04 Tullidos, bastardos y cosas rotas ",
-		"info": "",
-		"image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
-		"url": "https://upstream.to/u556ddr57trs",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "1x05 El lobo y el león ",
-		"info": "",
-		"image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
-		"url": "https://upstream.to/j5kxl5vcogft",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "1x06 Una corona de oro",
-		"info": "",
-		"image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
-		"url": "https://upstream.to/exn85qoyqggl",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "1x07 Ganas o mueres ",
-		"info": "",
-		"image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
-		"url": "https://upstream.to/r7ky6s832jhc",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "1x08 Por el lado de la punta",
-		"info": "",
-		"image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
-		"url": "https://upstream.to/q3lbowxljwzy",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "1x09 Baelor",
-		"info": "",
-		"image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
-		"url": "https://upstream.to/xqqtedwojvai",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "1x10 Fuego y sangre",
-		"info": "",
-		"image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
-		"url": "https://upstream.to/envcb6094rl5",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		}
-		]
-	},
-
-	{
-	"name": "TEMPORADA 2",
-	"image": "https://i.postimg.cc/0NrYT6gB/GOT-Temporada-2.png",
-	"info": "",
-	"stations":
-		[
-		{
-		"name": "2x01 El Norte no olvida",
-		"info": "",
-		"image": "https://i.postimg.cc/0NrYT6gB/GOT-Temporada-2.png",
-		"url": "https://bethshouldercan.com/d2mwftlxgfqk",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "2x02 Las tierras de la noche",
-		"info": "",
-		"image": "https://i.postimg.cc/0NrYT6gB/GOT-Temporada-2.png",
-		"url": "https://bethshouldercan.com/x7ipbu3qdu9l",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "2x03 Lo que está muerto no puede morir",
-		"info": "",
-		"image": "https://i.postimg.cc/0NrYT6gB/GOT-Temporada-2.png",
-		"url": "https://bethshouldercan.com/2viehj48dy4p",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "2x04 Jardín de huesos",
-		"info": "",
-		"image": "https://i.postimg.cc/0NrYT6gB/GOT-Temporada-2.png",
-		"url": "https://bethshouldercan.com/glqsgal86axy",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "2x05 El fantasma de Harrenhal",
-		"info": "",
-		"image": "https://i.postimg.cc/0NrYT6gB/GOT-Temporada-2.png",
-		"url": "https://bethshouldercan.com/xoonzhqe7ste",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "2x06 Los dioses antiguos y nuevos",
-		"info": "",
-		"image": "https://i.postimg.cc/0NrYT6gB/GOT-Temporada-2.png",
-		"url": "https://bethshouldercan.com/waxxo70agtmw",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "2x07 Un hombre sin honor",
-		"info": "",
-		"image": "https://i.postimg.cc/0NrYT6gB/GOT-Temporada-2.png",
-		"url": "https://bethshouldercan.com/nqg4h37ghrsw",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "2x08 Un príncipe de Invernalia",
-		"info": "",
-		"image": "https://i.postimg.cc/0NrYT6gB/GOT-Temporada-2.png",
-		"url": "https://bethshouldercan.com/chzyt3yrg7bt",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "2x09 Aguasnegras",
-		"info": "",
-		"image": "https://i.postimg.cc/0NrYT6gB/GOT-Temporada-2.png",
-		"url": "https://bethshouldercan.com/isfhvlxlqyom",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "2x10 Valar Morghulis",
-		"info": "",
-		"image": "https://i.postimg.cc/0NrYT6gB/GOT-Temporada-2.png",
-		"url": "https://bethshouldercan.com/i2esq8xo2zig",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		}
-		]
-	},
-
-	{
-	"name": "TEMPORADA 3",
-	"image": "https://i.postimg.cc/CKPRVJCG/GOT-Temporada-3.png",
-	"info": "",
-	"stations":
-		[
-		{
-		"name": "3x01 Valar Dohaeris",
-		"info": "",
-		"image": "https://i.postimg.cc/CKPRVJCG/GOT-Temporada-3.png",
-		"url": "https://upstream.to/juia3i2paqmr",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "3x02 Alas negras, palabras negras",
-		"info": "",
-		"image": "https://i.postimg.cc/CKPRVJCG/GOT-Temporada-3.png",
-		"url": "https://upstream.to/cyqk58ur7bus",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "3x03 El camino del castigo",
-		"info": "",
-		"image": "https://i.postimg.cc/CKPRVJCG/GOT-Temporada-3.png",
-		"url": "https://upstream.to/jbscct55ylk3",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "3x04 Y ahora su guardia ha terminado",
-		"info": "",
-		"image": "https://i.postimg.cc/CKPRVJCG/GOT-Temporada-3.png",
-		"url": "https://upstream.to/9jdcy2cawbju",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "3x05 Besada por el fuego",
-		"info": "",
-		"image": "https://i.postimg.cc/CKPRVJCG/GOT-Temporada-3.png",
-		"url": "https://upstream.to/9p6i69oqzo6g",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "3x06 El ascenso",
-		"info": "",
-		"image": "https://i.postimg.cc/CKPRVJCG/GOT-Temporada-3.png",
-		"url": "https://upstream.to/rfp5ww08q23u",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "3x07 El oso y la doncella",
-		"info": "",
-		"image": "https://i.postimg.cc/CKPRVJCG/GOT-Temporada-3.png",
-		"url": "https://upstream.to/qkkefztvw6z6",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "3x08 Los segundos hijos",
-		"info": "",
-		"image": "https://i.postimg.cc/CKPRVJCG/GOT-Temporada-3.png",
-		"url": "https://upstream.to/0olncgxg0avt",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "3x09 Las lluvias de Castamere",
-		"info": "",
-		"image": "https://i.postimg.cc/CKPRVJCG/GOT-Temporada-3.png",
-		"url": "https://upstream.to/udmk4p0sd0yh",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "3x10 Mhysa",
-		"info": "",
-		"image": "https://i.postimg.cc/CKPRVJCG/GOT-Temporada-3.png",
-		"url": "https://upstream.to/dptg336up62h",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		}
-		]
-	},
-
-	{
-	"name": "TEMPORADA 4",
-	"image": "https://i.postimg.cc/fyBTQf94/GOT-Temporada-4.png",
-	"info": "",
-	"stations":
-		[
-		{
-		"name": "4x01 Dos espadas",
-		"info": "",
-		"image": "https://i.postimg.cc/fyBTQf94/GOT-Temporada-4.png",
-		"url": "https://upstream.to/19hmn5juglz4",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "4x02 El león y la rosa",
-		"info": "",
-		"image": "https://i.postimg.cc/fyBTQf94/GOT-Temporada-4.png",
-		"url": "https://upstream.to/s8z3vwm2jbys",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "4x03 Rompedora de cadenas",
-		"info": "",
-		"image": "https://i.postimg.cc/fyBTQf94/GOT-Temporada-4.png",
-		"url": "https://upstream.to/m2uhx988cndm",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "4x04 Guardajuramentos",
-		"info": "",
-		"image": "https://i.postimg.cc/fyBTQf94/GOT-Temporada-4.png",
-		"url": "https://upstream.to/jkp3rryy3ylm",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "4x05 El primero de su nombre ",
-		"info": "",
-		"image": "https://i.postimg.cc/fyBTQf94/GOT-Temporada-4.png",
-		"url": "https://upstream.to/0c2o48g0f0zx",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "4x06 Leyes de dioses y hombres",
-		"info": "",
-		"image": "https://i.postimg.cc/fyBTQf94/GOT-Temporada-4.png",
-		"url": "https://upstream.to/zay5l236bka4",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "4x07 Sinsonte",
-		"info": "",
-		"image": "https://i.postimg.cc/fyBTQf94/GOT-Temporada-4.png",
-		"url": "https://upstream.to/1bcd2alwkn77",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "4x08 La montaña y la víbora",
-		"info": "",
-		"image": "https://i.postimg.cc/fyBTQf94/GOT-Temporada-4.png",
-		"url": "https://upstream.to/z3xvfjmwhkvi",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "4x09 Los vigilantes del mur",
-		"info": "",
-		"image": "https://i.postimg.cc/fyBTQf94/GOT-Temporada-4.png",
-		"url": "https://upstream.to/4csvxiuhg1p9",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "4x10 Los niños",
-		"info": "",
-		"image": "https://i.postimg.cc/fyBTQf94/GOT-Temporada-4.png",
-		"url": "https://upstream.to/0j6d01douk9n",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		}
-		]
-	},
-
-	{
-	"name": "TEMPORADA 5",
-	"image": "https://i.postimg.cc/h43H6YJD/GOT-Temporada-5.png",
-	"info": "",
-	"stations":
-		[
-		{
-		"name": "5x01 The Wars to Come",
-		"info": "",
-		"image": "https://i.postimg.cc/h43H6YJD/GOT-Temporada-5.png",
-		"url": "https://upstream.to/7srt5a4qp055",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "5x02 The House of Black and White",
-		"info": "",
-		"image": "https://i.postimg.cc/h43H6YJD/GOT-Temporada-5.png",
-		"url": "https://upstream.to/ukt79cl5n5q3",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "5x03 High Sparrow",
-		"info": "",
-		"image": "https://i.postimg.cc/h43H6YJD/GOT-Temporada-5.png",
-		"url": "https://upstream.to/ul5pxs2fsto2",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "5x04 The Sons of the Harpy",
-		"info": "",
-		"image": "https://i.postimg.cc/h43H6YJD/GOT-Temporada-5.png",
-		"url": "https://upstream.to/f6zmfxx3ha0i",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "5x05 Kill the Boy",
-		"info": "",
-		"image": "https://i.postimg.cc/h43H6YJD/GOT-Temporada-5.png",
-		"url": "https://upstream.to/fnblq0jwtfgf",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "5x06 Unbowed, Unbent, Unbroken",
-		"info": "",
-		"image": "https://i.postimg.cc/h43H6YJD/GOT-Temporada-5.png",
-		"url": "https://upstream.to/kb6cl3k98lu0",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "5x07 El agasajo",
-		"info": "",
-		"image": "https://i.postimg.cc/h43H6YJD/GOT-Temporada-5.png",
-		"url": "https://upstream.to/waqw8xe87gr9",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "5x08 Casa Austera",
-		"info": "",
-		"image": "https://i.postimg.cc/h43H6YJD/GOT-Temporada-5.png",
-		"url": "https://upstream.to/9lswc131elqf",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "5x09 La danza de dragones",
-		"info": "",
-		"image": "https://i.postimg.cc/h43H6YJD/GOT-Temporada-5.png",
-		"url": "https://upstream.to/woscdwfrefop",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "5x10 Mother’s Mercy",
-		"info": "",
-		"image": "https://i.postimg.cc/h43H6YJD/GOT-Temporada-5.png",
-		"url": "https://upstream.to/j005z265lixy",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		}
-		]
-	},
-
-	{
-	"name": "TEMPORADA 6",
-	"image": "https://i.postimg.cc/QC5wp8jf/GOT-Temporada-6.png",
-	"info": "",
-	"stations":
-		[
-		{
-		"name": "6x01 La mujer roja",
-		"info": "",
-		"image": "https://i.postimg.cc/QC5wp8jf/GOT-Temporada-6.png",
-		"url": "https://upstream.to/jrlu14urqvzy",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "6x02 A casa",
-		"info": "",
-		"image": "https://i.postimg.cc/QC5wp8jf/GOT-Temporada-6.png",
-		"url": "https://upstream.to/lg1rz4kxz0r1",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "6x03 Oathbreaker",
-		"info": "",
-		"image": "https://i.postimg.cc/QC5wp8jf/GOT-Temporada-6.png",
-		"url": "https://upstream.to/bxiz4h6wggrg",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "6x04 Book of the Stranger",
-		"info": "",
-		"image": "https://i.postimg.cc/QC5wp8jf/GOT-Temporada-6.png",
-		"url": "https://upstream.to/vihqf82cmb24",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "6x05 The Door",
-		"info": "",
-		"image": "https://i.postimg.cc/QC5wp8jf/GOT-Temporada-6.png",
-		"url": "https://upstream.to/2c51cxvxr0b1",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "6x06 Blood of My Blood",
-		"info": "",
-		"image": "https://i.postimg.cc/QC5wp8jf/GOT-Temporada-6.png",
-		"url": "https://upstream.to/7m1r6tvxh477",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "6x07 The Broken Man",
-		"info": "",
-		"image": "https://i.postimg.cc/QC5wp8jf/GOT-Temporada-6.png",
-		"url": "https://upstream.to/l2kjzp26ux9f",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "6x08 No One",
-		"info": "",
-		"image": "https://i.postimg.cc/QC5wp8jf/GOT-Temporada-6.png",
-		"url": "https://upstream.to/7bp1bz5yro9q",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "6x09 Battle of the Batards",
-		"info": "",
-		"image": "https://i.postimg.cc/QC5wp8jf/GOT-Temporada-6.png",
-		"url": "https://upstream.to/zkq9igkgdeuk",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "6x10 The Winds of Winter",
-		"info": "",
-		"image": "https://i.postimg.cc/QC5wp8jf/GOT-Temporada-6.png",
-		"url": "https://upstream.to/xv9qy3qyhayq",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		}
-
-		]
-	},
-
-	{
-	"name": "TEMPORADA 7",
-	"image": "https://i.postimg.cc/1XZJ1pZK/GOT-Temporada-7.png",
-	"info": "",
-	"stations":
-		[
-		{
-		"name": "7x01 Dragonstone",
-		"info": "",
-		"image": "https://i.postimg.cc/1XZJ1pZK/GOT-Temporada-7.png",
-		"url": "https://upstream.to/td68c8h2s1d7",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "7x02 Bajo la tormenta",
-		"info": "",
-		"image": "https://i.postimg.cc/1XZJ1pZK/GOT-Temporada-7.png",
-		"url": "https://upstream.to/jz476oeit7iz",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "7x03 La justicia de la reina",
-		"info": "",
-		"image": "https://i.postimg.cc/1XZJ1pZK/GOT-Temporada-7.png",
-		"url": "https://upstream.to/w67o5ve62nwh",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "7x04 The Spoils of War",
-		"info": "",
-		"image": "https://i.postimg.cc/1XZJ1pZK/GOT-Temporada-7.png",
-		"url": "https://upstream.to/y0hla5x6dgad",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "7x05 Guardaoriente",
-		"info": "",
-		"image": "https://i.postimg.cc/1XZJ1pZK/GOT-Temporada-7.png",
-		"url": "https://upstream.to/y5riup0o3oyl",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "7x06 Episode 6",
-		"info": "",
-		"image": "https://i.postimg.cc/1XZJ1pZK/GOT-Temporada-7.png",
-		"url": "https://upstream.to/epehsvtbefmd",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "7x07 The Dragon and the Wolf",
-		"info": "",
-		"image": "https://i.postimg.cc/1XZJ1pZK/GOT-Temporada-7.png",
-		"url": "https://upstream.to/37neubcfq9vp",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		}
-		]
-	},
-
-	{
-	"name": "TEMPORADA 8",
-	"image": "https://i.postimg.cc/WpM56fMY/GOT-Temporada-8.png",
-	"info": "",
-	"stations":
-		[
-		{
-		"name": "8x01 King's Landing",
-		"info": "",
-		"image": "https://i.postimg.cc/WpM56fMY/GOT-Temporada-8.png",
-		"url": "https://upstream.to/0pmkmplmugb5",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "8x02 La reina legítima",
-		"info": "",
-		"image": "https://i.postimg.cc/WpM56fMY/GOT-Temporada-8.png",
-		"url": "https://upstream.to/9sureunjma1d",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "8x03 Conflicto Bélico",
-		"info": "",
-		"image": "https://i.postimg.cc/WpM56fMY/GOT-Temporada-8.png",
-		"url": "https://upstream.to/3gymey17gsd5",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "8x04 Éxodo",
-		"info": "",
-		"image": "https://i.postimg.cc/WpM56fMY/GOT-Temporada-8.png",
-		"url": "https://upstream.to/xb1mz7t3a66s",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "8x05 Episodio 5",
-		"info": "",
-		"image": "https://i.postimg.cc/WpM56fMY/GOT-Temporada-8.png",
-		"url": "https://upstream.to/vqkx8mvu3o8r",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		},
-		{
-		"name": "8x06 Episodio 6",
-		"info": "",
-		"image": "https://i.postimg.cc/WpM56fMY/GOT-Temporada-8.png",
-		"url": "https://upstream.to/bs9bvj5wwgj7",
-		"embed": "",
-        "isHost":"true",
-        "online":"true"
-		}
-		]
-	}
-
-
-]
+  "name": "JUEGO DE TRONOS",
+  "image": "https://pics.filmaffinity.com/game_of_thrones-293142110-large.jpg",
+  "info": "",
+  "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20JUEGO%20DE%20TRONOS.w3u",
+  "telegram": "@YIsus_mEx",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "groups": [
+    {
+      "name": "TEMPORADA 1",
+      "image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "1x01 Se acerca el invierno",
+          "info": "",
+          "image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
+          "url": "https://maxfinishseveral.com/7jrzw9ptwfkn",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "1x02 El Camino Real",
+          "info": "",
+          "image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
+          "url": "https://maxfinishseveral.com/uq5vgb4cd4nw",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "1x03 Lord Nieve ",
+          "info": "",
+          "image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
+          "url": "https://maxfinishseveral.com/mf1zg3gzbrr4",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "1x04 Tullidos, bastardos y cosas rotas ",
+          "info": "",
+          "image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
+          "url": "https://maxfinishseveral.com/if7usi6pn1lw",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "1x05 El lobo y el león ",
+          "info": "",
+          "image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
+          "url": "https://maxfinishseveral.com/xcqac4yivvg1",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "1x06 Una corona de oro",
+          "info": "",
+          "image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
+          "url": "https://maxfinishseveral.com/5eapjfmdufyg",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "1x07 Ganas o mueres ",
+          "info": "",
+          "image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
+          "url": "https://maxfinishseveral.com/cngs3m4hq0jy",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "1x08 Por el lado de la punta",
+          "info": "",
+          "image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
+          "url": "https://maxfinishseveral.com/l69c36ybczkj",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "1x09 Baelor",
+          "info": "",
+          "image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
+          "url": "https://maxfinishseveral.com/gbpsz5qjoxjm",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "1x10 Fuego y sangre",
+          "info": "",
+          "image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
+          "url": "https://maxfinishseveral.com/8swhkjlvzwlg",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    },
+    {
+      "name": "TEMPORADA 2",
+      "image": "https://i.postimg.cc/0NrYT6gB/GOT-Temporada-2.png",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "2x01 El Norte no olvida",
+          "info": "",
+          "image": "https://i.postimg.cc/0NrYT6gB/GOT-Temporada-2.png",
+          "url": "https://bethshouldercan.com/d2mwftlxgfqk",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "2x02 Las tierras de la noche",
+          "info": "",
+          "image": "https://i.postimg.cc/0NrYT6gB/GOT-Temporada-2.png",
+          "url": "https://bethshouldercan.com/x7ipbu3qdu9l",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "2x03 Lo que está muerto no puede morir",
+          "info": "",
+          "image": "https://i.postimg.cc/0NrYT6gB/GOT-Temporada-2.png",
+          "url": "https://bethshouldercan.com/2viehj48dy4p",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "2x04 Jardín de huesos",
+          "info": "",
+          "image": "https://i.postimg.cc/0NrYT6gB/GOT-Temporada-2.png",
+          "url": "https://bethshouldercan.com/glqsgal86axy",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "2x05 El fantasma de Harrenhal",
+          "info": "",
+          "image": "https://i.postimg.cc/0NrYT6gB/GOT-Temporada-2.png",
+          "url": "https://bethshouldercan.com/xoonzhqe7ste",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "2x06 Los dioses antiguos y nuevos",
+          "info": "",
+          "image": "https://i.postimg.cc/0NrYT6gB/GOT-Temporada-2.png",
+          "url": "https://bethshouldercan.com/waxxo70agtmw",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "2x07 Un hombre sin honor",
+          "info": "",
+          "image": "https://i.postimg.cc/0NrYT6gB/GOT-Temporada-2.png",
+          "url": "https://bethshouldercan.com/nqg4h37ghrsw",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "2x08 Un príncipe de Invernalia",
+          "info": "",
+          "image": "https://i.postimg.cc/0NrYT6gB/GOT-Temporada-2.png",
+          "url": "https://bethshouldercan.com/chzyt3yrg7bt",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "2x09 Aguasnegras",
+          "info": "",
+          "image": "https://i.postimg.cc/0NrYT6gB/GOT-Temporada-2.png",
+          "url": "https://bethshouldercan.com/isfhvlxlqyom",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "2x10 Valar Morghulis",
+          "info": "",
+          "image": "https://i.postimg.cc/0NrYT6gB/GOT-Temporada-2.png",
+          "url": "https://bethshouldercan.com/i2esq8xo2zig",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      
+      ]
+    },
+    {
+      "name": "TEMPORADA 3",
+      "image": "https://i.postimg.cc/CKPRVJCG/GOT-Temporada-3.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "3x01 Valar Dohaeris",
+          "info": "",
+          "image": "https://i.postimg.cc/CKPRVJCG/GOT-Temporada-3.png",
+          "url": "https://upstream.to/juia3i2paqmr",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "3x02 Alas negras, palabras negras",
+          "info": "",
+          "image": "https://i.postimg.cc/CKPRVJCG/GOT-Temporada-3.png",
+          "url": "https://upstream.to/cyqk58ur7bus",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "3x03 El camino del castigo",
+          "info": "",
+          "image": "https://i.postimg.cc/CKPRVJCG/GOT-Temporada-3.png",
+          "url": "https://upstream.to/jbscct55ylk3",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "3x04 Y ahora su guardia ha terminado",
+          "info": "",
+          "image": "https://i.postimg.cc/CKPRVJCG/GOT-Temporada-3.png",
+          "url": "https://upstream.to/9jdcy2cawbju",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "3x05 Besada por el fuego",
+          "info": "",
+          "image": "https://i.postimg.cc/CKPRVJCG/GOT-Temporada-3.png",
+          "url": "https://upstream.to/9p6i69oqzo6g",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "3x06 El ascenso",
+          "info": "",
+          "image": "https://i.postimg.cc/CKPRVJCG/GOT-Temporada-3.png",
+          "url": "https://upstream.to/rfp5ww08q23u",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "3x07 El oso y la doncella",
+          "info": "",
+          "image": "https://i.postimg.cc/CKPRVJCG/GOT-Temporada-3.png",
+          "url": "https://upstream.to/qkkefztvw6z6",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "3x08 Los segundos hijos",
+          "info": "",
+          "image": "https://i.postimg.cc/CKPRVJCG/GOT-Temporada-3.png",
+          "url": "https://upstream.to/0olncgxg0avt",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "3x09 Las lluvias de Castamere",
+          "info": "",
+          "image": "https://i.postimg.cc/CKPRVJCG/GOT-Temporada-3.png",
+          "url": "https://upstream.to/udmk4p0sd0yh",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "3x10 Mhysa",
+          "info": "",
+          "image": "https://i.postimg.cc/CKPRVJCG/GOT-Temporada-3.png",
+          "url": "https://upstream.to/dptg336up62h",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    },
+    {
+      "name": "TEMPORADA 4",
+      "image": "https://i.postimg.cc/fyBTQf94/GOT-Temporada-4.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "4x01 Dos espadas",
+          "info": "",
+          "image": "https://i.postimg.cc/fyBTQf94/GOT-Temporada-4.png",
+          "url": "https://upstream.to/19hmn5juglz4",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "4x02 El león y la rosa",
+          "info": "",
+          "image": "https://i.postimg.cc/fyBTQf94/GOT-Temporada-4.png",
+          "url": "https://upstream.to/s8z3vwm2jbys",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "4x03 Rompedora de cadenas",
+          "info": "",
+          "image": "https://i.postimg.cc/fyBTQf94/GOT-Temporada-4.png",
+          "url": "https://upstream.to/m2uhx988cndm",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "4x04 Guardajuramentos",
+          "info": "",
+          "image": "https://i.postimg.cc/fyBTQf94/GOT-Temporada-4.png",
+          "url": "https://upstream.to/jkp3rryy3ylm",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "4x05 El primero de su nombre ",
+          "info": "",
+          "image": "https://i.postimg.cc/fyBTQf94/GOT-Temporada-4.png",
+          "url": "https://upstream.to/0c2o48g0f0zx",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "4x06 Leyes de dioses y hombres",
+          "info": "",
+          "image": "https://i.postimg.cc/fyBTQf94/GOT-Temporada-4.png",
+          "url": "https://upstream.to/zay5l236bka4",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "4x07 Sinsonte",
+          "info": "",
+          "image": "https://i.postimg.cc/fyBTQf94/GOT-Temporada-4.png",
+          "url": "https://upstream.to/1bcd2alwkn77",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "4x08 La montaña y la víbora",
+          "info": "",
+          "image": "https://i.postimg.cc/fyBTQf94/GOT-Temporada-4.png",
+          "url": "https://upstream.to/z3xvfjmwhkvi",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "4x09 Los vigilantes del mur",
+          "info": "",
+          "image": "https://i.postimg.cc/fyBTQf94/GOT-Temporada-4.png",
+          "url": "https://upstream.to/4csvxiuhg1p9",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "4x10 Los niños",
+          "info": "",
+          "image": "https://i.postimg.cc/fyBTQf94/GOT-Temporada-4.png",
+          "url": "https://upstream.to/0j6d01douk9n",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    },
+    {
+      "name": "TEMPORADA 5",
+      "image": "https://i.postimg.cc/h43H6YJD/GOT-Temporada-5.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "5x01 The Wars to Come",
+          "info": "",
+          "image": "https://i.postimg.cc/h43H6YJD/GOT-Temporada-5.png",
+          "url": "https://upstream.to/7srt5a4qp055",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "5x02 The House of Black and White",
+          "info": "",
+          "image": "https://i.postimg.cc/h43H6YJD/GOT-Temporada-5.png",
+          "url": "https://upstream.to/ukt79cl5n5q3",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "5x03 High Sparrow",
+          "info": "",
+          "image": "https://i.postimg.cc/h43H6YJD/GOT-Temporada-5.png",
+          "url": "https://upstream.to/ul5pxs2fsto2",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "5x04 The Sons of the Harpy",
+          "info": "",
+          "image": "https://i.postimg.cc/h43H6YJD/GOT-Temporada-5.png",
+          "url": "https://upstream.to/f6zmfxx3ha0i",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "5x05 Kill the Boy",
+          "info": "",
+          "image": "https://i.postimg.cc/h43H6YJD/GOT-Temporada-5.png",
+          "url": "https://upstream.to/fnblq0jwtfgf",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "5x06 Unbowed, Unbent, Unbroken",
+          "info": "",
+          "image": "https://i.postimg.cc/h43H6YJD/GOT-Temporada-5.png",
+          "url": "https://upstream.to/kb6cl3k98lu0",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "5x07 El agasajo",
+          "info": "",
+          "image": "https://i.postimg.cc/h43H6YJD/GOT-Temporada-5.png",
+          "url": "https://upstream.to/waqw8xe87gr9",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "5x08 Casa Austera",
+          "info": "",
+          "image": "https://i.postimg.cc/h43H6YJD/GOT-Temporada-5.png",
+          "url": "https://upstream.to/9lswc131elqf",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "5x09 La danza de dragones",
+          "info": "",
+          "image": "https://i.postimg.cc/h43H6YJD/GOT-Temporada-5.png",
+          "url": "https://upstream.to/woscdwfrefop",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "5x10 Mother’s Mercy",
+          "info": "",
+          "image": "https://i.postimg.cc/h43H6YJD/GOT-Temporada-5.png",
+          "url": "https://upstream.to/j005z265lixy",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    },
+    {
+      "name": "TEMPORADA 6",
+      "image": "https://i.postimg.cc/QC5wp8jf/GOT-Temporada-6.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "6x01 La mujer roja",
+          "info": "",
+          "image": "https://i.postimg.cc/QC5wp8jf/GOT-Temporada-6.png",
+          "url": "https://upstream.to/jrlu14urqvzy",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "6x02 A casa",
+          "info": "",
+          "image": "https://i.postimg.cc/QC5wp8jf/GOT-Temporada-6.png",
+          "url": "https://upstream.to/lg1rz4kxz0r1",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "6x03 Oathbreaker",
+          "info": "",
+          "image": "https://i.postimg.cc/QC5wp8jf/GOT-Temporada-6.png",
+          "url": "https://upstream.to/bxiz4h6wggrg",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "6x04 Book of the Stranger",
+          "info": "",
+          "image": "https://i.postimg.cc/QC5wp8jf/GOT-Temporada-6.png",
+          "url": "https://upstream.to/vihqf82cmb24",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "6x05 The Door",
+          "info": "",
+          "image": "https://i.postimg.cc/QC5wp8jf/GOT-Temporada-6.png",
+          "url": "https://upstream.to/2c51cxvxr0b1",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "6x06 Blood of My Blood",
+          "info": "",
+          "image": "https://i.postimg.cc/QC5wp8jf/GOT-Temporada-6.png",
+          "url": "https://upstream.to/7m1r6tvxh477",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "6x07 The Broken Man",
+          "info": "",
+          "image": "https://i.postimg.cc/QC5wp8jf/GOT-Temporada-6.png",
+          "url": "https://upstream.to/l2kjzp26ux9f",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "6x08 No One",
+          "info": "",
+          "image": "https://i.postimg.cc/QC5wp8jf/GOT-Temporada-6.png",
+          "url": "https://upstream.to/7bp1bz5yro9q",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "6x09 Battle of the Batards",
+          "info": "",
+          "image": "https://i.postimg.cc/QC5wp8jf/GOT-Temporada-6.png",
+          "url": "https://upstream.to/zkq9igkgdeuk",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "6x10 The Winds of Winter",
+          "info": "",
+          "image": "https://i.postimg.cc/QC5wp8jf/GOT-Temporada-6.png",
+          "url": "https://upstream.to/xv9qy3qyhayq",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    },
+    {
+      "name": "TEMPORADA 7",
+      "image": "https://i.postimg.cc/1XZJ1pZK/GOT-Temporada-7.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "7x01 Dragonstone",
+          "info": "",
+          "image": "https://i.postimg.cc/1XZJ1pZK/GOT-Temporada-7.png",
+          "url": "https://upstream.to/td68c8h2s1d7",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "7x02 Bajo la tormenta",
+          "info": "",
+          "image": "https://i.postimg.cc/1XZJ1pZK/GOT-Temporada-7.png",
+          "url": "https://upstream.to/jz476oeit7iz",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "7x03 La justicia de la reina",
+          "info": "",
+          "image": "https://i.postimg.cc/1XZJ1pZK/GOT-Temporada-7.png",
+          "url": "https://upstream.to/w67o5ve62nwh",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "7x04 The Spoils of War",
+          "info": "",
+          "image": "https://i.postimg.cc/1XZJ1pZK/GOT-Temporada-7.png",
+          "url": "https://upstream.to/y0hla5x6dgad",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "7x05 Guardaoriente",
+          "info": "",
+          "image": "https://i.postimg.cc/1XZJ1pZK/GOT-Temporada-7.png",
+          "url": "https://upstream.to/y5riup0o3oyl",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "7x06 Episode 6",
+          "info": "",
+          "image": "https://i.postimg.cc/1XZJ1pZK/GOT-Temporada-7.png",
+          "url": "https://upstream.to/epehsvtbefmd",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "7x07 The Dragon and the Wolf",
+          "info": "",
+          "image": "https://i.postimg.cc/1XZJ1pZK/GOT-Temporada-7.png",
+          "url": "https://upstream.to/37neubcfq9vp",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    },
+    {
+      "name": "TEMPORADA 8",
+      "image": "https://i.postimg.cc/WpM56fMY/GOT-Temporada-8.png",
+      "info": "",
+      "stations": [
+        {
+          "name": "8x01 King's Landing",
+          "info": "",
+          "image": "https://i.postimg.cc/WpM56fMY/GOT-Temporada-8.png",
+          "url": "https://upstream.to/0pmkmplmugb5",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "8x02 La reina legítima",
+          "info": "",
+          "image": "https://i.postimg.cc/WpM56fMY/GOT-Temporada-8.png",
+          "url": "https://upstream.to/9sureunjma1d",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "8x03 Conflicto Bélico",
+          "info": "",
+          "image": "https://i.postimg.cc/WpM56fMY/GOT-Temporada-8.png",
+          "url": "https://upstream.to/3gymey17gsd5",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "8x04 Éxodo",
+          "info": "",
+          "image": "https://i.postimg.cc/WpM56fMY/GOT-Temporada-8.png",
+          "url": "https://upstream.to/xb1mz7t3a66s",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "8x05 Episodio 5",
+          "info": "",
+          "image": "https://i.postimg.cc/WpM56fMY/GOT-Temporada-8.png",
+          "url": "https://upstream.to/vqkx8mvu3o8r",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "8x06 Episodio 6",
+          "info": "",
+          "image": "https://i.postimg.cc/WpM56fMY/GOT-Temporada-8.png",
+          "url": "https://upstream.to/bs9bvj5wwgj7",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    }
+  ]
 }
