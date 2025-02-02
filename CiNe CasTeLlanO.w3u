@@ -2808,6 +2808,17 @@
       "isHost": "true",
       "online": "true"
     },
+{
+"name": "GORRIÓN ROJO",
+"image":"https://i.postimg.cc/gJ66mvDB/IMG-20250202-151228-782.jpg",
+"url":"https://ghbrisk.com/7gwr5pdrv8cu",
+"info": "2018",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
     {
       "name": "GUARDIAN INVISIBLE",
       "info": "2017",
