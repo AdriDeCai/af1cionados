@@ -7,6 +7,19 @@
 "info": "",
 "stations": 
 [
+
+    {
+      "name": "2 HEMISFERIOS DE LUCCA [VOSE]",
+      "image": "https://pics.filmaffinity.com/los_dos_hemisferios_de_lucca-673633623-large.jpg",
+      "url": "https://listeamed.net/v/8lKQxYjQ0QeEDGY",
+      "info": "2025",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "57 SECONDS [VOSE]",
       "image": "https://pics.filmaffinity.com/57_seconds-102208376-large.jpg",
