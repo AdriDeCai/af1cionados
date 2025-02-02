@@ -8,6 +8,18 @@
   "stations": [
 
     {
+      "name": "2 HEMISFERIOS DE LUCCA",
+      "image": "https://pics.filmaffinity.com/los_dos_hemisferios_de_lucca-673633623-large.jpg",
+      "url": "https://listeamed.net/v/PlBVEZk1y0wODv9",
+      "info": "2025",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
       "name": "3 MOSQUETEROS Y DARTAGNAN, LOS",
       "image": "https://i.postimg.cc/QM2mgyRG/3-mosqueteros-D-Artagnan-Los-2023-Pelicula-familiar.jpg",
       "url": "https://listeamed.net/v/0DogOGWKpl7OKjM",
@@ -17,12 +29,13 @@
       "isHost": "true",
       "online": "true"
     },
-{
+    {
       "name": "10 DIAS DE UN HOMBRE CURIOSO",
       "image": "https://i.postimg.cc/SKyqkd5k/IMG-20241107-231253-079.jpg",
       "url": "https://filemoon.to/d/o74agvehc0f5",
       "info": "2024",
       "embed": "",
+      "referer": "",
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9",
