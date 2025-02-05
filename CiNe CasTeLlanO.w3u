@@ -2280,6 +2280,18 @@
       "online": "true"
     },
     {
+      "name": "EMMANUELLE",
+      "image": "https://pics.filmaffinity.com/emmanuelle-380790485-large.jpg",
+      "info": "2024",
+      "url": "https://listeamed.net/v/3Q0lxBqqG9L5j1J,
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
       "name": "EL EXORCISMO DE EASTFIELD",
       "info": "[2024][Español]",
       "image": "https://pics.filmaffinity.com/godless_the_eastfield_exorcism-515150274-mmed.jpg",
@@ -2706,10 +2718,11 @@
       "image": "https://pics.filmaffinity.com/breakout-574162472-large.jpg",
       "url": "https://upstream.to/0v7m4hh9h1h5",
       "info": "2023",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
+      "referer": "",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
     {
@@ -2717,10 +2730,11 @@
       "image": "https://pics.filmaffinity.com/jailbreak_love_on_the_run-707206311-large.jpg",
       "url": "https://listeamed.net/v/KrdZ5kMMryjEmX4",
       "info": "2024",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
+      "referer": "",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
     {
@@ -2728,10 +2742,11 @@
       "image": "https://pics.filmaffinity.com/the_founder-172341798-large.jpg",
       "url": "https://embedv.net/v/MAlwEMq3qkEJ39X",
       "info": "2016",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
+      "referer": "",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
 {
