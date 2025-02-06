@@ -185,21 +185,21 @@
 		},
 		{
 		"name": "M LaLiga 4 [1080]",
-		"info": "4a86",
+		"info": "a32f",
 		"image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
 		"url": "acestream://68697ea4f261289d97bbc3418ad3cbc4180aa32f"
-		},
-		{
-		"name": "LaLiga Tv Bar [1080]",
-		"info":"b53f",
-		"image": "https://i.postimg.cc/ncTvcSw3/liga-bar.png",
-		"url": "acestream://94d34491106e00394835c8cb68aa94481339b53f"
 		},
 		{
 		"name": "LaLiga Tv Bar [1080]",
 		"info":"990e",
 		"image": "https://i.postimg.cc/ncTvcSw3/liga-bar.png",
 		"url": "acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e"
+		},
+		{
+		"name": "LaLiga Tv Bar [1080]",
+		"info":"b53f",
+		"image": "https://i.postimg.cc/ncTvcSw3/liga-bar.png",
+		"url": "acestream://94d34491106e00394835c8cb68aa94481339b53f"
 		},
 		{
 		"name": "DAZN LaLiga [1080][Multiaudio]",
@@ -212,6 +212,12 @@
 		"info":"e70c",
 		"image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
 		"url": "acestream://ec29289b0b14756e686c03a501bae1efa05be70c"
+		},
+		{
+		"name": "DAZN LaLiga [1080][Multiaudio]",
+		"info":"de0f",
+		"image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+		"url": "acestream://6de4794cd02f88f14354b5996823413a59a1de0f"
 		},
 		{
 		"name": "DAZN LaLiga [720p]",
