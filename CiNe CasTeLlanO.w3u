@@ -6065,53 +6065,12 @@
       "info": "2023",
       "image": "https://pics.filmaffinity.com/sobre_todo_de_noche-837218737-large.jpg",
       "url": "https://filemoon.to/d/pvlvw24wjhh1/Sobre_todo_de_noche__2023_Pelicula_.ts",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "SOLA",
-      "info": "2023",
-      "image": "https://pics.filmaffinity.com/sola-500468966-large.jpg",
-      "url": "https://embedv.net/v/m7WJxgJmy0d5Bze",
       "embed": "",
+      "referer": "",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
-    },
-{
-      "name": "SOMBRAS DEL PASADO",
-      "image": "https://i.postimg.cc/fbn14cn7/IMG-20241010-105454-760.jpg",
-      "url": "https://filemoon.to/d/wp8ydzzh7vs2",
-      "info": "[2024]",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-{
-"name": "SOMBRAS DEL PODER LAS",
-"image": "https://i.postimg.cc/bvKsHLGP/F4317920.jpg",
-"url": "https://filemoon.to/d/xo63cevgjxfc",
-"info": "2024",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"userAgent": "PlusMediaPlayer/0.0.9",
-"import": false
-},
-    {
-      "name": "SONRISAS y LAGRIMAS",
-      "image": "https://pics.filmaffinity.com/the_sound_of_music-366969305-large.jpg",
-      "url": "https://upstream.to/v3l2iy966mh7",
-      "info": "[Español] [1965]",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
     },
     {
       "name": "SOCIEDAD AMERICANA DE NEGROS MAGICOS, LA",
@@ -6120,29 +6079,82 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "info": "2024",
       "embed": "",
+      "referer": "",
       "isHost": "true",
       "online": "true",
       "import": false
-     },
+    },
+    {
+      "name": "SOLA",
+      "info": "2023",
+      "image": "https://pics.filmaffinity.com/sola-500468966-large.jpg",
+      "url": "https://embedv.net/v/m7WJxgJmy0d5Bze",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+{
+      "name": "SOMBRAS DEL PASADO",
+      "image": "https://i.postimg.cc/fbn14cn7/IMG-20241010-105454-760.jpg",
+      "url": "https://filemoon.to/d/wp8ydzzh7vs2",
+      "info": "[2024]",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "SOMBRAS DEL PODER LAS",
+      "image": "https://i.postimg.cc/bvKsHLGP/F4317920.jpg",
+      "url": "https://filemoon.to/d/xo63cevgjxfc",
+      "info": "2024",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "SONRISAS y LAGRIMAS",
+      "image": "https://pics.filmaffinity.com/the_sound_of_music-366969305-large.jpg",
+      "url": "https://upstream.to/v3l2iy966mh7",
+      "info": "[Español] [1965]",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "SOL DE JUSTICIA",
       "image": "https://i.postimg.cc/P5K3kH7b/IMG-20240929-122249-314.jpg",
       "url": "https://filemoon.to/d/nq5zsnun61fx",
       "info": "2024",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
+      "referer": "",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
-     },
+    },
     {
       "name": "SOLO UNA VEZ",
       "info": "2021",
       "image": "https://i.postimg.cc/0N7W5c2G/Solo-una-vez-2021-Pelicula.jpg",
       "url": "https://upstream.to/3t0r7bax2tn7",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
+      "referer": "",
       "isHost": "true",
-      "online": "true"
+      "online": "true",
+      "import": false
     },
     {
       "name": "SOUND OF FREEDOM",
@@ -6151,8 +6163,22 @@
       "url": "https://filemoon.to/d/nk7qiwfz0inm/z_Sound_of_Freedom.mp4",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
+      "referer": "",
       "isHost": "true",
-      "online": "true"
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "SOY NEVENKA",
+      "image": "https://pics.filmaffinity.com/soy_nevenka-545809603-large.jpg,
+      "url": "https://listeamed.net/v/PlBVEZkk4kaODv9",
+      "info": "2024",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
     },
     {
       "name": "STILLNESS IN THE STORM",
