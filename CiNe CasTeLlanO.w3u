@@ -1433,15 +1433,6 @@
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
     {
-      "name": "CHRISTINE",
-      "image": "https://pics.filmaffinity.com/john_carpenter_s_christine-110565595-large.jpg",
-      "url": "https://upstream.to/gaiz7ppm9w3n",
-      "info": "[Español][1983]",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": ""
-    },
-    {
       "name": "CID LA LEYENDA, EL",
       "info": "2020",
       "image": "https://i.postimg.cc/0jxLhcnd/Cid-la-Leyenda-El-2020-Pelicula.jpg",
@@ -1641,6 +1632,28 @@
       "isHost": "true",
       "online": "true"
     },
+{
+"name": "CORA",
+"image": "https://i.postimg.cc/G2KrhKLL/MV5-BZDU1-M2-M1-Zjct-MWI3-MS00-ODkx-LWJh-NGIt-YTMz-ZWRj-YTAz-ZGVh-Xk-Ey-Xk-Fqc-Gc-V1.jpg",
+"url": "https://nikaplayerr.com/file/rg7v7m3arzpc",
+"info": "2024",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "CORRE O MUERE",
+"image": "https://i.postimg.cc/SNCm9Q8R/IMG-20250206-195302-889.jpg",
+"url": "https://nikaplayerr.com/file/05lcqpkpvrol",
+"info": "2024",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"import": false
+},
     {
       "name": "CORRECTIVE MEASURES",
       "image": "https://pics.filmaffinity.com/corrective_measures-978576044-large.jpg",
