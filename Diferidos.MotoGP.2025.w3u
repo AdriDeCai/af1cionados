@@ -45,7 +45,7 @@
       [
         {
           "name": "Sprint MotoGP",
-          "info": "[]",
+          "info": "[01-03-2025]",
           "image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
           "url": "https:",
           "userAgent": "PlusMediaPlayer/0.0.9",
@@ -54,7 +54,7 @@
         },
         {
           "name": "Carrera Moto3",
-          "info": "[]",
+          "info": "[02-03-2025]",
           "image": "https://i.postimg.cc/0NVcSYXZ/Logo-Moto3.jpg",
           "url": "https:",
           "userAgent": "PlusMediaPlayer/0.0.9",
@@ -63,7 +63,7 @@
         },
         {
           "name": "Carrera Moto2",
-          "info": "[]",
+          "info": "[02-03-2025]",
           "image": "https://i.postimg.cc/wB10hyKp/Logo-Moto2.jpg",
           "url": "https:",
           "userAgent": "PlusMediaPlayer/0.0.9",
@@ -72,7 +72,52 @@
         },
         {
           "name": "Carrera MotoGP",
-          "info": "[]",
+          "info": "[02-03-2025]",
+          "image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+          "url": "https:",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    },
+
+    {
+      "name": "CIRCUITO TERMAS DE RIO HONDO (ARGENTINA)",
+      "image": "",
+      "imageScale": "",
+      "info": "[ROUND 02]",
+      "stations": [
+        {
+          "name": "Sprint MotoGP",
+          "info": "[15/03/2025]",
+          "image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+          "url": "https:",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera Moto3",
+          "info": "[16/03/2025]",
+          "image": "https://i.postimg.cc/0NVcSYXZ/Logo-Moto3.jpg",
+          "url": "https:",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera Moto2",
+          "info": "[16/03/2025]",
+          "image": "https://i.postimg.cc/wB10hyKp/Logo-Moto2.jpg",
+          "url": "https:",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera MotoGP",
+          "info": "[16/03/2025]",
           "image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
           "url": "https:",
           "userAgent": "PlusMediaPlayer/0.0.9",
