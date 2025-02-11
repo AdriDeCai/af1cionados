@@ -17,40 +17,71 @@
       [
         {
           "name": "SEPANG TEST DAY 1",
-          "info": "",
+          "info": "[05-02-2025]",
           "image": "https://i.postimg.cc/XJQgrXzn/2024-Sepang-Test-1.png",
           "url": "https://ryderjet.com/file/w2362b6w3bk1"
         },
         {
           "name": "SEPANG TEST DAY 2",
-          "info": "",
+          "info": "[06-02-2025]",
           "image": "https://i.postimg.cc/zDthsd9J/2024-Sepang-Test-2.png",
           "url": "https://ryderjet.com/file/8zetktenmuau"
         },
         {
           "name": "SEPANG TEST DAY 3",
-          "info": "",
+          "info": "[07-02-2025]",
           "image": "https://i.postimg.cc/7PK3mqBx/2024-Sepang-Test-3-2.png",
           "url": "https://ryderjet.com/file/7j0ayfw17057"
         }
       ]
     },
+
     {
-      "name": "QATAR TEST 2024",
-      "image": "https://i.postimg.cc/8cLsjMZR/Moto-GP-Catar-Test-2024-Resumen.png",
+      "name": "CHANG INTERNATIONAL CIRCUIT (TAILANDIA)",
+      "image": "https://i.postimg.cc/vBmW9d1c/Bandera_Tailandia.jpg",
       "imageScale": "",
-      "info": "",
+      "info": "[ROUND 01]",
       "stations": 
       [
         {
-          "name": "QATAR TEST RESUMEN",
-          "info": "[Resumen]",
-          "image": "https://i.postimg.cc/8cLsjMZR/Moto-GP-Catar-Test-2024-Resumen.png",
-          "url": "https://filemoon.to/d/9s74dcba6n7i",
-          "userAgent": "PlusMediaPlayer/0.0.9"
+          "name": "Sprint MotoGP",
+          "info": "[]",
+          "image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+          "url": "https:",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera Moto3",
+          "info": "[]",
+          "image": "https://i.postimg.cc/0NVcSYXZ/Logo-Moto3.jpg",
+          "url": "https:",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera Moto2",
+          "info": "[]",
+          "image": "https://i.postimg.cc/wB10hyKp/Logo-Moto2.jpg",
+          "url": "https:",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera MotoGP",
+          "info": "[]",
+          "image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+          "url": "https:",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
         }
       ]
     },
+
     {
       "name": "CIRCUITO LUSAIL INTERNATIONAL (QATAR)",
       "image": "https://i.postimg.cc/9Fs0kHtm/qatar-final.png",
@@ -828,52 +859,6 @@
           "info": "",
           "image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
           "url": "https://filemoon.to/d/ukez34bt4znn",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
-          "online": "true"
-        }
-      ]
-    },
-
-    {
-      "name": "CHANG INTERNATIONAL CIRCUIT (TAILANDIA)",
-      "image": "https://i.postimg.cc/vBmW9d1c/Bandera_Tailandia.jpg",
-      "imageScale": "",
-      "info": "ROUND 18",
-      "stations": 
-      [
-        {
-          "name": "Sprint MotoGP",
-          "info": "",
-          "image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
-          "url": "https://filemoon.to/d/5u9trvn8leuj/18_1_Sprint_MotoGP_Chang__Tailandia__2024_ES.mp4",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
-          "online": "true"
-        },
-        {
-          "name": "Carrera Moto3",
-          "info": "",
-          "image": "https://i.postimg.cc/0NVcSYXZ/Logo-Moto3.jpg",
-          "url": "https://filemoon.to/d/stooary64r66/18_2_Carrera_Moto3_Chang__Tailandia__2024_ES.mkv.mkv",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
-          "online": "true"
-        },
-        {
-          "name": "Carrera Moto2",
-          "info": "",
-          "image": "https://i.postimg.cc/wB10hyKp/Logo-Moto2.jpg",
-          "url": "https://filemoon.to/d/ribfgzk6z25e/18_3_Carrera_Moto2_Chang__Tailandia__2024_ES.mkv.mkv",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
-          "online": "true"
-        },
-        {
-          "name": "Carrera MotoGP",
-          "info": "",
-          "image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
-          "url": "https://filemoon.to/d/u58f7dgi5k8t/18_4_Carrera_MotoGP_Chang__Tailandia__2024_ES.mkv",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
           "online": "true"
