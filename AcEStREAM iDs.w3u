@@ -9,9 +9,17 @@
 	[
 
 	{
-        "name": "ACESTREAM MIX",
+        "name": "aCEStREAm mIx",
         "image": "https://i.postimg.cc/Wp0X5yWD/logo-acestream-2.png",
         "url": "https://actualsebastian.vercel.app/base.txt",
+        "info":"bY. lUCas",
+        "import": false
+        },
+
+	{
+        "name": "aCEStREAm tROnOsS",
+        "image": "https://i.postimg.cc/Wp0X5yWD/logo-acestream-2.png",
+        "url": "https://af1c1onados.vercel.app/Acestream.tROnOsS.m3u",
         "info":"bY. lUCas",
         "import": false
         },
