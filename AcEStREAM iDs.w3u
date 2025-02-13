@@ -8,16 +8,16 @@
   "groups": 
   [
     {
-      "name": "aCEStREAm lUCaS",
-      "image": "https://i.postimg.cc/cJcQZFyR/dragon-new.png",
-      "url": "https://actualsebastian.vercel.app/base.txt",
-      "info": "bY. lUCas",
+      "name": "aCEStREAm tROnOsS",
+      "image": "https://i.postimg.cc/vHBg6QR6/5.png",
+      "url": "https://af1c1onados.vercel.app/Acestream.tROnOsS.m3u",
+      "info": "bY. tROnOsS",
       "import": false
     },
     {
-      "name": "aCEStREAm tROnOsS",
-      "image": "https://i.postimg.cc/dQfGq7Xx/wolf-logo-new.png",
-      "url": "https://af1c1onados.vercel.app/Acestream.tROnOsS.m3u",
+      "name": "aCEStREAm lUCaS",
+      "image": "https://i.postimg.cc/MKj3xJs1/3.png",
+      "url": "https://actualsebastian.vercel.app/base.txt",
       "info": "bY. lUCas",
       "import": false
     }
