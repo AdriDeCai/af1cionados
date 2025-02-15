@@ -4943,11 +4943,24 @@
       "import": false
     },
     {
+      "name": "NOCHE MAS OSCURA, LA",
+      "image": "https://pics.filmaffinity.com/zero_dark_thirty-566142690-large.jpg",
+      "url": "https://filemoon.to/d/yi2j7loqmn4n/Noche_mas_oscura__la_2012_Pelicula_esp_1080p_mp4.mp4",
+      "info": "[2012]",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
       "name": "NOCHES DE TORMENTA",
       "image": "https://pics.filmaffinity.com/nights_in_rodanthe-531035847-large.jpg",
       "url": "https://filemoon.to/d/1dabsbxkvlhe",
       "info": "2008",
       "embed": "",
+      "referer": "",
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9",
