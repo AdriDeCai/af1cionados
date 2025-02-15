@@ -483,6 +483,61 @@
       "url": "https://voe.sx/sorcmgqacp4g",
       "userAgent":"PlusMediaPlayer/0.0.9",
       "isHost":"true" 		
+    },
+    {
+      "name": "S06.E11",
+      "image": "https://www.dl.dropboxusercontent.com/s/dkgvra9r7k0bo9q/serie-cobrakai.jpg",
+      "url": "https://filemoon.to/d/v9i9caxtxtoo",
+      "info": "[ESPAÑOL]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "S06.E12",
+      "image": "https://www.dl.dropboxusercontent.com/s/dkgvra9r7k0bo9q/serie-cobrakai.jpg",
+      "url": "https://filemoon.to/d/embqcnc4fxvi",
+      "info": "[ESPAÑOL]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "S06.E13",
+      "image": "https://www.dl.dropboxusercontent.com/s/dkgvra9r7k0bo9q/serie-cobrakai.jpg",
+      "url": "https://filemoon.to/d/p1iop1p9rfgv",
+      "info": "[ESPAÑOL]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "S06.E14",
+      "image": "https://www.dl.dropboxusercontent.com/s/dkgvra9r7k0bo9q/serie-cobrakai.jpg",
+      "url": "https://filemoon.to/d/o0231d6u4x41",
+      "info": "[ESPAÑOL]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "S06.E15",
+      "image": "https://www.dl.dropboxusercontent.com/s/dkgvra9r7k0bo9q/serie-cobrakai.jpg",
+      "url": "https://filemoon.to/d/1hugook2r2h2",
+      "info": "[ESPAÑOL]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
     }
 ]
 }
