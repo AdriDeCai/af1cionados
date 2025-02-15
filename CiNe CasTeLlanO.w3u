@@ -346,6 +346,18 @@
 "userAgent": "PlusMediaPlayer/0.0.9",
 "import": false
 },
+{
+"name": "ALGO EMBARAZADA",
+"image": "https://i.postimg.cc/cHyftZwY/IMG-20250208-113239-1.jpg",
+"url": "https://nikaplayerr.com/file/0cox5yhgifuf",
+"info": "2025",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
         {
         "name": "ALGO PASA CON MARY",
         "info": "[1998][Español]",
@@ -1496,6 +1508,18 @@
       "isHost": "true",
       "online": "true"
     },
+{
+"name": "CLUB DE LOS MILAGROS, EL",
+"image": "https://i.postimg.cc/fkQwxzM4/IMG-20250208-131711-472.jpg",
+"url": "https://swishsrv.com/e/u87ua53u63nx",
+"info": "2025",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "CODIGO EMPERADOR",
       "image": "https://es.web.img2.acsta.net/pictures/21/12/13/18/04/2134016.jpg",
@@ -1636,13 +1660,28 @@
     },
     {
       "name": "CONSPIRACION, LA (THE INDEPENDENT)",
-      "info": "2022",
       "image": "https://i.postimg.cc/PxZ78kMm/Conspiracion-La-The-independent-2022-Pelicula.jpg",
-      "url": "https://upstream.to/ec9feh21f1vp",
+      "url": "https://filemoon.to/d/4uokdu3dq0dz/La_Conspiracion_the_independent_2022_Pelicula_esp_1080p_mp4.mp4",
+      "info": "2022",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
+      "referer": "",
       "isHost": "true",
-      "online": "true"
-    },
+      "online": "true",
+      "import": false
+      },
+{
+"name": "CONTIGO EN EL FUTURO",
+"image": "https://i.postimg.cc/2yJc1yFY/IMG-20250208-125819-227.jpg",
+"url": "https://swishsrv.com/e/sazujvrwz24s",
+"info": "2025",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
 {
 "name": "CORA",
 "image": "https://i.postimg.cc/G2KrhKLL/MV5-BZDU1-M2-M1-Zjct-MWI3-MS00-ODkx-LWJh-NGIt-YTMz-ZWRj-YTAz-ZGVh-Xk-Ey-Xk-Fqc-Gc-V1.jpg",
@@ -2159,10 +2198,25 @@
       "info": "[2019][Español]",
       "image": "https://pics.filmaffinity.com/doctor_sleep-419012383-large.jpg",
       "url": "https://filemoon.to/d/5jj8sfetm54x",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "referer": "",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
+      "import": false
+      },
+{
+"name": "DOLCE VILLA, LA",
+"image": "https://i.postimg.cc/J0Lf2wzS/IMG-20250213-122124-628.jpg",
+"url": "https://nikaplayerr.com/file/lb8sbpi3rih5",
+"info": "2025",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "DORADO. EL",
       "image": "https://pics.filmaffinity.com/el_dorado-289917108-large.jpg",
@@ -3106,78 +3160,109 @@
       "info": "2006",
       "image": "https://pics.filmaffinity.com/children_of_men-423341707-large.jpg",
       "url": "https://filemoon.to/d/l6rrrfzh0pe8/Hijos_de_los_hombres_2006_Pelicula.mp4",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "embed": "",
-      "isHost": "true",
-      "online": "true"
-    },
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "HILO ROJO, EL",
+"image": "https://i.postimg.cc/X7xbjjsY/IMG-20250215-001237-823.jpg",
+"url": "https://nikaplayerr.com/file/a9774hvajp4l",
+"info": "2025",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "HIPSTER EN LA ESPAÑA VACIA, UN",
       "info": "2024",
       "image": "https://pics.filmaffinity.com/un_hipster_en_la_espana_vacia-557976310-large.jpg",
       "url": "https://vidmoly.me/w/wd4f0nu3543v",
-      "embed": "",
-      "isHost": "true",
-      "online": "true"
-    },
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "HISTORIA DE DOS CIUDADES",
       "info": "1980",
       "image": "https://pics.filmaffinity.com/hallmark_hall_of_fame_a_tale_of_two_cities_tv-747445932-large.jpg",
       "url": "https://filemoon.to/d/ajlgijh03udv/Historia_dos_ciudades__1980_Pelicula_.mp4",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "embed": "",
-      "isHost": "true",
-      "online": "true"
-    },
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "HIT MAN, ASESINO POR CASUALIDAD",
       "info": "[2023][Español]",
       "image": "https://pics.filmaffinity.com/hit_man-846757571-large.jpg",
       "url": "https://filemoon.to/d/oofs7pennsv2",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "HLM PUSSY",
       "info": "[2023][Español]",
       "image": "https://pics.filmaffinity.com/hlm_pussy-278015752-large.jpg",
       "url": "https://filemoon.to/d/11uzipvb8ix1/HLM_Pussy__2024_.mp4",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
         {
         "name": "HOGAR",
         "info": "[2020][Español]",
         "image": "https://pics.filmaffinity.com/Hogar-588283070-large.jpg",
         "url": "https://filemoon.to/d/c41z3saeoo7j",
-        "isHost": "true",
-        "online": "true",
-        "userAgent": "PlusMediaPlayer/0.0.9"
-        },
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "HOLY SPIDER",
       "info": "2022",
       "image": "https://i.postimg.cc/fTQDtGCp/Holy-Spider-2022-Pelicula.jpg",
       "url": "https://upstream.to/n4h7gvuwh7ey",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "embed": "",
-      "isHost": "true",
-      "online": "true"
-    },
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "HOMBRE ARAÑA 3, EL",
       "image": "https://pics.filmaffinity.com/spider_man_3_spiderman_3-381165300-mmed.jpg",
       "url": "https://filemoon.to/d/ancn6evqw0os",
       "info": "2007",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
 {
 "name": "HOMBRE DEL SACO, EL",
 "image": "https://i.postimg.cc/TYS5sndY/IMG-20241227-132046-264.jpg",
@@ -3194,43 +3279,47 @@
       "image": "https://i.postimg.cc/Wzx7FDzD/IMG-20241101-100044-972.jpg",
       "url": "https://file-mi11ljwj-embed.com/d/3jr76x8m7ics",
       "info": "2024",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "HOMBRE DEL SACO, EL",
       "image": "https://i.postimg.cc/FsqScHJy/Hombre-del-saco-el-2023-Pelicula.jpg",
       "url": "https://upstream.to/k23ryk8w9g2l",
       "info": "2023",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
 {
       "name": "HONEYMOON",
       "image": "https://i.postimg.cc/7Y89Rn5g/IMG-20241112-194351-715.jpg",
       "url": "https://filemoon.to/d/udow9tzz5m5r",
       "info": "2024",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
 {
 "name": "HORA DEL SILENCIO, LA",
 "image": "https://i.postimg.cc/W3HtHy9D/IMG-20241225-112052-072.jpg",
 "url": "https://filemoon.to/d/mfdvqjh37ymi",
 "info": "2024",
+"userAgent": "PlusMediaPlayer/0.0.9",
 "embed": "",
+"referer": "",
 "isHost": "true",
 "online": "true",
-"userAgent": "PlusMediaPlayer/0.0.9",
 "import": false
 },
     {
@@ -3293,17 +3382,6 @@
       "online": "true"
     },
     {
-      "name": "I LOVE MY DAD",
-      "image": "https://pics.filmaffinity.com/i_love_my_dad-682206478-large.jpg",
-      "url": "https://upstream.to/ftvppu6iksai",
-      "info": "2022",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
       "name": "ILEGALES 82",
       "image": "https://pics.filmaffinity.com/ilegales_82-404369993-large.jpg",
       "url": "https://upstream.to/fy3cc8ev15ob",
@@ -3313,15 +3391,6 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
-    },
-    {
-      "name": "IMAGEN PARA CREER, UNA",
-      "info": "2022",
-      "image": "https://i.postimg.cc/YC0spx61/Imagen-para-creer-Una-2023-Pelicula.jpg",
-      "url": "https://upstream.to/zl61o3b61463",
-      "embed": "",
-      "isHost": "true",
-      "online": "true"
     },
 {
       "name": "IMAGINARIO",
@@ -4003,100 +4072,135 @@
     {
       "name": "LO QUE EL VIENTO SE LLEVÓ",
       "image": "https://pics.filmaffinity.com/gone_with_the_wind-432251527-large.jpg",
-      "url": "https://upstream.to/1oyooy2euxb7",
+      "url": "https://filemoon.to/d/8z8jgoz6ix7p/Lo_que_el_viento_se_llevo_1939_Pelicula_espa_ol.mp4",
       "info": "1939",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "LO QUE HAY DENTRO",
       "image": "https://pics.filmaffinity.com/it_s_what_s_inside-784679476-large.jpg",
       "url": "https://filemoon.to/d/8tkdcl4xllte/Lo_que_hay_dentro__2024__Pelicula.mp4",
       "info": "1939",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "LOS VIGILANTES",
       "info": "[2024][Español]",
       "image": "https://pics.filmaffinity.com/the_watchers-599911256-large.jpg",
       "url": "https://filemoon.to/d/amcan2ie69ai",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
 {
       "name": "LOBOS",
       "image": "https://i.postimg.cc/zvXsSyZQ/MV5-BYj-Zk-MGFm-OTAt-ZTM5-My00-ZDk1-LWE5-Yj-Et-MDRk-Y2-Fi-MTQ1-ZDE2-Xk-Ey-Xk-Fqc-Gc-V1.jpg",
       "url": "https://filemoon.to/d/8d537fd13wek",
       "info": "2024",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-     },
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "LOCK and STOCK",
       "info": "[1998][Español]",
       "image": "https://pics.filmaffinity.com/lock_stock_and_two_smoking_barrels-536698978-large.jpg",
       "url": "https://filemoon.to/d/0lc6pdfe0kr6",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "LONGLEGS",
       "info": "[2024][Español]",
       "image": "https://pics.filmaffinity.com/Longlegs-983258407-large.jpg",
       "url": "https://filemoon.to/d/05pv2wl6fv54",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "LOVE AGAIN",
       "info": "2023",
       "image": "https://i.postimg.cc/5tJthzRF/Love-again-2023-Pelicula.jpg",
       "url": "https://upstream.to/cj6dpxw7yp9c",
-      "embed": "",
-      "isHost": "true",
-      "online": "true"
-    },
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "LOVE STORY",
       "image": "https://m.media-amazon.com/images/I/A1Z5rN-xRPL._AC_UF894,1000_QL80_.jpg",
       "url": "https://filemoon.to/d/9lp03z70ci48",
       "info": "[Español][1970]",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": ""
-    },
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "LUGAR MARAVILLOSO, UN",
       "image": "https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/91/83/91/20165847.jpg",
       "url": "https://filemoon.to/d/37i5lfe5yw93",
       "info": "[Español-Vose.Sub][2004]",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": ""
-    },
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "LUGAR TRANQUILO, UN. DIA 1",
       "image": "https://pics.filmaffinity.com/a_quiet_place_day_one-758712709-large.jpg",
       "url": "https://listeamed.net/v/e028E6R1doQEYAv",
       "info": "[2024][Español]",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "LUNA DE MIEL CON MAMÁ",
+"image": "https://i.postimg.cc/cJxY4L4X/IMG-20250213-190736-253.jpg",
+"url": "https://nikaplayerr.com/file/xvu2j8h23x24",
+"info": "2025",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "LLUVIA ÁCIDA",
       "image": "https://pics.filmaffinity.com/acide-477650327-mmed.jpg",
@@ -4668,6 +4772,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+{
+"name": "MUERTE ANTES DE UNA BODA, UNA",
+"image": "https://i.postimg.cc/RF9qQ1hv/Una-muerte-antes-de-una-boda-Poster.jpg",
+"url": "https://filemoon.to/d/qf7hmewzxnf7",
+"info": "2025",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
 {
 "name": "MUJER DEL PRESIDENTE, LA",
 "image": "https://i.ibb.co/3Mzz8Ny/IMG-20241205-223354-567.jpg",
@@ -5661,11 +5777,26 @@
       "name": "RESPIRA",
       "image": "https://pics.filmaffinity.com/Respira-611213507-large.jpg",
       "url": "https://filemoon.to/d/6559d2x4ikrq",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "info": "2024",
-      "isHost": "true",
-      "online": "true"
-    },
+"info": "2024",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "RETORNO, EL",
+"image": "https://i.postimg.cc/SsbC8HWc/IMG-20250203-223349-530.jpg",
+"url": "https://nikaplayerr.com/file/u2lu05ld45ex",
+"info": "2025",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "REY EN LA HABANA, UN",
       "image": "https://m.media-amazon.com/images/M/MV5BZTY0MDAyYzMtNmU4ZC00YjA5LThjNzgtZjNhM2E1NjNmM2JkXkEyXkFqcGc@._V1_.jpg",
@@ -6770,6 +6901,18 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
+{
+"name": "UMAMI",
+"image": "https://i.postimg.cc/wxZrr76K/IMG-20250213-191027-829.jpg",
+"url": "https://nikaplayerr.com/file/zqv2zx2vy3c0",
+"info": "2025",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "UMMA",
       "image": "https://pics.filmaffinity.com/umma-553762298-large.jpg",
