@@ -3442,7 +3442,7 @@
     {
       "name": "INFILTRADA, LA",
       "image": "https://pics.filmaffinity.com/la_infiltrada-537503432-large.jpg",
-      "url": "https://ryderjet.com/file/ahzk3n1j8hqj",
+      "url": "https://ryderjet.com/file/cq3gixpcsaak",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "info": "2024",
       "referer": "",
@@ -3529,17 +3529,6 @@
       "import": false
     },
     {
-      "name": "INTET",
-      "image": "https://pics.filmaffinity.com/intet-363678682-large.jpg",
-      "url": "https://upstream.to/3tbczkl6ntlh",
-      "info": "2022",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
       "name": "INTOCABLE",
       "image": "https://pics.filmaffinity.com/intouchables-218166359-large.jpg",
       "url": "https://listeamed.net/v/KrdZ5kMGzY0EmX4",
@@ -3549,14 +3538,6 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
-    },
-    {
-      "name": "iNUMBER, NUMBER, EL ORO DE JOHANNESBURGO",
-      "image": "https://i.postimg.cc/zG6xjGJy/Number-number-el-oro-de-Johanesburgo-2023-Pelicula.jpg",
-      "url": "http://vidmoly.me/w/z2h63ac4e38e",
-      "info": "2023",
-      "isHost": "true",
-      "online": "true"
     },
     {
       "name": "INVASION, INSURRECCION",
