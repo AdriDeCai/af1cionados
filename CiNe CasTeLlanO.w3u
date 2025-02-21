@@ -180,16 +180,19 @@
       "isHost": "true",
       "online": "true"
     },
-    {
-      "name": "A TRAVÉS DEL MAR",
-      "info": "2023",
-      "image": "https://i.postimg.cc/bwkGhpCw/A-trav-s-del-mar-2023.jpg",
-      "url": "https://upstream.to/cr1raec23tx9",
-      "embed": "",
-      "isHost": "true",
-      "online": "true"
-    },
 {
+"name": "ABISMO SECRETO, EL",
+"image": "https://i.postimg.cc/YCwSTB96/El-abismo-secreto-491076315-large.jpg",
+"url": "https://nikaplayerr.com/file/i4f0xj23c8z1",
+"info": "2025",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+      {
       "name": "ABUELA Y EL FORASTERO, LA",
       "info": "2024",
       "image": "https://pics.filmaffinity.com/l_avia_i_el_foraster-705439334-large.jpg",
@@ -197,8 +200,9 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "isHost": "true",
-      "online": "true"
-    },
+      "online": "true",
+      "import": false
+      },
     {
       "name": "ADICCION PERFECTA",
       "info": "2023",
@@ -1313,6 +1317,18 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
+{
+"name": "CAOS ESTA EN EL AIRE, EL",
+"image": "https://i.postimg.cc/zDMxs0SJ/love-forever.jpg",
+"url": "https://nikaplayerr.com/file/sxk67e2ow1ur",
+"info": "2025",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "CAPITAN AMERICA, EL PRIMER VENGADOR",
       "info": "[Español][2011]",
@@ -1446,6 +1462,18 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
+{
+"name": "CHICA MAS HERMOSA DEL MUNDO, LA",
+"image": "https://i.postimg.cc/1RYfpRLz/the-most-beautiful-girl-in-the-world-2025.jpg",
+"url": "https://nikaplayerr.com/file/6lecpbjekok2",
+"info": "2025",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "CHICA MILLER, LA",
       "info": "[2024][Español]",
@@ -1683,6 +1711,18 @@
 "import": false
 },
 {
+"name": "CONVERT, THE",
+"image": "https://i.postimg.cc/4d0Ks0GB/IMG-20250213-214158-608.jpg",
+"url": "https://nikaplayerr.com/file/e49f7o6cuiyw",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"info": "2024",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
 "name": "CORA",
 "image": "https://i.postimg.cc/G2KrhKLL/MV5-BZDU1-M2-M1-Zjct-MWI3-MS00-ODkx-LWJh-NGIt-YTMz-ZWRj-YTAz-ZGVh-Xk-Ey-Xk-Fqc-Gc-V1.jpg",
 "url": "https://nikaplayerr.com/file/rg7v7m3arzpc",
@@ -1837,6 +1877,18 @@
       "isHost": "true",
       "online": "true"
     },
+{
+"name": "CULPA MIA LONDRES",
+"image": "https://i.postimg.cc/XvQ3Sg12/IMG-20250215-150701-515.jpg",
+"url": "https://nikaplayerr.com/file/xm9wjvbclvgq",
+"info": "2025",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
 {
 "name": "CULPA TUYA",
 "image": "https://i.postimg.cc/wvj1mZGj/IMG-20241227-112555-639.jpg",
@@ -2010,6 +2062,18 @@
 "embed": "",
 "isHost": "true",
 "online": "true"
+},
+{
+"name": "DESASTRE EN EL ARTICO",
+"image": "https://i.postimg.cc/FRzNKysb/IMG-20250220-115825-714.jpg",
+"url": "https://nikaplayerr.com/file/3kcfvhn4h7bc",
+"info": "2025",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
 },
     {
       "name": "DESCANSA EN PAZ",
@@ -3618,6 +3682,18 @@
       "online": "true",
       "import": false
     },
+{
+"name": "JARDINERO, EL",
+"image": "https://i.postimg.cc/LXxktpSK/IMG-20250220-120207.jpg",
+"url": "https://nikaplayerr.com/file/96j4u2ucehog",
+"info": "2025",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "JARDINERO FIEL, EL",
       "image": "https://pics.filmaffinity.com/the_constant_gardener-832678055-large.jpg",
@@ -3625,7 +3701,8 @@
       "url": "https://listeamed.net/v/KNWlEDL0Q3mEkbp",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "isHost": "true",
-      "online": "true"
+      "online": "true",
+      "import": false
     },
         {
         "name": "JESUS DE NAZARET",
@@ -5495,6 +5572,18 @@
       "isHost": "true",
       "online": "true"
     },
+{
+"name": "POR DONDE PASA EL SILENCIO",
+"image": "https://i.postimg.cc/YjKhmmhF/IMG-20250213-215746-634.jpg",
+"url": "https://nikaplayerr.com/file/k2i8gck7pcqe",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"info": "2024",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "¿POR QUE SE FROTAN LAS PATITAS?",
       "image": "https://pics.filmaffinity.com/por_que_se_frotan_las_patitas-257630999-large.jpg",
@@ -6775,6 +6864,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+{
+"name": "TITAN",
+"image": "https://i.postimg.cc/GhKTK2x8/IMG-20250219-113155-831.jpg",
+"url": "https://nikaplayerr.com/file/4qbu523kcv68",
+"info": "2025",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "TODAS SOMOS JANE",
       "image": "https://pics.filmaffinity.com/call_jane-999569033-large.jpg",
@@ -7010,6 +7111,18 @@
       "online": "true",
       "import": false
     },
+{
+"name": "VALENCIANA",
+"image": "https://i.postimg.cc/rpmMQgj5/IMG-20250217-221724-871.jpg",
+"url": "https://nikaplayerr.com/file/fnurniysgyfw",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"info": "2024",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "VALLE DE SOMBRAS",
       "info": "2023",
@@ -7084,15 +7197,6 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
-    },
-    {
-      "name": "VICTOR VICTORIA",
-      "image": "https://scottross79.wordpress.com/wp-content/uploads/2021/03/victor-victoria-poster-reduced.jpg",
-      "url": "https://www.linkbox.to/f-detail/ZnA0bjM4MDAwaHB50",
-      "info": "[Español][1982]",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": ""
     },
     {
       "name": "VIDA MARAVILLOSA, UNA",
