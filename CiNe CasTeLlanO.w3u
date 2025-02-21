@@ -2473,24 +2473,18 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
-    {
-      "name": "EL HOYO",
-      "info": "[2019][Español]",
-      "image": "https://pics.filmaffinity.com/el_hoyo-987825598-mmed.jpg",
-      "url": "https://filemoon.to/d/ozm79jp4xbly",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
-    {
-      "name": "EL HOYO 2",
-      "info": "[2024][Español]",
-      "image": "https://pics.filmaffinity.com/el_hoyo_2-950031332-mmed.jpg",
-      "url": "https://filemoon.to/d/phrmixm3rl5z",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
+{
+"name": "EMILIA PÉREZ",
+"image": "https://i.postimg.cc/Jnnjmx23/IMG-20250218-231742-861.jpg",
+"url": "https://nikaplayerr.com/file/iovqsebaaiek",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"info": "2024",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "EN TEMPORADA BAJA",
       "info": "2022",
@@ -3439,6 +3433,24 @@
       "url": "https://listeamed.net/v/QNB7xAWoy62O0WG",
       "info": "2023",
       "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
+      "name": "HOYO, EL",
+      "info": "[2019][Español]",
+      "image": "https://pics.filmaffinity.com/el_hoyo-987825598-mmed.jpg",
+      "url": "https://filemoon.to/d/ozm79jp4xbly",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
+      "name": "HOYO 2, EL",
+      "info": "[2024][Español]",
+      "image": "https://pics.filmaffinity.com/el_hoyo_2-950031332-mmed.jpg",
+      "url": "https://filemoon.to/d/phrmixm3rl5z",
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
