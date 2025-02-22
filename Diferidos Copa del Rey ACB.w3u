@@ -143,13 +143,36 @@
         }
       ]
     },
+
     {
-      "name": "Final Copa del Rey ACB 2025",
-      "image": "https://i.postimg.cc/pLgZS6Wm/copa-acb-new.png",
+      "name": "Copa del Rey ACB 2024/25",
+      "image": "https://estaticos-cdn.prensaiberica.es/clip/891bea4d-8732-4b16-876e-f684c020f653_16-9-discover-aspect-ratio_default_0.webp",
       "imageScale": "",
       "info": "",
       "stations": 
       [
+        {
+          "name": "Unicaja VS Laguna Tenerife",
+          "image": "https://estaticos-cdn.prensaiberica.es/clip/891bea4d-8732-4b16-876e-f684c020f653_16-9-discover-aspect-ratio_default_0.webp",
+          "url": "https://ryderjet.com/file/rlczjz7bkhwz",
+          "info": "SEMIFINAL 1",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "DreamLand Gran Canaria VS Real Madrid",
+          "image": "https://estaticos-cdn.prensaiberica.es/clip/891bea4d-8732-4b16-876e-f684c020f653_16-9-discover-aspect-ratio_default_0.webp",
+          "url": "https://filemoon.to/d/jpvyor671lct/GRAMAD1502.mkv",
+          "info": "SEMIFINAL 2",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
         {
           "name": "Unicaja vs Real Madrid",
           "image": "https://i.postimg.cc/XJGD4b3W/final.jpg",
