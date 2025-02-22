@@ -49,7 +49,7 @@
 	"name": "AUTODROMO INTERNACIONAL DO ALGARVE (PORTUGAL)",
 	"image": "https://i.postimg.cc/SNfGFFMX/SBK-Round-7-Portugal.png",
 	"imageScale": "",
-	"info":"ROUND 7",
+	"info":"[ROUND 2]",
 	"stations":
 		[
 			{
@@ -123,7 +123,7 @@
 	"name": "CREMONA CIRCUIT (ITALIA)",
 	"image": "https://i.postimg.cc/63S9YpKD/SBK-Round-10-Italia.png",
 	"imageScale": "",
-	"info":"[ROUND 04]",
+	"info":"[ROUND 4]",
 	"stations":
 		[
 			{
@@ -155,6 +155,47 @@
 			}	
 		]
 	},
+
+	{
+	"name": "AUTODROM MOST (REPUBLICA CHECA)",
+	"image": "https://i.postimg.cc/4yx7cMWd/SBK-Round-6-Chequia.png",
+	"imageScale": "",
+	"info":"[ROUND 5]",
+	"stations":
+		[
+			{
+			"name": "SBK SUPERPOLE RACE",
+			"info": "[16-18 Mayo 2025]",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "SSP600 RACE 2",
+			"info": "[16-18 Mayo 2025]",
+			"image": "https://i.postimg.cc/Xq8Kn52Z/SBK-Verde.jpg",
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "SBK RACE 2",
+			"info": "[16-18 Mayo 2025]",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "",
+			"embed":"",
+               		"online":"true"
+			"url": "",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}
+		]	
+	},
+
 
 	{
 	"name": "CIRCUIT BARCELONA (CATALUNYA)",
@@ -267,43 +308,6 @@
 			}	
 		]
 	},
-
-	{
-	"name": "AUTODROM MOST (REPUBLICA CHECA)",
-	"image": "https://i.postimg.cc/4yx7cMWd/SBK-Round-6-Chequia.png",
-	"imageScale": "",
-	"info":"ROUND 6",
-	"stations":
-		[
-			{
-			"name": "SBK SUPERPOLE RACE",
-			"info": "[19-21 Julio 2024]",
-			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
-			"url": "",
-			"embed":"",
-            		"isHost":"true",
-            		"online":"true"
-			},
-			{
-			"name": "SSP600 RACE 2",
-			"info": "[19-21 Julio 2024]",
-			"image": "https://i.postimg.cc/Xq8Kn52Z/SBK-Verde.jpg",
-			"url": "",
-			"embed":"",
-            		"isHost":"true",
-            		"online":"true"
-			},
-			{
-			"name": "SBK RACE 2",
-			"info": "[19-21 Julio 2024]",
-			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
-			"url": "",
-			"embed":"",
-            		"isHost":"true",
-            		"online":"true"
-			}	
-		]
-	},		
 
 	{
 	"name": "CIRCUIT DE NEVERS MAGNY-COURS (FRANCIA) ",
