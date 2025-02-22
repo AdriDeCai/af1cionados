@@ -46,7 +46,7 @@
 	},
 
 	{
-	"name": "AUTODROMO INTERNACIONAL ALGARVE (PORTUGAL)",
+	"name": "AUTODROMO INTERNACIONAL DO ALGARVE (PORTUGAL)",
 	"image": "https://i.postimg.cc/SNfGFFMX/SBK-Round-7-Portugal.png",
 	"imageScale": "",
 	"info":"ROUND 7",
@@ -58,8 +58,8 @@
 			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
 			"url": "https:",
 			"embed":"",
-      "isHost":"true",
-      "online":"true"
+      			"isHost":"true",
+      			"online":"true"
 			},
 			{
 			"name": "SBK SUPERPOLE RACE",
@@ -67,8 +67,8 @@
 			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
 			"url": "https:",
 			"embed":"",
-      "isHost":"true",
-      "online":"true"
+      			"isHost":"true",
+      			"online":"true"
 			},
 			{
 			"name": "SBK RACE 2",
@@ -76,8 +76,8 @@
 			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
 			"url": "https:",
 			"embed":"",
-      "isHost":"true",
-      "online":"true"
+      			"isHost":"true",
+      			"online":"true"
 			}	
 		]
 	},
@@ -95,8 +95,8 @@
 			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
 			"url": "https:",
 			"embed":"",
-      "isHost":"true",
-      "online":"true"
+      			"isHost":"true",
+      			"online":"true"
 			},
 			{
 			"name": "SBK SUPERPOLE RACE",
@@ -104,8 +104,8 @@
 			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
 			"url": "https:",
 			"embed":"",
-      "isHost":"true",
-      "online":"true"
+      			"isHost":"true",
+      			"online":"true"
 			},
 			{
 			"name": "SBK RACE 2",
@@ -113,8 +113,45 @@
 			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
 			"url": "https:",
 			"embed":"",
-      "isHost":"true",
-      "online":"true"
+      			"isHost":"true",
+      			"online":"true"
+			}	
+		]
+	},
+
+	{
+	"name": "CREMONA CIRCUIT (ITALIA)",
+	"image": "https://i.postimg.cc/63S9YpKD/SBK-Round-10-Italia.png",
+	"imageScale": "",
+	"info":"[ROUND 04]",
+	"stations":
+		[
+			{
+			"name": "SBK RACE 1",
+			"info":"[02-04 Mayo 2025]",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "https://filemoon.to/d/enjcmkrqhpqk/SuperBike_Race_01_Acerbis_Italia.mp4",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "SBK SUPERPOLE RACE",
+			"info":"[02-04 Mayo 2025]
+			"image": "https://i.postimg.cc/Xq8Kn52Z/SBK-Verde.jpg",
+			"url": "https://filemoon.to/d/kh67x75wk9cx/SuperBike_SuperPole_Acerbis_Italia.mp4",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			},
+			{
+			"name": "SBK RACE 2",
+			"info":"[02-04 Mayo 2025],
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "https://filemoon.to/d/hmgvowp7zgty/09_3_SBK_Race_2_Cremona__Italia__2024_ES.ts",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
 			}	
 		]
 	},
@@ -304,43 +341,6 @@
 			}	
 		]
 	
-	},
-
-	{
-	"name": "ACERBIS (ITALIA)",
-	"image": "https://i.postimg.cc/63S9YpKD/SBK-Round-10-Italia.png",
-	"imageScale": "",
-	"info":"ROUND 10",
-	"stations":
-		[
-			{
-			"name": "SBK RACE 1",
-			"info":"[20-22 Sept 2024]",
-			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
-			"url": "https://filemoon.to/d/enjcmkrqhpqk/SuperBike_Race_01_Acerbis_Italia.mp4",
-			"embed":"",
-            		"isHost":"true",
-            		"online":"true"
-			},
-			{
-			"name": "SBK SUPERPOLE RACE",
-			"info":"[20-22 Sept 2024]",
-			"image": "https://i.postimg.cc/Xq8Kn52Z/SBK-Verde.jpg",
-			"url": "https://filemoon.to/d/kh67x75wk9cx/SuperBike_SuperPole_Acerbis_Italia.mp4",
-			"embed":"",
-            		"isHost":"true",
-            		"online":"true"
-			},
-			{
-			"name": "SBK RACE 2",
-			"info":"[20-22 Sept 2024]",
-			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
-			"url": "https://filemoon.to/d/hmgvowp7zgty/09_3_SBK_Race_2_Cremona__Italia__2024_ES.ts",
-			"embed":"",
-            		"isHost":"true",
-            		"online":"true"
-			}	
-		]
 	},
 
 	{
