@@ -64,7 +64,7 @@
 	{
        	"name": "EPISODIO 5",
         "image": "https://pics.filmaffinity.com/the_white_lotus-477876468-large.jpg",
-        "url": "https://embedv.net/v/qA3WOmGVdnPxKkz",
+        "url": "https://maxfinishseveral.com/f2pks29ieb0d",
        	"info": "[Castellano][2021]",
        	"embed": "",
        	"isHost": "true",
@@ -107,7 +107,7 @@
 	{
        	"name": "EPISODIO 2",
         "image": "https://pics.filmaffinity.com/the_white_lotus_2-649334934-large.jpg",
-        "url": "https://embedv.net/v/04rQxWWo3Nexb2N",
+        "url": "https://maxfinishseveral.com/1frgdddpzhil",
        	"info": "[Castellano][2021]",
        	"embed": "",
        	"isHost": "true",
@@ -129,7 +129,7 @@
 	{
        	"name": "EPISODIO 4",
         "image": "https://pics.filmaffinity.com/the_white_lotus_2-649334934-large.jpg",
-        "url": "https://embedv.net/v/mMq75L8Dzjm5XPB",
+        "url": "https://maxfinishseveral.com/iu6sgwco1kko",
        	"info": "[Castellano][2021]",
        	"embed": "",
        	"isHost": "true",
@@ -140,7 +140,7 @@
 	{
        	"name": "EPISODIO 5",
         "image": "https://pics.filmaffinity.com/the_white_lotus_2-649334934-large.jpg",
-        "url": "https://embedv.net/v/MAlwEMYRNJMEJ39",
+        "url": "https://maxfinishseveral.com/qp9nnahlzhy8",
        	"info": "[Castellano][2021]",
        	"embed": "",
        	"isHost": "true",
@@ -171,7 +171,36 @@
        	"import": false
        	}
 	]
-	}
+	},
+	{
+	"name": "TEMPORADA 3",
+	"image": "https://static.wikia.nocookie.net/thewhitelotus/images/1/18/The_White_Lotus_Season_3_poster_%28logo_only%29.jpg",
+	"info": "by Adri",
+	"stations":
+	[
+
+	{
+       	"name": "EPISODIO 1",
+        "image": "https://static.wikia.nocookie.net/thewhitelotus/images/1/18/The_White_Lotus_Season_3_poster_%28logo_only%29.jpg",
+        "url": "https://maxfinishseveral.com/6mnqs8kuxb6g",
+       	"info": "[Castellano][2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 2",
+        "image": "https://static.wikia.nocookie.net/thewhitelotus/images/1/18/The_White_Lotus_Season_3_poster_%28logo_only%29.jpg",
+        "url": "https://maxfinishseveral.com/yw4udg3mvtll",
+       	"info": "[Castellano][2021]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
 
 ]
 }
