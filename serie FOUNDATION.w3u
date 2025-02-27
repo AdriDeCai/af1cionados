@@ -129,82 +129,112 @@
         {
           "name": "Capitulo 1",
           "image": "https://i.ibb.co/HHmLsgT/p24738974-b-v13-ac.jpg",
-          "url": "https://listeamed.net/v/KrdZ5kdAanZxmX4",
+          "url": "https://filemoon.to/d/024snx1xx0ik/Foundation_2x1.mp4",
           "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
           "isHost": "true",
-          "online": "true"
+          "online": "true",
+          "import": false
         },
         {
           "name": "Capitulo 2",
           "image": "https://i.ibb.co/HHmLsgT/p24738974-b-v13-ac.jpg",
-          "url": "https://listeamed.net/v/MAlwEMY2yNyEJ39",
+          "url": "https://filemoon.to/d/dwhsnljh1ruh/Foundation_2x2.mp4",
           "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
           "isHost": "true",
-          "online": "true"
+          "online": "true",
+          "import": false
         },
         {
           "name": "Capitulo 3",
           "image": "https://i.ibb.co/HHmLsgT/p24738974-b-v13-ac.jpg",
-          "url": "https://listeamed.net/v/PKN4OwnkdMnEDLj",
+          "url": "https://filemoon.to/d/wsietc3bj8ok/Foundation_2x3.mp4",
           "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
           "isHost": "true",
-          "online": "true"
+          "online": "true",
+          "import": false
         },
         {
           "name": "Capitulo 4",
           "image": "https://i.ibb.co/HHmLsgT/p24738974-b-v13-ac.jpg",
-          "url": "https://listeamed.net/v/8lKQxYVYBvDEDGY",
+          "url": "https://filemoon.to/d/mqi1pktzrz8s/Foundation_2x4.mp4",
           "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
           "isHost": "true",
-          "online": "true"
+          "online": "true",
+          "import": false
         },
         {
           "name": "Capitulo 5",
           "image": "https://i.ibb.co/HHmLsgT/p24738974-b-v13-ac.jpg",
-          "url": "https://listeamed.net/v/b4ZJx21zNVP52P3",
+          "url": "https://filemoon.to/d/wqlsqf8y0jwc/Foundation_2x5.mp4",
           "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
           "isHost": "true",
-          "online": "true"
+          "online": "true",
+          "import": false
         },
         {
           "name": "Capitulo 6",
           "image": "https://i.ibb.co/HHmLsgT/p24738974-b-v13-ac.jpg",
-          "url": "https://listeamed.net/v/8ozgENLwQr65mjA",
+          "url": "https://filemoon.to/d/1bm828eov1uz/Foundation_2x6.mp4",
           "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
           "isHost": "true",
-          "online": "true"
+          "online": "true",
+          "import": false
         },
         {
           "name": "Capitulo 7",
           "image": "https://i.ibb.co/HHmLsgT/p24738974-b-v13-ac.jpg",
-          "url": "https://listeamed.net/v/ao9rxoRkyQm5yGe",
+          "url": "https://filemoon.to/d/677y3abcv931/Foundation_2x7.mp4",
           "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
           "isHost": "true",
-          "online": "true"
+          "online": "true",
+          "import": false
         },
         {
           "name": "Capitulo 8",
           "image": "https://i.ibb.co/HHmLsgT/p24738974-b-v13-ac.jpg",
-          "url": "https://listeamed.net/v/wP2050e6gV3xdmy",
+          "url": "https://filemoon.to/d/ts3d89gqu56o/Foundation_2x8.mp4",
           "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
           "isHost": "true",
-          "online": "true"
+          "online": "true",
+          "import": false
         },
         {
           "name": "Capitulo 9",
           "image": "https://i.ibb.co/HHmLsgT/p24738974-b-v13-ac.jpg",
-          "url": "https://listeamed.net/v/KNWlEDN4bVy5kbp",
+          "url": "https://filemoon.to/d/5wkcrnn9ppt5/Foundation_2x9.mp4",
           "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
           "isHost": "true",
-          "online": "true"
+          "online": "true",
+          "import": false
         },
         {
           "name": "Capitulo 10",
           "image": "https://i.ibb.co/HHmLsgT/p24738974-b-v13-ac.jpg",
           "url": "https://listeamed.net/v/m7WJxgJYR7M5Bze",
           "userAgent": "PlusMediaPlayer/0.0.9",
+          "referer": "",
+          "embed": "",
           "isHost": "true",
-          "online": "true"
+          "online": "true",
+          "import": false
         }
       ]
     }
