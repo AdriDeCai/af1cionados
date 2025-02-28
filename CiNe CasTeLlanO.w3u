@@ -2590,21 +2590,24 @@
       "name": "ESTRELLA AZUL, LA",
       "image": "https://pics.filmaffinity.com/la_estrella_azul-666029724-large.jpg",
       "url": "https://filemoon.to/d/yebymwy9hd2n/Estrella_azul_2023_1080_mp4.ts",
-      "info": "[Españo 2023]",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "embed": "",
-      "isHost": "true",
-      "online": "true"
-    },
+"userAgent": "PlusMediaPlayer/0.0.9",
+"info": "2023",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
 {
 "name": "ESPECIALISTA, EL",
 "image": "https://i.postimg.cc/j5GRc5c2/01.jpg",
 "url": "https://filemoon.to/d/ka8ynfln5dz7",
+"userAgent": "PlusMediaPlayer/0.0.9",
 "info": "2024",
+"referer": "",
 "embed": "",
 "isHost": "true",
 "online": "true",
-"userAgent": "PlusMediaPlayer/0.0.9",
 "import": false
 },
     {
@@ -2653,11 +2656,14 @@
       "name": "EXTINCTION",
       "image": "https://pics.filmaffinity.com/Extinction-163886271-large.jpg",
       "url": "https://filemoon.to/d/xa80sjulsbu4",
-      "info": "[Español][2015]",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": ""
-    },
+"userAgent": "PlusMediaPlayer/0.0.9",
+"info": "2015",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "EXTRACCION 2",
       "image": "https://i.postimg.cc/y8RkgFyj/Extracci-n-2-2023-Pelicula.jpg",
@@ -2697,36 +2703,27 @@
     {
       "name": "FANTASMAS DE SCROOGE, LOS",
       "image": "https://i.postimg.cc/q7S49Dvd/Fantasmas-de-Scrooge.jpg",
-      "info": "[2009]",
       "url": "https://filemoon.to/d/gruekz5rfoys/Fantasmas_de_Scrooge_2009_Pelicula_esp_bluray_720p_mkv.mp4",
-      "embed": "",
-      "referer": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-
-    {
-      "name": "FANTASMAS DEL VUELO 401",
-      "image": "https://pics.filmaffinity.com/shock_docs_ghosts_of_flight_401-183985519-large.jpg",
-      "url": "https://upstream.to/mt4jfhei7ptj",
-      "info": "2022",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
+"userAgent": "PlusMediaPlayer/0.0.9",
+"info": "2009",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "FARO",
       "image": "https://pics.filmaffinity.com/faro-213593399-mmed.jpg",
       "url": "https://filemoon.to/d/jfvqlajnsvyt",
-      "info": "[Español][2024]",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
+"userAgent": "PlusMediaPlayer/0.0.9",
+"info": "2024",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "FATUM",
       "info": "2023",
@@ -2739,54 +2736,53 @@
       "import": false
     },
     {
-      "name": "FAST & FURIOUS X",
-      "info": "2023",
-      "image": "https://pics.filmaffinity.com/fast_x-854185380-mmed.jpg",
-      "url": "https://upstream.to/2ifqn22b4qb8",
-      "embed": "",
-      "isHost": "true",
-      "online": "true"
-    },
-    {
       "name": "FEOS. LOS (UGLIES)",
       "image": "https://pics.filmaffinity.com/uglies-864545169-large.jpg",
       "url": "https://filemoon.to/d/7wmyrvdyayrw/Los_feos_2024_Pelicula.mp4",
-      "info": "2024",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
+"userAgent": "PlusMediaPlayer/0.0.9",
+"info": "2024",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "FEMME",
       "image": "https://pics.filmaffinity.com/femme-744558625-large.jpg",
       "url": "https://filemoon.to/d/vz7atftj1b2u/Femme_HDRip_-_Telegram_-__estrenoscine1.mp4",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "info": "2023",
-      "embed": "",
-      "isHost": "true",
-      "online": "true"
-    },
+"userAgent": "PlusMediaPlayer/0.0.9",
+"info": "2023",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "FENOMENAS",
       "image": "https://pics.filmaffinity.com/fenomenas-452592836-large.jpg",
       "url": "https://filemoon.to/d/d4qw77z8faua/Fenomenas_-_2023.mp4",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "info": "2023",
-      "embed": "",
-      "isHost": "true",
-      "online": "true"
-    },
+"userAgent": "PlusMediaPlayer/0.0.9",
+"info": "2023",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "FICCION AMERICANA",
       "image": "https://pics.filmaffinity.com/American_Fiction-376846176-large.jpg",
       "url": "https://filemoon.to/bdd/nqgwb4ocefu0",
-      "info": "2023",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
+"userAgent": "PlusMediaPlayer/0.0.9",
+"info": "2023",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
 {
 "name": "FINAL DE NUESTROS DIAS, EL",
 "image": "https://i.postimg.cc/RhQtsk17/IMG-20250224-122141-879.jpg",
@@ -2802,7 +2798,7 @@
 {
 "name": "FLAMIN HOT, LA HISTORIA DE LOS CHEETOS PICANTES",
 "image": "https://pics.filmaffinity.com/flamin_hot-362842518-large.jpg",
-"url": "https://upstream.to/q2rnyc0ebnqo",
+"url": "https://filemoon.to/d/k0apidl9qwzq/Ver_flamin_hot_historia_cheetos_2023_Pelicula_esp_1080p_mp4.mp4",
 "userAgent": "PlusMediaPlayer/0.0.9",
 "info": "2023",
 "referer": "",
@@ -4461,6 +4457,18 @@
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "MARCO",
+      "image": "https://pics.filmaffinity.com/marco-788322151-large.jpg",
+      "url": "https://filemoon.to/d/khld8nl3iw9r/Marco__2024__Pelicula_castellano.mp4",
+      "info": "2024",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
       "import": false
     },
 {
