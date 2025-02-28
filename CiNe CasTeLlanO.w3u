@@ -2787,38 +2787,30 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
-    {
-      "name": "FIGURAS OCULTAS",
-      "image": "https://pics.filmaffinity.com/hidden_figures-810983135-mmed.jpg",
-      "url": "https://upstream.to/t81mik6kztlr",
-      "info": "2016",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
-    {
-      "name": "FIT FOR CHRISTMAS",
-      "image": "https://pics.filmaffinity.com/fit_for_christmas-524019263-large.jpg",
-      "url": "https://vidmoly.to/embed-7ngf7n96hg2r.html",
-      "info": "2023",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "FLAMIN HOT, LA HISTORIA DE LOS CHEETOS PICANTES",
-      "image": "https://pics.filmaffinity.com/flamin_hot-362842518-large.jpg",
-      "url": "https://upstream.to/q2rnyc0ebnqo",
-      "info": "2023",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
+{
+"name": "FINAL DE NUESTROS DIAS, EL",
+"image": "https://i.postimg.cc/RhQtsk17/IMG-20250224-122141-879.jpg",
+"url": "https://nikaplayerr.com/file/g2uqrg15swpy",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"info": "2024",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "FLAMIN HOT, LA HISTORIA DE LOS CHEETOS PICANTES",
+"image": "https://pics.filmaffinity.com/flamin_hot-362842518-large.jpg",
+"url": "https://upstream.to/q2rnyc0ebnqo",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"info": "2023",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "FLASH",
       "image": "https://i.postimg.cc/Y9Dpy9xj/Flash-2023-Pelicula.jpg",
@@ -6118,6 +6110,18 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
+{
+"name": "SALVE MARÍA",
+"image": "https://i.postimg.cc/NFMMmTS1/IMG-20250223-220054-076.jpg",
+"url": "https://nikaplayerr.com/file/u18coaoz7zsx",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"info": "2024",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "SANCTUARY",
       "image": "https://pics.filmaffinity.com/sanctuary-397852345-large.jpg",
