@@ -132,6 +132,7 @@
         }
       ]
     },
+
     {
       "name": "LA LIGA EA SPORT",
       "image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
@@ -147,9 +148,9 @@
         },
         {
           "name": "M LaLiga [1080]",
-          "info": "[SIN EMISION]",
+          "info": "b53f",
           "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
-          "url": "acestream://"
+          "url": "acestream://94d34491106e00394835c8cb68aa94481339b53f"
         },
         {
           "name": "M LaLiga [1080][Multiaudio]",
@@ -249,6 +250,7 @@
         }
       ]
     },
+
     {
       "name": "LA LIGA HYPERMOTION",
       "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
@@ -286,6 +288,7 @@
         }
       ]
     },
+
     {
       "name": "COPA DEL REY ESPAÑA",
       "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
@@ -313,6 +316,7 @@
         }
       ]
     },
+
     {
       "name": "DAZN LIGA FEMENINA",
       "image": "https://i.postimg.cc/GtRFXhDX/La-Liga-F-new.png",
@@ -346,6 +350,7 @@
         }
       ]
     },
+
     {
       "name": "LIGA DE CAMPEONES",
       "image": "https://i.postimg.cc/NFLRGSbF/logo-champions.png",
@@ -469,6 +474,7 @@
         }
       ]
     },
+
     {
       "name": "M DEPORTES",
       "image": "https://i.postimg.cc/rmxMT8Rg/Logo-M-Deportes.png",
@@ -526,6 +532,7 @@
         }
       ]
     },
+
     {
       "name": "DAZN",
       "image": "https://i.postimg.cc/VvzPnpDF/Logo-Dazn-2.png",
@@ -571,6 +578,7 @@
         }
       ]
     },
+
     {
       "name": "DAZN F1",
       "image": "https://i.postimg.cc/CKmmK298/Logo-Dazn-F1.png",
