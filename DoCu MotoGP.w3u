@@ -1758,7 +1758,28 @@
             		"online":"true"
 			}
 		]
+	},
+
+	{
+	"name": "CODIGO MOTO GP 2025",
+	"image": "https://i.postimg.cc/85qgdx1J/Codigo-Moto-GP-2024.jpg",
+	"imageScale": "",
+	"info":"",
+	"stations":
+		[
+			{
+			"name": "Codigo MotoGP Tailandia 2025",
+			"info":"",
+			"image": "https://i.postimg.cc/vBmW9d1c/Bandera_Tailandia.jpg",
+			"url": "https://filemoon.to/d/zdmw93edn2li/01_6_C_digo_MotoGP_-_Tailandia.mp4",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
+			}
+		]
 	}
+
 
 ]
 }
