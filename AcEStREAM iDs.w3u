@@ -359,6 +359,24 @@
       "stations": 
       [
         {
+          "name": "M. Liga de Campeones",
+          "info": "f370",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
+        },
+        {
+          "name": "M. Liga de Campeones",
+          "info": "270b",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://840f68a0dc6e27c2927a16b4d42b9401ac50270b"
+        },
+        {
+          "name": "M. Liga de Campeones [1080]",
+          "info": "8a85",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://ac73acd09d79c46cb818bfd945f20198d1718a85"
+        },
+        {
           "name": "M. Liga de Campeones [1080][Multiaudio]",
           "info": "1478",
           "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
@@ -369,12 +387,6 @@
           "info": "513c",
           "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
           "url": "acestream://775abd8697715c48a357906d40734ccd2a10513c"
-        },
-        {
-          "name": "M. Liga de Campeones [1080]",
-          "info": "8a85",
-          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://ac73acd09d79c46cb818bfd945f20198d1718a85"
         },
         {
           "name": "M. Liga de Campeones [720]",
@@ -395,6 +407,12 @@
           "url": "acestream://abdf9058786a48623d0de51a3adb414ae10b6e72"
         },
         {
+          "name": "M. Liga de Campeones 3",
+          "info": "53da",
+          "image": "https://i.postimg.cc/yY9bDhLr/Liga-de-Campeones-3-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://4d754e0b6b583d01668de8544c43cad6a1b253da"
+        },
+        {
           "name": "M. Liga de Campeones 3 [1080]",
           "info": "b97d",
           "image": "https://i.postimg.cc/yY9bDhLr/Liga-de-Campeones-3-por-Movistar-Plus-2022-logo.png",
@@ -405,6 +423,12 @@
           "info": "ab69",
           "image": "https://i.postimg.cc/yY9bDhLr/Liga-de-Campeones-3-por-Movistar-Plus-2022-logo.png",
           "url": "acestream://0b348cc1ae499e810729661878764a0fab88ab69"
+        },
+        {
+          "name": "M. Liga de Campeones 4",
+          "info": "3452",
+          "image": "https://i.postimg.cc/HxVSdbJz/Liga-de-Campeones-4-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://7a5512d101742eb418dd0e3ffbd2bf6c43c73452"
         },
         {
           "name": "M. Liga de Campeones 4 [1080]",
