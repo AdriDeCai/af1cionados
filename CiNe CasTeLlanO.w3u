@@ -553,6 +553,18 @@
 "import": false
 },
     {
+      "name": "ANTES ERA DIVERTIDO",
+      "image": "https://pics.filmaffinity.com/i_used_to_be_funny-247927603-large.jpg",
+      "url": "https:",
+      "info": "2023",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
       "name": "APARCACOCHES, EL",
       "info": "2022",
       "image": "https://i.postimg.cc/Xv62743z/Aparcacoches-El-2023-Pelicula.jpg",
@@ -1437,6 +1449,18 @@
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "CASTIGO, EL",
+      "image": "https://pics.filmaffinity.com/el_castigo-747465596-large.jpg",
+      "url": "https:",
+      "info": "2022",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
       "import": false
     },
         {
@@ -2995,6 +3019,18 @@
 "import": false
 },
     {
+      "name": "FURIA (GUNNER)",
+      "image": "https://pics.filmaffinity.com/gunner-610935115-large.jpg",
+      "url": "https:",
+      "info": "2024",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
       "name": "GEMELOS PERO NO TANTO",
       "image": "https://pics.filmaffinity.com/jumeaux_mais_pas_trop-875047012-large.jpg",
       "url": "https://upstream.to/4kp7dnalgjo6",
@@ -3244,6 +3280,18 @@
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "HERE (AQUI)",
+      "image": "https://pics.filmaffinity.com/here-640848952-large.jpg",
+      "url": "https:",
+      "info": "2024",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
       "import": false
     },
     {
@@ -4462,6 +4510,18 @@
 "online": "true",
 "import": false
 },
+    {
+      "name": "MALAS LENGUAS",
+      "image": "https://pics.filmaffinity.com/rumours-798034074-large.jpg",
+      "url": "https:",
+      "info": "2024",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "¡MALDITOS AMIGOS!",
       "image": "https://pics.filmaffinity.com/cursed_friends-307799818-large.jpg",
