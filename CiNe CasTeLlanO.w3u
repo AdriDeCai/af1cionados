@@ -5446,6 +5446,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
     {
+      "name": "PARASITOS",
+      "image": "https://pics.filmaffinity.com/gisaengchung-432616131-large.jpg",
+      "url": "https://filemoon.to/d/imq79hy6cvbi/Parasitos_2019.mkv",
+      "info": "2019",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
       "name": "PARED CON PARED",
       "image": "https://pics.filmaffinity.com/pared_con_pared-477471720-large.jpg",
       "url": "https://upstream.to/u1uny6fevq5w",
