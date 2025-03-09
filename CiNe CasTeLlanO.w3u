@@ -2049,6 +2049,18 @@
       "online": "true",
       "import": false
     },
+    {
+      "name": "DE AMOR Y MONSTRUOS",
+      "image": "https://pics.filmaffinity.com/love_and_monsters-679208225-large.jpg",
+      "url": "https://filemoon.to/d/3x8txh7iq0y5/De_amor_y_monstruos_2021.mkv",
+      "info": "2021",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
 {
       "name": "DE NATURALEZA VIOLENTA",
       "image": "https://i.postimg.cc/Y9vshMCp/IMG-20241108-161115-042.jpg",
@@ -6604,6 +6616,18 @@
       "info": "2023",
       "image": "https://pics.filmaffinity.com/sola-500468966-large.jpg",
       "url": "https://embedv.net/v/m7WJxgJmy0d5Bze",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "SOLOS EN LA NOCHE",
+      "image": "https://pics.filmaffinity.com/solos_en_la_noche-516299966-large.jpg",
+      "url": "https://filemoon.to/d/lnm45dwgk45n/Solos_en_la_noche__2024__By_Xusman.mkv",
+      "info": "2024",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "referer": "",
