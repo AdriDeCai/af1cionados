@@ -2589,18 +2589,33 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
-{
-"name": "EMILIA PÉREZ",
-"image": "https://i.postimg.cc/Jnnjmx23/IMG-20250218-231742-861.jpg",
-"url": "https://nikaplayerr.com/file/iovqsebaaiek",
-"userAgent": "PlusMediaPlayer/0.0.9",
-"info": "2024",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "EL MANIQUI",
+      "info": "[1987][Español]",
+      "image": "https://pics.filmaffinity.com/Maniquai-741742878-large.jpg",
+      "url": "https://smoothpre.com/file/0rxzv858i88t",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
+      "name": "EL MANIQUI 2",
+      "info": "[1991][Español]",
+      "image": "https://pics.filmaffinity.com/Atrapa_ese_maniquai_Maniquai_2-340661639-large.jpg",
+      "url": "https://smoothpre.com/file/qvq3jneyc5ox",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
+    "name": "EMILIA PÉREZ",
+    "image": "https://i.postimg.cc/Jnnjmx23/IMG-20250218-231742-861.jpg",
+    "url": "https://nikaplayerr.com/file/iovqsebaaiek",
+    "userAgent": "PlusMediaPlayer/0.0.9",
+    "info": "2024",
+    "isHost": "true",
+    "online": "true"
+    },
     {
       "name": "EN TEMPORADA BAJA",
       "info": "2022",
@@ -4128,6 +4143,24 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
+    },
+    {
+      "name": "LA BUSQUEDA",
+      "info": "[2004][Español]",
+      "image": "https://es.web.img2.acsta.net/pictures/14/05/06/11/52/354666.jpg",
+      "url": "https://smoothpre.com/file/pavk71o0x2cl",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
+      "name": "LA BUSQUEDA 2",
+      "info": "[2007][Español]",
+      "image": "https://es.web.img2.acsta.net/c_310_420/medias/nmedia/18/68/01/05/20051505.jpg",
+      "url": "https://smoothpre.com/file/ylqktofwytdt",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
     },
     {
       "name": "LA LIBERACION",
