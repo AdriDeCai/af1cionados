@@ -100,7 +100,7 @@
         {
           "name": "Sprint MotoGP",
           "info": "[15/03/2025]",
-          "image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+          "image": "https://i.postimg.cc/tT5KgkdM/Moto-GP-2025.png",
           "url": "https:",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
@@ -109,7 +109,7 @@
         {
           "name": "Carrera Moto3",
           "info": "[16/03/2025]",
-          "image": "https://i.postimg.cc/0NVcSYXZ/Logo-Moto3.jpg",
+          "image": "https://i.postimg.cc/23p3YVch/sub-nav-moto3.webp",
           "url": "https:",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
@@ -118,7 +118,7 @@
         {
           "name": "Carrera Moto2",
           "info": "[16/03/2025]",
-          "image": "https://i.postimg.cc/wB10hyKp/Logo-Moto2.jpg",
+          "image": "https://i.postimg.cc/13Qcctm8/sub-nav-moto2.webp",
           "url": "https:",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
@@ -127,8 +127,17 @@
         {
           "name": "Carrera MotoGP",
           "info": "[16/03/2025]",
-          "image": "https://i.postimg.cc/tT5KgkdM/Moto-GP-2025.png",
+          "image": "https://i.postimg.cc/BZzKNvgq/sub-nav-motogp.webp",
           "url": "https:",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Post MotoGP",
+          "info": "[16/03/2025]",
+          "image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+          "url": "",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
           "online": "true"
