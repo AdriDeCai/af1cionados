@@ -537,25 +537,6 @@
     },
 
     {
-      "name": "PERTAMINA MANDALIKA INTERNATIONAL CIRCUIT (INDONESIA)",
-      "image": "https://i.postimg.cc/QVLVbkGW/bandera-de-Indonesia.jpg",
-      "imageScale": "",
-      "info": "ROUND 15",
-      "stations": 
-      [
-        {
-          "name": "Sprint MotoGP",
-          "info": "",
-          "image": "https://i.postimg.cc/tT5KgkdM/Moto-GP-2025.png",
-          "url": "https://filemoon.to/d/iat7lswgw0bf",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
-          "online": "true"
-        }
-      ]
-    },
-
-    {
       "name": "MOBILITY RESORT MOTEGI (JAPON)",
       "image": "https://i.postimg.cc/7LGTmRQs/Bandera_Japon.jpg",
       "imageScale": "",
@@ -575,15 +556,34 @@
     },
 
     {
-      "name": "PHILLIP ISLAND (AUSTRALIA)",
-      "image": "https://i.postimg.cc/5t78QbxV/Bandera-Australia.jpg",
+      "name": "PERTAMINA MANDALIKA INTERNATIONAL CIRCUIT (INDONESIA)",
+      "image": "https://i.postimg.cc/QVLVbkGW/bandera-de-Indonesia.jpg",
       "imageScale": "",
-      "info": "ROUND 17",
+      "info": "[ROUND 18]",
       "stations": 
       [
         {
           "name": "Sprint MotoGP",
-          "info": "",
+          "info": "[04/10/2025]",
+          "image": "https://i.postimg.cc/tT5KgkdM/Moto-GP-2025.png",
+          "url": "https://filemoon.to/d/iat7lswgw0bf",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    },
+
+    {
+      "name": "PHILLIP ISLAND (AUSTRALIA)",
+      "image": "https://i.postimg.cc/5t78QbxV/Bandera-Australia.jpg",
+      "imageScale": "",
+      "info": "[ROUND 19]",
+      "stations": 
+      [
+        {
+          "name": "Sprint MotoGP",
+          "info": "[17/10/2025]",
           "image": "https://i.postimg.cc/tT5KgkdM/Moto-GP-2025.png",
           "url": "https://filemoon.to/d/4aawj4khmnor",
           "userAgent": "PlusMediaPlayer/0.0.9",
@@ -597,12 +597,12 @@
       "name": "SEPANG INTERNATIONAL CIRCUIT (MALASIA)",
       "image": "https://i.postimg.cc/pTmVN0hm/Bandera_Malasia.jpg",
       "imageScale": "",
-      "info": "[]",
+      "info": "[ROUND 20]",
       "stations": 
       [
         {
           "name": "Sprint MotoGP",
-          "info": "[]",
+          "info": "[25/10/2025]",
           "image": "https://i.postimg.cc/tT5KgkdM/Moto-GP-2025.png",
           "url": "",
           "userAgent": "PlusMediaPlayer/0.0.9",
@@ -616,12 +616,12 @@
       "name": "AUTODROMO INTERNACIONAL DO ALGARVE (PORTUGAL)",
       "image": "https://i.postimg.cc/pLRvXZMb/bandera-de-portugal-actual.jpg",
       "imageScale": "",
-      "info": "[]",
+      "info": "[ROUND 21]",
       "stations": 
       [
         {
           "name": "Sprint MotoGP",
-          "info": "[08/11/]",
+          "info": "[08/11/2025]",
           "image": "https://i.postimg.cc/tT5KgkdM/Moto-GP-2025.png",
           "url": "",
           "userAgent": "PlusMediaPlayer/0.0.9",
