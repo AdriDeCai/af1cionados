@@ -32,6 +32,15 @@
       "import": false
     },
         {
+        "name": "84 CHARING CROSS ROAD [VOSE]",
+        "info": "[1987][Vose.Sub]",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTg1ODkzODczMV5BMl5BanBnXkFtZTcwMzM5NjcxMQ@@._V1_.jpg",
+        "url": "https://ok.ru/video/3231040866941",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
         "name": "2001 MANIACS: Field of Screams",
         "image": "https://pics.filmaffinity.com/2001_Maniacs_Field_of_Screams-713962749-large.jpg",
         "url": "https://filemoon.to/d/l6o17bxfklwm",
@@ -62,6 +71,16 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+	    {
+        "name": "A WRITER´S ODYSSEY [VOSE]",
+        "image": "https://shoutfactory.com/cdn/shop/products/AWO_BR_PS_72dpi_600x600.png",
+       	"url": "https://streamwish.to/e/56a8yrumv8bt",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+       	"info":"[2021]",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true"
+       	},
     {
       "name": "AFTER: AQUI ACABA TODO [VOSE]",
       "image": "https://pics.filmaffinity.com/after_everything-570162347-large.jpg",
@@ -126,6 +145,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "ALL THE GODS IN THE SKY [VOSE]",
+        "image": "https://cineuropa.org/Galleries/364/336/poster_en_big.jpg",
+        "url": "https://filemoon.to/d/rxi76hf1f0ek",
+        "info": "[2018]",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "ALLELUJAH [VOSE]",
       "image": "https://pics.filmaffinity.com/allelujah-754219144-large.jpg",
@@ -221,6 +249,15 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
+    },
+    {
+      "name": "BAAHUBALI 2: THE CONCLUSION [VOSE]",
+      "image": "https://m.media-amazon.com/images/I/711eHgGtnFL._AC_UF894,1000_QL80_.jpg",
+      "info": "[2017]",
+      "url": "https://filemoon.to/d/q7q4iq7lx3x3",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "isHost": "true",
+      "online": "true"
     },
     {
       "name": "BABYGIRL [VOSE]",
@@ -452,6 +489,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "CORRAZONES DE HIERRO [VOSE]",
+        "info": "[2014]",
+        "image": "https://unlibroparaestanoche.com/wp-content/uploads/2015/03/corazones-de-acero-poster.jpg",
+        "url": "https://vidhideplus.com/v/59gxi5c3u37b",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "CORRECTIVE MEASURES [VOSE]",
       "image": "https://pics.filmaffinity.com/corrective_measures-978576044-large.jpg",
@@ -531,7 +577,7 @@
     },
     {
       "name": "DOBLE VIDA [VOSE]",
-      "image": "",
+      "image": "https://pics.filmaffinity.com/double_life-310764057-large.jpg",
       "url": "https://upstream.to/kqlkfzh08fdk",
       "info": "2023",
       "embed": "",
@@ -574,6 +620,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "DUELO DEL SIGLO, EL [VOSE]",
+        "info": "[2022]",
+        "image": "https://gnulahd.nu/wp-content/uploads/2023/05/Chempion_mira_poster_rusia.jpg",
+        "url": "https://susanhavekeep.com/e/dybg1dnqd2nn",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
     {
       "name": "DULCES Y SANGRIENTOS 16 [VOSE]",
       "image": "https://static.wikia.nocookie.net/doblaje/images/8/8c/Dulces_y_sangrientos_16.jpg/revision/latest?cb=20231006211251&path-prefix=es",
@@ -683,6 +738,15 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
+    },
+    {
+      "name": "GLADIEATOR 2 [VOSE]",
+      "image": "https://pics.filmaffinity.com/gladiator_ii-808387712-large.jpg",
+      "info": "[2024]",
+      "url": "https://listeamed.net/v/4bQVOj3Bovo5wKm",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "isHost": "true",
+      "online": "true"
     },
     {
       "name": "GODZILLA MINUS ONE [VOSE]",
