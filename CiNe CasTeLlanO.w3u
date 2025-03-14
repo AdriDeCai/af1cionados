@@ -4225,6 +4225,15 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
+        {
+        "name": "LAST, THE: NARUTO LA PELICULA",
+        "info": "[2014][Español]",
+        "image": "https://pics.filmaffinity.com/The_Last_Naruto_the_Movie-717576587-large.jpg",
+        "url": "https://filemoon.top/e/c8vvbwlfl4gm/_AnimeOnlineNinja__Naruto_Shippuden_Movie_Castellano_07",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
 {
 "name": "LECCIÓN DE PIANO, LA",
 "image": "https://i.postimg.cc/k5V7WmyD/IMG-20241123-092437-035.jpg",
@@ -4728,6 +4737,15 @@
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
+      "name": "MARY POPPINS",
+      "image": "https://m.media-amazon.com/images/I/81QbcpcITmL._AC_UF894,1000_QL80_.jpg",
+      "info": "[MultiAudio][1964]",
+      "url": "https://filemoon.to/d/if8gj7qtrmb2",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "isHost": "true",
+      "online": "true"
     },
     {
       "name": "MASCOTAS EN APUROS",
