@@ -6,27 +6,7 @@
   "telegram": "Lista_AF1CIONADOS",
   "info": "Lista recopilada de Ids. bY. Lukas",
   "groups": [
-    {
-      "name": "aCEStREAm tROnOsS",
-      "image": "https://i.postimg.cc/qBZnwtxG/5.png",
-      "url": "https://af1c1onados.vercel.app/Acestream.tROnOsS.m3u",
-      "info": "bY. tROnOsS",
-      "import": false
-    },
-    {
-      "name": "aCEStREAm nEW erA",
-      "image": "https://i.postimg.cc/63KLrZh5/new-era-new.png",
-      "url": "https://af1c1onados.vercel.app/Acestream.Lista.New.Era.26.02.25.m3u",
-      "info": "bY. nEW erA",
-      "import": false
-    },
-    {
-      "name": "aCEStREAm lUCaS",
-      "image": "https://i.postimg.cc/MKj3xJs1/3.png",
-      "url": "https://actualsebastian.vercel.app/base.txt",
-      "info": "bY. lUCas",
-      "import": false
-    },
+
     {
       "name": "CANALES ESPAÑA",
       "image": "https://i.postimg.cc/NfQ1LMZP/logo-spain.png",
