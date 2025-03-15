@@ -81,6 +81,12 @@
           "url": "acestream://56ac8e227d526e722624675ccdd91b0cc850582f"
         },
         {
+          "name": "MOVISTAR PLUS [1080]",
+          "info": "178f",
+          "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
+          "url": "acestream://335646e7394ea4eda343c95e57852bb70fc4178f"
+        },
+        {
           "name": "BARCA TV [720]",
           "info": "3ba7",
           "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png",
