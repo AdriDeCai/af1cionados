@@ -434,6 +434,17 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "CHICA DEL SOTANO, LA [VOSE]",
+        "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/2/w1280/qmddUxRwbsxHa7oEXm4PWh1KZe8.jpg",
+        "url": "https://filemoon.to/d/qa0bbcit6dhr",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "info": "[2021]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "CIVIL WAR [VOSE]",
       "image": "https://pics.filmaffinity.com/civil_war-397793862-large.jpg",
@@ -522,6 +533,17 @@
       "import": false
     },
     {
+      "name": "COVENANT, THE [VOSE]",
+      "info": "2023",
+      "image": "https://pics.filmaffinity.com/guy_ritchie_s_the_covenant-145554066-mmed.jpg",
+      "url": "https://www.linkbox.to/f-detail/ZnAzdnE0MDA0cmh30",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
       "name": "CREATOR, THE [VOSE]",
       "image": "https://pics.filmaffinity.com/the_creator-470808400-large.jpg",
       "url": "https://vidmoly.to/embed-8tuztsp0djt3.html",
@@ -541,6 +563,16 @@
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+        {
+        "name": "DARK AND THE WICKED [VOSE]",
+        "image": "https://pics.filmaffinity.com/the_dark_and_the_wicked-335778981-large.jpg",
+        "url": "https://filemoon.to/d/6pc0vretrvi4",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
       "import": false
     },
     {
@@ -650,6 +682,17 @@
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+        {
+        "name": "EN TIERRA DE SANTOS Y PECADORES [VOSE]",
+        "image": "https://pics.filmaffinity.com/En_tierra_de_santos_y_pecadores-844301097-large.jpg",
+        "url": "https://filemoon.to/d/w36jpd5by9f0",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "info": "[2023]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
       "import": false
     },
     {
@@ -1026,6 +1069,16 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+	    {
+        "name": "MISS VIOLENCE [VOSE]",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/77bfb67bc8a8f881643866f604c5f7e832568e64e43a62f5b1a3b80c0234e112.jpg",
+       	"url": "https://filemoon.to/d/h9rby9flklod",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+       	"info":"[2013]",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true"
+       	},
     {
       "name": "MISION DE RESCATGE 2 [VOSE]",
       "info": "2023",
@@ -1150,6 +1203,17 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+	{
+      "name": "NUESTRO HOGAR [VOSE]",
+      "info": "[2010]",
+      "image": "https://www.justwatch.com/images/poster/305303071/s332/astral-city",
+	"url": "https://ok.ru/video/8055421930197",
+	"userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "O PORTEIRO [VOSE]",
       "image": "https://pics.filmaffinity.com/o_porteiro-367909306-large.jpg",
@@ -1203,6 +1267,19 @@
       "online": "true",
       "import": false
     },
+    {
+      "name": "PASION DE CRISTO [VOSE]",
+      "image": "https://pics.filmaffinity.com/the_passion_of_the_christ-211498441-large.jpg",
+      "info": "[2004]",
+      "url": "https://listeamed.net/v/YWA8E9eWRp2EGmM",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
     {
       "name": "PASSAGES [VOSE]",
       "image": "https://pics.filmaffinity.com/passages-410792380-large.jpg",
@@ -1342,6 +1419,17 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "SAVAGELAND [VOSE]",
+        "image": "https://image.tmdb.org/t/p/original/1pW7H0WkgSzlgNGzFHeKDDh1Yi2.jpg",
+        "url": "https://filemoon.to/d/4v0kfmzmzjfb",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "info": "[2015]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "SAW, EL JUEGO DEL MIEDO [VOSE]",
       "image": "https://pics.filmaffinity.com/saw_10-770317273-large.jpg",
@@ -1470,6 +1558,17 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+        {
+        "name": "STEPHANIE [VOSE]",
+        "info": "[2017]",
+        "image": "https://images.justwatch.com/poster/58433700/s718/stephanie.jpg",
+        "url": "https://wishembed.pro/e/kx65f35iwzz0",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "SU UNICO HIJO [VOSE]",
       "image": "https://pics.filmaffinity.com/his_only_son-600109191-large.jpg",
@@ -1544,15 +1643,6 @@
       "online": "true"
     },
     {
-      "name": "THE COVENANT [VOSE]",
-      "info": "2023",
-      "image": "https://pics.filmaffinity.com/guy_ritchie_s_the_covenant-145554066-mmed.jpg",
-      "url": "https://www.linkbox.to/f-detail/ZnAzdnE0MDA0cmh30",
-      "userAgent": "",
-      "isHost": "true",
-      "online": "true"
-    },
-    {
       "name": "TIBURON NEGRO [VOSE]",
       "image": "https://pics.filmaffinity.com/the_black_demon-983854267-large.jpg",
       "url": "https://s20.gamovideo.com:444/kjap4wzoajnv3h2yufwn33kfolgqdr2x5vm3dg5etmdck3z65u3xqo75kgma/v.mp4",
@@ -1611,6 +1701,15 @@
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "TUNNEL, THE [VOSE]",
+        "info": "[2011]",
+        "image": "https://m.media-amazon.com/images/I/810BW4pTByL._AC_UF894,1000_QL80_.jpg",
+        "url": "https://filemoon.to/d/t7449vup3wri",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "isHost": "true",
+        "online": "true"
         },
     {
       "name": "ULTIMO OBJETIVO, EL [VOSE]",
