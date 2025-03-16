@@ -2205,6 +2205,17 @@
       "import": false
     },
 {
+"name": "DELICIA",
+"image": "https://i.postimg.cc/tTGgzwqH/IMG-20250315-091601-772.jpg",
+"url": "https://filemoon.to/d/hupejy7ddu8s",
+"info": "2025",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true"
+},
+{
 "name": "DEPRAVITY",
 "info": "2024",
 "image": "https://i.postimg.cc/J0Dk3N64/IMG-20250104-114057-575.jpg",
@@ -3213,36 +3224,6 @@
 "import": false
 },
     {
-      "name": "GUARDIAN INVISIBLE",
-      "info": "2017",
-      "image": "https://pics.filmaffinity.com/El_guardiaan_invisible-726992780-large.jpg",
-      "url": "https://filemoon.to/d/wunbvzp9calw",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "embed": "",
-      "isHost": "true",
-      "online": "true"
-    },
-    {
-      "name": "GUERRA DE PANDORA",
-      "image": "https://pics.filmaffinity.com/battle_for_pandora-776107913-large.jpg",
-      "url": "https://filemoon.to/d/dwv8luoj6ie0/Guerra_de_Pandora__2022_.mp4",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "info": "2022",
-      "embed": "",
-      "isHost": "true",
-      "online": "true"
-    },
-    {
-      "name": "GUIA DEL DESFILADERO, EL",
-      "info": "2007",
-      "image": "https://pics.filmaffinity.com/pathfinder-397475723-large.jpg",
-      "url": "https://filemoon.to/d/tgajdua6lh1z",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "embed": "",
-      "isHost": "true",
-      "online": "true"
-    },
-    {
       "name": "GRAN EQUIPO, UN",
       "image": "https://pics.filmaffinity.com/wochenendrebellen-295759657-large.jpg",
       "url": "https://filemoon.to/d/rgbmy355if9i/Un_gran_equipo__2023_Pelicula_.mkv",
@@ -3264,6 +3245,17 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+{
+"name": "GRAN LILLIAN HALL, LA",
+"image": "https://i.postimg.cc/GmbVvQwS/IMG-20250315-091618-347.jpg",
+"url": "https://filemoon.to/d/z0p06rmvqd5c",
+"info": "2025",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true"
+},
     {
       "name": "GRAN SEDUCCION, LA",
       "info": "2023",
@@ -3304,6 +3296,36 @@
 "userAgent": "PlusMediaPlayer/0.0.9",
 "import": false
 },
+    {
+      "name": "GUARDIAN INVISIBLE",
+      "info": "2017",
+      "image": "https://pics.filmaffinity.com/El_guardiaan_invisible-726992780-large.jpg",
+      "url": "https://filemoon.to/d/wunbvzp9calw",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
+      "name": "GUERRA DE PANDORA",
+      "image": "https://pics.filmaffinity.com/battle_for_pandora-776107913-large.jpg",
+      "url": "https://filemoon.to/d/dwv8luoj6ie0/Guerra_de_Pandora__2022_.mp4",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "info": "2022",
+      "embed": "",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
+      "name": "GUIA DEL DESFILADERO, EL",
+      "info": "2007",
+      "image": "https://pics.filmaffinity.com/pathfinder-397475723-large.jpg",
+      "url": "https://filemoon.to/d/tgajdua6lh1z",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "isHost": "true",
+      "online": "true"
+    },
     {
       "name": "GUARDIANAS DEL PLANETA, LAS",
       "image": "https://pics.filmaffinity.com/les_gardiennes_de_la_planete-321296342-large.jpg",
