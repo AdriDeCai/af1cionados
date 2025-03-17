@@ -10,7 +10,7 @@
 
     {
       "name": "SEPANG TEST 2025",
-      "image": "https://i.postimg.cc/FRYCjy5T/2024-Sepang-Test-Portada.png",
+      "image": "https://i.postimg.cc/L6s6cmFX/Bandera-Malasia.png",
       "imageScale": "",
       "info": "",
       "stations": 
@@ -38,7 +38,7 @@
 
     {
       "name": "CHANG INTERNATIONAL CIRCUIT (TAILANDIA)",
-      "image": "https://i.postimg.cc/vBmW9d1c/Bandera_Tailandia.jpg",
+      "image": "https://i.postimg.cc/MGLyQ900/Bandera-Tailandia.png",
       "imageScale": "",
       "info": "[ROUND 01]",
       "stations": 
@@ -93,7 +93,7 @@
 
     {
       "name": "CIRCUITO TERMAS DE RIO HONDO (ARGENTINA)",
-      "image": "https://i.postimg.cc/tJGkXKCK/Bandera-Argentina.jpg",
+      "image": "https://i.postimg.cc/prbz0y6p/Bandera-Argentina.png",
       "imageScale": "",
       "info": "[ROUND 02]",
       "stations": [
@@ -138,7 +138,7 @@
 
     {
       "name": "CIRCUIT OF THE AMERICAS (ESTADOS UNIDOS)",
-      "image": "https://i.postimg.cc/3wGXHKqP/Bandera-USA.jpg",
+      "image": "https://i.postimg.cc/vTr9CMJX/Bandera-Usa.png",
       "imageScale": "",
       "info": "[ROUND 03]",
       "stations": 
@@ -230,7 +230,7 @@
 
     {
       "name": "CIRCUITO JEREZ DE LA FRONTERA, ANGEL NIETO (ESPAÑA)",
-      "image": "https://i.postimg.cc/QM7ynZJM/Bandera-Espa-a.jpg",
+      "image": "https://i.postimg.cc/Z5K3sGVF/Bandera-Espa-a.png",
       "imageScale": "",
       "info": "[ROUND 05]",
       "stations": 
