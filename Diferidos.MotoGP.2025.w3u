@@ -110,37 +110,28 @@
           "name": "Carrera Moto3",
           "info": "[16/03/2025]",
           "image": "https://i.postimg.cc/23p3YVch/sub-nav-moto3.webp",
-          "url": "https://smoothpre.com/file/c1yof4qvmpaz",
+          "url": "https://pixeldrain.com/u/7gas1L3t",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
-          "online": ""
+          "online": "true"
         },
         {
           "name": "Carrera Moto2",
           "info": "[16/03/2025]",
           "image": "https://i.postimg.cc/13Qcctm8/sub-nav-moto2.webp",
-          "url": "https://smoothpre.com/file/8d08tfvry6re",
+          "url": "https://pixeldrain.com/u/1MVGNNUe",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
-          "online": ""
+          "online": "true"
         },
         {
           "name": "Carrera MotoGP",
           "info": "[16/03/2025]",
           "image": "https://i.postimg.cc/BZzKNvgq/sub-nav-motogp.webp",
-          "url": "https://Smoothpre.com/file/gk82nq88ugyj",
+          "url": "https://pixeldrain.com/u/xRWaU8s3",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
-          "online": ""
-        },
-        {
-          "name": "Post MotoGP",
-          "info": "[16/03/2025]",
-          "image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
-          "url": "https://Smoothpre.com/file/7iokn0qtybih",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
-          "online": ""
+          "online": "true"
         }
       ]
     },
