@@ -1776,6 +1776,16 @@
 			"embed":"",
             		"isHost":"true",
             		"online":"true"
+			},
+			{
+			"name": "Codigo MotoGP Argentina 2025",
+			"info":"[17-03-2025]",
+			"image": "https://i.postimg.cc/prbz0y6p/Bandera-Argentina.png",
+			"url": "https://listeamed.net/v/VqbX53pe2m9xQzp",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
 			}
 		]
 	}
