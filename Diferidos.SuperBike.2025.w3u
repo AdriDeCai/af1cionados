@@ -84,7 +84,7 @@
 
 	{
 	"name": "TT CIRCUIT ASSEN (HOLANDA)",
-	"image": "https://i.postimg.cc/HkfhPtgB/SBK-Round-3-Paises-Bajos.png",
+	"image": "https://i.postimg.cc/wjTB9d39/Bandera-Holanda.jpg",
 	"imageScale": "",
 	"info":"[ROUND 3]",
 	"stations":
@@ -121,7 +121,7 @@
 
 	{
 	"name": "CREMONA CIRCUIT (ITALIA)",
-	"image": "https://i.postimg.cc/63S9YpKD/SBK-Round-10-Italia.png",
+	"image": "https://i.postimg.cc/xCwn54zW/Bandera-Italia.jpg",
 	"imageScale": "",
 	"info":"[ROUND 4]",
 	"stations":
@@ -158,7 +158,7 @@
 
 	{
 	"name": "AUTODROM MOST (REPUBLICA CHECA)",
-	"image": "https://i.postimg.cc/4yx7cMWd/SBK-Round-6-Chequia.png",
+	"image": "",
 	"imageScale": "",
 	"info":"[ROUND 5]",
 	"stations":
@@ -199,7 +199,7 @@
 
 	{
 	"name": "CIRCUIT BARCELONA (CATALUNYA)",
-	"image": "https://i.postimg.cc/N0ZBDXJc/SBK-Round-2-Catalu-a.png",
+	"image": "",
 	"imageScale": "",
 	"info":"ROUND 2",
 	"stations":
@@ -237,7 +237,7 @@
 
 	{
 	"name": "EMILIA ROMAGNA (ITALIA)",
-	"image": "https://i.postimg.cc/nh7kMbyG/SBK-Round-4-Italia.png",
+	"image": "",
 	"imageScale": "",
 	"info":"ROUND 4",
 	"stations":
@@ -274,7 +274,7 @@
 
 	{
 	"name": "DONINGTON PARK (GRAN BRETAÑA)",
-	"image": "https://i.postimg.cc/8c6427VM/SBK-Round-5-Inglaterra.png",
+	"image": "",
 	"imageScale": "",
 	"info":"ROUND 5",
 	"stations":
@@ -311,7 +311,7 @@
 
 	{
 	"name": "CIRCUIT DE NEVERS MAGNY-COURS (FRANCIA) ",
-	"image": "https://i.postimg.cc/fWGzdyBd/SBK-Round-9-Francia.png",
+	"image": "",
 	"imageScale": "",
 	"info":"ROUND 9",
 	"stations":
@@ -349,7 +349,7 @@
 
 	{
 	"name": "TISSOT ARAGON (ESPAÑA)",
-	"image": "https://i.postimg.cc/WbmnZ9MP/SBK-Round-11-Arag-n.png",
+	"image": "",
 	"imageScale": "",
 	"info":"ROUND 11",
 	"stations":
@@ -386,7 +386,7 @@
 
 	{
 	"name": "ESTORIL (PORTUGAL)",
-	"image": "https://i.postimg.cc/SNfGFFMX/SBK-Round-7-Portugal.png",
+	"image": "",
 	"imageScale": "",
 	"info":"ROUND 11",
 	"stations":
@@ -423,7 +423,7 @@
 
 	{
 	"name": "PROMETEON (ESPAÑA)",
-	"image": "https://i.postimg.cc/HnqhLVD4/SBK-Round-12-Spain.png",
+	"image": "",
 	"imageScale": "",
 	"info":"ROUND 12",
 	"stations":
