@@ -1777,6 +1777,16 @@
 			"embed":"",
             		"isHost":"true",
             		"online":"true"
+			},
+			{
+			"name": "Codigo MotoGP America 2025",
+			"info":"[01-04-2025]",
+			"image": "https://i.postimg.cc/3wGXHKqP/Bandera_USA.jpg",
+			"url": "//listeamed.net/v/MAlwEMegNNMEJ39",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+			"embed":"",
+            		"isHost":"true",
+            		"online":"true"
 			}
 		]
 	}
