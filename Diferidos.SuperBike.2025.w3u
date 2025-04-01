@@ -53,10 +53,37 @@
 	"stations":
 		[
 			{
-			"name": "SBK RACE 1",
+			"name": "SBK SUPERPOLE",
 			"info": "[28-30 Marzo 2025]",
-			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
-			"url": "https://filemoon.to/d/dqezul2ermf6/DAZN___Motor___Pirelli_Portuguese_Round___Carrera_1__Todas_las_categor_as_.mkv",
+			"image": "https://i.postimg.cc/d0h0r1tt/superpole.png",
+			"url": "https://pixeldrain.com/u/oYAdiMgr",
+			"embed":"",
+      			"isHost":"true",
+      			"online":"true"
+			},
+			{
+			"name": "SUPERSPORT RACE 1",
+			"info": "[28-30 Marzo 2025]",
+			"image": "https://i.postimg.cc/gjnDLqFg/supersport.png",
+			"url": "https://pixeldrain.com/u/R5N6Mfg4",
+			"embed":"",
+      			"isHost":"true",
+      			"online":"true"
+			},
+			{
+			"name": "SUPERBIKE RACE 1",
+			"info": "[28-30 Marzo 2025]",
+			"image": "https://i.postimg.cc/Y2RK6pcg/superbike.png",
+			"url": "https://pixeldrain.com/u/JeuUC185",
+			"embed":"",
+      			"isHost":"true",
+      			"online":"true"
+			},
+			{
+			"name": "SUPERSPORT 300 RACE 1",
+			"info": "[28-30 Marzo 2025]",
+			"image": "https://i.postimg.cc/FzdqVMkS/supersport300.png",
+			"url": "https://pixeldrain.com/u/DmqekFy8",
 			"embed":"",
       			"isHost":"true",
       			"online":"true"
@@ -64,21 +91,39 @@
 			{
 			"name": "SBK SUPERPOLE RACE",
 			"info": "[28-30 Marzo 2025]",
-			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
-			"url": "https://filemoon.to/d/c8nsfbuak0r9/02_2_SBK_Superpole_Race_-__Algarve__Portugal__2025_ES.mp4",
+			"image": "https://i.postimg.cc/d0h0r1tt/superpole.png",
+			"url": "https://pixeldrain.com/u/ov3xfa9c",
 			"embed":"",
       			"isHost":"true",
       			"online":"true"
 			},
 			{
-			"name": "SBK RACE 2",
+			"name": "SUPERSPORT RACE 2",
 			"info": "[28-30 Marzo 2025]",
-			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
-			"url": "https://filemoon.to/d/5ktvlxj2rngr/02_3_SBK_Race_2_-__Algarve__Portugal__2025_ES.mp4",
+			"image": "https://i.postimg.cc/gjnDLqFg/supersport.png",
+			"url": "https://pixeldrain.com/u/nYCzi6Kv",
 			"embed":"",
       			"isHost":"true",
       			"online":"true"
-			}	
+			},
+			{
+			"name": "SUPERBIKE RACE 2",
+			"info": "[28-30 Marzo 2025]",
+			"image": "https://i.postimg.cc/Y2RK6pcg/superbike.png",
+			"url": "https://pixeldrain.com/u/BjZDzPY8",
+			"embed":"",
+      			"isHost":"true",
+      			"online":"true"
+			},
+			{
+			"name": "SUPERSPORT 300 RACE 2",
+			"info": "[28-30 Marzo 2025]",
+			"image": "https://i.postimg.cc/FzdqVMkS/supersport300.png",
+			"url": "https://pixeldrain.com/u/7HhiuBoM",
+			"embed":"",
+      			"isHost":"true",
+      			"online":"true"
+			}
 		]
 	},
 
