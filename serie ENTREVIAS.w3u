@@ -17,7 +17,7 @@
 	"stations":
 	[
 	{
-       	"name": "1x01 Episodio 1.1",
+       	"name": "1x01 Episodio 1",
         "image": "https://i.postimg.cc/3Jgwq2YL/Entrevias-Temp1.jpg",
         "url": "https://bembed.net/v/VqbX53g0Dea5Qzp",
        	"info": "2021",
@@ -30,7 +30,7 @@
 	{
        	"name": "1x02 Episodio 2",
         "image": "https://i.postimg.cc/3Jgwq2YL/Entrevias-Temp1.jpg",
-        "url": "https://listeamed.net/v/mMq75L8PBVV5XPB",
+        "url": "https://listeamed.net/v/PlBVEZklo6mODv9",
        	"info": "2021",
        	"embed": "",
        	"isHost": "true",
@@ -96,7 +96,7 @@
 	{
        	"name": "1x08 Episodio 8",
         "image": "https://i.postimg.cc/3Jgwq2YL/Entrevias-Temp1.jpg",
-        "url": "https://listeamed.net/v/YWA8E9wpWwk5GmM",
+        "url": "https://listeamed.net/v/PKN4OwzlPWVEDLj",
        	"info": "2021",
        	"embed": "",
        	"isHost": "true",
