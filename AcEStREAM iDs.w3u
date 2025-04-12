@@ -546,9 +546,15 @@
       [
         {
           "name": "DAZN 1 (FHD)(NewEra)",
-          "info": "73fa9",
+          "info": "3fa9",
           "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
           "url": "acestream://50a8a13c474848d1efbd5586efdb5b6cdd173fa9"
+        },
+        {
+          "name": "DAZN 1 (FHD)(NewEra)",
+          "info": "9928",
+          "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+          "url": "acestream://4141892f5df7d6474bf0279895ce02b7336c9928"
         },
         {
           "name": "DAZN 1 [720]",
