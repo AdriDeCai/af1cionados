@@ -545,10 +545,10 @@
       "stations": 
       [
         {
-          "name": "DAZN 1 [1080]",
-          "info": "add5",
+          "name": "DAZN 1 (FHD)(NewEra)",
+          "info": "73fa9",
           "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
-          "url": "acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5"
+          "url": "acestream://50a8a13c474848d1efbd5586efdb5b6cdd173fa9"
         },
         {
           "name": "DAZN 1 [720]",
