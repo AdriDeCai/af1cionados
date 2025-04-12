@@ -9,7 +9,7 @@
     {
       "name": "TEMPORADA 1",
       "image": "https://pics.filmaffinity.com/the_white_lotus-477876468-large.jpg",
-      "info": "by Adri",
+      "info": "",
       "stations": [
         {
           "name": "EPISODIO 1",
@@ -82,7 +82,7 @@
     {
       "name": "TEMPORADA 2",
       "image": "https://pics.filmaffinity.com/the_white_lotus_2-649334934-large.jpg",
-      "info": "by Adri",
+      "info": "",
       "stations": [
         {
           "name": "EPISODIO 1",
@@ -166,7 +166,7 @@
     {
       "name": "TEMPORADA 3",
       "image": "https://static.wikia.nocookie.net/thewhitelotus/images/1/18/The_White_Lotus_Season_3_poster_%28logo_only%29.jpg",
-      "info": "by Adri",
+      "info": "",
       "stations": [
         {
           "name": "EPISODIO 1",
@@ -183,6 +183,72 @@
           "name": "EPISODIO 2",
           "image": "https://static.wikia.nocookie.net/thewhitelotus/images/1/18/The_White_Lotus_Season_3_poster_%28logo_only%29.jpg",
           "url": "https://maxfinishseveral.com/yw4udg3mvtll",
+          "info": "[Castellano][2021]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "EPISODIO 3",
+          "image": "",
+          "url": "https:",
+          "info": "[Castellano][2021]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "EPISODIO 4",
+          "image": "",
+          "url": "https:",
+          "info": "[Castellano][2021]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "EPISODIO 5",
+          "image": "",
+          "url": "https:",
+          "info": "[Castellano][2021]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "EPISODIO 6",
+          "image": "",
+          "url": "https:",
+          "info": "[Castellano][2021]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "EPISODIO 7",
+          "image": "",
+          "url": "https:",
+          "info": "[Castellano][2021]",
+          "embed": "",
+          "isHost": "true",
+          "online": "true",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "import": false
+        },
+        {
+          "name": "EPISODIO 8",
+          "image": "",
+          "url": "https:",
           "info": "[Castellano][2021]",
           "embed": "",
           "isHost": "true",
