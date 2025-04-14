@@ -288,6 +288,15 @@
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
           "online": "true"
+        },
+        {
+          "name": "Post MotoGP",
+          "info": "[27/04/2025]",
+          "image": "https://i.postimg.cc/Y0MKtCmP/motogp-logo.png",
+          "url": "https:",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
         }
       ]
     },
