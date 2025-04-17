@@ -99,35 +99,49 @@
 "url": "https://listeamed.net/v/4bQVOjJv3eXOwKm",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "isHost":"true" 		
-}]},
+}
+]
+},
 
-{"name": "Temporada 2",
+{
+"name": "Temporada 2",
 "image": "https://www.dl.dropboxusercontent.com/s/kxjid4dnvi5aqwy/serie-cobrakai2.jpg",
-"stations": [
+"stations": 
+[
 
-{"name": "Capitulo 1",
+{
+"name": "Capitulo 1",
 "image": "https://www.dl.dropboxusercontent.com/s/kxjid4dnvi5aqwy/serie-cobrakai2.jpg",
-"url": "https://listeamed.net/v/JzkPxzwgzmkEbyd"},
+"url": "https://listeamed.net/v/JzkPxzwgzmkEbyd"
+},
 
-{"name": "Capitulo 2",
+{
+"name": "Capitulo 2",
 "image": "https://www.dl.dropboxusercontent.com/s/kxjid4dnvi5aqwy/serie-cobrakai2.jpg",
-"url": "https://listeamed.net/v/e028E6lqeBp5YAv"},
+"url": "https://listeamed.net/v/e028E6lqeBp5YAv"
+},
 
-{"name": "Capitulo 3",
+{
+"name": "Capitulo 3",
 "image": "https://www.dl.dropboxusercontent.com/s/kxjid4dnvi5aqwy/serie-cobrakai2.jpg",
-"url": "https://listeamed.net/v/dNjgOlARPwV59Wn"},
+"url": "https://listeamed.net/v/dNjgOlARPwV59Wn"
+},
 
-{"name": "Capitulo 4",
+{
+"name": "Capitulo 4",
 "image": "https://www.dl.dropboxusercontent.com/s/kxjid4dnvi5aqwy/serie-cobrakai2.jpg",
-"url": "https://listeamed.net/v/8ozgENeRD67xmjA"},
+"url": "https://listeamed.net/v/8ozgENeRD67xmjA"
+},
 
 {"name": "Capitulo 5",
 "image": "https://www.dl.dropboxusercontent.com/s/kxjid4dnvi5aqwy/serie-cobrakai2.jpg",
 "url": "https://listeamed.net/v/m7WJxgBL1qr5Bze"},
 
-{"name": "Capitulo 6",
+{
+"name": "Capitulo 6",
 "image": "https://www.dl.dropboxusercontent.com/s/kxjid4dnvi5aqwy/serie-cobrakai2.jpg",
-"url": "https://listeamed.net/v/27BaOnM2aVjEMDX"},
+"url": "https://listeamed.net/v/27BaOnM2aVjEMDX"
+},
 
 {"name": "Capitulo 7",
 "image": "https://www.dl.dropboxusercontent.com/s/kxjid4dnvi5aqwy/serie-cobrakai2.jpg",
