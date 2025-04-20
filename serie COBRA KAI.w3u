@@ -7,9 +7,11 @@
 "telegram": "@YIsus_mEx",
 "groups":[
 
-{"name": "Temporada 1",
+{
+"name": "Temporada 1",
 "image": "https://www.dl.dropboxusercontent.com/s/5g8wq9agpstm45t/serie-cobrakai1.jpg",
-"stations": [
+"stations": 
+[
 {
 "name": "S01.E01",
 "info":"[ESPAÑOL]",
@@ -108,7 +110,6 @@
 "image": "https://www.dl.dropboxusercontent.com/s/kxjid4dnvi5aqwy/serie-cobrakai2.jpg",
 "stations": 
 [
-
 {
 "name": "Capitulo 1",
 "image": "https://www.dl.dropboxusercontent.com/s/kxjid4dnvi5aqwy/serie-cobrakai2.jpg",
@@ -116,7 +117,6 @@
 "userAgent":"PlusMediaPlayer/0.0.9",
 "isHost":"true"
 },
-
 {
 "name": "Capitulo 2",
 "image": "https://www.dl.dropboxusercontent.com/s/kxjid4dnvi5aqwy/serie-cobrakai2.jpg",
@@ -124,7 +124,6 @@
 "userAgent":"PlusMediaPlayer/0.0.9",
 "isHost":"true"
 },
-
 {
 "name": "Capitulo 3",
 "image": "https://www.dl.dropboxusercontent.com/s/kxjid4dnvi5aqwy/serie-cobrakai2.jpg",
@@ -132,7 +131,6 @@
 "userAgent":"PlusMediaPlayer/0.0.9",
 "isHost":"true"
 },
-
 {
 "name": "Capitulo 4",
 "image": "https://www.dl.dropboxusercontent.com/s/kxjid4dnvi5aqwy/serie-cobrakai2.jpg",
@@ -140,14 +138,13 @@
 "userAgent":"PlusMediaPlayer/0.0.9",
 "isHost":"true"
 },
-
-{"name": "Capitulo 5",
+{
+"name": "Capitulo 5",
 "image": "https://www.dl.dropboxusercontent.com/s/kxjid4dnvi5aqwy/serie-cobrakai2.jpg",
 "url": "https://listeamed.net/v/m7WJxgBL1qr5Bze",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "isHost":"true"
 },
-
 {
 "name": "Capitulo 6",
 "image": "https://www.dl.dropboxusercontent.com/s/kxjid4dnvi5aqwy/serie-cobrakai2.jpg",
@@ -155,36 +152,39 @@
 "userAgent":"PlusMediaPlayer/0.0.9",
 "isHost":"true"
 },
-
-{"name": "Capitulo 7",
+{
+"name": "Capitulo 7",
 "image": "https://www.dl.dropboxusercontent.com/s/kxjid4dnvi5aqwy/serie-cobrakai2.jpg",
 "url": "https://listeamed.net/v/qM1VOP92ePm5o4k",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "isHost":"true"
 },
-
-{"name": "Capitulo 8",
+{
+"name": "Capitulo 8",
 "image": "https://www.dl.dropboxusercontent.com/s/kxjid4dnvi5aqwy/serie-cobrakai2.jpg",
 "url": "https://listeamed.net/v/7QWN5ej4Zwgx9oR",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "isHost":"true"
 },
-
-{"name": "Capitulo 9",
+{
+"name": "Capitulo 9",
 "image": "https://www.dl.dropboxusercontent.com/s/kxjid4dnvi5aqwy/serie-cobrakai2.jpg",
 "url": "https://listeamed.net/v/YWA8E94qeW2xGmM",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "isHost":"true"
 },
-
-{"name": "Capitulo 10",
+{
+"name": "Capitulo 10",
 "image": "https://www.dl.dropboxusercontent.com/s/kxjid4dnvi5aqwy/serie-cobrakai2.jpg",
 "url": "https://listeamed.net/v/l4vexvzlgm4x8B9",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "isHost":"true"
-}]},
+}
+]
+},
 
-{"name": "Temporada 3",
+{
+"name": "Temporada 3",
 "image": "https://www.dl.dropboxusercontent.com/s/buyg4uivguqwc93/serie-cobrakai3.jpg",
 "stations": 
 [
