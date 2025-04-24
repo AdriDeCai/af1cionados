@@ -5,7 +5,8 @@
   "url": "https://raw.githubusercontent.com/AdriDeCai/af1cionados/main/serie%20JUEGO%20DE%20TRONOS.w3u",
   "telegram": "@YIsus_mEx",
   "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
-  "groups": [
+  "groups": 
+  [
 
     {
     "name": "CASTELLANO",
@@ -781,7 +782,7 @@
       "stations": 
       [
         {
-          "name": "1x01 Se acerca el invierno",
+          "name": "2x01 Se acerca el invierno",
           "info": "",
           "image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
           "url": "",
@@ -790,7 +791,7 @@
           "online": "true"
         },
         {
-          "name": "1x02 El Camino Real",
+          "name": "2x02 El Camino Real",
           "info": "",
           "image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
           "url": "",
@@ -799,7 +800,7 @@
           "online": "true"
         },
         {
-          "name": "1x03 Lord Nieve ",
+          "name": "2x03 Lord Nieve ",
           "info": "",
           "image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
           "url": "",
@@ -808,6 +809,8 @@
           "online": "true"
         }
       ]
+    }
+    ]
     }
 
   ]
