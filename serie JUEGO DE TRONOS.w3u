@@ -6,6 +6,13 @@
   "telegram": "@YIsus_mEx",
   "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
   "groups": [
+
+    {
+    "name": "CASTELLANO",
+    "image": "",
+    "info": "",
+    "groups":
+    [
     {
       "name": "TEMPORADA 1",
       "image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
@@ -722,5 +729,86 @@
         }
       ]
     }
+    ]
+    },
+
+    {
+    "name": "VERSION SUBTITULADA",
+    "image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
+    "info": "",
+    "groups":
+    [
+    {
+      "name": "TEMPORADA 1",
+      "image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "1x01 Se acerca el invierno",
+          "info": "",
+          "image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "1x02 El Camino Real",
+          "info": "",
+          "image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "1x03 Lord Nieve ",
+          "info": "",
+          "image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    },
+
+    {
+      "name": "TEMPORADA 2",
+      "image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "1x01 Se acerca el invierno",
+          "info": "",
+          "image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "1x02 El Camino Real",
+          "info": "",
+          "image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "1x03 Lord Nieve ",
+          "info": "",
+          "image": "https://i.postimg.cc/C199xQjb/GOT-Temporada-1.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    }
+
   ]
 }
