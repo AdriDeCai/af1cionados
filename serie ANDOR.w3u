@@ -7,8 +7,13 @@
 "info": "2022",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": @YIsus_mEx",
-"stations":
+"groups":
+	[
 
+	{
+	"name": "TERMPORADA 1",
+	"image": "https://pics.filmaffinity.com/andor-868730434-large.jpg",
+	"stations":
 	[
 	{
        	"name": "EPISODIO 1",
@@ -142,6 +147,82 @@
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	}
+	]
+	},
+
+	{
+	"name": "TERMPORADA 2",
+	"image": "https://pics.filmaffinity.com/andor-868730434-large.jpg",
+	"stations":
+	[
+	{
+       	"name": "EPISODIO 1",
+        "image": "https://pics.filmaffinity.com/andor-868730434-large.jpg",
+        "url": "https://filemoon.to/d/ogq80nwxvpht/Star_Wars_Andor_S02E01_Un_ano_despues.mkv",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 2",
+        "image": "https://pics.filmaffinity.com/andor-868730434-large.jpg",
+        "url": "https://filemoon.to/d/vmffds4s8z1v/Star_Wars_Andor_S02E02_Sagrona_Teema.mkv",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 3",
+        "image": "https://pics.filmaffinity.com/andor-868730434-large.jpg",
+        "url": "https://filemoon.to/d/atkwh03ocvrw/Star_Wars_Andor_S02E03_La_cosecha.mkv",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 4",
+        "image": "https://pics.filmaffinity.com/andor-868730434-large.jpg",
+        "url": "https://filemoon.to/d/hzfut72d5mvu/Andor_S02E04_Has_estado_en_Ghorman.mkv",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 5",
+        "image": "https://pics.filmaffinity.com/andor-868730434-large.jpg",
+        "url": "https://filemoon.to/d/immqqeygql9p/Andor_S02E05_Tengo_amigos_en_todas_partes.mkv",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 6",
+        "image": "https://pics.filmaffinity.com/andor-868730434-large.jpg",
+        "url": "https://filemoon.to/d/d2axyuzucr86/Andor_S02E06_La_noche_se_ha_puesto_interesante.mkv",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
+	}
 
 ]
 }
