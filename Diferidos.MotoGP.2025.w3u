@@ -297,6 +297,15 @@
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
           "online": "true"
+        },
+        {
+          "name": "Codigo MotoGP",
+          "info": "[28/04/2025]",
+          "image": "https://i.postimg.cc/Y0MKtCmP/motogp-logo.png",
+          "url": "https://filemoon.to/d/msde16a562hk/05_6_C_digo_MotoGP_-_Espa_a.mp4",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
         }
       ]
     },
