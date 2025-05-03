@@ -87,7 +87,17 @@
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
           "online": "true"
-        }
+        },
+			  {
+			    "name": "Codigo MotoGP Tailandia 2025",
+    			"info":"[04-03-2025]",
+			    "image": "https://i.postimg.cc/Y0MKtCmP/motogp-logo.png",
+			    "url": "https://filemoon.to/d/zdmw93edn2li/01_6_C_digo_MotoGP_-_Tailandia.mp4",
+			    "userAgent":"PlusMediaPlayer/0.0.9",
+			    "embed":"",
+          "isHost":"true",
+          "online":"true"
+			  }
       ]
     },
 
@@ -96,7 +106,8 @@
       "image": "https://i.postimg.cc/prbz0y6p/Bandera-Argentina.png",
       "imageScale": "",
       "info": "[ROUND 02]",
-      "stations": [
+      "stations": 
+        [
         {
           "name": "Sprint MotoGP",
           "info": "[15/03/2025]",
@@ -132,7 +143,17 @@
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
           "online": "true"
-        }
+        },
+			  {
+			    "name": "Codigo MotoGP Argentina 2025",
+			    "info":"[17-03-2025]",
+			    "image": "https://i.postimg.cc/Y0MKtCmP/motogp-logo.png",
+			    "url": "https://filemoon.to/d/m4djb0od3h7x/02_6_C_digo_MotoGP_-_Argentina.mp4",
+			    "userAgent":"PlusMediaPlayer/0.0.9",
+			    "embed":"",
+          "isHost":"true",
+          "online":"true"
+			  }
       ]
     },
 
@@ -187,7 +208,17 @@
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
           "online": "true"
-        }
+        },
+			  {
+			    "name": "Codigo MotoGP America 2025",
+			    "info":"[01-04-2025]",
+			    "image": "https://i.postimg.cc/Y0MKtCmP/motogp-logo.png",
+			    "url": "https://filemoon.to/d/o483h005bgpl/03_6_Codigo_MotoGP_America.mp4",
+			    "userAgent":"PlusMediaPlayer/0.0.9",
+			    "embed":"",
+          "isHost":"true",
+          "online":"true"
+			  }
       ]
     },
 
@@ -242,7 +273,17 @@
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
           "online": "true"
-        }
+        },
+			  {
+			    "name": "Codigo MotoGP Qatar 2025",
+			    "info":"[14-04-2025]",
+			    "image": "https://i.postimg.cc/Y0MKtCmP/motogp-logo.png",
+			    "url": "https://filemoon.to/d/zq6aquyt7bx9/04_6_C_digo_MotoGP_Catar.mp4",
+			    "userAgent":"PlusMediaPlayer/0.0.9",
+			    "embed":"",
+          "isHost":"true",
+          "online":"true"
+			  }
       ]
     },
 
@@ -299,7 +340,7 @@
           "online": "true"
         },
         {
-          "name": "Codigo MotoGP",
+          "name": "Codigo MotoGP España 2025",
           "info": "[28/04/2025]",
           "image": "https://i.postimg.cc/Y0MKtCmP/motogp-logo.png",
           "url": "https://filemoon.to/d/msde16a562hk/05_6_C_digo_MotoGP_-_Espa_a.mp4",
