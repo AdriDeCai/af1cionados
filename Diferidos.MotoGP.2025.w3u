@@ -359,7 +359,7 @@
       "stations": 
       [
         {
-          "name": "Sprint MotoGP",
+          "name": "Sprint MotoGP Francia 2025",
           "info": "[26/04/2025]",
           "image": "https://i.postimg.cc/Wzg3Hzcf/motogp-sprint.png",
           "url": "https://filemoon.to/d/s9tv1z9vtvkn/06_1_Sprint_MotoGP_Bugatti_Le_Mans__Francia__2025_ES.mp4",
@@ -368,8 +368,8 @@
           "online": "true"
         },
         {
-          "name": "Carrera Moto3",
-          "info": "[27/04/2025]",
+          "name": "Carrera Moto3 Francia 2025",
+          "info": "[10/05/2025]",
           "image": "https://i.postimg.cc/1zXzZJZF/moto3.png",
           "url": "https:",
           "userAgent": "PlusMediaPlayer/0.0.9",
@@ -377,8 +377,8 @@
           "online": "true"
         },
         {
-          "name": "Carrera Moto2",
-          "info": "[27/04/2025]",
+          "name": "Carrera Moto2 Francia 2025",
+          "info": "[10/05/2025]",
           "image": "https://i.postimg.cc/kgpmWCkV/moto2.png",
           "url": "https:",
           "userAgent": "PlusMediaPlayer/0.0.9",
@@ -386,10 +386,28 @@
           "online": "true"
         },
         {
-          "name": "Carrera MotoGP",
-          "info": "[27/04/2025]",
+          "name": "Carrera MotoGP Francia 2025",
+          "info": "[11/05/2025]",
           "image": "https://i.postimg.cc/Y0MKtCmP/motogp-logo.png",
-          "url": "https:",
+          "url": "https://filemoon.to/d/hkx04h9xsr6d/06_4_Carrera_MotoGP_Bugatti_Le_Mans__Francia__2025_ES.mp4",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Post MotoGP Francia 2025",
+          "info": "[11/05/2025]",
+          "image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Codigo MotoGP Francia 2025",
+          "info": "[12/05/2025]",
+          "image": "https://i.postimg.cc/Y0MKtCmP/motogp-logo.png",
+          "url": "",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
           "online": "true"
