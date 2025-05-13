@@ -5,8 +5,13 @@
 "info": "2024",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": @YIsus_mEx",
-"stations":[
+"groups":[
 
+{
+"name": "TEMPORADA 1",
+"image": "https://pics.filmaffinity.com/atasco-386372183-large.jpg",
+"stations":
+[
 	{
        	"name": "EPISODIO 1",
         "image": "https://pics.filmaffinity.com/atasco-386372183-large.jpg",
@@ -73,6 +78,82 @@
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	}
+]
+},
+
+{
+"name": "TEMPORADA 2",
+"image": "https://pics.filmaffinity.com/atasco-386372183-large.jpg",
+"stations":
+[
+	{
+       	"name": "EPISODIO 1",
+        "image": "https://pics.filmaffinity.com/atasco-386372183-large.jpg",
+        "url": "https://listeamed.net/v/g9Vd5J6ZkNd5qQj",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 2",
+        "image": "https://pics.filmaffinity.com/atasco-386372183-large.jpg",
+        "url": "https://listeamed.net/v/b4ZJx2rVgpXx2P3",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 3",
+        "image": "https://pics.filmaffinity.com/atasco-386372183-large.jpg",
+        "url": "https://listeamed.net/v/ao9rxoJjKNJ5yGe",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 4",
+        "image": "https://pics.filmaffinity.com/atasco-386372183-large.jpg",
+        "url": "https://listeamed.net/v/kKJVORKGw7N53XD",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 5",
+        "image": "https://pics.filmaffinity.com/atasco-386372183-large.jpg",
+        "url": "https://listeamed.net/v/NMRLEpW1KkGxXaG",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "EPISODIO 6",
+        "image": "https://pics.filmaffinity.com/atasco-386372183-large.jpg",
+        "url": "https://listeamed.net/v/dNjgOlADLYK59Wn",
+       	"info": "2024",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+]
+}
 
 ]
 }
