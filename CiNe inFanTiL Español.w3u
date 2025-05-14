@@ -159,7 +159,18 @@
         "isHost":"true",
         "online":"true",
         "import": false
-	},  
+	},
+	{ 
+	"name": "BLANCANIEVES",
+	"info": "2025",
+	"image": "https://pics.filmaffinity.com/snow_white-841837411-large.jpg", 
+	"url": "https://filemoon.to/d/pv9tebiraiy6/Blancanieves__2025__pelicula_castellano.mp4",
+      	"userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+	},
 	{ 
 	"name": "BOB ESPONJA",
 	"info": "2020",
@@ -1435,14 +1446,16 @@
 	"isHost":"true"
 	},
 	{ 
-	"name": "PAIS DE LOS SUEÑOS, EL",
-	"info": "2022",
-	"image": "https://i.postimg.cc/DmV0KdJ6/Pais-de-los-sue-os-El-2022-Pelicula-infantil.jpg", 
-	"url": "https://upstream.to/wfbn4kw0uyzf",
-        "embed":"",
-        "online":"true",
-	"isHost":"true"
-	},
+	"name": "PELICULA DE MINECRAFT, UNA",
+	"info": "2025",
+	"image": "https://pics.filmaffinity.com/a_minecraft_movie-227832687-large.jpg", 
+	"url": "https://filemoon.to/d/g08ys5080jaf/Una_pel_cula_de_Minecraft__2025__pelicula_castellano.mp4",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+       	"import": false
+       	},
 	{
        	"name": "PESADILLA ANTES DE NAVIDAD",
         "image": "https://pics.filmaffinity.com/the_nightmare_before_christmas-136057718-large.jpg",
