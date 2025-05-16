@@ -215,6 +215,18 @@
       "isHost": "true",
       "online": "true"
     },
+    {
+      "name": "A WORKING MAN",
+      "image": "https://pics.filmaffinity.com/a_working_man-933343627-large.jpg",
+      "url": "https://filemoon.to/d/j9fm1v7ia4yw/A_Working_Man__2025__pelicula_castellano.mp4",
+      "info": "2025",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
 {
 "name": "AL OTRO BARRIO",
 "image": "https://i.postimg.cc/SsYPVTVc/IMG-20250406-000006-069.jpg",
