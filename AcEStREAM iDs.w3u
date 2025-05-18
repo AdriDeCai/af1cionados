@@ -613,7 +613,7 @@
       ]
     },
     {
-      "name": "TENNIS CHANNEL",
+      "name": "TENNIS CHANNEL (HD)(NewLoop)",
       "image": "https://i.postimg.cc/k4sFB1S7/tennis-channel-new.png",
       "imageScale": "",
       "info": "",
@@ -689,13 +689,31 @@
       "stations": 
       [
         {
-          "name": "M #Vamos [1080]",
+          "name": "M #Vamos (FHD)(NewEra)",
+          "info": "a933",
+          "image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
+          "url": "acestream://3b2a8b41e7097c16b0468b42d7de0320886fa933"
+        },
+        {
+          "name": "M #Vamos (FHD)(NewEra)",
+          "info": "2eae",
+          "image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
+          "url": "acestream://2940120bf034db79a7f5849846ccea0255172eae"
+        },
+        {
+          "name": "M #Vamos (FHD)(NewEra)",
+          "info": "6b6a",
+          "image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
+          "url": "acestream://57313e1ef438538df4feb5a6028dc78ee4f66b6a"
+        },
+        {
+          "name": "M #Vamos (FHD)(Elcano)",
           "info": "30f2",
           "image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
           "url": "acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2"
         },
         {
-          "name": "M #Vamos [720]",
+          "name": "M #Vamos (FHD)(Elcano)",
           "info": "6adb",
           "image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
           "url": "acestream://12ba546d229bc39f01c3c18988a034b215fe6adb"
