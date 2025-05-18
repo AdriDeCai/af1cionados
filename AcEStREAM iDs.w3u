@@ -176,15 +176,21 @@
         },
         {
           "name": "M LaLiga 5 (FHD)(Elcano)",
-          "info": "[SIN EMISION]",
+          "info": "fbac",
           "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
-          "url": "acestream://"
+          "url": "acestream://fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac"
         },
         {
           "name": "M LaLiga 6 (FHD)(Elcano)",
-          "info": "[SIN EMISION]",
+          "info": "9046",
           "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
-          "url": "acestream://"
+          "url": "acestream://cc5782d37ae6b6e0bab396dd64074982d0879046"
+        },
+        {
+          "name": "M LaLiga 7 (FHD)(Elcano)",
+          "info": "4932",
+          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+          "url": "acestream://070f82d6443a52962d6a2ed9954c979b29404932"
         },
         {
           "name": "LaLiga Tv Bar (FHD)(Elcano)",
