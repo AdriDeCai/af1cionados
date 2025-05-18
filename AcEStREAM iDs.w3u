@@ -239,6 +239,30 @@
           "info": "fecb",
           "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
           "url": "acestream://97ba38d47680954be40e48bd8f43e17222fefecb"
+        },
+        {
+          "name": "DAZN LaLiga 3 (FHD)(Elcano)",
+          "info": "8035",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://3c72639799f5471b213a073f4c1c6bf28bd08035"
+        },
+        {
+          "name": "DAZN LaLiga 4 (FHD)(Elcano)",
+          "info": "bc61",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://3fc9d954b818522ff07dfe70051b6ea7a5ebbc61"
+        },
+        {
+          "name": "DAZN LaLiga 5 (FHD)(Elcano)",
+          "info": "fafd",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://922edf7e1c015026082b7f8061cf8159cb4afafd"
+        },
+        {
+          "name": "DAZN LaLiga 6 (FHD)(Elcano)",
+          "info": "",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://"
         }
       ]
     },
