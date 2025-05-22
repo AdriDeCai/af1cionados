@@ -6153,11 +6153,21 @@
       "online": "true",
       "import": false
     },
-{
+    {
       "name": "PALACIO ESTILISTAS",
       "info": "2023",
       "image": "https://pics.filmaffinity.com/palacio_estilistas-855020728-large.jpg",
       "url": "https://listeamed.net/v/nyg9EKM3RQa5bk4",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
+      "name": "PALMER",
+      "info": "2021",
+      "image": "https://pics.filmaffinity.com/Palmer-170252052-large.jpg",
+      "url": "https://filemoon.to/d/oxxgpd1xw4y5",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "isHost": "true",
