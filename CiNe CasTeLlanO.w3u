@@ -550,10 +550,10 @@
       "online": "true"
     },
     {
-      "name": "American Flyers",
+      "name": "AMERICAN FLYERS",
       "info": "1985",
       "image": "https://m.media-amazon.com/images/M/MV5BNDlhOGFkNzUtZTQyZS00ZGVjLTg2MzItOWI2YTYwMmYwNDQxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-      "url": "https://ok.ru/video/4227200977541",
+      "url": "https://filemoon.to/d/569ve3zmm2hr",
       "isHost": "true",
       "online": "true"
     },
@@ -2887,14 +2887,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
     {
-      "name": "EL MANIQUI 2",
-      "info": "[1991][Español]",
-      "image": "https://pics.filmaffinity.com/Atrapa_ese_maniquai_Maniquai_2-340661639-large.jpg",
-      "url": "https://smoothpre.com/file/qvq3jneyc5ox",
+      "name": "EL MONSTRUO DE St PAULI",
+      "info": "[2019][Español]",
+      "image": "https://i.postimg.cc/G2gv3Wht/MONTRUO.jpg",
+      "url": "https://filemoon.to/d/j1eipz67trna",
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
+    
     {
     "name": "EMILIA PÉREZ",
     "image": "https://i.postimg.cc/Jnnjmx23/IMG-20250218-231742-861.jpg",
@@ -4662,6 +4663,15 @@
       "info": "[2007][Español]",
       "image": "https://es.web.img2.acsta.net/c_310_420/medias/nmedia/18/68/01/05/20051505.jpg",
       "url": "https://smoothpre.com/file/ylqktofwytdt",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
+      "name": "LA FUENTE DE LA JUVENTUD",
+      "info": "[2025][Español]",
+      "image": "https://pics.filmaffinity.com/La_fuente_de_la_eterna_juventud-109538437-large.jpg",
+      "url": "https://filemoon.to/d/7fmpuum3cqyn",
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
