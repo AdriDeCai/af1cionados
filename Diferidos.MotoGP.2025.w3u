@@ -414,9 +414,45 @@
       "stations": 
       [
         {
-          "name": "Sprint MotoGP",
-          "info": "",
+          "name": "Sprint MotoGP Gran Bretaña 2025",
+          "info": "[24/05/2025]",
           "image": "https://i.postimg.cc/Wzg3Hzcf/motogp-sprint.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera Moto3 Gran Bretaña 2025",
+          "info": "[25/05/2025]",
+          "image": "https://i.postimg.cc/1zXzZJZF/moto3.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera Moto2 Gran Bretaña 2025",
+          "info": "[25/05/2025]",
+          "image": "https://i.postimg.cc/kgpmWCkV/moto2.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera MotoGP Gran Bretaña 2025",
+          "info": "[25/05/2025]",
+          "image": "https://i.postimg.cc/Y0MKtCmP/motogp-logo.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Codigo MotoGP Gran Bretaña 2025",
+          "info": "[26/05/2025]",
+          "image": "https://i.postimg.cc/Y0MKtCmP/motogp-logo.png",
           "url": "",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
@@ -426,8 +462,8 @@
     },
 
     {
-      "name": "GRAN PREMIO GOPRO ARAGON (ESPAÑA)",
-      "image": "https://i.postimg.cc/pTJnTJQj/Bandera-Aragon.jpg",
+      "name": "GRAN PREMIO MOTORLAND ARAGON (ESPAÑA)",
+      "image": "ttps://i.postimg.cc/pTJnTJQj/Bandera-Aragon.jpg",
       "imageScale": "",
       "info": "[ROUND 08]",
       "stations": 
@@ -445,10 +481,10 @@
     },
 
     {
-      "name": "CIRCUITO BARCELONA (ESPAÑA)",
-      "image": "https://i.postimg.cc/qR3GMwLN/Bandera-Catalunya.jpg",
+      "name": "CIRCUITO MUGELLO (ITALIA)",
+      "image": "ttps://i.postimg.cc/xCwn54zW/Bandera-Italia.jpg",
       "imageScale": "",
-      "info": "ROUND 7",
+      "info": "[ROUND 9]",
       "stations": 
       [
         {
@@ -464,10 +500,10 @@
     },
 
     {
-      "name": "AUTODROMO INTERNAZIONALE MUGELLO (ITALIA)",
-      "image": "https://i.postimg.cc/xCwn54zW/Bandera-Italia.jpg",
+      "name": "TT CIRCUIT ASSEN (PAISES BAJOS)",
+      "image": "",
       "imageScale": "",
-      "info": "ROUND 8",
+      "info": "[ROUND 10]"
       "stations": 
       [
         {
@@ -483,29 +519,10 @@
     },
 
     {
-      "name": "TT CIRCUIT ASSEN (PAISES BAJOS)",
-      "image": "https://i.postimg.cc/wjTB9d39/Bandera-Holanda.jpg",
-      "imageScale": "",
-      "info": "ROUND 10",
-      "stations": 
-      [
-        {
-          "name": "Sprint MotoGP",
-          "info": "",
-          "image": "https://i.postimg.cc/tT5KgkdM/Moto-GP-2025.png",
-          "url": "https://upstream.to/8e0inld1sjqn",
-          "userAgent": "PlusMediaPlayer/0.0.9",
-          "isHost": "true",
-          "online": "true"
-        }
-      ]
-    },
-
-    {
       "name": "CIRCUITO SACHSENRING (ALEMANIA)",
-      "image": "https://i.postimg.cc/L67GxCbW/Bandera-Alemania.jpg",
+      "image": "ttps://i.postimg.cc/L67GxCbW/Bandera-Alemania.jpg",
       "imageScale": "",
-      "info": "[ROUND 9]",
+      "info": "[ROUND 11]",
       "stations": 
       [
         {
