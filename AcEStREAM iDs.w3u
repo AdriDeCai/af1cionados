@@ -328,21 +328,21 @@
         },
         {
           "name": "LaLiga HyperMotion 8",
-          "info": "",
+          "info": "315f6",
           "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-          "url": "acestream://"
+          "url": "acestream://233ba21691ea262caae00b0af171347c54c315f6"
         },
         {
           "name": "LaLiga HyperMotion 9",
-          "info": "",
+          "info": "29ab",
           "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-          "url": "acestream://"
+          "url": "acestream://ee56fcf30ad84f9135633bbaaa1f8e1f2b1229ab"
         },
         {
           "name": "LaLiga HyperMotion 10",
-          "info": "",
+          "info": "0262",
           "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-          "url": "acestream://"
+          "url": "acestream://ef7f710a5133477237b06ea023a4f20017ea0262"
         }
       ]
     },
