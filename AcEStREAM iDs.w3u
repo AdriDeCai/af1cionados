@@ -771,6 +771,18 @@
         },
         {
           "name": "EuroSport 2 [1080]",
+          "info": "[UK-DE][a372]",
+          "image": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-symbol.png",
+          "url": "acestream://4b87a5b67f39dfc151a163ec8c08039520f0a372"
+        },
+        {
+          "name": "EuroSport 2 [1080]",
+          "info": "[UK-PO][66d8]",
+          "image": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-symbol.png",
+          "url": "acestream://7aa9cc819c6fa781dea6b4de3aa5393258b766d8"
+        },
+        {
+          "name": "EuroSport 2 [1080]",
           "info": "9853",
           "image": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-symbol.png",
           "url": "acestream://0358f9db953e5fde91c34d7ed4bc368939b49853"
