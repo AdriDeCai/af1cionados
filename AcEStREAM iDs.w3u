@@ -752,6 +752,18 @@
           "url": "acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580"
         },
         {
+          "name": "EuroSport",
+          "info": "b942",
+          "image": "https://i.postimg.cc/Y2JDhKL1/eurosport1-new.png",
+          "url": "acestream://7d4f8888acd26364f54a0011f20841e6c7beb942"
+        },
+        {
+          "name": "EuroSport 2 [1080]",
+          "info": "8dff",
+          "image": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-symbol.png",
+          "url": "acestream://2712292a58c6b4fc8abd165eb8c46da99c628dff"
+        },
+        {
           "name": "EuroSport 2 [1080]",
           "info": "9853",
           "image": "https://i.postimg.cc/Y2JDhKL1/eurosport1-new.png",
