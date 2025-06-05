@@ -997,15 +997,6 @@
       "online": "true"
     },
     {
-      "name": "BARBIE",
-      "info": "2023",
-      "image": "https://i.postimg.cc/wvWCQtS7/Barbie-2023-Pelicula.jpg",
-      "url": "https://upstream.to/6lpscy1xzx6j",
-      "embed": "",
-      "isHost": "true",
-      "online": "true"
-    },
-    {
       "name": "BARN PART II, THE",
       "image": "https://pics.filmaffinity.com/the_barn_part_ii-566358925-large.jpg",
       "url": "https://upstream.to/d7lur64jldmz",
@@ -1238,15 +1229,6 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-    {
-      "name": "BOON, EL PROTECTOR",
-      "info": "2022",
-      "image": "https://pics.filmaffinity.com/boon-908720122-large.jpg",
-      "url": "https://upstream.to/3ev2w8fuivwx",
-      "embed": "",
-      "isHost": "true",
-      "online": "true"
-    },
 {
       "name": "BORDERLANDS",
       "image": "https://i.postimg.cc/VLZRsVpF/IMG-20241107-225224-620.jpg",
@@ -1257,15 +1239,6 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
-    },
-    {
-      "name": "BORREGO, SAL DEL CAMINO",
-      "info": "2022",
-      "image": "https://i.postimg.cc/J0dMQL7r/Borrego-Sal-Del-Camino-2022-Pelicula.jpg",
-      "url": "https://upstream.to/dy9678biehrn",
-      "embed": "",
-      "isHost": "true",
-      "online": "true"
     },
     {
       "name": "BOXEADOR",
@@ -1306,28 +1279,6 @@
       "embed": "",
       "isHost": "true",
       "online": "true"
-    },
-    {
-      "name": "BUENOS MODALES, LOS",
-      "image": "https://i.postimg.cc/T2b6SP0t/Buenos-modales-Los-2023-Pelicula.jpg",
-      "url": "https://upstream.to/dd4dxm8gavmk",
-      "info": "2023",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "BURIAL, THE",
-      "image": "https://pics.filmaffinity.com/the_burial-643723780-large.jpg",
-      "url": "https://upstream.to/hvns2mct83j0",
-      "info": "2023",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
     },
 {
 "name": "BURDELES DE PAPRIKA, LOS",
@@ -1738,17 +1689,6 @@
       "import": false
     },
     {
-      "name": "CLON DE TYRONE, EL",
-      "image": "https://i.postimg.cc/s2c8QwSL/Clon-de-Tyrone-El-2023-Pelicula.jpg",
-      "url": "https://upstream.to/06bmpz536g9h",
-      "info": "2023",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
       "name": "CLUB DE LAS PELEADORAS, EL",
       "image": "https://pics.filmaffinity.com/bottoms-718154109-large.jpg",
       "url": "https://vidmoly.to/embed-me8c1bwtth57.html",
@@ -1977,6 +1917,30 @@
       "online": "true",
       "import": false
       },
+{
+"name": "CONTABLE, EL",
+"image": "https://pics.filmaffinity.com/the_accountant-825837789-large.jpg",
+"url": "https://filemoon.to/d/p9qk1d77jb6f/Ver_El_contable_Online_Castellano_2016_HD_-_HDFull.mp4",
+"info": "2016",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CONTABLE, EL 2",
+"image": "https://pics.filmaffinity.com/the_accountant_2-296563604-large.jpg",
+"url": "https://filemoon.to/d/9jeamynj1q54/Ver_El_contable_2_Online_Castellano_2025_HD_-_HDFull.mp4",
+"info": "2025",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
 {
 "name": "CONTIGO EN EL FUTURO",
 "image": "https://i.postimg.cc/2yJc1yFY/IMG-20250208-125819-227.jpg",
@@ -3108,13 +3072,15 @@
       "import": false
     },
     {
-      "name": "EXORCISTA DEL PAPA, EL",
-      "info": "2023",
-      "image": "https://i.postimg.cc/NM743sZ4/Exorcista-del-papa-El-2023-Pelicula.jpg",
-      "url": "https://upstream.to/yjhl0q3pjj0t",
+      "name": "EXOTICO HOTEL MARIGOLD, EL",
+      "info": "2011",
+      "image": "https://pics.filmaffinity.com/the_best_exotic_marigold_hotel-135587441-large.jpg",
+      "url": "https://filemoon.to/d/cly210grl71r/Ver_El_ex_tico_Hotel_Marigold_Online_Castellano_2011_-_HDFull.mp4",
       "embed": "",
       "isHost": "true",
-      "online": "true"
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
     },
     {
       "name": "EXTINCION",
