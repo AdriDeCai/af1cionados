@@ -17,14 +17,20 @@
 	},
 	{
 	"name": "TEMPORADA 2",
-	"image": "https://i.postimg.cc/gJ2fTDQL/serie-OFFICE-THE-Temp1.png",
+	"image": "https://i.postimg.cc/P5n0jh0j/serie-OFFICE-THE-Temp2.png",
 	"url": "https://raw.githubusercontent.com/af1Series1/Serie-The-Office/refs/heads/main/serie%20OFFICE%2C%20THE%20Temp02.w3u",
 	"info": ""
 	},
 	{
 	"name": "TEMPORADA 3",
-	"image": "https://i.postimg.cc/gJ2fTDQL/serie-OFFICE-THE-Temp1.png",
+	"image": "https://images.justwatch.com/poster/174543804/s166/temporada-3.avif",
 	"url": "https://raw.githubusercontent.com/af1Series1/Serie-The-Office/refs/heads/main/serie%20OFFICE%2C%20THE%20Temp03.w3u",
+	"info": ""
+	},
+	{
+	"name": "TEMPORADA 4",
+	"image": "",
+	"url": "",
 	"info": ""
 	}
 
