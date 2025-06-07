@@ -5416,6 +5416,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+{
+"name": "MICAELA",
+"image": "https://i.postimg.cc/N0FWq8DR/IMG-20250607-213605-820.jpg",
+"url": "https://luluvdoo.com/aev95jhyjmk8",
+"info": "2025",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "MIEDO Y ASCO EN LAS VEGAS",
       "image": "https://pics.filmaffinity.com/fear_and_loathing_in_las_vegas-268871395-large.jpg",
@@ -8280,6 +8292,17 @@
       "image": "https://pics.filmaffinity.com/one_more_shot-211374702-large.jpg",
       "url": "https://upstream.to/6rq3b4j0ids3",
       "info": "2021",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "VIUDA NEGRA, LA",
+      "image": "https://pics.filmaffinity.com/la_viuda_negra-467878135-large.jpg",
+      "url": "https://filemoon.to/d/wwnzw71hmrpp/La_viuda_negra__2025__pelicula_castellano.mp4",
+      "info": "2025",
       "embed": "",
       "isHost": "true",
       "online": "true",
