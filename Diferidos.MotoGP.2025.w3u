@@ -535,7 +535,7 @@
           "name": "Codigo MotoGP Aragon 2025",
           "info": "[09/06/2025]",
           "image": "https://i.postimg.cc/Y0MKtCmP/motogp-logo.png",
-          "url": "",
+          "url": "https://filemoon.to/d/ewqsxazlc7kw/08_6_C_digo_MotoGP_Arag_n.mp4",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
           "online": "true"
@@ -544,17 +544,62 @@
     },
 
     {
-      "name": "CIRCUITO MUGELLO (ITALIA)",
+      "name": "GRAN PREMIO BREMBO CIRCUITO MUGELLO (ITALIA)",
       "image": "ttps://i.postimg.cc/xCwn54zW/Bandera-Italia.jpg",
       "imageScale": "",
       "info": "[ROUND 9]",
       "stations": 
       [
         {
-          "name": "Sprint MotoGP",
-          "info": "",
-          "image": "https://i.postimg.cc/tT5KgkdM/Moto-GP-2025.png",
+          "name": "Sprint MotoGP Mugello 2025",
+          "info": "[21/06/2025]",
+          "image": "",
           "url": "https:",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera Moto3 Mugello 2025",
+          "info": "[22/06/2025]",
+          "image": "",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera Moto2 Mugello 2025",
+          "info": "[22/06/2025]",
+          "image": "",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera MotoGP Mugello 2025",
+          "info": "[22/06/2025]",
+          "image": "",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Post MotoGP Mugello 2025",
+          "info": "[22/06/2025]",
+          "image": "",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Codigo MotoGP Mugello 2025",
+          "info": "[23/06/2025]",
+          "image": "",
+          "url": "",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
           "online": "true"
@@ -570,9 +615,54 @@
       "stations": 
       [
         {
-          "name": "Sprint MotoGP",
-          "info": "",
-          "image": "https://i.postimg.cc/tT5KgkdM/Moto-GP-2025.png",
+          "name": "Sprint MotoGP Paises Bajos 2025",
+          "info": "[28/06/2025]",
+          "image": "",
+          "url": "https:",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera Moto3 Paises Bajos 2025",
+          "info": "[29/06/2025]",
+          "image": "",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera Moto2 Paises Bajos 2025",
+          "info": "[29/06/2025]",
+          "image": "",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera MotoGP Paises Bajos 2025",
+          "info": "[29/06/2025]",
+          "image": "",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Post MotoGP Paises Bajos 2025",
+          "info": "[29/06/2025]",
+          "image": "",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Codigo MotoGP Paises Bajos 2025",
+          "info": "[30/06/2025]",
+          "image": "",
           "url": "",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
