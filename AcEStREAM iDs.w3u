@@ -255,7 +255,7 @@
           "url": "acestream://"
         },
         {
-          "name": "LaLiga HyperMotion 3",
+          "name": "LaLiga HyperMotion 3 (Elcano)",
           "info": "724e",
           "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
           "url": "acestream://778d2f60bb7207addedcca0b9aed98f41529724e"
@@ -298,6 +298,30 @@
       "info": "",
       "stations": 
       [
+        {
+          "name": "M. Liga de Campeones 1 (1080)(Elcano)",
+          "info": "1bc9",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9"
+        },
+        {
+          "name": "M. Liga de Campeones 1 (1080)(Elcano)",
+          "info": "415f",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://2b51710cee513e8939785fa3e7980f32d4e0415f"
+        },
+        {
+          "name": "M. Liga de Campeones 1 (1080)(Elcano)",
+          "info": "406e",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e"
+        },
+        {
+          "name": "M. Liga de Campeones 1 (720)(Elcano)",
+          "info": "6c32",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://b028202ff335911db3118bceac027df3e8ef6c32"
+        },
         {
           "name": "M. Liga de Campeones 1 (4 K)(NewEra)",
           "info": "6f13",
@@ -347,10 +371,16 @@
           "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
         },
         {
-          "name": "M. Liga de Campeones 2",
-          "info": "6e72",
+          "name": "M. Liga de Campeones 2 (1080)(Elcano)",
+          "info": "29c5",
           "image": "https://i.postimg.cc/WbdGh9zM/Liga-de-Campeones-2-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://abdf9058786a48623d0de51a3adb414ae10b6e72"
+          "url": "acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5"
+        },
+        {
+          "name": "M. Liga de Campeones 2 (720)(Elcano)",
+          "info": "4d5e",
+          "image": "https://i.postimg.cc/WbdGh9zM/Liga-de-Campeones-2-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://38f7b2044e549df2039ff26cefa6f9a60c854d5e"
         },
         {
           "name": "M. Liga de Campeones 2 (FHD)(NewEra)",
@@ -375,6 +405,18 @@
           "info": "8565",
           "image": "https://i.postimg.cc/WbdGh9zM/Liga-de-Campeones-2-por-Movistar-Plus-2022-logo.png",
           "url": "acestream://4c6ed0cd87c090f3cf85b2c8adbe8b37dba08565"
+        },
+        {
+          "name": "M. Liga de Campeones 3 (1080)(Elcano)",
+          "info": "2bc7",
+          "image": "https://i.postimg.cc/yY9bDhLr/Liga-de-Campeones-3-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7"
+        },
+        {
+          "name": "M. Liga de Campeones 3 (720)(Elcano)",
+          "info": "d0f9",
+          "image": "https://i.postimg.cc/yY9bDhLr/Liga-de-Campeones-3-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://cfc371890bfb502737a26de5215e50929c52d0f9"
         },
         {
           "name": "M. Liga de Campeones 3 (FHD)(NewEra)",
