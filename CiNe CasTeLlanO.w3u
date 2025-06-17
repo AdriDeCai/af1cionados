@@ -8280,6 +8280,17 @@
       "import": false
     },
     {
+      "name": "VIDA DE BRIAN, LA",
+      "image": "https://pics.filmaffinity.com/monty_python_s_life_of_brian-402192024-large.jpg",
+      "url": "https://listeamed.net/v/8ozgENXLqvG5mjA",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "info": "[Español][1979]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
       "name": "VIDA MARAVILLOSA, UNA",
       "info": "2023",
       "image": "https://i.postimg.cc/7PGsmf2J/Una-vida-maravillosa-2023-Pelicula.jpg",
@@ -8289,15 +8300,6 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
-    },
-    {
-      "name": "VIDA DE BRIAN, LA",
-      "image": "https://pics.filmaffinity.com/monty_python_s_life_of_brian-402192024-large.jpg",
-      "url": "https://filemoon.to/d/bs79jac4fgkm/Ver_La_vida_de_Brian_1979_Pelicula_Castellano_-_HDFull.mp4",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "info": "[Español][1979]",
-      "isHost": "true",
-      "online": "true"
     },
     {
       "name": "VIDA ES BELLA, LA",
