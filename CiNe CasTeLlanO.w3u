@@ -919,11 +919,22 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
      },
-    {
+      {
       "name": "ATLAS DE LAS NUBES, EL",
       "image": "https://pics.filmaffinity.com/cloud_atlas-447437455-large.jpg",
       "url": "https://listeamed.net/v/qA3WOmM68ygOKkz",
       "info": "2012",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+      },
+      {
+      "name": "ATUN Y CHOCOLATE,
+      "image": "https://es.web.img3.acsta.net/medias/nmedia/18/89/80/82/20067576.jpg",
+      "url": "https://filemoon.to/d/uu9b1btw15pm",
+      "info": "2004",
       "embed": "",
       "isHost": "true",
       "online": "true",
