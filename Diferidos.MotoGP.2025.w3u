@@ -609,7 +609,7 @@
 
     {
       "name": "TT CIRCUIT ASSEN (PAISES BAJOS)",
-      "image": "",
+      "image": "https://i.postimg.cc/wjTB9d39/Bandera-Holanda.jpg",
       "imageScale": "",
       "info": "[ROUND 10]",
       "stations": 
@@ -617,7 +617,7 @@
         {
           "name": "Sprint MotoGP Paises Bajos 2025",
           "info": "[28/06/2025]",
-          "image": "ttps://i.postimg.cc/Wzg3Hzcf/motogp-sprint.png",
+          "image": "https://i.postimg.cc/Wzg3Hzcf/motogp-sprint.png",
           "url": "https:",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
