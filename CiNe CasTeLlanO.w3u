@@ -90,6 +90,30 @@
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
     {
+      "name": "28 DIAS DESPUES",
+      "image": "https://pics.filmaffinity.com/28_days_later-469569758-large.jpg",
+      "url": "https://filemoon.to/d/ifzaiyl1xuol/28_Dias_despues_Castellano__2002__Pelicula.mkv",
+      "info": "2002",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "28 SEMANAS DESPUES",
+      "image": "https://pics.filmaffinity.com/28_weeks_later-892655817-large.jpg",
+      "url": "https://filemoon.to/d/bl3taomdyx7c/Ver_28_semanas_despu_s_Online_Castellano_2007_Pelicula_-_HDFull.mp4",
+      "info": "2007",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
       "name": "47, El",
       "info": "2024",
       "image": "https://pics.filmaffinity.com/el_47-838476618-large.jpg",
@@ -7061,23 +7085,14 @@
       "online": "true"
     },
     {
-      "name": "ROJO,BLANCO Y SANGRE AZUL",
-      "info": "2023",
-      "image": "https://i.postimg.cc/qMQ85zLG/0583146.webp",
-      "url": "http://vidmoly.me/w/s1k5unh6jy0z",
+      "name": "RUSH",
+      "info": "2013",
+      "image": "https://pics.filmaffinity.com/rush-471040098-large.jpg",
+      "url": "https://filemoon.to/d/cpuezaqhw2of/Ver_Rush_Online_Castellano_2013_Pelicula_-_HDFull.mp4",
       "embed": "",
       "isHost": "true",
       "online": "true",
       "import": false
-    },
-    {
-      "name": "ROMPER EL CIRCULO",
-      "image": "https://pics.filmaffinity.com/it_ends_with_us-815379231-large.jpg",
-      "url": "https://listeamed.net/v/QNB7xAWWbW2O0WG",
-      "info": "2024",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "isHost": "true",
-      "online": "true"
     },
     {
       "name": "SABOR DE LAS COSAS SIMPLES, EL",
