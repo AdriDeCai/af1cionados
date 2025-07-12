@@ -260,7 +260,7 @@
 
 	{
 	"name": "EMILIA-ROMAGNA (ITALIA)",
-	"image": "ttps://i.postimg.cc/xCwn54zW/Bandera-Italia.jpg",
+	"image": "https://i.postimg.cc/xCwn54zW/Bandera-Italia.jpg",
 	"imageScale": "",
 	"info":"[ROUND 6]",
 	"stations":
@@ -300,7 +300,7 @@
 
 	{
 	"name": "PROSECCO DOC (GRAN BRETAÑA)",
-	"image": "ttps://i.postimg.cc/mDhjSbfg/Bandera-Gran-Breta-a.jpg",
+	"image": "https://i.postimg.cc/mDhjSbfg/Bandera-Gran-Breta-a.jpg",
 	"imageScale": "",
 	"info":"[ROUND 7]",
 	"stations":
@@ -309,7 +309,7 @@
 			"name": "SBK RACE 1",
 			"info":"[11-13 Julio 2025]",
 			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
-			"url": "",
+			"url": "https://pixeldrain.com/u/8ocAKKNK",
       			"userAgent": "PlusMediaPlayer/0.0.9",
 			"embed":"",
             		"isHost":"true",
