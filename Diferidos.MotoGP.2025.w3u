@@ -679,16 +679,16 @@
       "stations": 
       [
         {
-          "name": "Sprint MotoGP Paises Bajos 2025",
+          "name": "Sprint MotoGP Alemania 2025",
           "info": "[12/07/2025]",
-          "image": "ttps://i.postimg.cc/Wzg3Hzcf/motogp-sprint.png",
-          "url": "",
+          "image": "https://i.postimg.cc/Wzg3Hzcf/motogp-sprint.png",
+          "url": "https://pixeldrain.com/u/vKjBUtD8",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
           "online": "true"
         },
         {
-          "name": "Carrera Moto3 Paises Bajos 2025",
+          "name": "Carrera Moto3 Alemania 2025",
           "info": "[13/07/2025]",
           "image": "ttps://i.postimg.cc/1zXzZJZF/moto3.png",
           "url": "",
@@ -697,7 +697,7 @@
           "online": "true"
         },
         {
-          "name": "Carrera Moto2 Paises Bajos 2025",
+          "name": "Carrera Moto2 Alemania 2025",
           "info": "[13/07/2025]",
           "image": "ttps://i.postimg.cc/kgpmWCkV/moto2.png",
           "url": "",
@@ -706,7 +706,7 @@
           "online": "true"
         },
         {
-          "name": "Carrera MotoGP Paises Bajos 2025",
+          "name": "Carrera MotoGP Alemania 2025",
           "info": "[13/07/2025]",
           "image": "ttps://i.postimg.cc/Y0MKtCmP/motogp-logo.png",
           "url": "",
@@ -715,7 +715,7 @@
           "online": "true"
         },
         {
-          "name": "Post MotoGP Paises Bajos 2025",
+          "name": "Post MotoGP Alemania 2025",
           "info": "[13/07/2025]",
           "image": "ttps://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
           "url": "",
@@ -724,7 +724,7 @@
           "online": "true"
         },
         {
-          "name": "Codigo MotoGP Paises Bajos 2025",
+          "name": "Codigo MotoGP Alemania 2025",
           "info": "[14/07/2025]",
           "image": "ttps://i.postimg.cc/Y0MKtCmP/motogp-logo.png",
           "url": "",
