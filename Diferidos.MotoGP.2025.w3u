@@ -781,8 +781,8 @@
         {
           "name": "Post MotoGP Chequia 2025",
           "info": "[20/07/2025]",
-          "image": "ttps://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
-          "url": "",
+          "image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+          "url": "https://pixeldrain.com/u/ab5yEVWh",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
           "online": "true"
