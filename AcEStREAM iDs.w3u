@@ -553,6 +553,12 @@
       "stations": 
       [
         {
+          "name": "DAZN 1 (FHD)(iPhone)",
+          "info": "iPHONE",
+          "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+          "url": "http://vlc.shickat.me:8000/pid/24f3cf821a16da93c1149e0ad3c2cc85bd5f2b66/stream.mp4"
+        },
+        {
           "name": "DAZN 1 (FHD)(NewEra)",
           "info": "9a0e",
           "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
