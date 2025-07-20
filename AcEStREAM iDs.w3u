@@ -103,64 +103,106 @@
       "stations": 
       [
         {
-          "name": "MOVISTAR ESTRENOS (FHD) (Shickat)",
+          "name": "ESTRENOS (FHD) (Shickat)",
           "info": "1d38",
           "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
           "url": "acestream://b71478c824f787a6a696139db0d053de6fdd1d38"
         },
         {
-          "name": "MOVISTAR DOCUMENTALES (FHD) (Shickat)",
+          "name": "DOCUMENTALES (FHD) (Shickat)",
           "info": "29e6",
           "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
           "url": "acestream://59d7f6da13c21652b1240578fe57dec0cc1529e6"
         },
         {
-          "name": "MOVISTAR ORIGINALES (FHD) (Shickat)",
+          "name": "ORIGINALES (FHD) (Shickat)",
           "info": "1c88",
           "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
           "url": "acestream://60fcd59471ac4268e6cd6448f068a2b518841c88"
         },
         {
-          "name": "MOVISTAR CINE ESPAÑOL (FHD) (Shickat)",
+          "name": "CINE ESPAÑOL (FHD) (Shickat)",
           "info": "8bd07",
           "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
           "url": "acestream://168ad4a958aa6daa26adeee9700ed0312618bd07"
         },
         {
-          "name": "MOVISTAR VACACIONES (FHD) (Shickat)",
+          "name": "VACACIONES (FHD) (Shickat)",
           "info": "a343",
           "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
           "url": "acestream://a0f71ac4897b2ccdf0114b5b3b7877902376a343"
         },
         {
-          "name": "MOVISTAR WESTERN (FHD) (Shickat)",
+          "name": "WESTERN (FHD) (Shickat)",
           "info": "6765",
           "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
           "url": "acestream://860dd021db341dbd02979eb8ea650d3f9d846765"
         },
         {
-          "name": "MOVISTAR INDIE (FHD) (Shickat)",
+          "name": "INDIE (FHD) (Shickat)",
           "info": "ba5af",
           "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
           "url": "acestream://4f35f115971f0b156baabb8efa9926b1eb8ba5af"
         },
         {
-          "name": "MOVISTAR ACCION (FHD) (Shickat)",
+          "name": "ACCION (FHD) (Shickat)",
           "info": "fc42",
           "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
           "url": "acestream://93b2f5ede5cf2fa0cdb50419258c4f651aabfc42"
         },
         {
-          "name": "MOVISTAR",
-          "info": "",
+          "name": "COMEDIA (FHD) (Shickat)",
+          "info": "798f",
           "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
-          "url": ""
+          "url": "acestream://124aa6d58fd72a763ed0349c874551bd2504798f"
         },
         {
-          "name": "MOVISTAR",
-          "info": "",
+          "name": "DRAMA (FHD) (Shickat)",
+          "info": "c983",
           "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
-          "url": ""
+          "url": "acestream://aff9d7e45c4fc0f97ec8ec2b6d80cd3feb87c983"
+        },
+        {
+          "name": "HITS (FHD) (Shickat)",
+          "info": "0695",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://28b9b7ba12c0f5c7e097f4b07a547f6eda9a0695"
+        },
+        {
+          "name": "CLASICOS (FHD) (Shickat)",
+          "info": "5fd1",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://095134586cd06e1488139842f1183b50b75f5fd1"
+        },
+        {
+          "name": "COCINA (FHD) (Shickat)",
+          "info": "fbb3",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://db81615f1b2eebaf584edc252ddd73883123fbb3"
+        },
+        {
+          "name": "MOVISTAR NATIONAL GEOGRAPHIC (FHD) (Shickat)",
+          "info": "dfff",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://55230a7a3cc4e8dfd3cecbfb2d68266aa4e5dfff"
+        },
+        {
+          "name": "NATIONAL GEOGRAPHIC WILD (FHD) (Shickat)",
+          "info": "6d00",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://51d0b5249e229a07ecc52286f56a67c3d9df6d00"
+        },
+        {
+          "name": "PESCA Y CAZA (FHD) (Shickat)",
+          "info": "e10f",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://6f28b1b9eb9f4047a6179b300e65b03c8316e10f"
+        },
+        {
+          "name": "ONE TORO (FHD) (Shickat)",
+          "info": "43c0",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://1fd3dbb7d39de875ac70059d70c8768d4a2e43c0"
         }
       ]
     },
@@ -201,6 +243,18 @@
           "info": "ac58",
           "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
           "url": "acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58"
+        },
+        {
+          "name": "M LaLiga (FHD)(Shickat)",
+          "info": "cc45",
+          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+          "url": "acestream://7e2f5e27994a90700e6c5b938d5face45577cc45"
+        },
+        {
+          "name": "M LaLiga (FHD)(Shickat)",
+          "info": "46b0",
+          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+          "url": "acestream://10e451cb5bef2e34bf52cc48de811893528146b0"
         },
         {
           "name": "M LaLiga 2 (1080)(Elcano)",
@@ -269,6 +323,18 @@
           "url": "acestream://4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f"
         },
         {
+          "name": "DAZN LaLiga (FHD)(Shickat)",
+          "info": "69af",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://e13adb165bd869a60d9bb6dcdf5db61f97f869af"
+        },
+        {
+          "name": "DAZN LaLiga (FHD)(Shickat)",
+          "info": "23de",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://96a8a772f150d9e57ca71a9765d2278c0c5423de"
+        },
+        {
           "name": "DAZN LaLiga 2 (1080)(Elcano)",
           "info": "cba8",
           "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
@@ -279,6 +345,12 @@
           "info": "8d36",
           "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
           "url": "acestream://c976c7b37964322752db562b4ad65515509c8d36"
+        },
+        {
+          "name": "DAZN LaLiga 2 (FHD)(Shickat)",
+          "info": "7420",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://5b41b5e0f7fb0c2c420158a83a12e8ceed4a7420"
         },
         {
           "name": "DAZN LaLiga 3 (1080)(Elcano)",
@@ -305,6 +377,12 @@
           "info": "c8cd",
           "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
           "url": "acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd"
+        },
+        {
+          "name": "LaLiga HyperMotion (FHD)(Shickat)",
+          "info": "fd1f",
+          "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
+          "url": "acestream://762b4a6ed2e70441b0374a64f25d8d6571b9fd1f"
         },
         {
           "name": "LaLiga HyperMotion 2 (1080)(Elcano)",
@@ -463,6 +541,18 @@
           "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
         },
         {
+          "name": "M. Liga de Campeones 1 (FHD)(Shickat)",
+          "info": "9fda",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://6a6bcf5aa7c9481a74222b89244697b4078d9fda"
+        },
+        {
+          "name": "M. Liga de Campeones 1 (FHD)(Shickat)",
+          "info": "64a2",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://e84ee527e76e12507449b6c92bbeb6b8f01664a2"
+        },
+        {
           "name": "M. Liga de Campeones 2 (1080)(Elcano)",
           "info": "29c5",
           "image": "https://i.postimg.cc/WbdGh9zM/Liga-de-Campeones-2-por-Movistar-Plus-2022-logo.png",
@@ -599,6 +689,12 @@
           "url": "acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa"
         },
         {
+          "name": "M Deportes (FHD)(Shickat)",
+          "info": "293c",
+          "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://465cb8c0ce3f72be4ed114628dcd5c2ed6e3293c"
+        },
+        {
           "name": "M Deportes 2 (1080)(Elcano)",
           "info": "72b0",
           "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
@@ -609,6 +705,12 @@
           "info": "6b25",
           "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
           "url": "acestream://bfa01c11c5c6b7a616a516de4f2c769a89d26b25"
+        },
+        {
+          "name": "M Deportes 2 (FHD)(shickat)",
+          "info": "59ff",
+          "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://9f03eb300b630a8e88d6c22728696ca4e96859ff"
         },
         {
           "name": "M Deportes 3 (1080)(Elcano)",
@@ -788,6 +890,12 @@
           "url": "acestream://8546cff89e4ee8bf3ad31cf6457c3bc2c4341031"
         },
         {
+          "name": "M GOLF 1 [1080] (Shickat)",
+          "info": "9b48",
+          "image": "https://i.postimg.cc/qBYg9Qhb/movistar-golf-new.png",
+          "url": "acestream://0f5550c9842eac2c295bece78968f77d84159b48"
+        }
+        {
           "name": "M GOLF 2 [1080]",
           "info": "e7d7",
           "image": "https://i.postimg.cc/qBYg9Qhb/movistar-golf-new.png",
@@ -803,43 +911,49 @@
       "stations": 
       [
         {
-          "name": "EuroSport (1080)(Elcano)",
+          "name": "EuroSport (1080) (Elcano)",
           "info": "4d0e",
           "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png",
           "url": "acestream://c3da6c4f91d9d10ade00318a869435e19f204d0e"
         },
         {
-          "name": "EuroSport (720)(Elcano)",
+          "name": "EuroSport (720) (Elcano)",
           "info": "e78a",
           "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png",
           "url": "acestream://d830c1dc3b74e74f79cbb823804cf2037857e78a"
         },
         {
-          "name": "EuroSport 2 (1080)(Elcano)",
+          "name": "EuroSport (720) (Shickat)",
+          "info": "6df4",
+          "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png",
+          "url": "acestream://0ac6524dd3c35ae5fc76e0cfa4faeed4d6ef6df4"
+        },
+        {
+          "name": "EuroSport 2 (1080) (Elcano)",
           "info": "1551",
           "image": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-symbol.png",
           "url": "acestream://0585e09bb8ac9720e4c11934f1b184e309291551"
         },
         {
-          "name": "EuroSport 2 (720)(Elcano)",
+          "name": "EuroSport 2 (720) (Elcano)",
           "info": "e78a",
           "image": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-symbol.png",
           "url": "acestream://d830c1dc3b74e74f79cbb823804cf2037857e78a"
         },
         {
-          "name": "EuroSport 2 [1080]",
+          "name": "EuroSport 2 (1080)",
           "info": "[UK-PO][66d8]",
           "image": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-symbol.png",
           "url": "acestream://7aa9cc819c6fa781dea6b4de3aa5393258b766d8"
         },
         {
-          "name": "EuroSport 2 [1080]",
+          "name": "EuroSport 2 (1080)",
           "info": "9853",
           "image": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-symbol.png",
           "url": "acestream://0358f9db953e5fde91c34d7ed4bc368939b49853"
         },
         {
-          "name": "EuroSport 2 [1080]",
+          "name": "EuroSport 2 (1080)",
           "info": "049d",
           "image": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-symbol.png",
           "url": "acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d"
