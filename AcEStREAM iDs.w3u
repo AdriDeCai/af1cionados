@@ -63,12 +63,6 @@
           "url": "acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c"
         },
         {
-          "name": "MOVISTAR PLUS (1080)(Elcano)",
-          "info": "ab78",
-          "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
-          "url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78"
-        },
-        {
           "name": "BARCA TV [720]",
           "info": "3ba7",
           "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png",
@@ -259,6 +253,34 @@
           "info": "724e",
           "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
           "url": "acestream://778d2f60bb7207addedcca0b9aed98f41529724e"
+        }
+      ]
+    },
+
+    {
+      "name": "MOVISTAR PLUS",
+      "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "MOVISTAR PLUS (1080)(Elcano)",
+          "info": "ab78",
+          "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
+          "url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78"
+        },
+        {
+          "name": "MOVISTAR PLUS (FHD)(Shickat)",
+          "info": "b193",
+          "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
+          "url": "acestream://1d8791bd1972f6159813c2a21d1b649cca79b193"
+        },
+        {
+          "name": "MOVISTAR PLUS (FHD)(Shickat)",
+          "info": "ac1a",
+          "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
+          "url": "acestream://a340c77b773a4a78a6c9aa25245a02698e05ac1a"
         }
       ]
     },
@@ -583,6 +605,12 @@
           "url": "acestream://eb6ffec065b26259ad3d1811e0bbb0a5332ed276"
         },
         {
+          "name": "DAZN 1 (720)(Shickat)",
+          "info": "2b66",
+          "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+          "url": "acestream://24f3cf821a16da93c1149e0ad3c2cc85bd5f2b66"
+        },
+        {
           "name": "DAZN 2 (FHD)(NewEra)",
           "info": "7a35",
           "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
@@ -645,6 +673,12 @@
           "info": "1727",
           "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
           "url": "acestream://ed6188dcbb491efeb2092c1a6199226c27f61727"
+        },
+        {
+          "name": "DAZN F1 (720)(Shickat)",
+          "info": "8fd6",
+          "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+          "url": "acestream://f3b85a5fdd61f23b2c008e0d207786f438088fd6"
         }
       ]
     },
@@ -778,9 +812,16 @@
           "info": "b785",
           "image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
           "url": "acestream://0e5d8c9724fa9163f49096b70484e315251eb785"
+        },
+        {
+          "name": "M #Vamos (FHD)(Shickat)",
+          "info": "951f",
+          "image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
+          "url": "acestream://cd783ac5f4d902ec6a4f261a4849633df69c951f"
         }
       ]
     },
+
     {
       "name": "SPORT TV",
       "image": "https://i.postimg.cc/QxBhsxCR/Logo-Sport-Tv.png",
