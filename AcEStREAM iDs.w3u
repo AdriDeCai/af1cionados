@@ -1319,6 +1319,53 @@
         }
       ]
     },
+
+    {
+      "name": "MOVISTAR",
+      "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "MOVISTAR ESTRENOS (FHD) (Shickat)",
+          "info": "1d38",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://b71478c824f787a6a696139db0d053de6fdd1d38"
+        },
+        {
+          "name": "MOVISTAR DOCUMENTALES (FHD) (Shickat)",
+          "info": "29e6",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://59d7f6da13c21652b1240578fe57dec0cc1529e6"
+        },
+        {
+          "name": "MOVISTAR ORIGINALES (FHD) (Shickat)",
+          "info": "1c88",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://60fcd59471ac4268e6cd6448f068a2b518841c88"
+        },
+        {
+          "name": "MOVISTAR CINE ESPAÑOL (FHD) (Shickat)",
+          "info": "8bd07",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://168ad4a958aa6daa26adeee9700ed0312618bd07"
+        },
+        {
+          "name": "MOVISTAR VACACIONES (FHD) (Shickat)",
+          "info": "a343",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://a0f71ac4897b2ccdf0114b5b3b7877902376a343"
+        },
+        {
+          "name": "MOVISTAR",
+          "info": "",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": ""
+        }
+      ]
+    },
+
     {
       "name": "NBA TV (US)",
       "image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png",
@@ -1334,5 +1381,6 @@
         }
       ]
     }
+
   ]
 }
