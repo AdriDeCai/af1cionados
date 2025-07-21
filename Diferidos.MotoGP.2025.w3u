@@ -799,7 +799,6 @@
       ]
     },
 
-
     {
       "name": "RED BULL RING - SPIELBERG (AUSTRIA)",
       "image": "ttps://i.postimg.cc/KvbWzYhr/Bandera-Austria.jpg",
@@ -809,7 +808,7 @@
       [
         {
           "name": "Sprint MotoGP Austria 2025",
-          "info": "[//2025]",
+          "info": "[16/08/2025]",
           "image": "ttps://i.postimg.cc/Wzg3Hzcf/motogp-sprint.png",
           "url": "",
           "userAgent": "PlusMediaPlayer/0.0.9",
@@ -817,8 +816,8 @@
           "online": "true"
         },
         {
-          "name": "Carrera Moto3 Paises Bajos 2025",
-          "info": "[//2025]",
+          "name": "Carrera Moto3 Austria 2025",
+          "info": "[17/08/2025]",
           "image": "ttps://i.postimg.cc/1zXzZJZF/moto3.png",
           "url": "",
           "userAgent": "PlusMediaPlayer/0.0.9",
@@ -826,8 +825,8 @@
           "online": "true"
         },
         {
-          "name": "Carrera Moto2 Paises Bajos 2025",
-          "info": "[//2025]",
+          "name": "Carrera Moto2 Austria 2025",
+          "info": "[17/08/2025]",
           "image": "ttps://i.postimg.cc/kgpmWCkV/moto2.png",
           "url": "",
           "userAgent": "PlusMediaPlayer/0.0.9",
@@ -835,8 +834,8 @@
           "online": "true"
         },
         {
-          "name": "Carrera MotoGP Paises Bajos 2025",
-          "info": "[//2025]",
+          "name": "Carrera MotoGP Austria 2025",
+          "info": "[17/08/2025]",
           "image": "ttps://i.postimg.cc/Y0MKtCmP/motogp-logo.png",
           "url": "",
           "userAgent": "PlusMediaPlayer/0.0.9",
@@ -844,8 +843,8 @@
           "online": "true"
         },
         {
-          "name": "Post MotoGP Paises Bajos 2025",
-          "info": "[//2025]",
+          "name": "Post MotoGP Austria 2025",
+          "info": "[17/08/2025]",
           "image": "ttps://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
           "url": "",
           "userAgent": "PlusMediaPlayer/0.0.9",
@@ -853,8 +852,8 @@
           "online": "true"
         },
         {
-          "name": "Codigo MotoGP Paises Bajos 2025",
-          "info": "[//2025]",
+          "name": "Codigo MotoGP Austria 2025",
+          "info": "[18/08/2025]",
           "image": "ttps://i.postimg.cc/Y0MKtCmP/motogp-logo.png",
           "url": "",
           "userAgent": "PlusMediaPlayer/0.0.9",
@@ -868,12 +867,12 @@
       "name": "BALATON PARK (HUNGRIA)",
       "image": "ttps://i.postimg.cc/CLfJBSWD/bandera-de-Hungria-768x480.jpg",
       "imageScale": "",
-      "info": "ROUND 13",
+      "info": "ROUND 14",
       "stations": 
       [
         {
-          "name": "Sprint MotoGP Chequia 2025",
-          "info": "[//2025]",
+          "name": "Sprint MotoGP Hungria 2025",
+          "info": "[23/08/2025]",
           "image": "ttps://i.postimg.cc/Wzg3Hzcf/motogp-sprint.png",
           "url": "",
           "userAgent": "PlusMediaPlayer/0.0.9",
@@ -881,8 +880,8 @@
           "online": "true"
         },
         {
-          "name": "Carrera Moto3 Chequia 2025",
-          "info": "[//2025]",
+          "name": "Carrera Moto3 Hungria 2025",
+          "info": "[24/08/2025]",
           "image": "ttps://i.postimg.cc/1zXzZJZF/moto3.png",
           "url": "",
           "userAgent": "PlusMediaPlayer/0.0.9",
@@ -890,8 +889,8 @@
           "online": "true"
         },
         {
-          "name": "Carrera Moto2 Chequia 2025",
-          "info": "[//2025]",
+          "name": "Carrera Moto2 Hungria 2025",
+          "info": "[24/08/2025]",
           "image": "ttps://i.postimg.cc/kgpmWCkV/moto2.png",
           "url": "",
           "userAgent": "PlusMediaPlayer/0.0.9",
@@ -899,8 +898,8 @@
           "online": "true"
         },
         {
-          "name": "Carrera MotoGP Chequia 2025",
-          "info": "[//2025]",
+          "name": "Carrera MotoGP Hungria 2025",
+          "info": "[24/08/2025]",
           "image": "ttps://i.postimg.cc/Y0MKtCmP/motogp-logo.png",
           "url": "",
           "userAgent": "PlusMediaPlayer/0.0.9",
@@ -908,8 +907,8 @@
           "online": "true"
         },
         {
-          "name": "Post MotoGP Chequia 2025",
-          "info": "[//2025]",
+          "name": "Post MotoGP Hungria 2025",
+          "info": "[24/08/2025]",
           "image": "ttps://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
           "url": "",
           "userAgent": "PlusMediaPlayer/0.0.9",
@@ -917,8 +916,8 @@
           "online": "true"
         },
         {
-          "name": "Codigo MotoGP Chequia 2025",
-          "info": "[//2025]",
+          "name": "Codigo MotoGP Hungria 2025",
+          "info": "[25/08/2025]",
           "image": "ttps://i.postimg.cc/Y0MKtCmP/motogp-logo.png",
           "url": "",
           "userAgent": "PlusMediaPlayer/0.0.9",
