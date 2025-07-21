@@ -6,6 +6,7 @@
   "telegram": "@AdriDeCai",
   "info": "",
   "stations": [
+
     {
       "name": "2 HEMISFERIOS DE LUCCA",
       "image": "https://pics.filmaffinity.com/los_dos_hemisferios_de_lucca-673633623-large.jpg",
@@ -1043,6 +1044,30 @@
       "embed": "",
       "isHost": "true",
       "online": "true"
+    },
+    {
+      "name": "BALLERINA (TS-Screener Español)",
+      "image": "https://pics.filmaffinity.com/from_the_world_of_john_wick_ballerina-660408782-large.jpg",
+      "url": "https://filemoon.to/d/9hv29ggf7jya/Ver_Ballerina_Online_Castellano_2025_Pelicula_TS-Screener_-_HDFull.mp4",
+      "info": "2025",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "BALLERINA (Latino 1080 P)",
+      "image": "https://pics.filmaffinity.com/from_the_world_of_john_wick_ballerina-660408782-large.jpg",
+      "url": "https://filemoon.to/d/k4507kq36a64/Ver_Ballerina_Online_Latino_2025_Pelicula_-_HDFull.mp4",
+      "info": "2025",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
     },
     {
       "name": "BAJO TERAPIA",
@@ -3042,6 +3067,18 @@
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "ERIN BROCKOVICH",
+      "image": "https://pics.filmaffinity.com/erin_brockovich-332274406-large.jpg",
+      "url": "https://filemoon.to/d/9b79mknqvjbz/Ver_Erin_Brockovich_Online_Castellano_2000_Pelicula_-_HDFull.mp4",
+      "info": "2000",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
       "import": false
     },
     {
