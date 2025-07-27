@@ -340,7 +340,7 @@
 
 	{
 	"name": "HUNGARIAN (HUNGRIA)",
-	"image": "ttps://i.postimg.cc/1z4s5bcd/Hungary-Flag4.jpg",
+	"image": "https://i.postimg.cc/1z4s5bcd/Hungary-Flag4.jpg",
 	"imageScale": "",
 	"info":"[ROUND 8]",
 	"stations":
@@ -349,7 +349,7 @@
 			"name": "SBK RACE 1",
 			"info":"[25-27 Julio 2025]",
 			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
-			"url": "",
+			"url": "https://pixeldrain.com/u/rymFsGWD",
       			"userAgent": "PlusMediaPlayer/0.0.9",
 			"embed":"",
             		"isHost":"true",
