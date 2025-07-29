@@ -3396,39 +3396,6 @@
       "import": false
     },
     {
-      "name": "FLASH",
-      "image": "https://i.postimg.cc/Y9Dpy9xj/Flash-2023-Pelicula.jpg",
-      "url": "https://upstream.to/5ogehhlq5nkf",
-      "info": "2023",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "FLAUTA MAGICA, LA",
-      "image": "https://pics.filmaffinity.com/the_magic_flute-793150436-large.jpg",
-      "url": "https://upstream.to/6u03ikztkzkh",
-      "info": "2022",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "FLORA Y SU HIJO MAX",
-      "image": "https://pics.filmaffinity.com/flora_and_son-217473626-large.jpg",
-      "url": "https://upstream.to/ipsiuc6xqxfe",
-      "info": "2023",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
       "name": "FOLLOW ME (Sin Salida)",
       "image": "https://pics.filmaffinity.com/follow_me-538723749-large.jpg",
       "url": "https://filemoon.to/d/z93ov2ek1r9g",
@@ -3495,7 +3462,7 @@
       "name": "FUGA DE PRISION",
       "image": "https://pics.filmaffinity.com/jailbreak_love_on_the_run-707206311-large.jpg",
       "url": "https://listeamed.net/v/KrdZ5kMMryjEmX4",
-      "info": "2024",
+      "info": "[2024]",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "referer": "",
@@ -3526,6 +3493,17 @@
       "online": "true",
       "import": false
     },
+{
+"name": "FUNERAL DE LOCOS,UN",
+"image": "https://i.postimg.cc/mrx32sZG/IMG-20250728-201910-179.jpg",
+"url": "https://listeamed.net/v/qA3WOmVe2V95Kkz",
+"info": "[2025]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"import": false
+},
     {
       "name": "FURIA (GUNNER)",
       "image": "https://pics.filmaffinity.com/gunner-610935115-large.jpg",
@@ -4356,17 +4334,6 @@
       "import": false
     },
     {
-      "name": "INVITACION A UN ASESINATO",
-      "image": "https://i.postimg.cc/dVXZBdvr/Invitacion-a-un-asesinato-2023-Pelicula.jpg",
-      "url": "https://upstream.to/orgtbl6963u4",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "info": "2023",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
       "name": "INSPIRACION MAS PROFUNDA, LA",
       "image": "https://pics.filmaffinity.com/the_deepest_breath-432149874-large.jpg",
       "url": "https://listeamed.net/v/NMRLEpz43zl5XaG",
@@ -4374,15 +4341,6 @@
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
-    },
-    {
-      "name": "IRATI",
-      "image": "https://i.postimg.cc/26sL4TqN/Irati-2023-Pelicula.jpg",
-      "url": "https://upstream.to/5xx7ixtapff2",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "info": "2023",
-      "isHost": "true",
-      "online": "true"
     },
     {
       "name": "IREHEN",
@@ -4611,6 +4569,17 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+{
+"name": "JURASSIC WORLD-EL RENACER",
+"image": "https://i.postimg.cc/cLgXThkX/IMG-20250725-225406-684.jpg",
+"url": "https://listeamed.net/v/04rQxWoy8JAxb2N",
+"info": "2025",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"import": false
+},
     {
       "name": "JUROR N 2",
       "image": "https://pics.filmaffinity.com/juror_2-506872185-large.jpg",
