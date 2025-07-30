@@ -1285,6 +1285,17 @@
       "online": "true"
     },
     {
+      "name": "BLIND RIVER",
+      "image": "https://pics.filmaffinity.com/Blind_River-334150217-large.jpg",
+      "url": "https://filemoon.to/d/cv4v221liro6",
+      "info": "2025",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
       "name": "BLITZ",
       "image": "https://i.postimg.cc/0NC4Jqdw/IMG-20241123-145628-936.jpg",
       "url": "https://filemoon.to/d/87u6m6w9230l",
@@ -1615,6 +1626,17 @@
       "image": "https://i.postimg.cc/2SsVpFhw/IMG-20241009-114452-961.jpg",
       "url": "https://filemoon.to/d/h10mk5ng0x5t",
       "info": "2024",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "CASI FAMILIA",
+      "image": "https://es.web.img3.acsta.net/img/d7/78/d778554bb6e1203623561245855c2784.jpg",
+      "url": "https://filemoon.to/d/bdibhy8qnodp",
+      "info": "2025",
       "embed": "",
       "isHost": "true",
       "online": "true",
@@ -3615,6 +3637,17 @@
       "online": "true"
     },
     {
+      "name": "GHOSTLIGHT",
+      "image": "https://pics.filmaffinity.com/Ghostlight-171637604-large.jpg",
+      "url": "https://filemoon.to/d/yvpnmb1qho12",
+      "info": "2024",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
       "name": "GORRIÓN ROJO",
       "image": "https://i.postimg.cc/gJ66mvDB/IMG-20250202-151228-782.jpg",
       "url": "https://ghbrisk.com/7gwr5pdrv8cu",
@@ -4760,10 +4793,28 @@
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
     {
+      "name": "LA COLA DEL DIABLO",
+      "info": "[2024][Español]",
+      "image": "https://image.tmdb.org/t/p/original/tEzQjjSR3ZtvpSKrkTi2PxeLBuM.jpg",
+      "url": "https://filemoon.to/d/c2gcihdvf4xy",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
       "name": "LA FUENTE DE LA JUVENTUD",
       "info": "[2025][Español]",
       "image": "https://pics.filmaffinity.com/La_fuente_de_la_eterna_juventud-109538437-large.jpg",
       "url": "https://filemoon.to/d/7fmpuum3cqyn",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
+      "name": "LA FURIA",
+      "info": "[2025][Español]",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTI2ZDlkNGItNGEzZC00ZGVmLWE4ODItZDY4NWRhZTJhMTBmXkEyXkFqcGc@._V1_.jpg",
+      "url": "https://filemoon.to/d/wrlgrcx27ci2",
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
@@ -4921,6 +4972,15 @@
       "image": "https://m.media-amazon.com/images/S/pv-target-images/0a3254da10b1706dd2839943d8e8b48e0be8911792556df6ff44451890792466.jpg",
       "url": "https://filemoon.to/d/2dd0w4q3i1yc",
       "info": "[Español][2021]",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
+      "name": "LILO & STITCH",
+      "image": "https://moviepostermexico.com/cdn/shop/files/lilo_and_stitch_xlg.jpg",
+      "url": "https://filemoon.to/d/cnodhta5lxzw",
+      "info": "[Español][2025]",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "isHost": "true",
       "online": "true"
@@ -5661,6 +5721,23 @@
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
+      "name": "MIOCARDIO",
+      "info": "[2025][Español]",
+      "image": "https://pics.filmaffinity.com/miocardio-262201158-large.jpg",
+      "url": "https://filemoon.to/d/k54q3qbc9dha",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
+      "name": "MIS 84 M²",
+      "image": "https://pbs.twimg.com/media/GwOp8EVXMAAsECo.jpg",
+      "url": "https://filemoon.to/d/kbl1jfo1cb4x",
+      "info": "2025",
+      "isHost": "true",
+      "online": "true"
     },
     {
       "name": "MISION PANAMA",
@@ -6652,6 +6729,15 @@
       "online": "true"
     },
     {
+      "name": "POR TODO LO ALTO",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/por-todo-lo-alto-poster-67e6626f47019.jpg",
+      "url": "https://filemoon.to/d/3ycfpzs05fdy",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "info": "[Español][2024]",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
       "name": "PORTAL AL MAS ALLA, EL",
       "image": "https://i.postimg.cc/Bv73LxKh/Portal-del-ma-s-alla-El-2018-Pelicula.jpg",
       "url": "https://upstream.to/07afcpx23597",
@@ -7391,6 +7477,18 @@
       "image": "https://pics.filmaffinity.com/c_e_ancora_domani-411246444-large.jpg",
       "url": "https://filemoon.to/d/2whzpf6d271o/Ver_Siempre_nos_quedar__ma_ana_Online_Castellano_2023_Pelicula_Castellano_-_HDFull.mp4",
       "info": "2023",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "SIGO SIENDO LA MISMA",
+      "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2025/7/w1280/mfuUAORL9v4hwrVes1FKdPuyf6p.jpg",
+      "url": "https://filemoon.to/d/az5ftcvkelod",
+      "info": "2025",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "referer": "",
