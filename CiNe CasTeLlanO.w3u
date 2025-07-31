@@ -115,6 +115,18 @@
       "import": false
     },
     {
+      "name": "28 AÑOS DESPUES",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDI1N2ExZDEtZTlkNC00YTY1LWIzYTAtZWRkNWUxNTNkZDNhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "url": "https://filemoon.to/d/qcu9q6qwhjik",
+      "info": "[2025][Español]",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
       "name": "47, El",
       "info": "2024",
       "image": "https://pics.filmaffinity.com/el_47-838476618-large.jpg",
@@ -4829,6 +4841,24 @@
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
     {
+      "name": "LA GUERRA DE LOS MUNDOS",
+      "info": "[2025][Español]",
+      "image": "https://i.postimg.cc/VNrbbg1Q/GUERRA.jpg",
+      "url": "https://filemoon.to/d/y3itamxhxp4o",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
+      "name": "LA HUELLA DEL MAL",
+      "info": "[2025][Español]",
+      "image": "https://m.media-amazon.com/images/I/81Z7I8t8IyL._UF894,1000_QL80_.jpg",
+      "url": "https://filemoon.to/d/8u76o0xa1cn0",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
       "name": "LA LIBERACION",
       "info": "[2024][Español]",
       "image": "https://pics.filmaffinity.com/La_liberaciaon-199592217-large.jpg",
@@ -8011,6 +8041,15 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
+    },
+    {
+      "name": "THE PAGEMASTER",
+      "info": "[1994][Español]",
+      "image": "https://m.media-amazon.com/images/I/918fgzDYckL._UF894,1000_QL80_.jpg",
+      "url": "https://filemoon.to/d/zc3v4ai3s1i0",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
     },
     {
       "name": "THE RINGLEADER, EL CASO DE BLING RING",
