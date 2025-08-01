@@ -739,6 +739,18 @@
       "import": false
     },
     {
+      "name": "AHORA O NUNCA",
+      "image": "https://pics.filmaffinity.com/Ahora_o_nunca-732515118-large.jpg",
+      "url": "https://filemoon.to/d/kk3f7ewyhuy1",
+      "info": "[2024][Español]",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
       "name": "APARCACOCHES, EL",
       "info": "2022",
       "image": "https://i.postimg.cc/Xv62743z/Aparcacoches-El-2023-Pelicula.jpg",
@@ -1016,6 +1028,15 @@
       "image": "https://i.postimg.cc/HkQhbgV6/Babylon-2022-Pelicula.jpg",
       "url": "https://upstream.to/4s4b8fxe1nte",
       "embed": "",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
+      "name": "BABYGIRL",
+      "info": "[2024][Español]",
+      "image": "https://moviecrazyplanet.com/wp-content/uploads/2024/12/Baby-Girl-poster-02.jpg",
+      "url": "https://filemoon.to/d/buwi8yze3prq",
+      "userAgent": "PlusMediaPlayer/0.0.9",
       "isHost": "true",
       "online": "true"
     },
@@ -1301,6 +1322,17 @@
       "image": "https://pics.filmaffinity.com/Blind_River-334150217-large.jpg",
       "url": "https://filemoon.to/d/cv4v221liro6",
       "info": "2025",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "BLINDADO",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDExOWE3YWItNTJjYi00YTgzLThhNGQtYjAwZWE0YjY4NTRhXkEyXkFqcGc@._V1_.jpg",
+      "url": "https://filemoon.to/d/kuwvvub3wwjw",
+      "info": "[2025][Español]",
       "embed": "",
       "isHost": "true",
       "online": "true",
@@ -3470,6 +3502,15 @@
       "online": "true"
     },
     {
+      "name": "FREWAKA",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzljNmZiODgtYzNiZC00YTk0LWIzNDgtZmQzNjZlNzQ1MDYwXkEyXkFqcGc@._V1_.jpg",
+      "url": "https://filemoon.to/d/lsz9jdcd8f5r",
+      "info": "[2025][Español]",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
       "name": "FUEGO",
       "image": "https://pics.filmaffinity.com/fuego-307183310-large.jpg",
       "url": "https://listeamed.net/v/6zeREa0XG0jxZPa",
@@ -5617,6 +5658,17 @@
       "import": false
     },
     {
+      "name": "MI AÑO EN OXFORD",
+      "image": "https://mx.web.img2.acsta.net/r_1280_720/img/e3/c1/e3c1b13a408d7112bd2f44335e8347c2.jpg",
+      "url": "https://filemoon.to/d/asis39arya9r",
+      "info": "[2025][Español]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
       "name": "MI CRIMEN",
       "image": "https://i.postimg.cc/sDSJN1W1/Mi_crimen_(2023)(Pelicula).jpg",
       "url": "https://upstream.to/kg0ujs13jl9q",
@@ -5707,6 +5759,17 @@
       "image": "https://pics.filmaffinity.com/miracles_from_heaven-351249630-large.jpg",
       "url": "https://bembed.net/v/ZMVoEr82emw59Pa",
       "info": "2016",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "Miley Cyrus: Something Beautiful",
+      "image": "https://dx35vtwkllhj9.cloudfront.net/trafalgarreleasing/miley-cyrus-something-beautiful/images/regions/intl/onesheet.jpg",
+      "url": "https://filemoon.to/d/7fgjq5aw8hch",
+      "info": "[2025][Español]",
       "embed": "",
       "isHost": "true",
       "online": "true",
@@ -5900,6 +5963,17 @@
       "image": "https://pics.filmaffinity.com/the_haunted_museum_3_ring_inferno-479691344-large.jpg",
       "url": "https://upstream.to/g9r59ipi9oyr",
       "info": "2022",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "MUY LEJOS",
+      "image": "https://pics.filmaffinity.com/Muy_lejos-545690435-large.jpg",
+      "url": "https://filemoon.to/d/jcz4xxa62uyw",
+      "info": "[2025][Español]",
       "embed": "",
       "isHost": "true",
       "online": "true",
@@ -8875,3 +8949,4 @@
     }
   ]
 }
+
