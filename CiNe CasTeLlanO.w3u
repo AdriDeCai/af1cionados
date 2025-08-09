@@ -11,7 +11,7 @@
       "name": "2 HEMISFERIOS DE LUCCA",
       "image": "https://pics.filmaffinity.com/los_dos_hemisferios_de_lucca-673633623-large.jpg",
       "url": "https://listeamed.net/v/PlBVEZk1y0wODv9",
-      "info": "2025",
+      "info": "[2025]",
       "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "",
       "referer": "",
@@ -5728,6 +5728,18 @@
       "import": false
     },
     {
+      "name": "MI LISTA DE DESEOS",
+      "image": "https://pics.filmaffinity.com/the_life_list-567019967-large.jpg",
+      "url": "https://filemoon.to/d/t1wbzsd4ynat/Mi_lista_de_deseos",
+      "info": "[2025]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
       "name": "MI MARIDO CONVERTIDO AL ISLAM",
       "image": "https://pics.filmaffinity.com/my_muslim_husband-713005217-large.jpg",
       "url": "https://upstream.to/lbgfu5wqynah",
@@ -9055,6 +9067,7 @@
     }
   ]
 }
+
 
 
 
