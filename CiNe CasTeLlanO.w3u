@@ -12,7 +12,7 @@
       "image": "https://pics.filmaffinity.com/los_dos_hemisferios_de_lucca-673633623-large.jpg",
       "url": "https://listeamed.net/v/PlBVEZk1y0wODv9",
       "info": "2025",
-      "userAgent": "PlusMediaPlayer/0.0.9",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "",
       "referer": "",
       "isHost": "true",
@@ -1780,6 +1780,18 @@
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
+      "name": "CHICA DE LA AGUJA",
+      "image": "https://pics.filmaffinity.com/pigen_med_nalen-156798592-large.jpg",
+      "url": "https://filemoon.to/d/65890sidoqsh/La_chica_de_la_aguja",
+      "info": "[2024]",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
     },
     {
       "name": "CHICA MAS HERMOSA DEL MUNDO, LA",
@@ -5983,6 +5995,18 @@
       "import": false
     },
     {
+      "name": "MURDER COMPANY",
+      "image": "https://pics.filmaffinity.com/murder_company-732602008-large.jpg",
+      "url": "https://filemoon.to/d/3pmjmz6uj06f/Murder_Company",
+      "info": "[2024]",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
       "name": "MUSEO DEL TERROR, EL: LOS ANILLOS INFERNALES",
       "image": "https://pics.filmaffinity.com/the_haunted_museum_3_ring_inferno-479691344-large.jpg",
       "url": "https://upstream.to/g9r59ipi9oyr",
@@ -6631,6 +6655,18 @@
       "url": "https://bembed.net/v/QNB7xA2B1g0E0WG",
       "info": "2004",
       "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "PATRIA PERDIDA, LA",
+      "image": "https://pics.filmaffinity.com/izgubljena_zemlja-496793528-large.jpg",
+      "url": "https://filemoon.to/d/y78gcxivti3u/La_patria_perdida",
+      "info": "[2023]",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "referer": "",
       "isHost": "true",
       "online": "true",
       "import": false
@@ -9007,6 +9043,7 @@
     }
   ]
 }
+
 
 
 
