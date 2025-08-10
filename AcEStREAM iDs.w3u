@@ -27,10 +27,58 @@
           "url": "acestream://61a38b6c3b6c3fdffcb2f61053f3437e569eb666"
         },
         {
+          "name": "LA 1 FHD (New Era",
+          "info": "f5a5",
+          "image": "https://i.ibb.co/swhGnw4/La1.jpg",
+          "url": "acestream://8bdd29882fa2c2f9fe49e67b102934c9e293f5a5"
+        },
+        {
           "name": "LA 2",
           "info": "c555",
           "image": "https://i.postimg.cc/13XJ1k3Y/Logo-La2.png",
           "url": "acestream://60106275d34f995e26bb2cc4a21a42f586c6c555"
+        },
+        {
+          "name": "LA 2 FHD (New Era)",
+          "info": "9ac5",
+          "image": "https://i.postimg.cc/13XJ1k3Y/Logo-La2.png",
+          "url": "acestream://fc36c7249aef74e3ea579500efdfd7a98d8e9ac5"
+        },
+        {
+          "name": "ANTERNA 3 FHD (New Era)",
+          "info": "8496",
+          "image": "",
+          "url": "acestream://390b5b0fc49a811c5c5ebd6d195b08a48b1e8496"
+        },
+        {
+          "name": "CUATRO TV",
+          "info": "42c4",
+          "image": "https://i.ibb.co/FJch0Y9/Cuatro.jpg",
+          "url": "acestream://e8eec35f4662be1af96963245bfa88fb7d0242c4"
+        },
+        {
+          "name": "CUATRO TV FHD (New Era)",
+          "info": "9a91",
+          "image": "https://i.ibb.co/FJch0Y9/Cuatro.jpg",
+          "url": "acestream://18f63b299de66029e17dc35e12f6c244e1979a91"
+        },
+        {
+          "name": "TELECINCO",
+          "info": "76f5",
+          "image": "https://www.movistarplus.es/recorte/m-NEO/canal/T5.png",
+          "url": "acestream://3d376333ee90d6db3d413fc5764ef635882076f5"
+        },
+        {
+          "name": "TELECINCO FHD (New Era)",
+          "info": "f75b",
+          "image": "https://www.movistarplus.es/recorte/m-NEO/canal/T5.png",
+          "url": "acestream://6d2af61410d7fb6ed46fc7fe0c199951389bf75b"
+        },
+        {
+          "name": "LA SEXTA FHD (New Era)",
+          "info": "7e31",
+          "image": "",
+          "url": "acestream://1c6486082949172d1ffd318db8fb965dd5af7e31"
         },
         {
           "name": "TDP [TeleDeporte] [1080p]",
@@ -43,18 +91,6 @@
           "info": "eca2",
           "image": "https://i.postimg.cc/cCThLjpn/gol-play.png",
           "url": "acestream://d4627f7b6b237a8556819445b3283d866caceca2"
-        },
-        {
-          "name": "CUATRO TV",
-          "info": "42c4",
-          "image": "https://i.ibb.co/FJch0Y9/Cuatro.jpg",
-          "url": "acestream://e8eec35f4662be1af96963245bfa88fb7d0242c4"
-        },
-        {
-          "name": "TeleCinco",
-          "info": "76f5",
-          "image": "https://www.movistarplus.es/recorte/m-NEO/canal/T5.png",
-          "url": "acestream://3d376333ee90d6db3d413fc5764ef635882076f5"
         },
         {
           "name": "BE MAD [1080]",
@@ -1522,3 +1558,4 @@
 
   ]
 }
+
