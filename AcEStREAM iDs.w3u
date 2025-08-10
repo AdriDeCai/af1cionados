@@ -425,6 +425,12 @@
           "url": "acestream://5b41b5e0f7fb0c2c420158a83a12e8ceed4a7420"
         },
         {
+          "name": "DAZN LaLiga 2 (FHD)(New Era)",
+          "info": "fee3",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://635b61c1f240449163260cd914d10d886a54fee3"
+        },
+        {
           "name": "DAZN LaLiga 3 (1080)(Elcano)",
           "info": "[SIN EMISION]",
           "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
@@ -1696,6 +1702,7 @@
 
   ]
 }
+
 
 
 
