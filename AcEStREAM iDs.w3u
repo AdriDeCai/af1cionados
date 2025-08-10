@@ -75,16 +75,34 @@
           "url": "acestream://6d2af61410d7fb6ed46fc7fe0c199951389bf75b"
         },
         {
+          "name": "TELECINCO FHD (New Era)",
+          "info": "f7bf",
+          "image": "https://www.movistarplus.es/recorte/m-NEO/canal/T5.png",
+          "url": "acestream://5133d1e8f45095f0b7dabbd78db0ce19a496f7bf"
+        },
+        {
           "name": "LA SEXTA FHD (New Era)",
           "info": "7e31",
           "image": "",
           "url": "acestream://1c6486082949172d1ffd318db8fb965dd5af7e31"
         },
         {
-          "name": "TDP [TeleDeporte] [1080p]",
+          "name": "TDP TeleDeporte [1080p]",
           "info": "bb9f",
           "image": "https://i.ibb.co/thh1tKH/TDP.jpg",
           "url": "acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f"
+        },
+        {
+          "name": "TDP Teledeporte FHD (New Era)",
+          "info": "0230",
+          "image": "https://i.ibb.co/thh1tKH/TDP.jpg",
+          "url": "acestream://138b30c93e8a780ac490a4f6d2181c41f3670230"
+        },
+        {
+          "name": "TDP Teledeporte FHD (New Era)",
+          "info": "d9ef",
+          "image": "https://i.ibb.co/thh1tKH/TDP.jpg",
+          "url": "acestream://bdc32e0f99653f96e0e1a3b98c88764b631ed9ef"
         },
         {
           "name": "GOL TV [1080]",
@@ -789,7 +807,7 @@
           "url": "acestream://6538b79ce0da657d8455d1da6a5f342398899a0e"
         },
         {
-          "name": "DAZN 1 (FHD)(NewEra)",
+          "name": "DAZN 1 (FHD)(Sat)(NewEra)",
           "info": "3fa9",
           "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
           "url": "acestream://50a8a13c474848d1efbd5586efdb5b6cdd173fa9"
@@ -837,10 +855,22 @@
           "url": "acestream://19cd05c7ae26f22737ae5728b571ca36abd8a2e8"
         },
         {
+          "name": "DAZN 3 FHD (New Era)",
+          "info": "8eb1",
+          "image": "https://i.postimg.cc/bNj2cMvJ/dazn3.png",
+          "url": "acestream://d641cd0fca0f467b3130754a091e2f4d22e68eb1"
+        },
+        {
           "name": "DAZN 4 [1080]",
           "info": "3102",
           "image": "https://i.postimg.cc/gJZr1qF8/dazn4.png",
           "url": "acestream://4e83f23945ab3e43982045f88ec31daaa4683102"
+        },
+        {
+          "name": "DAZN 4 FHD (New Era)",
+          "info": "c1f0",
+          "image": "https://i.postimg.cc/gJZr1qF8/dazn4.png",
+          "url": "acestream://7e27e46c25d4308d16098d9dc67fcd8736e8c1f0"
         }
       ]
     },
@@ -1558,4 +1588,5 @@
 
   ]
 }
+
 
