@@ -1120,8 +1120,20 @@
         "image": "https://pics.filmaffinity.com/miraculous_world_paris_tales_of_shadybug_and_claw_noir-214644211-large.jpg",
         "url": "https://filemoon.to/d/b2omduiuwc6b/Miraculous_World_Par_s__las_aventuras_de_Shadybug_y_Claw_Noir.mkv",
         "info": "2023",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-	"referer": "",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+		{
+        "name": "MISION PANDA EN AFRICA",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGI3YWFkMWEtZTZjNS00NWI1LThiYWEtZDBlZDg4NWRjMzcxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "url": "https://filemoon.to/d/241h8ujg3yn9",
+        "info": "2024",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"referer": "",
         "embed":"",
         "isHost":"true",
         "online":"true",
@@ -2249,6 +2261,7 @@
 
     ]
 }  
+
 
 
 
