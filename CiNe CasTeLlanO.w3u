@@ -576,6 +576,18 @@
       "import": false
     },
     {
+      "name": "AMADEUS",
+      "image": "https://pics.filmaffinity.com/Amadeus-473716271-large.jpg",
+      "url": "https://filemoon.to/d/kizx3vb97r59",
+      "info": "1984",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
       "name": "AMANECE EN SAMANÁ",
       "image": "https://i.postimg.cc/TYsXdNCb/IMG-20250405-143750-673.jpg",
       "url": "https://filemoon.to/d/kaf3s1y9zy8t",
@@ -9067,6 +9079,7 @@
     }
   ]
 }
+
 
 
 
