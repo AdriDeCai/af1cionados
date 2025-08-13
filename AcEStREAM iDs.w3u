@@ -534,6 +534,12 @@
       [
         {
           "name": "MOVISTAR PLUS (1080)(Elcano)",
+          "info": "582f",
+          "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
+          "url": "acestream://56ac8e227d526e722624675ccdd91b0cc850582f"
+        },
+        {
+          "name": "MOVISTAR PLUS (1080)(Elcano)",
           "info": "ab78",
           "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
           "url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78"
@@ -563,10 +569,22 @@
           "url": "acestream://b6ffbbc72a5b6b579faf79ebac229af7a25b933b"
         },
         {
-          "name": "MOVISTAR PLUS (FHD)(New Era)",
-          "info": "beb4",
+          "name": "MOVISTAR PLUS VI (FHD)(New Era)",
+          "info": "f74a",
           "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
-          "url": "acestream://b2a4d1eba9b46df5f52a87105df779f9d39abeb4"
+          "url": "acestream://5e24a1b9187fccb91553f7c7da4b36341386f74a"
+        },
+        {
+          "name": "MOVISTAR PLUS VI (FHD)(New Era)",
+          "info": "b51a",
+          "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
+          "url": "acestream://5d9a26e0a5f3e5f2ae027bd05635ab9a4fd4b51a"
+        },
+        {
+          "name": "MOVISTAR PLUS 2 (FHD)(New Era)",
+          "info": "e09c",
+          "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
+          "url": "acestream://fbc39d8a9e5d7c9ac6a1438d440104620f54e09c"
         }
       ]
     },
@@ -1791,6 +1809,7 @@
 
   ]
 }
+
 
 
 
