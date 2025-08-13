@@ -335,6 +335,18 @@
        	"import": false
        	},
 	{
+        "name": "DESPELOTE",
+        "image": "https://pics.filmaffinity.com/fixed-832413345-large.jpg",
+        "url": "https://filemoon.to/d/jumv1368clc8/Despelote",
+        "info": "2025",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+	{
         "name": "DIARIO DE GREG, EL",
         "info":"2021",
         "image": "https://i.postimg.cc/1z76mzQt/El-diario-de-Greg-2021-Pelicula-infantil.jpg",
@@ -2249,5 +2261,6 @@
 
     ]
 }  
+
 
 
