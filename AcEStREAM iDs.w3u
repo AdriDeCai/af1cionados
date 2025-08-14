@@ -163,12 +163,6 @@
       "stations": 
       [
         {
-          "name": "MOVISTAR LaLiga (NewLoop)",
-          "info": "468b",
-          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
-          "url": "acestream://cc9b7f5fe416069a2110da0909b0f915043c468b"
-        },
-        {
           "name": "MOVISTAR LaLiga (1080)(Elcano)",
           "info": "9947",
           "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
@@ -191,6 +185,12 @@
           "info": "ac58",
           "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
           "url": "acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58"
+        },
+        {
+          "name": "MOVISTAR LaLiga (NewLoop)",
+          "info": "468b",
+          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+          "url": "acestream://cc9b7f5fe416069a2110da0909b0f915043c468b"
         },
         {
           "name": "MOVISTAR LaLiga (FHD)(Shickat)",
@@ -1827,6 +1827,7 @@
 
   ]
 }
+
 
 
 
