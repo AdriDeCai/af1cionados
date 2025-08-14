@@ -15,34 +15,22 @@
       "stations": 
       [
         {
-          "name": "LA 1 [1080][Multiaudio]",
-          "info": "0b47",
+          "name": "LA 1 FHD (New Era)",
+          "info": "40ba",
           "image": "https://i.ibb.co/swhGnw4/La1.jpg",
-          "url": "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47"
+          "url": "acestream://7597d4feb3195079ffa606cf23a183d626ee40ba"
         },
         {
-          "name": "LA 1 UHD [1080][Multiaudio]",
-          "info": "b666",
+          "name": "LA 1 FHD (New Era)",
+          "info": "740c",
           "image": "https://i.ibb.co/swhGnw4/La1.jpg",
-          "url": "acestream://61a38b6c3b6c3fdffcb2f61053f3437e569eb666"
-        },
-        {
-          "name": "LA 1 FHD (New Era",
-          "info": "f5a5",
-          "image": "https://i.ibb.co/swhGnw4/La1.jpg",
-          "url": "acestream://8bdd29882fa2c2f9fe49e67b102934c9e293f5a5"
-        },
-        {
-          "name": "LA 2",
-          "info": "c555",
-          "image": "https://i.postimg.cc/13XJ1k3Y/Logo-La2.png",
-          "url": "acestream://60106275d34f995e26bb2cc4a21a42f586c6c555"
+          "url": "acestream://dad5e0e0825cb3e410008f1c4252387b868e740c"
         },
         {
           "name": "LA 2 FHD (New Era)",
-          "info": "9ac5",
+          "info": "c2ed",
           "image": "https://i.postimg.cc/13XJ1k3Y/Logo-La2.png",
-          "url": "acestream://fc36c7249aef74e3ea579500efdfd7a98d8e9ac5"
+          "url": "acestream://9934906503661142f97a044ae1509a294057c2ed"
         },
         {
           "name": "ANTERNA 3 FHD (New Era)",
@@ -163,142 +151,6 @@
           "info": "cd11",
           "image": "https://i.postimg.cc/JhcwXQyv/logo-real-madrid-2.png",
           "url": "acestream://0ec3f3786318acd8dca2588f74c3759cda76cd11"
-        }
-      ]
-    },
-
-    {
-      "name": "MOVISTAR",
-      "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
-      "imageScale": "",
-      "info": "",
-      "stations": 
-      [
-        {
-          "name": "ESTRENOS (FHD) (Shickat)",
-          "info": "1d38",
-          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
-          "url": "acestream://b71478c824f787a6a696139db0d053de6fdd1d38"
-        },
-        {
-          "name": "SERIES (FHD) (New Era)",
-          "info": "891a",
-          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
-          "url": "acestream://2752dee68a7faa9c847216dc22a6821661db891a"
-        },
-        {
-          "name": "DOCUMENTALES (FHD) (Shickat)",
-          "info": "29e6",
-          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
-          "url": "acestream://59d7f6da13c21652b1240578fe57dec0cc1529e6"
-        },
-        {
-          "name": "ORIGINALES (FHD) (Shickat)",
-          "info": "1c88",
-          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
-          "url": "acestream://60fcd59471ac4268e6cd6448f068a2b518841c88"
-        },
-        {
-          "name": "CINE ESPAÑOL (FHD) (Shickat)",
-          "info": "8bd07",
-          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
-          "url": "acestream://168ad4a958aa6daa26adeee9700ed0312618bd07"
-        },
-        {
-          "name": "VACACIONES (FHD) (Shickat)",
-          "info": "a343",
-          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
-          "url": "acestream://a0f71ac4897b2ccdf0114b5b3b7877902376a343"
-        },
-        {
-          "name": "WESTERN (FHD) (Shickat)",
-          "info": "6765",
-          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
-          "url": "acestream://860dd021db341dbd02979eb8ea650d3f9d846765"
-        },
-        {
-          "name": "INDIE (FHD) (Shickat)",
-          "info": "ba5af",
-          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
-          "url": "acestream://4f35f115971f0b156baabb8efa9926b1eb8ba5af"
-        },
-        {
-          "name": "ACCION (FHD) (Shickat)",
-          "info": "fc42",
-          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
-          "url": "acestream://93b2f5ede5cf2fa0cdb50419258c4f651aabfc42"
-        },
-        {
-          "name": "ACCION (FHD) (New Era)",
-          "info": "59ce",
-          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
-          "url": "acestream://102bcb79ca391e37ac1fc9ee77dc53440d0a59ce"
-        },
-        {
-          "name": "COMEDIA (FHD) (Shickat)",
-          "info": "798f",
-          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
-          "url": "acestream://124aa6d58fd72a763ed0349c874551bd2504798f"
-        },
-        {
-          "name": "DRAMA (FHD) (Shickat)",
-          "info": "c983",
-          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
-          "url": "acestream://aff9d7e45c4fc0f97ec8ec2b6d80cd3feb87c983"
-        },
-        {
-          "name": "HITS (FHD) (Shickat)",
-          "info": "0695",
-          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
-          "url": "acestream://28b9b7ba12c0f5c7e097f4b07a547f6eda9a0695"
-        },
-        {
-          "name": "CLASICOS (FHD) (Shickat)",
-          "info": "5fd1",
-          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
-          "url": "acestream://095134586cd06e1488139842f1183b50b75f5fd1"
-        },
-        {
-          "name": "CLASICOS (FHD) (New Era)",
-          "info": "0c0c",
-          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
-          "url": "acestream://cf6ffdfa3c51268c0bd216da6b275fb866160c0c"
-        },
-        {
-          "name": "COCINA (FHD) (Shickat)",
-          "info": "fbb3",
-          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
-          "url": "acestream://db81615f1b2eebaf584edc252ddd73883123fbb3"
-        },
-        {
-          "name": "COCINA (FHD) (New Era)",
-          "info": "849b",
-          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
-          "url": "acestream://96f092e1fa99062f6da14cae230b877ad3ed849b"
-        },
-        {
-          "name": "MOVISTAR NATIONAL GEOGRAPHIC (FHD) (Shickat)",
-          "info": "dfff",
-          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
-          "url": "acestream://55230a7a3cc4e8dfd3cecbfb2d68266aa4e5dfff"
-        },
-        {
-          "name": "NATIONAL GEOGRAPHIC WILD (FHD) (Shickat)",
-          "info": "6d00",
-          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
-          "url": "acestream://51d0b5249e229a07ecc52286f56a67c3d9df6d00"
-        },
-        {
-          "name": "PESCA Y CAZA (FHD) (Shickat)",
-          "info": "e10f",
-          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
-          "url": "acestream://6f28b1b9eb9f4047a6179b300e65b03c8316e10f"
-        },
-        {
-          "name": "ONE TORO (FHD) (Shickat)",
-          "info": "43c0",
-          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
-          "url": "acestream://1fd3dbb7d39de875ac70059d70c8768d4a2e43c0"
         }
       ]
     },
@@ -1075,7 +927,13 @@
       "stations": 
       [
         {
-          "name": "DAZN F1 FHD (SAT)(NewEra)",
+          "name": "DAZN F1 (FHD)(NewEra)",
+          "info": "bb29",
+          "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+          "url": "acestream://6422e8bc34282871634c81947be093c04ad1bb29"
+        },
+        {
+          "name": "DAZN F1 (FHD)(NewEra)",
           "info": "a553",
           "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
           "url": "acestream://c9c18ae7a9dafba1caae5beb22060f9c92bba553"
@@ -1088,15 +946,27 @@
         },
         {
           "name": "DAZN F1 (FHD)(NewEra)",
-          "info": "bb29",
+          "info": "b8cc",
           "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
-          "url": "acestream://6422e8bc34282871634c81947be093c04ad1bb29"
+          "url": "acestream://82b4f249788f93b8f9ce968803662d7cd4f1b8cc"
         },
         {
           "name": "DAZN F1 (FHD)(NewEra)",
-          "info": "b790",
+          "info": "7711",
           "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
-          "url": "acestream://d27584ebe5128c8033cb6fdc806a994fbd17b790"
+          "url": "acestream://d5cf2dfa4fb4165ce58bf9db815088c28fec7711"
+        },
+        {
+          "name": "DAZN F1 (FHD)(NewEra VI)",
+          "info": "57c9",
+          "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+          "url": "acestream://8c1155cdfae76eb582290c04904c98da066657c9"
+        },
+        {
+          "name": "DAZN F1 (FHD)(NewEra VI)",
+          "info": "0cd0",
+          "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+          "url": "acestream://ba6e1bdc8e03da60ff572557645eb04370af0cd0"
         },
         {
           "name": "DAZN F1 (1080)(Elcano)",
@@ -1127,6 +997,142 @@
           "info": "8fd6",
           "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
           "url": "acestream://f3b85a5fdd61f23b2c008e0d207786f438088fd6"
+        }
+      ]
+    },
+
+    {
+      "name": "MOVISTAR",
+      "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "ESTRENOS (FHD) (Shickat)",
+          "info": "1d38",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://b71478c824f787a6a696139db0d053de6fdd1d38"
+        },
+        {
+          "name": "SERIES (FHD) (New Era)",
+          "info": "891a",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://2752dee68a7faa9c847216dc22a6821661db891a"
+        },
+        {
+          "name": "DOCUMENTALES (FHD) (Shickat)",
+          "info": "29e6",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://59d7f6da13c21652b1240578fe57dec0cc1529e6"
+        },
+        {
+          "name": "ORIGINALES (FHD) (Shickat)",
+          "info": "1c88",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://60fcd59471ac4268e6cd6448f068a2b518841c88"
+        },
+        {
+          "name": "CINE ESPAÑOL (FHD) (Shickat)",
+          "info": "8bd07",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://168ad4a958aa6daa26adeee9700ed0312618bd07"
+        },
+        {
+          "name": "VACACIONES (FHD) (Shickat)",
+          "info": "a343",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://a0f71ac4897b2ccdf0114b5b3b7877902376a343"
+        },
+        {
+          "name": "WESTERN (FHD) (Shickat)",
+          "info": "6765",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://860dd021db341dbd02979eb8ea650d3f9d846765"
+        },
+        {
+          "name": "INDIE (FHD) (Shickat)",
+          "info": "ba5af",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://4f35f115971f0b156baabb8efa9926b1eb8ba5af"
+        },
+        {
+          "name": "ACCION (FHD) (Shickat)",
+          "info": "fc42",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://93b2f5ede5cf2fa0cdb50419258c4f651aabfc42"
+        },
+        {
+          "name": "ACCION (FHD) (New Era)",
+          "info": "59ce",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://102bcb79ca391e37ac1fc9ee77dc53440d0a59ce"
+        },
+        {
+          "name": "COMEDIA (FHD) (Shickat)",
+          "info": "798f",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://124aa6d58fd72a763ed0349c874551bd2504798f"
+        },
+        {
+          "name": "DRAMA (FHD) (Shickat)",
+          "info": "c983",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://aff9d7e45c4fc0f97ec8ec2b6d80cd3feb87c983"
+        },
+        {
+          "name": "HITS (FHD) (Shickat)",
+          "info": "0695",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://28b9b7ba12c0f5c7e097f4b07a547f6eda9a0695"
+        },
+        {
+          "name": "CLASICOS (FHD) (Shickat)",
+          "info": "5fd1",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://095134586cd06e1488139842f1183b50b75f5fd1"
+        },
+        {
+          "name": "CLASICOS (FHD) (New Era)",
+          "info": "0c0c",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://cf6ffdfa3c51268c0bd216da6b275fb866160c0c"
+        },
+        {
+          "name": "COCINA (FHD) (Shickat)",
+          "info": "fbb3",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://db81615f1b2eebaf584edc252ddd73883123fbb3"
+        },
+        {
+          "name": "COCINA (FHD) (New Era)",
+          "info": "849b",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://96f092e1fa99062f6da14cae230b877ad3ed849b"
+        },
+        {
+          "name": "MOVISTAR NATIONAL GEOGRAPHIC (FHD) (Shickat)",
+          "info": "dfff",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://55230a7a3cc4e8dfd3cecbfb2d68266aa4e5dfff"
+        },
+        {
+          "name": "NATIONAL GEOGRAPHIC WILD (FHD) (Shickat)",
+          "info": "6d00",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://51d0b5249e229a07ecc52286f56a67c3d9df6d00"
+        },
+        {
+          "name": "PESCA Y CAZA (FHD) (Shickat)",
+          "info": "e10f",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://6f28b1b9eb9f4047a6179b300e65b03c8316e10f"
+        },
+        {
+          "name": "ONE TORO (FHD) (Shickat)",
+          "info": "43c0",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://1fd3dbb7d39de875ac70059d70c8768d4a2e43c0"
         }
       ]
     },
@@ -1827,6 +1833,7 @@
 
   ]
 }
+
 
 
 
