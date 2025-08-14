@@ -363,12 +363,6 @@
           "url": "acestream://709075831bf5c41ed0a20dfbd640aab6c28971f8"
         },
         {
-          "name": "LaLiga HyperMotion 2 (720)(Elcano)",
-          "info": "[SIN EMISION]",
-          "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-          "url": "acestream://"
-        },
-        {
           "name": "LaLiga HyperMotion 3 (Elcano)",
           "info": "724e",
           "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
@@ -1833,6 +1827,7 @@
 
   ]
 }
+
 
 
 
