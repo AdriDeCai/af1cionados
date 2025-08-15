@@ -9,13 +9,13 @@
 "stations":
     [
 
-	{
+		{
         "name": "10 VIDAS",
         "image": "https://pics.filmaffinity.com/10_lives-671616032-large.jpg",
         "url": "https://filemoon.to/d/0qj3tgz5h6fz/10_vidas__2024__Pelicula_infantil_espa_ol.mp4",
         "info": "2024",
-	"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-	"referer": "",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
         "embed":"",
         "isHost":"true",
         "online":"true",
@@ -1507,12 +1507,24 @@
         "image": "https://pics.filmaffinity.com/goldbeak-994534069-large.jpg",
         "url": "https://listeamed.net/v/4bQVOj3Q1Gm5wKm",
        	"info": "2023",
-	"userAgent":"PlusMediaPlayer/0.0.9",
+		"userAgent":"PlusMediaPlayer/0.0.9",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
        	"import": false
        	},
+		{
+        "name": "PITUFOS, LOS",
+        "image": "https://pics.filmaffinity.com/smurfs-178339408-large.jpg",
+        "url": "https://filemoon.to/d/05fa7vmw0gwk/Pitufos__2025__Pelicula.mp4",
+        "info": "[2025]",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
 	{
        	"name": "POLAR EXPRESS, THE",
         "image": "https://pics.filmaffinity.com/the_polar_express-375183738-large.jpg",
@@ -2261,6 +2273,7 @@
 
     ]
 }  
+
 
 
 
