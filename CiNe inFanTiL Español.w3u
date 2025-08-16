@@ -1845,17 +1845,29 @@
        	"online":"true",
        	"import": false
 	},
-	{
-	"name": "SNOOPY PRESENTA LA UNICA E INIGUALABLE MARCIE",
+		{
+		"name": "SNOOPY PRESENTA: LA UNICA E INIGUALABLE MARCIE",
        	"image": "https://pics.filmaffinity.com/snoopy_presents_one_of_a_kind_marcie-532086648-large.jpg",
-       	"url": "https://upstream.to/t1o3awvjyl63",
-	"info": "2023",
-	"embed": "",
-	"isHost": "true",
-	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"url": "",
+		"info": "[2023][]",
+		"embed": "",
+		"isHost": "true",
+		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
        	"import": false
        	},
+		{
+        "name": "SNOOPY PRESENTA: UN MUSICAL DE VERANO",
+        "image": "https://pics.filmaffinity.com/snoopy_presents_a_summer_musical-505107405-large.jpg",
+        "url": "https://filemoon.to/d/2s996dtkgnu7/Snoopy_presenta_Un_musical_veraniego",
+        "info": "[2025][Animación Familia Musical]",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
 	{ 
 	"name": "SONIC, LA PELICULA",
 	"info": "2020",
@@ -2273,6 +2285,7 @@
 
     ]
 }  
+
 
 
 
