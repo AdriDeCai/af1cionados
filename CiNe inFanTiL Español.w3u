@@ -48,8 +48,8 @@
 	{
        	"name": "ADAM SANDLER ES LEO",
         "image": "https://pics.filmaffinity.com/leo-530546739-large.jpg",
-        "url": "https://upstream.to/097t56vhjstg",
-       	"info": "2023",
+        "url": "",
+       	"info": "[2023]",
 	"userAgent":"PlusMediaPlayer/0.0.9",
 	"referer": "",
         "embed":"",
@@ -71,9 +71,9 @@
         },
 	{ 
 	"name": "ANGRY BIRDS, LA PELICULA", 
-	"info": "2012",
+	"info": "[2012]",
 	"image": "https://i.postimg.cc/d3zqwT3F/Angry-Birds-2012-Pelicula-infantil.jpg", 
-	"url": "https://upstream.to/cpgfitsgdood",
+	"url": "",
       	"userAgent": "PlusMediaPlayer/0.0.9",
         "embed":"",
         "isHost":"true",
@@ -82,9 +82,9 @@
 	},
 	{ 
 	"name": "ANGRY BIRDS 2", 
-	"info": "2019",
+	"info": "[2019]",
 	"image": "https://i.postimg.cc/cLgMTvVS/Angry-Birds-2-2019-Pelicula-infantil.jpg", 
-	"url": "https://upstream.to/o8a7ip0xwl2y",
+	"url": "",
       	"userAgent": "PlusMediaPlayer/0.0.9",
         "embed":"",
         "isHost":"true",
@@ -94,8 +94,8 @@
         {
         "name": "ASOMBROSO MAURICIO, EL",
         "image": "https://pics.filmaffinity.com/the_amazing_maurice-509934440-large.jpg",
-        "url": "https://upstream.to/mvkk9wjr5ojc",
-        "info": "2022",
+        "url": "",
+        "info": "[2022]",
       	"userAgent": "PlusMediaPlayer/0.0.9",
         "embed":"",
         "isHost":"true",
@@ -2285,6 +2285,7 @@
 
     ]
 }  
+
 
 
 
