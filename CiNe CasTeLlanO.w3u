@@ -5508,6 +5508,18 @@
       "online": "true"
     },
     {
+      "name": "MARIA CALLAS",
+      "image": "https://pics.filmaffinity.com/maria-737620340-large.jpg",
+      "url": "https://filemoon.to/d/12k7be2eujrv/Mar_a_Callas_Online",
+      "info": "[2024][Drama]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
       "name": "MARI-DOS",
       "info": "2023",
       "image": "https://i.postimg.cc/qM0wfwb5/Mari-dos-119061049-large.jpg",
@@ -8756,6 +8768,18 @@
       "import": false
     },
     {
+      "name": "VENGANZA IMPLACABLE",
+      "image": "https://pics.filmaffinity.com/striking_rescue-249639605-large.jpg",
+      "url": "https://filemoon.to/d/mf9bldaqmd6o/Venganza_implacable",
+      "info": "[2024][Acción Crimen Suspenso]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
       "name": "VENUS Y SERENA, LA REVOLUCION EN LA PISTA",
       "image": "https://pics.filmaffinity.com/venus_serena_ces_icones_que_l_amerique_ne_voulait_pas_voir-200430496-large.jpg",
       "url": "https://upstream.to/mwo4769rgv7u",
@@ -9153,6 +9177,7 @@
 
   ]
 }
+
 
 
 
