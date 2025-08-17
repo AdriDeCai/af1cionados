@@ -3,7 +3,7 @@
 "name": "CORREDOR DEL LABERINTO",
 "image": "https://i.postimg.cc/vBBCNWHH/El-Corredor-del-Laberinto-I-2014-Pelicula.jpg",
 "url": "https://af1cionados.vercel.app/saga%20CORREDOR%20DEL%20LABERINTO.w3u",
-"info": "bY AdriDeCai",
+"info": "bY Af1cionados",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": "@YIsus_mEx",
 "stations":
@@ -12,15 +12,17 @@
     {
       "name": "CORREDOR DEL LABERINTO, EL",
       "image": "https://i.postimg.cc/vBBCNWHH/El-Corredor-del-Laberinto-I-2014-Pelicula.jpg",
-      "url": "https://upstream.to/6krxs3ms5frd",
+      "url": "https://filemoon.to/d/c9lre67ey6l3/El_corredor_del_laberinto",
       "info": "[Español 2014]",
+        "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "isHost": "true",
       "online": "true"
     },
     {
       "name": "CORREDOR DEL LABERINTO 2, EL",
       "image": "https://i.postimg.cc/qBcZxbGX/El-Corredor-del-laberinto-2-2015-Pelicula.jpg",
-      "url": "https://upstream.to/4kuou0q3wedc",
+      "url": "https://filemoon.to/d/oxf9m4ac6mpg/El_corredor_del_laberinto_Scorch_Trials",
+        "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "info": "[Español 2015]",
       "isHost": "true",
       "online": "true"
@@ -28,11 +30,13 @@
     {
       "name": "CORREDOR DEL LABERINTO 3, EL",
       "image": "https://i.postimg.cc/5y9533xn/El-Corredor-del-Laberinto-3-2018-Pelicula.jpg",
-      "url": "https://upstream.to/e1cifk3oidig",
-      "info": "[Español 2023]",
+      "url": "https://filemoon.to/d/cnlnj0trv2n0/El_corredor_del_laberinto_La_cura_mortal",
+        "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "info": "[Español 2018]",
       "isHost": "true",
       "online": "true"
     }
 
 ]
 }
+
