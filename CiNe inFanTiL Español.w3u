@@ -1858,9 +1858,53 @@
        	"import": false
 	},
 		{
+		"name": "SNOOPY PRESENTA: POR LOS VIEJOS TIEMPOS",
+       	"image": "https://pics.filmaffinity.com/for_auld_lang_syne-695377456-large.jpg",
+       	"url": "https://filemoon.to/d/axe4wmlicb8h/Snoopy_Presenta_Por_Los_Viejos_Tiempos",
+		"info": "[2021][]",
+		"embed": "",
+		"isHost": "true",
+		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+       	"import": false
+       	},
+		{
+		"name": "SNOOPY PRESENTA: SON LAS PEQUEÑAS COSAS, CARLITOS",
+       	"image": "https://pics.filmaffinity.com/it_s_the_small_things_charlie_brown-943102163-large.jpg",
+       	"url": "https://filemoon.to/d/njwfl62qtvjw/Snoopy_presenta_son_las_peque_as_cosas_Carlitos",
+		"info": "[2022][]",
+		"embed": "",
+		"isHost": "true",
+		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+       	"import": false
+       	},
+		{
+		"name": "SNOOPY PRESENTA: PARA MAMA (Y PAPA) CON AMOR",
+       	"image": "https://pics.filmaffinity.com/to_mom_and_dad_with_love-159476049-large.jpg",
+       	"url": "https://filemoon.to/d/ibrygkejueov/Snoopy_presenta_para_mam__y_pap__con_amor",
+		"info": "[2022][]",
+		"embed": "",
+		"isHost": "true",
+		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+       	"import": false
+       	},
+		{
+		"name": "SNOOPY PRESENTA: EL COLE DE LUCY",
+       	"image": "https://pics.filmaffinity.com/peanuts_lucy_s_school-692476070-large.jpg",
+       	"url": "https://filemoon.to/d/ct9s3gm1sm8r/Snoopy_presenta_El_cole_de_Lucy",
+		"info": "[2022][]",
+		"embed": "",
+		"isHost": "true",
+		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+       	"import": false
+       	},
+		{
 		"name": "SNOOPY PRESENTA: LA UNICA E INIGUALABLE MARCIE",
        	"image": "https://pics.filmaffinity.com/snoopy_presents_one_of_a_kind_marcie-532086648-large.jpg",
-       	"url": "",
+       	"url": "https://filemoon.to/d/5tlt1fy3u5p3/Snoopy_presenta_La__nica_e_inigualable_Marcie",
 		"info": "[2023][]",
 		"embed": "",
 		"isHost": "true",
@@ -2297,6 +2341,7 @@
 
     ]
 }  
+
 
 
 
