@@ -801,7 +801,7 @@
 
     {
       "name": "RED BULL RING - SPIELBERG (AUSTRIA)",
-      "image": "ttps://i.postimg.cc/KvbWzYhr/Bandera-Austria.jpg",
+      "image": "https://i.postimg.cc/KvbWzYhr/Bandera-Austria.jpg",
       "imageScale": "",
       "info": "ROUND 13",
       "stations": 
@@ -809,7 +809,7 @@
         {
           "name": "Sprint MotoGP Austria 2025",
           "info": "[16/08/2025]",
-          "image": "ttps://i.postimg.cc/Wzg3Hzcf/motogp-sprint.png",
+          "image": "https://i.postimg.cc/Wzg3Hzcf/motogp-sprint.png",
           "url": "https://pixeldrain.com/u/HWYNPsgG",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
@@ -836,7 +836,7 @@
         {
           "name": "Carrera MotoGP Austria 2025",
           "info": "[17/08/2025]",
-          "image": "ttps://i.postimg.cc/Y0MKtCmP/motogp-logo.png",
+          "image": "https://i.postimg.cc/Y0MKtCmP/motogp-logo.png",
           "url": "https://pixeldrain.com/u/tg5szesA",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
@@ -845,8 +845,8 @@
         {
           "name": "Post MotoGP Austria 2025",
           "info": "[17/08/2025]",
-          "image": "ttps://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
-          "url": "",
+          "image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+          "url": "https://pixeldrain.com/u/eipHNLaW",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
           "online": "true"
