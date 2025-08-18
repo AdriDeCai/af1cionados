@@ -739,7 +739,7 @@
       "name": "AUTODROMO BRNO (CHEQUIA)",
       "image": "https://i.postimg.cc/nL79fr8W/Bandera-Chequia.png",
       "imageScale": "",
-      "info": "ROUND 12",
+      "info": "[ROUND 12]",
       "stations": 
       [
         {
@@ -803,7 +803,7 @@
       "name": "RED BULL RING - SPIELBERG (AUSTRIA)",
       "image": "https://i.postimg.cc/KvbWzYhr/Bandera-Austria.jpg",
       "imageScale": "",
-      "info": "ROUND 13",
+      "info": "[ROUND 13]",
       "stations": 
       [
         {
@@ -811,25 +811,25 @@
           "info": "[16/08/2025]",
           "image": "https://i.postimg.cc/Wzg3Hzcf/motogp-sprint.png",
           "url": "https://pixeldrain.com/u/HWYNPsgG",
-          "userAgent": "PlusMediaPlayer/0.0.9",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "isHost": "true",
           "online": "true"
         },
         {
           "name": "Carrera Moto3 Austria 2025",
           "info": "[17/08/2025]",
-          "image": "ttps://i.postimg.cc/1zXzZJZF/moto3.png",
-          "url": "",
-          "userAgent": "PlusMediaPlayer/0.0.9",
+          "image": "https://i.postimg.cc/1zXzZJZF/moto3.png",
+          "url": "https://pixeldrain.com/u/LsishArX",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "isHost": "true",
           "online": "true"
         },
         {
           "name": "Carrera Moto2 Austria 2025",
           "info": "[17/08/2025]",
-          "image": "ttps://i.postimg.cc/kgpmWCkV/moto2.png",
-          "url": "",
-          "userAgent": "PlusMediaPlayer/0.0.9",
+          "image": "https://i.postimg.cc/kgpmWCkV/moto2.png",
+          "url": "https://pixeldrain.com/u/XPmHJkNz",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "isHost": "true",
           "online": "true"
         },
@@ -838,7 +838,7 @@
           "info": "[17/08/2025]",
           "image": "https://i.postimg.cc/Y0MKtCmP/motogp-logo.png",
           "url": "https://pixeldrain.com/u/tg5szesA",
-          "userAgent": "PlusMediaPlayer/0.0.9",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "isHost": "true",
           "online": "true"
         },
@@ -846,7 +846,7 @@
           "name": "Post MotoGP Austria 2025",
           "info": "[17/08/2025]",
           "image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
-          "url": "https://pixeldrain.com/u/eipHNLaW",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
           "online": "true"
@@ -856,7 +856,7 @@
           "info": "[18/08/2025]",
           "image": "ttps://i.postimg.cc/Y0MKtCmP/motogp-logo.png",
           "url": "",
-          "userAgent": "PlusMediaPlayer/0.0.9",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "isHost": "true",
           "online": "true"
         }
@@ -867,7 +867,7 @@
       "name": "BALATON PARK (HUNGRIA)",
       "image": "ttps://i.postimg.cc/CLfJBSWD/bandera-de-Hungria-768x480.jpg",
       "imageScale": "",
-      "info": "ROUND 14",
+      "info": "[ROUND 14]",
       "stations": 
       [
         {
@@ -875,7 +875,7 @@
           "info": "[23/08/2025]",
           "image": "ttps://i.postimg.cc/Wzg3Hzcf/motogp-sprint.png",
           "url": "",
-          "userAgent": "PlusMediaPlayer/0.0.9",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "isHost": "true",
           "online": "true"
         },
@@ -884,7 +884,7 @@
           "info": "[24/08/2025]",
           "image": "ttps://i.postimg.cc/1zXzZJZF/moto3.png",
           "url": "",
-          "userAgent": "PlusMediaPlayer/0.0.9",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "isHost": "true",
           "online": "true"
         },
@@ -893,7 +893,7 @@
           "info": "[24/08/2025]",
           "image": "ttps://i.postimg.cc/kgpmWCkV/moto2.png",
           "url": "",
-          "userAgent": "PlusMediaPlayer/0.0.9",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "isHost": "true",
           "online": "true"
         },
@@ -902,7 +902,7 @@
           "info": "[24/08/2025]",
           "image": "ttps://i.postimg.cc/Y0MKtCmP/motogp-logo.png",
           "url": "",
-          "userAgent": "PlusMediaPlayer/0.0.9",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "isHost": "true",
           "online": "true"
         },
@@ -911,7 +911,7 @@
           "info": "[24/08/2025]",
           "image": "ttps://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
           "url": "",
-          "userAgent": "PlusMediaPlayer/0.0.9",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "isHost": "true",
           "online": "true"
         },
@@ -920,7 +920,7 @@
           "info": "[25/08/2025]",
           "image": "ttps://i.postimg.cc/Y0MKtCmP/motogp-logo.png",
           "url": "",
-          "userAgent": "PlusMediaPlayer/0.0.9",
+          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "isHost": "true",
           "online": "true"
         }
