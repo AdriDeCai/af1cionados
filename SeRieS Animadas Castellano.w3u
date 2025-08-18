@@ -118,6 +118,12 @@
 	"info": "bY AdriDeCai"
 	},
 	{
+	"name": "TROLLHUNTERS: CUENTOS DE ARCADIA",
+	"image": "https://pics.filmaffinity.com/trollhunters_tales_of_arcadia-495797669-large.jpg",
+	"url": "https://raw.githubusercontent.com/AdriDeCai/series-animadas/refs/heads/main/serie%20animada%20TrollHunters.w3u",
+	"info": "bY Af1cionados",
+	},
+	{
 	"name": "VUELTA AL MUNDO DE WILLY FOGG",
 	"image": "https://pics.filmaffinity.com/la_vuelta_al_mundo_de_willy_fog-762617729-large.jpg",
 	"url": "https://af1cionados.vercel.app/serie WILLY FOGG.w3u",
@@ -126,3 +132,4 @@
 
 	]
 }
+
