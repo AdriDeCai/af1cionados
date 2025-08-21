@@ -1091,23 +1091,11 @@
       "online": "true"
     },
     {
-      "name": "BALLERINA (TS-Screener Español)",
+      "name": "BALLERINA",
       "image": "https://pics.filmaffinity.com/from_the_world_of_john_wick_ballerina-660408782-large.jpg",
-      "url": "https://filemoon.to/d/9hv29ggf7jya/Ver_Ballerina_Online_Castellano_2025_Pelicula_TS-Screener_-_HDFull.mp4",
+      "url": "https://filemoon.to/d/w83rxm73ykfs/Ballerina",
       "info": "2025",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "embed": "",
-      "referer": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "BALLERINA (Latino 1080 P)",
-      "image": "https://pics.filmaffinity.com/from_the_world_of_john_wick_ballerina-660408782-large.jpg",
-      "url": "https://filemoon.to/d/k4507kq36a64/Ver_Ballerina_Online_Latino_2025_Pelicula_-_HDFull.mp4",
-      "info": "2025",
-      "userAgent": "PlusMediaPlayer/0.0.9",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "",
       "referer": "",
       "isHost": "true",
@@ -9189,6 +9177,7 @@
 
   ]
 }
+
 
 
 
