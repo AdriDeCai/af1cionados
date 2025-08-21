@@ -177,7 +177,82 @@
        	"import": false
        	}
 	]
+	},
+
+	{	
+	"name": "TEMPORADA 3",
+	"image": "https://pics.filmaffinity.com/muertos_s_l-497350368-large.jpg",
+	"stations":
+	[
+	{
+	"name": "CAPITULO 1",
+        "image": "https://pics.filmaffinity.com/muertos_s_l-497350368-large.jpg",
+        "url": "https://filemoon.to/d/ov57lmpsgr8a/Muertos_S_L__3x1",
+       	"info": "[Español 2025]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 2",
+        "image": "https://pics.filmaffinity.com/muertos_s_l-497350368-large.jpg",
+        "url": "https://filemoon.to/d/tlc6w0td199v/Muertos_S_L__3x2",
+       	"info": "[Español 2025]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 3",
+        "image": "https://pics.filmaffinity.com/muertos_s_l-497350368-large.jpg",
+        "url": "https://filemoon.to/d/cms43ruoyqwi/Muertos_S_L__3x3",
+       	"info": "[Español 2025]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 4",
+        "image": "https://pics.filmaffinity.com/muertos_s_l-497350368-large.jpg",
+        "url": "https://filemoon.to/d/84rq80v2m85a/Muertos_S_L__3x4",
+       	"info": "[Español 2025]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 5",
+        "image": "https://pics.filmaffinity.com/muertos_s_l-497350368-large.jpg",
+        "url": "https://filemoon.to/d/soyioj6ddo7m/Muertos_S_L__3x5",
+       	"info": "[Español 2025]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "CAPITULO 6",
+        "image": "https://pics.filmaffinity.com/muertos_s_l-497350368-large.jpg",
+        "url": "https://filemoon.to/d/5qwf76hiz9d9/Muertos_S_L__3x6",
+       	"info": "[Español 2025]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+	]
 	}
 
 ]
 }
+
