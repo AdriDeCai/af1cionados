@@ -1440,6 +1440,18 @@
       "isHost": "true",
       "online": "true"
     },
+		{
+        "name": "BUENOS DIAS, TRISTEZA",
+        "image": "https://pics.filmaffinity.com/bonjour_tristesse-539282657-large.jpg",
+        "url": "https://filemoon.to/d/kmuodlwuz3g6/Buenos_d_as_tristeza",
+        "info": "[2025]",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
     {
       "name": "BURDELES DE PAPRIKA, LOS",
       "image": "https://i.postimg.cc/RCy7gXfT/IMG-20241128-182643-774.jpg",
@@ -1700,17 +1712,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-    {
-      "name": "CASA EN LLAMAS, LA",
-      "image": "https://pics.filmaffinity.com/casa_en_flames-906244724-large.jpg",
-      "url": "https://filemoon.to/d/q0d1cn59sqhb",
-      "info": "2024",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
+		{
+        "name": "CASOPLON, EL",
+        "image": "https://pics.filmaffinity.com/el_casoplon-993095418-large.jpg",
+        "url": "https://filemoon.to/d/nbr08kq98v00/El_casopl_n",
+        "info": "[2025]",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
     {
       "name": "CASSANDRO",
       "info": "2023",
@@ -2078,6 +2091,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+		{
+        "name": "CONDUCTORA,LA",
+        "image": "https://pics.filmaffinity.com/eenie_meanie-239369742-large.jpg",
+        "url": "https://filemoon.to/d/3yw3jruv2hp4/La_conductora",
+        "info": "[2025]",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
     {
       "name": "CONFERENCIA, LA",
       "image": "https://pics.filmaffinity.com/konferensen-935767501-large.jpg",
@@ -4192,6 +4217,18 @@
       "online": "true",
       "import": false
     },
+		{
+        "name": "HOMBRE ABANDONADO, UN",
+        "image": "https://pics.filmaffinity.com/metruk_adam-525556267-large.jpg",
+        "url": "https://filemoon.to/d/62qx2rzsxunc/Un_hombre_abandonado",
+        "info": "[2025]",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
     {
       "name": "HOMBRE ARAÑA 3, EL",
       "image": "https://pics.filmaffinity.com/spider_man_3_spiderman_3-381165300-mmed.jpg",
@@ -7893,6 +7930,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+		{
+        "name": "SISTEMA VICTORIA, EL",
+        "image": "https://pics.filmaffinity.com/le_systeme_victoria-564425681-large.jpg",
+        "url": "https://filemoon.to/d/c7nc8xxugkaq/El_sistema_Victoria",
+        "info": "[2025]",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
     {
       "name": "SIZU",
       "info": "2023",
@@ -9249,6 +9298,7 @@
 
   ]
 }
+
 
 
 
