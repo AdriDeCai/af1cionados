@@ -443,6 +443,18 @@
         "online":"true",
         "import": false
 	},
+		{
+        "name": "ELIO",
+        "image": "https://pics.filmaffinity.com/elio-639250511-large.jpg",
+        "url": "https://filemoon.to/d/qrfkt7seauh3/Elio",
+        "info": "[2025]",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
 	{
 	"name": "ENCANTO",
 	"info": "2021",
@@ -968,6 +980,18 @@
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
+		{
+        "name": "LEGO, PRINCESAS DISNEY. VILLANOS UNIDOS",
+        "image": "https://pics.filmaffinity.com/lego_disney_princess_villains_unite-892104297-large.jpg",
+        "url": "https://filemoon.to/d/7z1ajpglv7r5/LEGO_Princesas_Disney_Villanos_unidos",
+        "info": "[2025]",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
 	{
         "name": "LIGHTYEAR",
         "info":"2022",
@@ -2364,6 +2388,7 @@
 
     ]
 }  
+
 
 
 
