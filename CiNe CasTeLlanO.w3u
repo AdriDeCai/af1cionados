@@ -26,7 +26,7 @@
       "referer": "",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "import": false
     },
     {
@@ -2463,6 +2463,18 @@
       "import": false
     },
     {
+      "name": "DC DOWN",
+      "image": "https://pics.filmaffinity.com/dc_down-419028102-large.jpg",
+      "url": "https://filemoon.to/d/bm615h5zylnc/D_C__Down",
+      "info": "[2023]",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "import": false
+    },
+    {
       "name": "DE AMOR Y MONSTRUOS",
       "image": "https://pics.filmaffinity.com/love_and_monsters-679208225-large.jpg",
       "url": "https://filemoon.to/d/3x8txh7iq0y5/De_amor_y_monstruos_2021.mkv",
@@ -4255,8 +4267,8 @@
     {
       "name": "HOMBRE LOBO",
       "image": "https://i.postimg.cc/mgcqVMwK/IMG-20250410-214704-134.jpg",
-      "url": "https://filemoon.to/d/pbi0ersm0zmq",
-      "info": "2025",
+      "url": "https://filemoon.to/d/g991ixszidzw/Hombre_lobo",
+      "info": "[2025]",
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "",
       "referer": "",
@@ -8533,6 +8545,18 @@
       "import": false
     },
     {
+      "name": "TIERRA DE NADIE",
+      "image": "https://pics.filmaffinity.com/tierra_de_nadie-522743455-large.jpg",
+      "url": "https://filemoon.to/d/33nm4ljgokzd/Tierra_de_nadie",
+      "info": "[2025]",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "import": false
+    },
+    {
       "name": "TIERRAS PERDIDAS",
       "image": "https://pics.filmaffinity.com/in_the_lost_lands-308607124-large.jpg",
       "url": "https://filemoon.to/d/bopqfeoa4wly/Tierras_perdidas__2025__Pelicula_Castellano.mp4",
@@ -9298,6 +9322,7 @@
 
   ]
 }
+
 
 
 
