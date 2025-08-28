@@ -1466,6 +1466,18 @@
       "import": false
     },
     {
+      "name": "BURIED (ENTERRADO)",
+      "image": "https://pics.filmaffinity.com/buried-749109694-large.jpg",
+      "url": "https://filemoon.to/d/5hu8ign04nfj/Buried__Enterrado__2010_Pelicula_castellano.mp4",
+      "info": "[2010]",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "import": false
+    },
+    {
       "name": "BURT MUNRO, UN SUEÑO UNA LEYENDA",
       "info": "2005",
       "image": "https://pics.filmaffinity.com/Burt_Munro_Un_sueano_una_leyenda-825421915-large.jpg",
@@ -1928,6 +1940,18 @@
       "referer": "",
       "isHost": "true",
       "online": "true",
+      "import": false
+    },
+    {
+      "name": "CLUB DEL CRIMEN DE LOS JUEVES",
+      "image": "https://pics.filmaffinity.com/the_thursday_murder_club-887366996-large.jpg",
+      "url": "https://filemoon.to/d/42wq3dyxwc70/El_club_del_crimen_de_los_jueves__2025__Pelicula_castellano.mp4",
+      "info": "[2025]",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "import": false
     },
     {
@@ -3581,6 +3605,18 @@
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "FORMULA 1: LA PELICULA",
+      "image": "https://pics.filmaffinity.com/f1_the_movie-603739796-large.jpg",
+      "url": "https://filemoon.to/d/owmzb74hcqp7/Formula_1_La_Pel_cula__2025__Peliculla_castellano.mp4",
+      "info": "[2025]",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "import": false
     },
     {
@@ -9348,6 +9384,7 @@
 
   ]
 }
+
 
 
 
