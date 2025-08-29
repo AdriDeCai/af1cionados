@@ -3228,6 +3228,18 @@
       "import": false
     },
     {
+      "name": "ENEMIGOS",
+      "image": "https://pics.filmaffinity.com/enemigos-290329508-large.jpg",
+      "url": "https://filemoon.to/d/1r3vvhjst7vb/Enemigos",
+      "info": "[2025][Drama]",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "import": false
+    },
+    {
       "name": "ENMASCARADO",
       "image": "https://pics.filmaffinity.com/the_masked_scammer-852615862-large.jpg",
       "url": "https://upstream.to/m1lrjvfv2buf",
@@ -4579,6 +4591,18 @@
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "INSUMERGIBLE",
+      "image": "https://pics.filmaffinity.com/unsinkable-301189801-large.jpg",
+      "url": "https://filemoon.to/d/xc1s1pwrf8s4/Insumergible",
+      "info": "[2024][Drama]",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "import": false
     },
     {
@@ -9384,6 +9408,7 @@
 
   ]
 }
+
 
 
 
