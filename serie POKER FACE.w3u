@@ -6,12 +6,18 @@
 "image": "https://images3.alphacoders.com/595/595865.jpg",
 "telegram": "@yIsus_mEx",
 "info": "",
+"groups":
+[
+
+{
+"name": "TERMPORADA 1",
+"image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
 "stations":
-	[
+[
 	       {
  	       	"name": "La mano del muerto",
 	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
-	        "url": "https://upstream.to/b9ccuw60sctc",
+	        "url": "https://filemoon.to/d/n20ocmkjy2r8/Poker_Face_1x01",
         	"info": "1X01",
         	"embed": "",
         	"isHost": "true",
@@ -22,7 +28,7 @@
 	       {
  	       	"name": "El turno noche",
 	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
-	        "url": "https://upstream.to/i2l86o4zri4s",
+	        "url": "https://filemoon.to/d/p6wf0nzanrjy/Poker_Face_1x02",
         	"info": "1X02",
         	"embed": "",
         	"isHost": "true",
@@ -33,7 +39,7 @@
 	       {
  	       	"name": "El establo",
 	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
-	        "url": "https://upstream.to/o9iqofxmnp9c",
+	        "url": "https://filemoon.to/d/kmuvknnma2w8/Poker_Face_1x03",
         	"info": "1X03",
         	"embed": "",
         	"isHost": "true",
@@ -44,7 +50,7 @@
 	       {
  	       	"name": "Descanso en Metal",
 	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
-	        "url": "https://upstream.to/svqopqwp1089",
+	        "url": "https://filemoon.to/d/rg60pd9pxako/Poker_Face_1x04",
         	"info": "1X04",
         	"embed": "",
         	"isHost": "true",
@@ -55,7 +61,7 @@
 	       {
  	       	"name": "El tiempo del mono",
 	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
-	        "url": "https://upstream.to/dwddt98v99z2",
+	        "url": "https://filemoon.to/d/w4o258j62zn5/Poker_Face_1x05",
         	"info": "1X05",
         	"embed": "",
         	"isHost": "true",
@@ -66,7 +72,7 @@
 	       {
  	       	"name": "Salir del escenario muerto",
 	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
-	        "url": "https://upstream.to/8wn9jybb1ox0",
+	        "url": "https://filemoon.to/d/an1wlno8868u/Poker_face_1x06",
         	"info": "1X06",
         	"embed": "",
         	"isHost": "true",
@@ -77,7 +83,7 @@
 	       {
  	       	"name": "El futuro del deporte",
 	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
-	        "url": "https://upstream.to/07w7by1qvhtm",
+	        "url": "https://filemoon.to/d/emuzp8cgwtrx/Poker_face_1x07",
         	"info": "1X07",
         	"embed": "",
         	"isHost": "true",
@@ -88,7 +94,7 @@
 	       {
  	       	"name": "El síndrome de Orfeo",
 	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
-	        "url": "https://gamovideo.com/zszfj7lpmxcd",
+	        "url": "https://filemoon.to/d/t8bzs8vgfcur/Poker_face_1x08",
         	"info": "1X08",
         	"embed": "",
         	"isHost": "true",
@@ -99,7 +105,7 @@
 	       {
  	       	"name": "Escapar de la montaña de mierda",
 	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
-	        "url": "https://gamovideo.com/nqglr2tx2o3a",
+	        "url": "https://filemoon.to/d/2v9fs36ht9ra/Poker_face_1x09",
         	"info": "1X09",
         	"embed": "",
         	"isHost": "true",
@@ -110,7 +116,7 @@
 	       {
  	       	"name": "El gancho",
 	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
-	        "url": "https://gamovideo.com/f8l19p43d0j3",
+	        "url": "",
         	"info": "1X10",
         	"embed": "",
         	"isHost": "true",
@@ -118,7 +124,158 @@
 			"userAgent":"PlusMediaPlayer/0.0.9",
         	"import": false
         	}
+]
+},
 
+{
+"name": "TERMPORADA 2",
+"image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
+"stations":
+[
+	       {
+ 	       	"name": "cAPITULO 1",
+	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
+	        "url": "https://filemoon.to/d/stqg14i4jkpr/Poker_Face_2x01",
+        	"info": "",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "cAPITULO 2",
+	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
+	        "url": "https://filemoon.to/d/jewf24hl7nv7/Poker_Face_2x02",
+        	"info": "",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
 
-	]
+	       {
+ 	       	"name": "cAPITULO 3",
+	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
+	        "url": "https://filemoon.to/d/3bo4c0nyezyt/Poker_Face_2x03",
+        	"info": "",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "cAPITULO 4",
+	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
+	        "url": "https://filemoon.to/d/zjdquhu8su18/Poker_Face_2x04",
+        	"info": "",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+
+	       {
+ 	       	"name": "cAPITULO 5",
+	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
+	        "url": "https://filemoon.to/d/ta583mpb3lnl/Poker_Face_2x05",
+        	"info": "",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "cAPITULO 6",
+	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
+	        "url": "https://filemoon.to/d/6njgo65xx8gg/Poker_Face_2x06",
+        	"info": "",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+
+	       {
+ 	       	"name": "cAPITULO 7",
+	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
+	        "url": "https://filemoon.to/d/hdpjnj9l5f4t/Poker_Face_2x07",
+        	"info": "",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "cAPITULO 8",
+	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
+	        "url": "https://filemoon.to/d/oqnwc9sb9051/Poker_Face_2x08",
+        	"info": "",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+
+	       {
+ 	       	"name": "cAPITULO 9",
+	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
+	        "url": "https://filemoon.to/d/wyj2z3uwr4tn/Poker_Face_2x09",
+        	"info": "",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "cAPITULO 10",
+	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
+	        "url": "",
+        	"info": "",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+
+	       {
+ 	       	"name": "cAPITULO 11",
+	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
+	        "url": "",
+        	"info": "",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent":"PlusMediaPlayer/0.0.9",
+        	"import": false
+        	},
+	       {
+ 	       	"name": "cAPITULO 12",
+	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
+	        "url": "",
+        	"info": "",
+        	"embed": "",
+        	"isHost": "true",
+        	"online": "true",
+			"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        	"import": false
+        	}
+]
 }
+
+
+]
+}
+
+
+
+
