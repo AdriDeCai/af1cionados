@@ -9225,22 +9225,33 @@
       "name": "WANTED MAN",
       "image": "https://pics.filmaffinity.com/wanted_man-382746509-large.jpg",
       "url": "https://filemoon.to/d/ee7ekpqhz696/Wanted_man_2024_Pelicula.mp4",
-      "info": "2024",
+      "info": "[2024]",
       "embed": "",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "import": false
     },
     {
       "name": "WARFARE. TIEMPO DE GUERRA",
       "image": "https://pics.filmaffinity.com/warfare-534208810-large.jpg",
       "url": "https://filemoon.to/d/qc18yjjbrmt7",
-      "info": "2025",
+      "info": "[2025]",
       "embed": "",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "import": false
+    },
+    {
+      "name": "WEAPONS",
+      "image": "https://pics.filmaffinity.com/weapons-367021125-large.jpg",
+      "url": "https://filemoon.to/d/hf3dfhuis8at/Weapons",
+      "info": "[2025][Misterio-Terror]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "import": false
     },
     {
@@ -9251,7 +9262,7 @@
       "embed": "",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "import": false
     },
     {
@@ -9262,7 +9273,7 @@
       "embed": "",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "import": false
     },
     {
@@ -9272,7 +9283,8 @@
       "info": "[2018][MultiAudio]",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "import": false
     },
     {
       "name": "WISH, EL PODER DE LOS DIOSES",
@@ -9282,7 +9294,7 @@
       "embed": "",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "import": false
     },
     {
@@ -9293,17 +9305,7 @@
       "embed": "",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "WINNIE THE POOH, MIEL Y SANGRE",
-      "info": "2023",
-      "image": "https://i.postimg.cc/cJ198KHm/photo-2023-10-16-11-04-31.jpg",
-      "url": "https://upstream.to/gmfy95jgbd3n",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "import": false
     },
     {
@@ -9311,7 +9313,7 @@
       "image": "https://pics.filmaffinity.com/the_wizard_of_lies-638307721-large.jpg",
       "url": "https://listeamed.net/v/edVqE4MgwADOYWm",
       "info": "2017",
-      "userAgent": "PlusMediaPlayer/0.0.9",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "",
       "isHost": "true",
       "online": "true",
@@ -9325,7 +9327,7 @@
       "embed": "",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "import": false
     },
     {
@@ -9333,32 +9335,10 @@
       "info": "2023",
       "image": "https://pics.filmaffinity.com/wonka-476523968-large.jpg",
       "url": "https://filemoon.to/d/vjydoza62h95/Wonka__2023_Pelicula_.mp4",
-      "userAgent": "PlusMediaPlayer/0.0.9",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "",
       "isHost": "true",
       "online": "true",
-      "import": false
-    },
-    {
-      "name": "Y EL RUGBY CAMBIO EL MUNDO",
-      "image": "https://pics.filmaffinity.com/the_moment_how_sports_changed_the_world-205966170-large.jpg",
-      "url": "https://upstream.to/vbr9aiu51ul9",
-      "info": "2023",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "Y QUE TENDRÁ QUE VER EL AMOR",
-      "info": "2022",
-      "image": "https://i.postimg.cc/pXxgrDxR/Y-que-tendr-que-ver-al-amor-2022-Pelicula.jpg",
-      "url": "https://upstream.to/eidmrw2y451d",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
     {
@@ -9366,21 +9346,12 @@
       "image": "https://pics.filmaffinity.com/y_tu_mama_tambien-381997517-large.jpg",
       "url": "https://filemoon.to/d/9t27axy5ou4h/Y_tu_mama_tambien__2001__Pelicula_castellano.mp4",
       "info": "2021",
-      "userAgent": "PlusMediaPlayer/0.0.9",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "",
       "referer": "",
       "isHost": "true",
       "online": "true",
       "import": false
-    },
-    {
-      "name": "ZODIAC",
-      "image": "https://pics.filmaffinity.com/zodiac-856909935-large.jpg",
-      "url": "https://upstream.to/dqxrse4k9n7b",
-      "info": "[Español 2007]",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": ""
     },
 {
 "name": "ZOMBIES 4",
@@ -9390,7 +9361,7 @@
 "embed": "",
 "isHost": "true",
 "online": "true",
-"userAgent": "PlusMediaPlayer/0.0.9",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "import": false
 },
     {
@@ -9401,30 +9372,12 @@
       "embed": "",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "import": false
     }
 
 
   ]
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
