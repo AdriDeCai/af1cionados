@@ -97,13 +97,19 @@
 	"name": "HORA AVENTURAS",
 	"image": "https://pics.filmaffinity.com/adventure_time_come_along_with_me-959122329-large.jpg",
 	"url": "https://raw.githubusercontent.com/AdriDeCai/series-animadas/main/serie%20animada%20hora%20aventura.w3u",
-	"info": "bY AdriDeCai"
+	"info": "bY Af1cionados"
+	},
+	{
+	"name": "ISLA DE LAS FORMAS, LA",
+	"image": "https://pics.filmaffinity.com/shape_island-427870337-large.jpg",
+	"url": "https://raw.githubusercontent.com/AdriDeCai/series-animadas/refs/heads/main/serie%20animada%20ISLA%20DE%20FORMAS.w3u",
+	"info": "bY Af1cionados"
 	},
 	{
 	"name": "SHOW DE GARDFIELD, EL",
 	"image": "https://i.postimg.cc/CMt3DYvc/garfield.png",
 	"url": "https://af1cionados.vercel.app/serie%20EL%20SHOW%20DE%20GARDFIELD.w3u",
-	"info": "bY AdriDeCai"
+	"info": "bY Af1cionados"
 	},
 	{
 	"name": "STAR WARS,GUERRA DEL CLONE",
@@ -132,4 +138,5 @@
 
 	]
 }
+
 
