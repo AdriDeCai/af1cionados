@@ -11,7 +11,7 @@
       "name": "3 MOSQUETEROS Y DARTAGNAN, LOS",
       "image": "https://i.postimg.cc/QM2mgyRG/3-mosqueteros-D-Artagnan-Los-2023-Pelicula-familiar.jpg",
       "url": "https://listeamed.net/v/0DogOGWKpl7OKjM",
-      "info": "2023",
+      "info": "[2023]",
       "embed": "",
       "referer": "",
       "isHost": "true",
@@ -303,7 +303,7 @@
       "name": "ACOMPAÑANTE, LA",
       "image": "https://i.postimg.cc/bY1tJH7J/IMG-20250303-192230-308.jpg",
       "url": "https://nikaplayerr.com/file/8h9s2fqs9phu",
-      "info": "2025",
+      "info": "[2025]",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
       "referer": "",
@@ -1441,6 +1441,18 @@
       "embed": "",
       "isHost": "true",
       "online": "true"
+    },
+    {
+      "name": "BUENA LETRA, LA",
+      "image": "https://pics.filmaffinity.com/la_buena_letra-921932679-large.jpg",
+      "url": "https://filemoon.to/d/y3enusguazwg/La_buena_letra",
+      "info": "[2025][Drama]",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "import": false
     },
 		{
         "name": "BUENOS DIAS, TRISTEZA",
@@ -9379,5 +9391,6 @@
 
   ]
 }
+
 
 
