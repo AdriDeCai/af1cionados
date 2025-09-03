@@ -1207,32 +1207,24 @@
         "isHost":"true",
         "online":"true"
         },
-       	{
-        "name": "MOMIAS",
-        "info":"2023",
-        "image": "https://i.postimg.cc/t4cGF73r/Momias-2023-Pelicula-familiar.jpg",
-        "url":"https://upstream.to/i8qhcgw39qt9",
-	"userAgent":"PlusMediaPlayer/0.0.9",
+		{
+        "name": "MOON, MI AMIGO PANDA",
+        "image": "https://pics.filmaffinity.com/moon_le_panda-676271972-large.jpg",
+        "url": "https://filemoon.to/d/8jo43cy4rjqa/Moon_mi_amigo_panda",
+        "info": "[2025][Aventura]",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
         "embed":"",
         "isHost":"true",
-        "online":"true"
-        },
-       	{
-        "name": "MUCHAS MAS HORMIGAS ENTRE LAS PIERNAS",
-        "info":"2023",
-        "image": "https://i.postimg.cc/QNyBNzBT/Muchas-mas-hormigas-entre-las-piernas-2023-Pelicula-familiar.jpg",
-        "url":"http://vidmoly.me/w/sceqx0nplsax",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-        "embed":"",
-        "isHost":"true",
-        "online":"true"
+        "online":"true",
+        "import": false
         },
        	{
         "name": "MUFASA, EL REY LEON",
         "image": "https://pics.filmaffinity.com/mufasa_the_lion_king-600247674-large.jpg",
         "info":"2024",
         "url":"https://filemoon.to/d/8f1jt1ok28y5/Musafa__el_rey_leon_2024_Pelicula_animada_castellano_720p_.mp4",
-	"userAgent":"PlusMediaPlayer/0.0.9",
+		"userAgent":"PlusMediaPlayer/0.0.9",
         "embed":"",
         "isHost":"true",
         "online":"true"
@@ -1242,8 +1234,8 @@
         "image": "https://pics.filmaffinity.com/strange_world-991340546-large.jpg",
         "url": "https://filemoon.to/d/b953naey1e47/Mundo_Extra_o__2022_.mp4",
         "info": "2022",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-	"referer": "",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"referer": "",
         "embed":"",
         "isHost":"true",
         "online":"true",
@@ -2400,6 +2392,7 @@
 
     ]
 }  
+
 
 
 
