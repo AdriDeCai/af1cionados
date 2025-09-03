@@ -3695,7 +3695,7 @@
     },
     {
       "name": "FRIENDSHIP",
-      "image": "https://i.postimg.cc/QM2mgyRG/3-mosqueteros-D-Artagnan-Los-2023-Pelicula-familiar.jpg",
+      "image": "https://pics.filmaffinity.com/friendship-963208890-large.jpg",
       "url": "https://filemoon.to/d/r3oazygz3ne9/Friendship",
       "info": "[2025][Comedia]",
       "embed": "",
@@ -7740,6 +7740,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
     {
+      "name": "SALVAJES, LOS",
+      "image": "https://pics.filmaffinity.com/zloy_gorod-908951006-large.jpg",
+      "url": "https://filemoon.to/d/p6unh7jmu533/Los_salvajes",
+      "info": "[2025][Accion]",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "import": false
+    },
+    {
       "name": "SALVE MARÍA",
       "image": "https://i.postimg.cc/NFMMmTS1/IMG-20250223-220054-076.jpg",
       "url": "https://nikaplayerr.com/file/u18coaoz7zsx",
@@ -9415,6 +9427,7 @@
 
   ]
 }
+
 
 
 
