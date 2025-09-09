@@ -3,45 +3,49 @@
 "name": "GRAN ESTAFA DE LOS TELEOPERADORES",
 "image": "https://pics.filmaffinity.com/telemarketers-843564107-large.jpg",
 "url": "https://af1cionados.vercel.app/DoCuSeRie GRAN ESTAFA DE LOS TELEOPERADORES.w3u",
-"info": "2023",
+"info": "By Af1cionados",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": "@YIsus_mEx",
 "stations":
 	[
 
 	{
-	"name": "CAPITULO 1",
+		"name": "CAPITULO 1",
         "image": "https://pics.filmaffinity.com/telemarketers-843564107-large.jpg",
-        "url": "https://embedv.net/v/dNjgOl47jwVO9Wn",
+        "url": "",
        	"info": "2023",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+		"embed": "",
+		"isHost": "true",
+		"online": "true",
+		"import": false
        	},
 	{
-	"name": "CAPITULO 2",
+		"name": "CAPITULO 2",
         "image": "https://pics.filmaffinity.com/telemarketers-843564107-large.jpg",
-        "url": "https://embedv.net/v/6zeREaD1GgjxZPa",
+        "url": "",
        	"info": "2023",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+		"embed": "",
+		"isHost": "true",
+		"online": "true",
+		"import": false
        	},
 	{
-	"name": "CAPITULO 3",
+		"name": "CAPITULO 3",
         "image": "https://pics.filmaffinity.com/telemarketers-843564107-large.jpg",
-        "url": "https://embedv.net/v/8lKQxYVpZg8EDGY",
+        "url": "",
        	"info": "2023",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+		"embed": "",
+		"isHost": "true",
+		"online": "true",
+		"import": false
        	}
 
 ]
 }
+
