@@ -881,6 +881,12 @@
           "url": "acestream://ae68a0835039fab28fd2314108fabd4fab33b8ab"
         },
         {
+          "name": "DAZN 2 (FHD)(Shickat)",
+          "info": "ff37",
+          "image": "https://i.postimg.cc/FKPjhxB6/dazn2.png",
+          "url": "acestream://43004e955731cd3afcc34d24e5178d4b427bff37"
+        },
+        {
           "name": "DAZN 3 [1080]",
           "info": "a2e8",
           "image": "https://i.postimg.cc/bNj2cMvJ/dazn3.png",
@@ -899,6 +905,12 @@
           "url": "acestream://3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea"
         },
         {
+          "name": "DAZN 3 (FHD)(Shickat)",
+          "info": "f460",
+          "image": "https://i.postimg.cc/bNj2cMvJ/dazn3.png",
+          "url": "acestream://4e401fdceebffdf1f09aef954844d09f6c62f460"
+        },
+        {
           "name": "DAZN 4 [1080]",
           "info": "3102",
           "image": "https://i.postimg.cc/gJZr1qF8/dazn4.png",
@@ -915,6 +927,12 @@
           "info": "7f50",
           "image": "https://i.postimg.cc/gJZr1qF8/dazn4.png",
           "url": "acestream://75306ac6ffbe33b08c5c28487674f75f012c7f50"
+        },
+        {
+          "name": "DAZN 4 FHD (Shickat)",
+          "info": "1693",
+          "image": "https://i.postimg.cc/gJZr1qF8/dazn4.png",
+          "url": "acestream://eb884f77ce8815cf1028c4d85e8b092c27ea1693"
         }
       ]
     },
@@ -1833,6 +1851,7 @@
 
   ]
 }
+
 
 
 
