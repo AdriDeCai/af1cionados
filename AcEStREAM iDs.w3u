@@ -770,18 +770,6 @@
         },
         {
           "name": "M Deportes 3 FHD (New Era)",
-          "info": "233e",
-          "image": "https://i.postimg.cc/DynjPV8K/Deportes-por-Movistar-3-2022-logo.png",
-          "url": "acestream://03aa6a0c160d2ad74e9d6fb62c7f33e2e5e7233e"
-        },
-        {
-          "name": "M Deportes 3 FHD (New Era)",
-          "info": "bc00",
-          "image": "https://i.postimg.cc/DynjPV8K/Deportes-por-Movistar-3-2022-logo.png",
-          "url": "acestream://678bfaefc7f595cf5ee2ae6e6da08b2ec7c4bc00"
-        },
-        {
-          "name": "M Deportes 3 FHD (New Era)",
           "info": "4eee",
           "image": "https://i.postimg.cc/DynjPV8K/Deportes-por-Movistar-3-2022-logo.png",
           "url": "acestream://753d4b1f7c4ef43238b5cf23b05572b550a44eee"
@@ -794,15 +782,21 @@
         },
         {
           "name": "M Deportes 4 FHD (New Era)",
-          "info": "75a4",
+          "info": "6a53",
           "image": "https://i.postimg.cc/bN2ykFF8/Deportes-por-Movistar-4-2022-logo.png",
-          "url": "acestream://58a4c880ab18486d914751db32a12760e74b75a4"
+          "url": "acestream://3f97bafa133b10cfe5c62311e11501326d886a53"
         },
         {
           "name": "M Deportes 5 (1080)(Elcano)",
           "info": "d5aa",
           "image": "https://i.postimg.cc/wMRp572F/Deportes-por-Movistar-5-2022-logo.png",
           "url": "acestream://7b361369a40046ad3011086f9d4ae2982fb4d5aa"
+        },
+        {
+          "name": "M Deportes 5 FHD (New Era)",
+          "info": "f916",
+          "image": "https://i.postimg.cc/wMRp572F/Deportes-por-Movistar-5-2022-logo.png",
+          "url": "acestream://5913205fb6d6d162a50222709aab6129eb7cf916"
         }
       ]
     },
@@ -1869,6 +1863,7 @@
 
   ]
 }
+
 
 
 
