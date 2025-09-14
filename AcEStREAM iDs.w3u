@@ -710,9 +710,15 @@
         },
         {
           "name": "M Deportes (FHD)(Shickat)",
-          "info": "293c",
+          "info": "9359",
           "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://465cb8c0ce3f72be4ed114628dcd5c2ed6e3293c"
+          "url": "acestream://5d3f582738467aaf213e408601aca5cc13fa9359"
+        },
+        {
+          "name": "M Deportes (FHD)(Shickat)",
+          "info": "bd0b",
+          "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://3692ea4cdda97eb0062ed5d656ebd61f149ebd0b"
         },
         {
           "name": "M Deportes FHD (New Era)",
@@ -740,9 +746,9 @@
         },
         {
           "name": "M Deportes 2 (FHD)(shickat)",
-          "info": "59ff",
+          "info": "5a61",
           "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://9f03eb300b630a8e88d6c22728696ca4e96859ff"
+          "url": "acestream://73d38feaa770d788848ec098470e32670fe55a61"
         },
         {
           "name": "M Deportes 2 FHD (New Era)",
@@ -775,6 +781,12 @@
           "url": "acestream://753d4b1f7c4ef43238b5cf23b05572b550a44eee"
         },
         {
+          "name": "M Deportes 3 FHD (shickat)",
+          "info": "296f",
+          "image": "https://i.postimg.cc/DynjPV8K/Deportes-por-Movistar-3-2022-logo.png",
+          "url": "acestream://29d786d72d4b53dbc333af3a50f8fb021aa0296f"
+        },
+        {
           "name": "M Deportes 4 (1080)(Elcano)",
           "info": "2a96",
           "image": "https://i.postimg.cc/bN2ykFF8/Deportes-por-Movistar-4-2022-logo.png",
@@ -787,6 +799,12 @@
           "url": "acestream://3f97bafa133b10cfe5c62311e11501326d886a53"
         },
         {
+          "name": "M Deportes 4 FHD (shickat)",
+          "info": "5ba5",
+          "image": "https://i.postimg.cc/bN2ykFF8/Deportes-por-Movistar-4-2022-logo.png",
+          "url": "acestream://37825883ed185365e3194a79207347f6c7bd5ba5"
+        },
+        {
           "name": "M Deportes 5 (1080)(Elcano)",
           "info": "d5aa",
           "image": "https://i.postimg.cc/wMRp572F/Deportes-por-Movistar-5-2022-logo.png",
@@ -797,6 +815,12 @@
           "info": "f916",
           "image": "https://i.postimg.cc/wMRp572F/Deportes-por-Movistar-5-2022-logo.png",
           "url": "acestream://5913205fb6d6d162a50222709aab6129eb7cf916"
+        },
+        {
+          "name": "M Deportes 5 FHD (shickat)",
+          "info": "c57c",
+          "image": "https://i.postimg.cc/wMRp572F/Deportes-por-Movistar-5-2022-logo.png",
+          "url": "acestream://6dc4ac4eeae18e9daec433b01db82435cf84c57c"
         }
       ]
     },
@@ -1863,6 +1887,7 @@
 
   ]
 }
+
 
 
 
