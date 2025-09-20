@@ -163,36 +163,6 @@
       "stations": 
       [
         {
-          "name": "MOVISTAR LaLiga (1080)",
-          "info": "[PROVISIONAL]",
-          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
-          "url": "acestream://af458073c3096293a4dea9f369d4f308e7125bd6"
-        },
-        {
-          "name": "MOVISTAR LaLiga (1080)",
-          "info": "[PROVISIONAL]",
-          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
-          "url": "acestream://af468a318ad209b29a042a9080b519c6b40cec79"
-        },
-        {
-          "name": "MOVISTAR LaLiga (1080)",
-          "info": "[PROVISIONAL]",
-          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
-          "url": "acestream://b0260a1261eb3817c353ef0a6862747dee18cdda"
-        },
-        {
-          "name": "MOVISTAR LaLiga (FHD)(Shickat)",
-          "info": "f231",
-          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
-          "url": "acestream://107c3ce5a5d2527c9f06e4eab87477201791f231"
-        },
-        {
-          "name": "MOVISTAR LaLiga (FHD)(Shickat)",
-          "info": "38a0",
-          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
-          "url": "acestream://d2ddf9802ccfdc456f872eea4d24596880a638a0"
-        },
-        {
           "name": "MOVISTAR LaLiga (1080)(Elcano)",
           "info": "9947",
           "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
@@ -215,6 +185,18 @@
           "info": "ac58",
           "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
           "url": "acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58"
+        },
+        {
+          "name": "MOVISTAR LaLiga (FHD)(Shickat)",
+          "info": "f231",
+          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+          "url": "acestream://107c3ce5a5d2527c9f06e4eab87477201791f231"
+        },
+        {
+          "name": "MOVISTAR LaLiga (FHD)(Shickat)",
+          "info": "38a0",
+          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+          "url": "acestream://d2ddf9802ccfdc456f872eea4d24596880a638a0"
         },
         {
           "name": "MOVISTAR LaLiga (NewLoop)",
@@ -1827,6 +1809,7 @@
 
   ]
 }
+
 
 
 
