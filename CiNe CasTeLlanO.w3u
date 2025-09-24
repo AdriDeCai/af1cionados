@@ -2368,6 +2368,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
     {
+      "name": "CUATRO FANTASTICOS, LOS PRIMEROS PASOS",
+      "image": "https://pics.filmaffinity.com/the_fantastic_four_first_steps-284761648-large.jpg",
+      "url": "https://filemoon.to/d/azxxqiogqa9y/Los_Cuatro_Fant_sticos_Primeros_pasos",
+      "info": "[2025][Aventura Ciencia Ficción]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
       "name": "CUATRO PLUMAS, LAS",
       "image": "https://pics.filmaffinity.com/the_four_feathers-351848918-large.jpg",
       "url": "https://filemoon.to/d/b21zi1uo7pkd/Cuatro_plumas__2002_Pelicula__1080p_Castellano_mp4.mp4",
@@ -4854,6 +4866,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+    {
+      "name": "JUNE Y JOHN",
+      "image": "https://pics.filmaffinity.com/june_john-310800280-large.jpg",
+      "url": "https://filemoon.to/d/x6kgrbjapaz7/June_y_John",
+      "info": "[2025][Romance Suspenso]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
 {
 "name": "JURASSIC WORLD-EL RENACER",
 "image": "https://i.postimg.cc/cLgXThkX/IMG-20250725-225406-684.jpg",
@@ -6564,6 +6588,18 @@
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "OH, HI !!!",
+      "image": "https://pics.filmaffinity.com/oh_hi-969024055-large.jpg",
+      "url": "https://filemoon.to/d/wzfl0spmh6ng/Oh__Hi",
+      "info": "[2025][Comedia Romance]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
       "import": false
     },
     {
@@ -9386,6 +9422,7 @@
 
   ]
 }
+
 
 
 
