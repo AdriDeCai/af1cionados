@@ -993,7 +993,7 @@
 
     {
       "name": "GRAN PREMIO SAN MARINO (SAN MARINO)",
-      "image": "ttps://i.postimg.cc/sX9KMYhv/Bandera-San-Marino.jpg",
+      "image": "https://i.postimg.cc/sX9KMYhv/Bandera-San-Marino.jpg",
       "imageScale": "",
       "info": "[ROUND 16]",
       "stations": 
@@ -1057,7 +1057,7 @@
 
     {
       "name": "MOBILITY RESORT MOTEGI (JAPON)",
-      "image": "ttps://i.postimg.cc/7LGTmRQs/Bandera_Japon.jpg",
+      "image": "https://i.postimg.cc/7LGTmRQs/Bandera_Japon.jpg",
       "imageScale": "",
       "info": "[ROUND 17]",
       "stations": 
