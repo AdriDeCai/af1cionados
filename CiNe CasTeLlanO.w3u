@@ -1820,37 +1820,6 @@
       "import": false
     },
     {
-      "name": "CELDA, LA",
-      "image": "https://pics.filmaffinity.com/the_cell-190951656-large.jpg",
-      "url": "https://listeamed.net/v/27BaOn1kLR2EMDX",
-      "info": "[Español][2000]",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
-    {
-      "name": "CEMENTERIO DE ANIMALES",
-      "info": "2023",
-      "image": "https://pics.filmaffinity.com/pet_sematary_bloodlines-939989942-large.jpg",
-      "url": "https://upstream.to/t7t0hm13b6gu",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "CENIZA",
-      "info": "2024",
-      "image": "https://pics.filmaffinity.com/kul-153418056-large.jpg",
-      "url": "https://vidmoly.me/w/i5pyjagxfxes",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
       "name": "CHICA SALVAJE",
       "info": "[2022][Español]",
       "image": "https://pics.filmaffinity.com/La_chica_salvaje-490808897-large.jpg",
@@ -2396,6 +2365,18 @@
       "image": "https://pics.filmaffinity.com/the_fantastic_four_first_steps-284761648-large.jpg",
       "url": "https://filemoon.to/d/azxxqiogqa9y/Los_Cuatro_Fant_sticos_Primeros_pasos",
       "info": "[2025][Aventura Ciencia Ficción]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "CUATRO PAREDES",
+      "image": "https://pics.filmaffinity.com/cuatro_paredes-531499020-large.jpg",
+      "url": "https://filemoon.to/d/3kzpy2dymv7x/Tiempo_de_asesinos",
+      "info": "[2025][Drama]",
       "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "",
       "referer": "",
@@ -3932,6 +3913,18 @@
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "GRAN AMBICION, LA",
+      "image": "https://pics.filmaffinity.com/berlinguer_la_grande_ambizione-613709109-large.jpg",
+      "url": "https://filemoon.to/d/r1jdx49h3esm/La_gran_ambici_n",
+      "info": "[2024][Drama Historia]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
       "import": false
     },
     {
@@ -6927,11 +6920,13 @@
       "import": false
     },
     {
-      "name": "PARTIDO DEL SIGLO, EL",
-      "image": "https://i.postimg.cc/sxFVgZ0Q/Partido-del-siglo-El-2022-Pelicula.jpg",
-      "url": "https://upstream.to/4w94kkhrio0g",
-      "info": "2022",
+      "name": "PARTISANOS",
+      "image": "https://pics.filmaffinity.com/the_partisan-442805007-large.jpg",
+      "url": "https://filemoon.to/d/3kzpy2dymv7x/Tiempo_de_asesinos",
+      "info": "[2024][Belica Historia Suspense]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "",
+      "referer": "",
       "isHost": "true",
       "online": "true",
       "import": false
@@ -8687,14 +8682,15 @@
       "online": "true"
     },
     {
-      "name": "TIEMPO",
-      "image": "https://pics.filmaffinity.com/old-485235995-large.jpg",
-      "url": "https://embedv.net/v/JzkPxzZ2nXxbydB",
-      "info": "2023",
+      "name": "TIEMPO DE ASESINOS",
+      "image": "https://pics.filmaffinity.com/assassin-659315794-large.jpg",
+      "url": "https://filemoon.to/d/3kzpy2dymv7x/Tiempo_de_asesinos",
+      "info": "[2025][Accion]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "",
+      "referer": "",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
     {
@@ -9458,6 +9454,7 @@
 
   ]
 }
+
 
 
 
