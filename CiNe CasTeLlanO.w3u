@@ -3685,6 +3685,18 @@
       "online": "true"
     },
     {
+      "name": "FRENCH LOVER",
+      "image": "https://pics.filmaffinity.com/french_lover-746570295-large.jpg",
+      "url": "https://filemoon.to/d/ojjqojr8gja9/French_lover",
+      "info": "[2025][Comedia Romance]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
       "name": "FRESH",
       "image": "https://es.web.img2.acsta.net/pictures/22/03/21/17/30/4116877.jpg",
       "url": "https://filemoon.to/d/8m27ki3o0g8a",
@@ -5636,6 +5648,18 @@
       "import": false
     },
     {
+      "name": "MANTIS",
+      "image": "https://pics.filmaffinity.com/samagwi-700258469-large.jpg",
+      "url": "https://filemoon.to/d/5a3b9d1nq87l/Mantis",
+      "info": "[2025][Accion Crimen]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
       "name": "MAÑANA ES HOY",
       "image": "https://pics.filmaffinity.com/manana_es_hoy-832134336-large.jpg",
       "url": "https://listeamed.net/v/VqbX53gqW6o5Qzp",
@@ -6096,12 +6120,27 @@
     },
     {
       "name": "MIOCARDIO",
-      "info": "[2025][Español]",
       "image": "https://pics.filmaffinity.com/miocardio-262201158-large.jpg",
       "url": "https://filemoon.to/d/k54q3qbc9dha",
+      "info": "[2025][Español]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "",
+      "referer": "",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
+      "import": false
+    },
+    {
+      "name": "MIRANDO A TRAVES DEL AGUA",
+      "image": "https://pics.filmaffinity.com/looking_through_water_aka_blood_knot-834300193-large.jpg",
+      "url": "https://filemoon.to/d/bs9rfw9imzw9/Mirando_a_trav_s_del_agua",
+      "info": "[2025][Drama]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
     },
     {
       "name": "MIS 84 M²",
@@ -7611,13 +7650,16 @@
       "import": false
     },
     {
-      "name": "RIO DE LA IRA, EL",
-      "image": "https://i.postimg.cc/KjZ5ZH4V/El-rio-de-la-ira-2022-Pelicula.jpg",
-      "url": "http://vidmoly.me/w/qzdmi43nhzdb",
-      "info": "2022",
-      "userAgent": "PlusMediaPlayer/0.0.9",
+      "name": "RITUAL, THE",
+      "image": "https://pics.filmaffinity.com/the_ritual-404880866-large.jpg",
+      "url": "https://filemoon.to/d/nheo6l5l3nut/El_ritual",
+      "info": "[2025][Terror]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "",
+      "referer": "",
       "isHost": "true",
-      "online": "true"
+      "online": "true",
+      "import": false
     },
     {
       "name": "RIVALES",
@@ -7683,21 +7725,24 @@
       "import": false
     },
     {
-      "name": "ROBOTS",
-      "image": "https://i.postimg.cc/9MXp2kDk/Robots-2023-Pelicula.jpg",
-      "url": "https://upstream.to/d8kyuico50xi",
-      "info": "2022",
-      "userAgent": "",
-      "isHost": "true",
-      "online": "true"
-    },
-    {
       "name": "RUSH",
       "info": "2013",
       "image": "https://pics.filmaffinity.com/rush-471040098-large.jpg",
       "url": "https://filemoon.to/d/cpuezaqhw2of/Ver_Rush_Online_Castellano_2013_Pelicula_-_HDFull.mp4",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "RUTH Y BOAZ",
+      "image": "https://pics.filmaffinity.com/ruth_boaz-902826147-large.jpg",
+      "url": "https://filemoon.to/d/vmatfalnxw4i/Rut_y_Booz",
+      "info": "[2025][Drama Suspense]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "",
+      "referer": "",
       "isHost": "true",
       "online": "true",
       "import": false
@@ -9454,6 +9499,7 @@
 
   ]
 }
+
 
 
 
