@@ -11,7 +11,7 @@
       "name": "3 MOSQUETEROS Y DARTAGNAN, LOS",
       "image": "https://i.postimg.cc/QM2mgyRG/3-mosqueteros-D-Artagnan-Los-2023-Pelicula-familiar.jpg",
       "url": "https://listeamed.net/v/0DogOGWKpl7OKjM",
-      "info": "[2023]",
+      "info": "[2023][]",
       "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "",
       "referer": "",
@@ -2117,12 +2117,25 @@
       "import": false
     },
     {
+      "name": "COMPULSION",
+      "image": "https://pics.filmaffinity.com/compulsion-289340758-large.jpg",
+      "url": "https://filemoon.to/d/jsgqs7d2zar3/Compulsion",
+      "info": "[2024][Suspenso Terror]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
       "name": "CONCLAVE",
       "image": "https://i.postimg.cc/Vk9QBdbm/IMG-20241129-222237-901.jpg",
       "url": "https://filemoon.to/d/mgnxb1c3dl4d/Ver_Conclave_2024_Pelicula_Castellano_-_HDFull.mp4",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "info": "2024",
+      "info": "[2024]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "",
+      "referer": "",
       "isHost": "true",
       "online": "true",
       "import": false
@@ -6963,6 +6976,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
     {
+      "name": "PARALLEL",
+      "image": "https://pics.filmaffinity.com/parallel-964349081-large.jpg",
+      "url": "https://filemoon.to/d/pwgwily2k209/Parallel",
+      "info": "[2024][Ciencia Ficcion Drama Suspenso]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
       "name": "PARASITOS",
       "image": "https://pics.filmaffinity.com/gisaengchung-432616131-large.jpg",
       "url": "https://filemoon.to/d/imq79hy6cvbi/Parasitos_2019.mkv",
@@ -9572,6 +9597,7 @@
 
   ]
 }
+
 
 
 
