@@ -1378,6 +1378,18 @@
       "import": false
     },
     {
+      "name": "BLOODY AXE WOUND",
+      "image": "https://pics.filmaffinity.com/bloody_axe_wound-424296352-large.jpg",
+      "url": "https://filemoon.to/d/1r0qvv1e9w7d/Bloody_Axe_Wound",
+      "info": "[2024][Comedia Terror]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
       "name": "BLUE BEETLE",
       "info": "2023",
       "image": "https://i.postimg.cc/hGgmB9wW/Blue-Beetle-2023-Pelicula.jpg",
@@ -9560,6 +9572,7 @@
 
   ]
 }
+
 
 
 
