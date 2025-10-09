@@ -219,58 +219,7 @@
       "image": "https://i.postimg.cc/g2wMSxkV/IMG-20250617-201611-327.jpg",
       "url": "https://luluvdoo.com/5asaaopnvpfd",
       "info": "2025",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "A LA BELLE ETOILE",
-      "image": "https://pics.filmaffinity.com/a_la_belle_etoile-635313434-large.jpg",
-      "url": "https://upstream.to/yl1irzqwfkh8",
-      "info": "2023",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "A LITTLE WHITE LIE",
-      "image": "https://pics.filmaffinity.com/a_little_white_lie-125493809-large.jpg",
-      "url": "https://upstream.to/ionleuerp5zr",
-      "info": "2023",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "A TODO TREN, DESTINO ASTURIAS",
-      "info": "2021",
-      "image": "https://pics.filmaffinity.com/a_todo_tren_destino_asturias-707799540-large.jpg",
-      "url": "https://bembed.net/v/JzkPxzny8Krxbyd",
-      "embed": "",
-      "isHost": "true",
-      "online": "true"
-    },
-    {
-      "name": "A TODO TREN 2, SI LES HA PASADO OTRA VEZ",
-      "info": "2022",
-      "image": "https://i.postimg.cc/3NxmhJQs/A-todo-tren-2-2023-Pelicula.jpg",
-      "url": "https://bembed.net/v/pVa4E8MN4K0OkzM",
-      "embed": "",
-      "isHost": "true",
-      "online": "true"
-    },
-    {
-      "name": "A WORKING MAN",
-      "image": "https://pics.filmaffinity.com/a_working_man-933343627-large.jpg",
-      "url": "https://filemoon.to/d/j9fm1v7ia4yw/A_Working_Man__2025__pelicula_castellano.mp4",
-      "info": "2025",
-      "userAgent": "PlusMediaPlayer/0.0.9",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "",
       "referer": "",
       "isHost": "true",
@@ -278,11 +227,35 @@
       "import": false
     },
     {
-      "name": "AL OTRO BARRIO",
-      "image": "https://i.postimg.cc/SsYPVTVc/IMG-20250406-000006-069.jpg",
-      "url": "https://cybervynx.com/h13liy9n834p",
-      "info": "2024",
-      "userAgent": "PlusMediaPlayer/0.0.9",
+      "name": "A TODO TREN, DESTINO ASTURIAS",
+      "info": "2021",
+      "image": "https://pics.filmaffinity.com/a_todo_tren_destino_asturias-707799540-large.jpg",
+      "url": "https://bembed.net/v/JzkPxzny8Krxbyd",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "A TODO TREN 2, SI LES HA PASADO OTRA VEZ",
+      "info": "2022",
+      "image": "https://i.postimg.cc/3NxmhJQs/A-todo-tren-2-2023-Pelicula.jpg",
+      "url": "https://bembed.net/v/pVa4E8MN4K0OkzM",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "A WORKING MAN",
+      "image": "https://pics.filmaffinity.com/a_working_man-933343627-large.jpg",
+      "url": "https://filemoon.to/d/j9fm1v7ia4yw/A_Working_Man__2025__pelicula_castellano.mp4",
+      "info": "2025",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "",
       "referer": "",
       "isHost": "true",
@@ -294,7 +267,7 @@
       "image": "https://i.postimg.cc/YCwSTB96/El-abismo-secreto-491076315-large.jpg",
       "url": "https://nikaplayerr.com/file/i4f0xj23c8z1",
       "info": "2025",
-      "userAgent": "PlusMediaPlayer/0.0.9",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "",
       "referer": "",
       "isHost": "true",
@@ -306,8 +279,9 @@
       "info": "2024",
       "image": "https://pics.filmaffinity.com/l_avia_i_el_foraster-705439334-large.jpg",
       "url": "https://listeamed.net/v/PKN4OwWGkyXODLj",
-      "userAgent": "PlusMediaPlayer/0.0.9",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "",
+      "referer": "",
       "isHost": "true",
       "online": "true",
       "import": false
@@ -317,41 +291,47 @@
       "image": "https://i.postimg.cc/bY1tJH7J/IMG-20250303-192230-308.jpg",
       "url": "https://nikaplayerr.com/file/8h9s2fqs9phu",
       "info": "[2025]",
-      "userAgent": "PlusMediaPlayer/0.0.9",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "",
       "referer": "",
       "isHost": "true",
-      "online": "true"
+      "online": "true",
+      "import": false
     },
     {
       "name": "ADICCION PERFECTA",
       "info": "2023",
       "image": "https://i.postimg.cc/8cwMB9hw/ADICCION_PERFECTA_(2023_)(Pelicula).jpg",
       "url": "https://upstream.to/wusm62nkl42v",
-      "userAgent": "PlusMediaPlayer/0.0.9",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "",
+      "referer": "",
       "isHost": "true",
-      "online": "true"
+      "online": "true",
+      "import": false
     },
     {
       "name": "ADULTS IN THE ROOM (COMPORTARSE COMO ADULTOS)",
       "info": "2019",
       "image": "https://pics.filmaffinity.com/adults_in_the_room-152448709-large.jpg",
       "url": "https://filemoon.to/d/y9mwmk0vmo33/Adults_In_The_Room__2020_Pelicula___BluRay_RIP_AC3_5.1_Castellano_.avi",
-      "userAgent": "PlusMediaPlayer/0.0.9",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "",
+      "referer": "",
       "isHost": "true",
-      "online": "true"
+      "online": "true",
+      "import": false
     },
     {
       "name": "AFTERMATH",
       "image": "https://i.postimg.cc/Dy5kKW39/IMG-20250206-200540-966.jpg",
       "url": "https://nikaplayerr.com/file/r63z4l81glj5",
       "info": "2024",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "",
+      "referer": "",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
     {
@@ -359,10 +339,23 @@
       "image": "https://i.postimg.cc/YqhddQhG/Agente-Stone-2023-Pelicula.jpg",
       "url": "https://upstream.to/it7ykn3tni2h",
       "info": "2023",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "",
+      "referer": "",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "AL OTRO BARRIO",
+      "image": "https://i.postimg.cc/SsYPVTVc/IMG-20250406-000006-069.jpg",
+      "url": "https://cybervynx.com/h13liy9n834p",
+      "info": "2024",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
       "import": false
     },
     {
@@ -370,20 +363,36 @@
       "info": "[2020][Español]",
       "image": "https://pics.filmaffinity.com/Alone-958860872-large.jpg",
       "url": "https://filemoon.to/d/f1ewbkdme4gd",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "",
+      "referer": "",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
+      "import": false
     },
     {
       "name": "ALTO KNIGHTS, THE",
       "image": "https://i.postimg.cc/qvHGZD3g/IMG-20250416-205409-549.jpg",
       "url": "https://filemoon.to/d/zfgqbq3mtic6",
       "info": "2025",
-      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "",
       "referer": "",
       "isHost": "true",
-      "online": "true"
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "ALTA EJECUTIVA",
+      "image": "https://pics.filmaffinity.com/pretty_thing-757983898-large.jpg",
+      "url": "https://filemoon.to/d/xr0cya98fyt9/Alta_ejecutiva__2025__Pelicula_Castellano.mp4",
+      "info": "[2025][Erotico]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
     },
     {
       "name": "AGENTE INFILTRADO",
@@ -7082,17 +7091,6 @@
       "import": false
     },
     {
-      "name": "PASEO POR LAS NUBES, UN",
-      "image": "https://pics.filmaffinity.com/a_walk_in_the_clouds-243656334-large.jpg",
-      "url": "https://upstream.to/wd7o0hw4zbn5",
-      "info": "[1995]",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
       "name": "PASION DE CRISTO, LA",
       "image": "https://pics.filmaffinity.com/the_passion_of_the_christ-211498441-large.jpg",
       "url": "https://bembed.net/v/QNB7xA2B1g0E0WG",
@@ -7115,21 +7113,13 @@
       "import": false
     },
     {
-      "name": "PEARL HARBOR",
-      "info": "[2001][Español]",
-      "image": "https://es.web.img3.acsta.net/pictures/14/02/26/13/43/492816.jpg",
-      "url": "https://upstream.to/7utoj1vkn1ix",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
-    {
       "name": "PELICULA BARATA, UNA",
       "image": "https://pics.filmaffinity.com/una_pelicula_barata-687115231-large.jpg",
       "url": "https://listeamed.net/v/ZMVoErbz1BBE9Pa",
-      "userAgent": "PlusMediaPlayer/0.0.9",
       "info": "[2024]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "",
+      "referer": "",
       "isHost": "true",
       "online": "true",
       "import": false
@@ -7138,9 +7128,10 @@
       "name": "PELICULA DE MINECRAFT, UNA",
       "image": "https://pics.filmaffinity.com/a_minecraft_movie-227832687-large.jpg",
       "url": "https:////listeamed.net/v/nyg9EK6Dqpnxbk4",
-      "userAgent": "PlusMediaPlayer/0.0.9",
       "info": "[2025]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "",
+      "referer": "",
       "isHost": "true",
       "online": "true",
       "import": false
@@ -7210,16 +7201,6 @@
 "import": false
 },
     {
-      "name": "PESO DE LA DUDA, EL",
-      "image": "https://i.postimg.cc/vHgGKyM5/Peso-de-la-duda-El-2022-Pelicula.png",
-      "url": "https://upstream.to/ogrll7l1lv4x",
-      "info": "2023",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
       "name": "PIDEME LO QUE QUIERAS",
       "image": "https://i.postimg.cc/DyGMGWbs/IMG-20250329-154146-289.jpg",
       "url": "https://filemoon.to/d/pdxif5vbbrcr",
@@ -7242,12 +7223,15 @@
     },
     {
       "name": "PILOTO, EL",
-      "image": "https://pics.filmaffinity.com/plane-349391874-mmed.jpg",
-      "url": "https://upstream.to/5jtwzqk4da2x",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "info": "2023",
+      "image": "https://pics.filmaffinity.com/de_ballonvaarder-244323088-large.jpg",
+      "url": "https://filemoon.to/d/5k344fs8m5qd/El_piloto__2025__Pelicula_Castellano.mp4",
+      "info": "[2025][Comedia]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "",
+      "referer": "",
       "isHost": "true",
-      "online": "true"
+      "online": "true",
+      "import": false
     },
     {
       "name": "PIRATAS DE SILICON VALLEY, LOS",
@@ -9634,6 +9618,7 @@
 
   ]
 }
+
 
 
 
