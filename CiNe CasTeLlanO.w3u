@@ -6178,6 +6178,18 @@
       "import": false
     },
     {
+      "name": "MILAGRO DE GUERY",
+      "image": "https://pics.filmaffinity.com/la_fulguree-791981522-large.jpg",
+      "url": "https://filemoon.to/d/b5i08u57uebf/El_milagro_de_Guery",
+      "info": "[2024][Suspenso]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
       "name": "MILAGROS DEL CIELO, LOS",
       "image": "https://pics.filmaffinity.com/miracles_from_heaven-351249630-large.jpg",
       "url": "https://bembed.net/v/ZMVoEr82emw59Pa",
@@ -7302,6 +7314,18 @@
       "online": "true"
     },
     {
+      "name": "PONTE EN MI LUGAR",
+      "image": "https://pics.filmaffinity.com/freakier_friday-790025087-large.jpg",
+      "url": "https://filemoon.to/d/8ku1yaqskdqi/Ponte_en_mi_lugar_de_nuevo",
+      "info": "[2025][Comedia Fantasia Familia]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
       "name": "POR DONDE PASA EL SILENCIO",
       "image": "https://i.postimg.cc/YjKhmmhF/IMG-20250213-215746-634.jpg",
       "url": "https://nikaplayerr.com/file/k2i8gck7pcqe",
@@ -8241,6 +8265,18 @@
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "SIN OXIGENO",
+      "image": "https://pics.filmaffinity.com/last_breath-201305386-large.jpg",
+      "url": "https://filemoon.to/d/oliv7ial47vg/Sin_ox_geno",
+      "info": "[2025][Drama Suspenso]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
       "import": false
     },
     {
@@ -9342,12 +9378,13 @@
     {
       "name": "VIDA ANTE NOSOTROS ,LA",
       "image": "https://i.postimg.cc/8Cbq5MP6/IMG-20250619-194100-112.jpg",
-      "url": "https://luluvdoo.com/1q8bgy4z4f74",
-      "info": "2025",
+      "url": "https://filemoon.to/d/c7lhkc348tb3/La_vida_ante_nosotros",
+      "info": "[2025][Belico Drama Historica]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "",
+      "referer": "",
       "isHost": "true",
       "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
     {
@@ -9642,6 +9679,7 @@
 
   ]
 }
+
 
 
 
