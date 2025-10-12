@@ -460,7 +460,7 @@
 
 	{
 	"name": "ESTORIL (PORTUGAL)",
-	"image": "ttps://i.postimg.cc/pLRvXZMb/bandera-de-portugal-actual.jpg",
+	"image": "https://i.postimg.cc/pLRvXZMb/bandera-de-portugal-actual.jpg",
 	"imageScale": "",
 	"info":"ROUND 11",
 	"stations":
@@ -469,7 +469,7 @@
 			"name": "SBK RACE 1",
 			"info":"[11-13 Octubre 2024]",
 			"image": "https://i.postimg.cc/SNfGFFMX/SBK-Round-7-Portugal.png",
-			"url": "",
+			"url": "https://pixeldrain.com/u/BmXHL69c",
          	"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 			"embed":"",
             "isHost":"true",
