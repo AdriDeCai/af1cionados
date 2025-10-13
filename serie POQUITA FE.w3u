@@ -4,11 +4,17 @@
 {"name": "POQUITA FE",
 "image": "https://pics.filmaffinity.com/poquita_fe-758809205-large.jpg",
 "url": "https://af1cionados.vercel.app/serie POQUITA FE.w3u",
-"info": "bY AdriDeCai",
+"info": "bY Af1cionados",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": "@YIsus_mEx",
-"stations":[
+"groups":[
 
+	{
+	"name": "TEMPORADA 1",
+	"image": "https://pics.filmaffinity.com/poquita_fe-758809205-large.jpg",
+	"info": "by Af1cionados",
+	"stations":
+	[
 	{
 	"name": "CAPITULO 1",
         "image": "https://pics.filmaffinity.com/poquita_fe-758809205-large.jpg",
@@ -17,7 +23,7 @@
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
        	"import": false
        	},
 	{
@@ -28,7 +34,7 @@
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
        	"import": false
        	},
 	{
@@ -39,7 +45,7 @@
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
        	"import": false
        	},
 	{
@@ -50,7 +56,7 @@
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
        	"import": false
        	},
 	{
@@ -61,7 +67,7 @@
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
        	"import": false
        	},
 	{
@@ -72,7 +78,7 @@
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
        	"import": false
        	},
 	{
@@ -83,7 +89,7 @@
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
        	"import": false
        	},
 	{
@@ -94,7 +100,7 @@
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
        	"import": false
        	},
 	{
@@ -105,7 +111,7 @@
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
        	"import": false
        	},
 	{
@@ -116,7 +122,7 @@
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
        	"import": false
        	},
 	{
@@ -127,7 +133,7 @@
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
        	"import": false
        	},
 	{
@@ -138,9 +144,118 @@
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
        	"import": false
        	}
+	]
+	},
+
+
+{
+"name": "TEMPORADA 2",
+"image": "https://pics.filmaffinity.com/poquita_fe-466244140-large.jpg",
+"info": "[by VirginMary]",
+"stations":
+[
+{
+"name": "2x01",
+"image": "https://pics.filmaffinity.com/poquita_fe-466244140-large.jpg",
+"url": "https://filemoon.to/d/un52mykkv1kx/Poquita_fe_2x01",
+"info": "[Español 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "2x02",
+"image": "https://pics.filmaffinity.com/poquita_fe-466244140-large.jpg",
+"url": "https://filemoon.to/d/iwac4pt52njx/Poquita_fe_2x02",
+"info": "[Español 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": 2x03",
+"image": "https://pics.filmaffinity.com/poquita_fe-466244140-large.jpg",
+"url": "https://filemoon.to/d/ni78onwt70t9/Poquita_fe_2x03",
+"info": "[Español 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": 2x04",
+"image": "https://pics.filmaffinity.com/poquita_fe-466244140-large.jpg",
+"url": "https://filemoon.to/d/4rlx6hmo2ylo/Poquita_fe_2x04",
+"info": "[Español 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": 2x05",
+"image": "https://pics.filmaffinity.com/poquita_fe-466244140-large.jpg",
+"url": "https://filemoon.to/d/xyhr0x0qkrb2/Poquita_fe_2x05",
+"info": "[Español 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": 2x06",
+"image": "https://pics.filmaffinity.com/poquita_fe-466244140-large.jpg",
+"url": "https://filemoon.to/d/klz6lzzxzs5i/Poquita_fe_2x06",
+"info": "[Español 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": 2x07",
+"image": "https://pics.filmaffinity.com/poquita_fe-466244140-large.jpg",
+"url": "https://filemoon.to/d/zlccax0w2uiw/Poquita_fe_2x07",
+"info": "[Español 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": 2x08",
+"image": "https://pics.filmaffinity.com/poquita_fe-466244140-large.jpg",
+"url": "https://filemoon.to/d/yzza326r8j0g/Poquita_fe_2x08",
+"info": "[Español 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
+}
 
 ]
 }
+
