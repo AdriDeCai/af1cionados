@@ -1836,6 +1836,18 @@
       "import": false
     },
 		{
+        "name": "CASO FRIEDA, EL",
+        "image": "https://pics.filmaffinity.com/friedas_fall-140570582-large.jpg",
+        "url": "https://filemoon.to/d/a8wfoggraovo/El_caso_Frieda_2024_Pelicula_Castellano.mp4",
+        "info": "[2024]",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+		{
         "name": "CASOPLON, EL",
         "image": "https://pics.filmaffinity.com/el_casoplon-993095418-large.jpg",
         "url": "https://filemoon.to/d/nbr08kq98v00/El_casopl_n",
@@ -5431,11 +5443,11 @@
       "import": false
     },
     {
-      "name": "LITERATO",
-      "image": "https://pics.filmaffinity.com/literato-679850794-large.jpg",
-      "url": "https://ryderjet.com/file/ue176w5s29ct",
-      "info": "2023",
-      "userAgent": "PlusMediaPlayer/0.0.9",
+      "name": "LIMPIA",
+      "image": "https://pics.filmaffinity.com/limpia-648553902-large.jpg",
+      "url": "https://filemoon.to/d/of34p4vsl1vb/Limpia_Pelicula_Castellano.mp4",
+      "info": "[2025]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "",
       "referer": "",
       "isHost": "true",
@@ -5443,33 +5455,11 @@
       "import": false
     },
     {
-      "name": "LIUBEN",
-      "image": "https://i.postimg.cc/2SxJHMFS/Liuben-2023-Pelicula.jpg",
-      "url": "https://upstream.to/8c163j8xxbbx",
-      "info": "2023",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "LO DESCONOCIDO, LA PIRAMIDE PERDIDA",
-      "image": "https://i.postimg.cc/zXjrKDfH/Lo_desconocido,_La_pirámide_perdida_(2023)(Pelicula).jpg",
-      "url": "https://upstream.to/t4o5kgw1kxgj",
-      "info": "2023",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
       "name": "LO QUE EL VIENTO SE LLEVÓ",
       "image": "https://pics.filmaffinity.com/gone_with_the_wind-432251527-large.jpg",
       "url": "https://filemoon.to/d/8z8jgoz6ix7p/Lo_que_el_viento_se_llevo_1939_Pelicula_espa_ol.mp4",
       "info": "1939",
-      "userAgent": "PlusMediaPlayer/0.0.9",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "",
       "referer": "",
       "isHost": "true",
@@ -5481,7 +5471,7 @@
       "image": "https://pics.filmaffinity.com/it_s_what_s_inside-784679476-large.jpg",
       "url": "https://filemoon.to/d/8tkdcl4xllte/Lo_que_hay_dentro__2024__Pelicula.mp4",
       "info": "1939",
-      "userAgent": "PlusMediaPlayer/0.0.9",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "",
       "referer": "",
       "isHost": "true",
@@ -5493,7 +5483,7 @@
       "info": "[2024][Español]",
       "image": "https://pics.filmaffinity.com/the_watchers-599911256-large.jpg",
       "url": "https://filemoon.to/d/amcan2ie69ai",
-      "userAgent": "PlusMediaPlayer/0.0.9",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "",
       "referer": "",
       "isHost": "true",
@@ -5505,7 +5495,7 @@
       "image": "https://i.postimg.cc/zvXsSyZQ/MV5-BYj-Zk-MGFm-OTAt-ZTM5-My00-ZDk1-LWE5-Yj-Et-MDRk-Y2-Fi-MTQ1-ZDE2-Xk-Ey-Xk-Fqc-Gc-V1.jpg",
       "url": "https://filemoon.to/d/8d537fd13wek",
       "info": "2024",
-      "userAgent": "PlusMediaPlayer/0.0.9",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "",
       "referer": "",
       "isHost": "true",
@@ -5517,7 +5507,7 @@
       "info": "[1998][Español]",
       "image": "https://pics.filmaffinity.com/lock_stock_and_two_smoking_barrels-536698978-large.jpg",
       "url": "https://filemoon.to/d/0lc6pdfe0kr6",
-      "userAgent": "PlusMediaPlayer/0.0.9",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "embed": "",
       "referer": "",
       "isHost": "true",
@@ -6126,17 +6116,6 @@
       "import": false
     },
     {
-      "name": "MI SOLEDAD TIENE ALAS",
-      "image": "https://pics.filmaffinity.com/mi_soledad_tiene_alas-983107004-large.jpg",
-      "url": "https://gamovideo.net/jp0t1xt75u7m",
-      "info": "2023",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
       "name": "MICAELA",
       "image": "https://i.postimg.cc/N0FWq8DR/IMG-20250607-213605-820.jpg",
       "url": "https://luluvdoo.com/aev95jhyjmk8",
@@ -6294,33 +6273,29 @@
       "isHost": "true",
       "online": "true"
     },
-    {
-      "name": "MISION PANAMA",
-      "image": "https://i.postimg.cc/Yq4ZwrGq/Misio-n-Panama-2022-Pelicula.jpg",
-      "url": "https://upstream.to/jca4snduf3ym",
-      "info": "2022",
-      "isHost": "true",
-      "online": "true"
-    },
-    {
-      "name": "MISTERIO DE LA VISTA 2",
-      "image": "https://pics.filmaffinity.com/murder_mystery_2-692324459-mmed.jpg",
-      "url": "https://upstream.to/pq6q88l3ja7l",
-      "info": "2023",
-      "isHost": "true",
-      "online": "true"
-    },
-    {
-      "name": "MISTERIO DE SALEMS LOT, EL",
-      "image": "https://i.postimg.cc/ZqSsW64Y/IMG-20241009-114512-558.jpg",
-      "url": "https://filemoon.to/d/bykwu8fvys6f",
-      "info": "2024",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
+		{
+        "name": "MISS CARBÓN",
+        "image": "https://pics.filmaffinity.com/miss_carbon-252920953-large.jpg",
+        "url": "https://filemoon.to/d/o2cmwfz6hnk8/Miss_Carb_n_2025_Pelicula_Castellano.mp4",
+        "info": "[2025]",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+    	{
+      	"name": "MISTERIO DE SALEMS LOT, EL",
+      	"image": "https://i.postimg.cc/ZqSsW64Y/IMG-20241009-114512-558.jpg",
+      	"url": "https://filemoon.to/d/bykwu8fvys6f",
+      	"info": "2024",
+      	"embed": "",
+      	"isHost": "true",
+      	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      	"import": false
+    	},
     {
       "name": "MISTERIO EN VENECIA",
       "image": "https://pics.filmaffinity.com/a_haunting_in_venice-814202842-large.jpg",
@@ -6411,6 +6386,18 @@
 "import": false
 },
     {
+      "name": "MUJER DEL CAMAROTE 10, LA",
+      "image": "https://pics.filmaffinity.com/the_woman_in_cabin_10-329449064-large.jpg",
+      "url": "https://filemoon.to/d/vozgd5trv1ue/La_mujer_del_camarote_10_Pelicula_Castellano.mp4",
+      "info": "[2025]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
       "name": "MUJER DEL PRESIDENTE, LA",
       "image": "https://i.ibb.co/3Mzz8Ny/IMG-20241205-223354-567.jpg",
       "url": "https://filemoon.to/d/b4c9s28xixdy",
@@ -6430,6 +6417,18 @@
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "MUJER QUE NUNCA EXISTIÓ, LA",
+      "image": "https://pics.filmaffinity.com/aicha-906933772-large.jpg",
+      "url": "https://filemoon.to/d/5rqq5ylzqou4/La_mujer_que_nunca_existi__2024_Pelicula_Castellano.mp4",
+      "info": "[2024]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
       "import": false
     },
     {
@@ -9715,6 +9714,7 @@
 
   ]
 }
+
 
 
 
