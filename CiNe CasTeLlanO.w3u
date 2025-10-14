@@ -566,6 +566,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+{
+"name": "ALL SOULS",
+"image": "https://pics.filmaffinity.com/all_souls-533073226-large.jpg",
+"url": "https://filemoon.to/d/hmdsi74x7eiv/All_Souls",
+"info": "[2025][Crimen Drama Suspenso]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
     {
       "name": "ALLELUHAH",
       "image": "https://pics.filmaffinity.com/allelujah-754219144-large.jpg",
@@ -9751,6 +9763,7 @@
 
   ]
 }
+
 
 
 
