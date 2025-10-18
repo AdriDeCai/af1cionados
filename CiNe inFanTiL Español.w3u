@@ -324,6 +324,18 @@
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
+{
+"name": "CRETINOS, LOS",
+"image": "https://pics.filmaffinity.com/the_twits-161255490-large.jpg",
+"url": "https://filemoon.to/d/5ezb5khnjoue/Los_cretinos",
+"info": "[2025][Animación Comedia Familia Fantasía]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
    	
 
 	{
@@ -2273,6 +2285,18 @@
        	"online":"true",
        	"import": false
 	},
+{
+"name": "VIDA A LO GRANDE, MI",
+"image": "https://pics.filmaffinity.com/living_large-840016632-large.jpg",
+"url": "https://filemoon.to/d/a5k8vhe97ib6/Mi_vida_a_lo_grande",
+"info": "[2024][Animación Comedia Familia]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
 	{
 	"name": "VIOLETA EL HADA TRAVIESA",
 	"info": "2023",
@@ -2395,6 +2419,7 @@
 
     ]
 }  
+
 
 
 
