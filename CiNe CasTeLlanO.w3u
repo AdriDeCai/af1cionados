@@ -1551,6 +1551,18 @@
       "online": "true",
       "import": false
     },
+{
+"name": "BUENAS NOTICIAS",
+"image": "https://pics.filmaffinity.com/gut_nuiuseu-942465676-large.jpg",
+"url": "https://filemoon.to/d/g4oan71fmyr2/Buenas_noticias",
+"info": "[2025][Comedia Historia Suspenso]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
 		{
         "name": "BUENOS DIAS, TRISTEZA",
         "image": "https://pics.filmaffinity.com/bonjour_tristesse-539282657-large.jpg",
@@ -3999,6 +4011,18 @@
       "online": "true",
       "import": false
     },
+{
+"name": "FURIOZA 2",
+"image": "https://pics.filmaffinity.com/druga_furioza-831206306-large.jpg",
+"url": "https://filemoon.to/d/dwfa2qx1d7c9/Furioza_2",
+"info": "[2025][Drama]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "G20",
       "image": "https://i.postimg.cc/DwHbnGgG/IMG-20250412-232605-080.jpg",
@@ -9823,6 +9847,7 @@
 
   ]
 }
+
 
 
 
