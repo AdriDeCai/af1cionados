@@ -1185,7 +1185,7 @@
 
     {
       "name": "PHILLIP ISLAND (AUSTRALIA)",
-      "image": "ttps://i.postimg.cc/5t78QbxV/Bandera-Australia.jpg",
+      "image": "https://i.postimg.cc/5t78QbxV/Bandera-Australia.jpg",
       "imageScale": "",
       "info": "[ROUND 19]",
       "stations": 
@@ -1193,7 +1193,7 @@
         {
           "name": "Sprint MotoGP Australia 2025",
           "info": "[18/10/2025]",
-          "image": "ttps://i.postimg.cc/Wzg3Hzcf/motogp-sprint.png",
+          "image": "https://i.postimg.cc/Wzg3Hzcf/motogp-sprint.png",
           "url": "",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
