@@ -1141,6 +1141,18 @@
       "online": "true",
       "import": false
     },
+{
+"name": "BALA PERDIDA",
+"image": "https://pics.filmaffinity.com/caught_stealing-477693290-large.jpg",
+"url": "https://filemoon.to/d/c2cnv0wqwg1a/Bala_perdida",
+"info": "[2025][Comedia Crimen Suspenso]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "BALLENA, LA",
       "info": "2023",
@@ -4057,6 +4069,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+{
+"name": "GENTE DE LA PARED, LA",
+"image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3NyL99rcDr5S4qQ8FXDwWiLujEE.jpg",
+"url": "https://filemoon.to/d/vayxdhd96r8a/La_gente_de_la_pared",
+"info": "[2024][Misterio Suspenso Terror]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "GENTLEMEN, LOS SEÑORES DE LA MAFIA",
       "image": "https://pics.filmaffinity.com/the_gentlemen-425828685-large.jpg",
@@ -9883,6 +9907,7 @@
 
   ]
 }
+
 
 
 
