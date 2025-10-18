@@ -2438,6 +2438,18 @@
       "online": "true",
       "import": false
     },
+{
+"name": "CRETINOS, LOS",
+"image": "https://pics.filmaffinity.com/the_twits-161255490-large.jpg",
+"url": "https://filemoon.to/d/5ezb5khnjoue/Los_cretinos",
+"info": "[2025][Animación Comedia Familia Fantasía]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "CRIMINALES DE LUJO",
       "image": "https://i.postimg.cc/KjGw0dvh/IMG-20250330-130404-971.jpg",
@@ -5100,6 +5112,18 @@
       "import": false
     },
 {
+"name": "JURADO, EL",
+"image": "https://pics.filmaffinity.com/je_le_jure-530741769-large.jpg",
+"url": "https://filemoon.to/d/suktek2s8vqo/El_jurado",
+"info": "[2025][Drama]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
 "name": "JURASSIC WORLD-EL RENACER",
 "image": "https://i.postimg.cc/cLgXThkX/IMG-20250725-225406-684.jpg",
 "url": "https://listeamed.net/v/04rQxWoy8JAxb2N",
@@ -5932,7 +5956,7 @@
       "import": false
     },
 {
-"name": "Martin",
+"name": "MARTIN",
 "image": "https://pics.filmaffinity.com/martin-644485472-large.jpg",
 "url": "https://filemoon.to/d/mh124pltq93z/Martin",
 "info": "[2024][Acción Drama Suspenso]",
@@ -9799,6 +9823,7 @@
 
   ]
 }
+
 
 
 
