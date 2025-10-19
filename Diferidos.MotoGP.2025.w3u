@@ -1229,8 +1229,8 @@
         {
           "name": "Post MotoGP Australia 2025",
           "info": "[19/10/2025]",
-          "image": "ttps://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
-          "url": "",
+          "image": "https://i.postimg.cc/xdPT3CL6/Logo-Moto-GP.jpg",
+          "url": "https://pixeldrain.com/u/q42oCBEn",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
           "online": "true"
