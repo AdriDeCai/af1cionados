@@ -422,7 +422,7 @@
 	"name": "TISSOT ARAGON (ESPAÑA)",
 	"image": "https://i.postimg.cc/pTJnTJQj/Bandera-Aragon.jpg",
 	"imageScale": "",
-	"info":"ROUND 10",
+	"info":"[ROUND 10]",
 	"stations":
 		[
 			{
@@ -462,7 +462,7 @@
 	"name": "ESTORIL (PORTUGAL)",
 	"image": "https://i.postimg.cc/pLRvXZMb/bandera-de-portugal-actual.jpg",
 	"imageScale": "",
-	"info":"ROUND 11",
+	"info":"[ROUND 11]",
 	"stations":
 		[
 			{
@@ -500,9 +500,9 @@
 
 	{
 	"name": "PROMETEON (ESPAÑA)",
-	"image": "ttps://i.postimg.cc/QM7ynZJM/Bandera_España.jpg",
+	"image": "https://i.postimg.cc/QM7ynZJM/Bandera_España.jpg",
 	"imageScale": "",
-	"info":"ROUND 12",
+	"info":"[ROUND 12]",
 	"stations":
 		[
 			{
@@ -518,7 +518,7 @@
 			{
 			"name": "SBK SUPERPOLE RACE",
 			"info":"[18-20 Octubre 2024]",
-			"image": "https://i.postimg.cc/Xq8Kn52Z/SBK-Verde.jpg",
+			"image": "ttps://i.postimg.cc/Xq8Kn52Z/SBK-Verde.jpg",
 			"url": "",
       		"userAgent": "PlusMediaPlayer/0.0.9",
 			"embed":"",
@@ -528,7 +528,7 @@
 			{
 			"name": "SBK RACE 2",
 			"info":"[18-20 Octubre 2024]",
-			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"image": "ttps://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
 			"url": "",
       		"userAgent": "PlusMediaPlayer/0.0.9",
 			"embed":"",
