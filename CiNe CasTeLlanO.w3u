@@ -3762,6 +3762,18 @@
       "online": "true",
       "import": false
     },
+{
+"name": "FANTASMAGORIA",
+"image": "https://pics.filmaffinity.com/fantasmagoria-516179378-large.jpg",
+"url": "https://filemoon.to/d/lgorn2k1rziu/Fantasmagor_a",
+"info": "[2025][Terror]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "FARO",
       "image": "https://pics.filmaffinity.com/faro-213593399-mmed.jpg",
@@ -10015,6 +10027,7 @@
 
   ]
 }
+
 
 
 
