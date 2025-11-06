@@ -1497,6 +1497,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+{
+"name": "BOOK, THE (EL LIBRO)",
+"image": "https://hdfullcdn.cc/tthumb/172x256/movie_a7f23bfcb34810a7aa6b8b5ca8921c53.jpg",
+"url": "https://filemoon.to/d/lpw93ydvdxf2/The_Book_El_Libro",
+"info": "[2024][Terror]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "BORDERLANDS",
       "image": "https://i.postimg.cc/VLZRsVpF/IMG-20241107-225224-620.jpg",
@@ -4510,6 +4522,18 @@
       "online": "true",
       "import": false
     },
+{
+"name": "HERENCIA MALDITA",
+"image": "https://pics.filmaffinity.com/a_semente_do_mal-366279818-large.jpg",
+"url": "https://filemoon.to/d/346r2ljtos7g/Herencia_maldita",
+"info": "[2024][Misterio, Terror]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "HERMANA MUERTE",
       "image": "https://pics.filmaffinity.com/hermana_muerte-203218447-large.jpg",
@@ -4884,6 +4908,18 @@
       "online": "true",
       "import": false
     },
+{
+"name": "INHERITANCE",
+"image": "https://pics.filmaffinity.com/inheritance-811226769-large.jpg",
+"url": "https://filemoon.to/d/dhykgohmhuz0/Inheritance",
+"info": "[2025][Suspense]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "INMORTALES. LOS",
       "info": "[1986][Español]",
@@ -5341,6 +5377,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+{
+"name": "KOLN 75",
+"image": "https://pics.filmaffinity.com/koln_75-552917268-large.jpg",
+"url": "https://filemoon.to/d/xhsm4g2v0u5i/K_ln_75",
+"info": "[2025][Drama, Historia]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "KRAVEN, THE HUNTER",
       "image": "https://pics.filmaffinity.com/kraven_the_hunter-206172064-large.jpg",
@@ -6011,17 +6059,6 @@
       "import": false
     },
     {
-      "name": "MAÑANA ES HOY",
-      "image": "https://pics.filmaffinity.com/manana_es_hoy-832134336-large.jpg",
-      "url": "https://listeamed.net/v/VqbX53gqW6o5Qzp",
-      "info": "2022",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
       "name": "MAPA QUE ME LLEVA A TI, EL",
       "image": "https://pics.filmaffinity.com/the_map_that_leads_to_you-994903243-large.jpg",
       "url": "https://filemoon.to/d/uu6xlzvryodt/El_mapa_que_me_lleva_a_ti",
@@ -6141,6 +6178,18 @@
       "isHost": "true",
       "online": "true"
     },
+{
+"name": "MAS ALLA DEL MURO",
+"image": "https://pics.filmaffinity.com/east_of_wall-942568349-large.jpg",
+"url": "https://filemoon.to/d/o3wla37kh8ut/M_s_all__del_muro",
+"info": "[2025][Drama, Western]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "MASCOTAS EN APUROS",
       "image": "https://pics.filmaffinity.com/gracie_and_pedro_pets_to_the_rescue-909786605-mmed.jpg",
@@ -6787,15 +6836,30 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-    {
-      "name": "NEFARIOUS, CUANDO HABLA EL DIABLO",
-      "info": "[2023][Español]",
-      "image": "https://pics.filmaffinity.com/nefarious-652173351-large.jpg",
-      "url": "https://filemoon.to/d/0mdo8x24ji1u",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
+{
+"name": "NAVIDAD BAJO LAS LUCES",
+"image": "https://pics.filmaffinity.com/christmas_under_the_lights-118095254-large.jpg",
+"url": "https://filemoon.to/d/sybiiffg5ify/Navidad_bajo_las_luces",
+"info": "[2024][Drama]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "NEFARIOUS, CUANDO HABLA EL DIABLO",
+"info": "[2023][Español]",
+"image": "https://pics.filmaffinity.com/nefarious-652173351-large.jpg",
+"url": "https://filemoon.to/d/0mdo8x24ji1u",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "NEGOCIO DEL DOLOR, EL",
       "image": "https://pics.filmaffinity.com/pain_hustlers-140078745-large.jpg",
@@ -6983,6 +7047,18 @@
       "isHost": "true",
       "online": "true"
     },
+{
+"name": "NUESTRA HISTORIA DE VACACIONES",
+"image": "https://pics.filmaffinity.com/our_holiday_story-225730125-large.jpg",
+"url": "https://filemoon.to/d/90gz5g4czn97/Nuestra_historia_de_vacaciones",
+"info": "[2024][Comedia, Romance]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "NUESTRO HOGAR (ASTRAL CITY)",
       "image": "https://pics.filmaffinity.com/nosso_lar_astral_city_a_spiritual_journey-796835827-large.jpg",
@@ -7815,6 +7891,18 @@
       "online": "true",
       "import": false
     },
+{
+"name": "QUERIDA LADRONA, MI",
+"image": "https://pics.filmaffinity.com/la_pie_voleuse-127133852-large.jpg",
+"url": "https://filemoon.to/d/hj5eqwczrlo2/Mi_querida_ladrona",
+"info": "[2025][Comedia, Drama]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "¿ QUIEN ES QUIEN ?",
       "image": "https://i.postimg.cc/nryJKKwy/IMG-20250329-215352-502.jpg",
@@ -8877,6 +8965,18 @@
       "online": "true",
       "import": false
     },
+{
+"name": "SPINAL TAP II: EL FINAL CONTINUA",
+"image": "https://pics.filmaffinity.com/spinal_tap_ii_the_end_continues-619607573-large.jpg",
+"url": "https://filemoon.to/d/nw5tokuyy9w3/Spinal_Tap_II_El_final_contin_a",
+"info": "[2025][Comedia]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "STILLNESS IN THE STORM",
       "image": "https://pics.filmaffinity.com/gelditasuna_ekaitzean-474192990-large.jpg",
@@ -9352,6 +9452,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+{
+"name": "TODO LO QUE NECESITO PARA NAVIDAD",
+"image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u7LDQzTsmiDFfCEPLlV29LLMH25.jpg",
+"url": "https://filemoon.to/d/6o5e1sh24egk/Todo_lo_que_necesito_para_Navidad",
+"info": "[2025][Comedia, Romance]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "TODO LO QUE NO SE",
       "image": "https://pics.filmaffinity.com/todo_lo_que_no_se-776503060-large.jpg",
@@ -9614,6 +9726,18 @@
       "isHost": "true",
       "online": "true"
     },
+{
+"name": "ULTIMO REFUGIO,EL",
+"image": "https://pics.filmaffinity.com/for_morket-406589871-large.jpg",
+"url": "https://filemoon.to/d/f2pkdfvm22qs/El__ltimo_refugio",
+"info": "[2025][Suspense, Drama]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "VACACIONES DE VERANO",
       "info": "2023",
@@ -9906,6 +10030,18 @@
       "online": "true",
       "import": false
     },
+{
+"name": "VOY A PASARMELO MEJOR",
+"image": "https://pics.filmaffinity.com/voy_a_pasarmelo_mejor-231121592-large.jpg",
+"url": "https://filemoon.to/d/i7852aijgexa/Voy_a_pas_rmelo_mejor",
+"info": "[2025][Comedia]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "VUELO AL LIMITE",
       "info": "2023",
@@ -10075,13 +10211,4 @@
 
   ]
 }
-
-
-
-
-
-
-
-
-
 
