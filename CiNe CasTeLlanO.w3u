@@ -1356,6 +1356,18 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
+{
+"name": "BLACK DOG",
+"image": "https://pics.filmaffinity.com/gou_zhen-905223433-large.jpg",
+"url": "https://filemoon.to/d/trqn5hj8x0li/Black_Dog",
+"info": "[2024][Drama]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "BLACK FRIDAY",
       "image": "https://i.postimg.cc/hGdnqFJS/Black-Friday-2023-Pelicula.jpg",
@@ -3340,6 +3352,18 @@
       "isHost": "true",
       "online": "true"
     },
+{
+"name": "EN BUSCA DE JOY",
+"image": "https://pics.filmaffinity.com/tyler_perry_s_finding_joy-126789104-large.jpg",
+"url": "https://filemoon.to/d/z1zd6vzqyqav/En_busca_de_Joy",
+"info": "[2025][Drama]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "ENCIENDEME",
       "image": "https://i.postimg.cc/vT6njwQs/IMG-20250407-232315-694.jpg",
@@ -3845,6 +3869,18 @@
       "online": "true",
       "import": false
     },
+{
+"name": "FIN DE LA LEALTAD",
+"image": "https://pics.filmaffinity.com/end_of_loyalty-972652959-large.jpg",
+"url": "https://filemoon.to/d/lhn4emzvwlyn/Fin_de_la_lealtad",
+"info": "[2023][Acción, Crimen]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "FINAL DE NUESTROS DIAS, EL",
       "image": "https://i.postimg.cc/RhQtsk17/IMG-20250224-122141-879.jpg",
@@ -10039,6 +10075,7 @@
 
   ]
 }
+
 
 
 
