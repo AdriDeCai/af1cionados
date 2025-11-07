@@ -7,47 +7,68 @@
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": "@YIsus_mEx",
 "stations":
-	[
-    {
-      "name": "PADRE NO HAY MAS QUE UNO 1",
-      "image": "https://pics.filmaffinity.com/padre_no_hay_mas_que_uno-289733769-large.jpg",
-      "url": "https://filemoon.sx/d/cgnwy1vdkjnq/Padre_No_Hay_Mas_que_Uno__2019_.mp4",
-      "info": "2019",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "PADRE NO HAY MAS QUE UNO 2",
-      "image": "https://pics.filmaffinity.com/padre_no_hay_mas_que_uno_2_la_llegada_de_la_suegra-719430009-large.jpg",
-      "url": "https://filemoon.sx/d/tg2vsco2coqr/Padre_no_hay_mas_que_Uno_II__2020_.mp4",
-      "info": "2020",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "PADRE NO HAY MAS QUE UNO 3",
-      "image": "https://pics.filmaffinity.com/padre_no_hay_mas_que_uno_3-400727246-large.jpg",
-      "url": "https://filemoon.sx/d/mqporuqu3wxq/Padre_no_hay_mas_que_Uno_III__2021_.mp4",
-      "info": "2022",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "PADRE NO HAY MAS QUE UNO 4",
-      "image": "https://pics.filmaffinity.com/padre_no_hay_mas_que_uno_4_campanas_de_boda-493339264-large.jpg",
-      "url": "https://filemoon.sx/d/0qc2n8xfuz1y",
-      "info": "2024",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    }
+[
+{
+"name": "PADRE NO HAY MAS QUE UNO 1",
+"image": "https://pics.filmaffinity.com/padre_no_hay_mas_que_uno-289733769-large.jpg",
+"url": "https://filemoon.sx/d/cgnwy1vdkjnq/Padre_No_Hay_Mas_que_Uno__2019_.mp4",
+"info": "[2019][Comedia]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "PADRE NO HAY MAS QUE UNO 2",
+"image": "https://pics.filmaffinity.com/padre_no_hay_mas_que_uno_2_la_llegada_de_la_suegra-719430009-large.jpg",
+"url": "https://filemoon.sx/d/tg2vsco2coqr/Padre_no_hay_mas_que_Uno_II__2020_.mp4",
+"info": "[2020][Comedia]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "PADRE NO HAY MAS QUE UNO 3",
+"image": "https://pics.filmaffinity.com/padre_no_hay_mas_que_uno_3-400727246-large.jpg",
+"url": "https://filemoon.sx/d/mqporuqu3wxq/Padre_no_hay_mas_que_Uno_III__2021_.mp4",
+"info": "[2022][Comedia]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "PADRE NO HAY MAS QUE UNO 4",
+"image": "https://pics.filmaffinity.com/padre_no_hay_mas_que_uno_4_campanas_de_boda-493339264-large.jpg",
+"url": "https://filemoon.sx/d/0qc2n8xfuz1y",
+"info": "[2024][Comedia]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "PADRE NO HAY MAS QUE UNO 5: NIDO REPLETO",
+"image": "https://pics.filmaffinity.com/padre_no_hay_mas_que_uno_5_nido_repleto-219461623-large.jpg",
+"url": "https://filemoon.to/d/sb9qxmk8v4bz/Padre_no_hay_m_s_que_uno_5_Nido_repleto.mp4",
+"info": "[2025][Comedia]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
 
 ]
 }
+
