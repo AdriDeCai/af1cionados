@@ -1313,7 +1313,7 @@
 
     {
       "name": "AUTODROMO INTERNACIONAL DO ALGARVE (PORTUGAL)",
-      "image": "ttps://i.postimg.cc/pLRvXZMb/bandera-de-portugal-actual.jpg",
+      "image": "https://i.postimg.cc/pLRvXZMb/bandera-de-portugal-actual.jpg",
       "imageScale": "",
       "info": "[ROUND 21]",
       "stations": 
@@ -1321,8 +1321,8 @@
         {
           "name": "Sprint MotoGP Portugal 2025",
           "info": "[08/11/2025]",
-          "image": "ttps://i.postimg.cc/Wzg3Hzcf/motogp-sprint.png",
-          "url": "",
+          "image": "https://i.postimg.cc/Wzg3Hzcf/motogp-sprint.png",
+          "url": "https://pixeldrain.com/u/TsTtoYsw",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
           "online": "true"
