@@ -3257,6 +3257,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+{
+"name": "DOWNTON ABBEY: EL GRAN FINAL",
+"image": "https://pics.filmaffinity.com/downton_abbey_the_grand_finale-653529586-large.jpg",
+"url": "https://filemoon.to/d/h2tik7i6w6kn/Downton_Abbey_El_gran_final",
+"info": "[2025][Drama, romance]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "DUAL",
       "image": "https://pics.filmaffinity.com/dual-155453589-large.jpg",
@@ -3980,10 +3992,25 @@
       "image": "https://pics.filmaffinity.com/the_forge-998430397-large.jpg",
       "url": "https://filemoon.to/d/oh2911eq926j/Fragua__La__2024__Pelicula.mp4",
       "info": "[Español 2024]",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "isHost": "true",
-      "online": "true"
-    },
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "FRANKENSTEIN",
+"image": "https://pics.filmaffinity.com/frankenstein-244825237-large.jpg",
+"url": "https://filemoon.to/d/7f87rupfv5wj/Frankenstein_2025",
+"info": "[2025][Drama, terror]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "FRENCH LOVER",
       "image": "https://pics.filmaffinity.com/french_lover-746570295-large.jpg",
@@ -5839,6 +5866,18 @@
       "online": "true",
       "import": false
     },
+{
+"name": "LOVE-WAR",
+"image": "https://pics.filmaffinity.com/love_war-392718587-large.jpg",
+"url": "https://filemoon.to/d/8pei2a7k7th6/Love_War",
+"info": "[2025][Bélico, documental]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "LUGAR MARAVILLOSO, UN",
       "image": "https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/91/83/91/20165847.jpg",
@@ -6871,16 +6910,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-    {
-      "name": "NEXT EXIT",
-      "info": "2022",
-      "image": "https://i.postimg.cc/MK8Pdqg6/large-next-exit-movie-poster-2022.webp",
-      "url": "https://upstream.to/p8wfpz2jts1d",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
+{
+"name": "NEVER ALONE (NUNCA MAS)",
+"image": "https://pics.filmaffinity.com/ei_koskaan_yksin-430398890-large.jpg",
+"url": "https://filemoon.to/d/qpbxb7aqq4bf/Never_Alone__Nunca_m_s_",
+"info": "[2025][Drama, historia]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "NI EN SUEÑOS",
       "info": "2010",
@@ -10211,4 +10252,5 @@
 
   ]
 }
+
 
