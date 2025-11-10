@@ -1391,6 +1391,18 @@
       "online": "true",
       "import": false
     },
+{
+"name": "BLACK PHONE 2",
+"image": "https://pics.filmaffinity.com/black_phone_2-696045326-large.jpg",
+"url": "https://filemoon.to/d/08oonki29jil/Black_Phone_2",
+"info": "[2025][Suspense, terror]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "BLACKHAT AMENAZA EN LA RED",
       "image": "https://pics.filmaffinity.com/blackhat-993974090-large.jpg",
@@ -4035,15 +4047,18 @@
       "online": "true",
       "import": false
     },
-    {
-      "name": "FRESH",
-      "image": "https://es.web.img2.acsta.net/pictures/22/03/21/17/30/4116877.jpg",
-      "url": "https://filemoon.to/d/8m27ki3o0g8a",
-      "info": "[Español 2022]",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "isHost": "true",
-      "online": "true"
-    },
+{
+"name": "FRESH",
+"image": "https://pics.filmaffinity.com/fresh-522005614-large.jpg",
+"url": "https://filemoon.to/d/9eanb2yvocez/FRESH.mp4",
+"info": "[2022][Thriller, terror]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "FREWAKA",
       "image": "https://m.media-amazon.com/images/M/MV5BYzljNmZiODgtYzNiZC00YTk0LWIzNDgtZmQzNjZlNzQ1MDYwXkEyXkFqcGc@._V1_.jpg",
@@ -9565,24 +9580,6 @@
       "import": false
     },
     {
-      "name": "TRAMPA, LA",
-      "info": "[2024][Español]",
-      "image": "https://es.web.img3.acsta.net/img/6f/23/6f23fb1b04dc2b8ca6aba2f896fb0195.jpg",
-      "url": "https://vidhideplus.com/v/kbskua1p41ou",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
-    {
-      "name": "TRAMPA, LA",
-      "image": "https://pics.filmaffinity.com/trap-586929828-large.jpg",
-      "url": "https://listeamed.net/v/b4ZJx2mm49R52P3",
-      "info": "[Español][2024]",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
-    {
       "name": "TRANSFORMER, EL DESPERTAR DE LAS BESTIAS",
       "info": "2023",
       "image": "https://pics.filmaffinity.com/transformers_rise_of_the_beasts-717876501-large.jpg",
@@ -9631,6 +9628,18 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
+{
+"name": "TRON: ARES",
+"image": "https://pics.filmaffinity.com/tron_ares-548031766-large.jpg",
+"url": "https://filemoon.to/d/om64f1eoswnn/TRON_Ares",
+"info": "[2025][Acción, aventura]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "TURISTAS",
       "info": "[2006][Español]",
@@ -10049,6 +10058,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+{
+"name": "VISTA VIRTUAL",
+"image": "https://pics.filmaffinity.com/sight_extended-258733286-large.jpg",
+"url": "https://filemoon.to/d/i81tdymeg53k/Vista_virtual",
+"info": "[2025][Drama, sci-fy]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "VIUDA NEGRA, LA",
       "image": "https://pics.filmaffinity.com/la_viuda_negra-467878135-large.jpg",
@@ -10264,6 +10285,7 @@
 
   ]
 }
+
 
 
 
