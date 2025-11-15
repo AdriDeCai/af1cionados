@@ -1377,7 +1377,7 @@
 
     {
       "name": "GRAN PREMIO VALENCIA (ESPAÑA)",
-      "image": "ttps://i.postimg.cc/CMRGwBsV/Bandera_Comunitat_Valenciana.jpg",
+      "image": "https://i.postimg.cc/CMRGwBsV/Bandera_Comunitat_Valenciana.jpg",
       "imageScale": "",
       "info": "[ROUND 22]",
       "stations": 
@@ -1385,8 +1385,8 @@
         {
           "name": "Sprint MotoGP Valencia 2025",
           "info": "[15/11/2025]",
-          "image": "ttps://i.postimg.cc/Wzg3Hzcf/motogp-sprint.png",
-          "url": "",
+          "image": "https://i.postimg.cc/Wzg3Hzcf/motogp-sprint.png",
+          "url": "https://pixeldrain.com/u/UwUj7yei",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
           "online": "true"
