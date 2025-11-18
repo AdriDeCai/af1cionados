@@ -6733,15 +6733,18 @@
       "online": "true",
       "import": false
     },
-    {
-      "name": "MONSTRUO, EL",
-      "image": "https://i.postimg.cc/XqNcjtLB/Monstruo-El-1994-Pelicula.jpg",
-      "url": "https://filemoon.to/d/52pgnembg06i/Montruo_El_Roberto_Benigni__1994_Pelicula__Spanish_Italian_Subs_BDrip_1080p.mkv",
-      "info": "[Español][1994]",
-      "embed": "",
-      "isHost": "true",
-      "online": "true"
-    },
+{
+"name": "MONSTRUO, EL",
+"image": "https://i.postimg.cc/XqNcjtLB/Monstruo-El-1994-Pelicula.jpg",
+"url": "https://filemoon.to/d/52pgnembg06i/Montruo_El_Roberto_Benigni__1994_Pelicula__Spanish_Italian_Subs_BDrip_1080p.mkv",
+"info": "[Español][1994]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "MONSTRUO",
       "image": "https://pics.filmaffinity.com/kaibutsu-770906467-large.jpg",
@@ -6835,6 +6838,18 @@
       "online": "true",
       "import": false
     },
+{
+"name": "MUNICH EN VISPERA DE UNA GUERRA",
+"image": "https://hdfullcdn.cc/tthumb/172x256/movie_0154d4dc14484e6438c137b3347d63e9.jpg",
+"url": "https://filemoon.to/d/s9ih4r04m7mh/M_nich_en_v_speras_de_una_guerra",
+"info": "[2021][Drama Historia]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "MURDER COMPANY",
       "image": "https://pics.filmaffinity.com/murder_company-732602008-large.jpg",
@@ -10297,6 +10312,7 @@
 
   ]
 }
+
 
 
 
