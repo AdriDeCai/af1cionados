@@ -1,0 +1,62 @@
+{
+  "name": "Diferidos MotoGP 2026",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "",
+  "image": "https://images3.alphacoders.com/595/595865.jpg",
+  "telegram": "Lista_AF1CIONADOS",
+  "info": "",
+  "groups": 
+  [
+
+    {
+      "name": "VALENCIA MOTOGP OFFICIAL TEST 2026",
+      "image": "https://i.postimg.cc/L6s6cmFX/Bandera-Malasia.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "VALENCIA TEST DAY 1 MORNING SESSION",
+          "info": "[18-11-2025]",
+          "image": "ttps://i.postimg.cc/XJQgrXzn/2024-Sepang-Test-1.png",
+          "url": ""
+        },
+        {
+          "name": "VALENCIA TEST DAY 1 AFTERNOON SESSION",
+          "info": "[18-11-2025]",
+          "image": "ttps://i.postimg.cc/XJQgrXzn/2024-Sepang-Test-1.png",
+          "url": ""
+        }
+      ]
+    }
+
+    {
+      "name": "SEPANG TEST 2026",
+      "image": "ttps://i.postimg.cc/L6s6cmFX/Bandera-Malasia.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "SEPANG TEST DAY 1",
+          "info": "[05-02-2026]",
+          "image": "ttps://i.postimg.cc/XJQgrXzn/2024-Sepang-Test-1.png",
+          "url": ""
+        },
+        {
+          "name": "SEPANG TEST DAY 2",
+          "info": "[05-02-2026]",
+          "image": "ttps://i.postimg.cc/XJQgrXzn/2024-Sepang-Test-1.png",
+          "url": ""
+        },
+        {
+          "name": "SEPANG TEST DAY 3",
+          "info": "[05-02-2026]",
+          "image": "ttps://i.postimg.cc/XJQgrXzn/2024-Sepang-Test-1.png",
+          "url": ""
+        }
+      ]
+    }
+
+]
+}
