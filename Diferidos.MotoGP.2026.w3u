@@ -2,31 +2,15 @@
   "name": "Diferidos MotoGP 2026",
   "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
   "url": "https://af1cionados.vercel.app/Diferidos.MotoGP.2026.w3u",
-  "image": "https://images3.alphacoders.com/595/595865.jpg",
+  "image": "https://i.postimg.cc/rFNZkdhw/2026-Moto-GP-Logo.jpg",
   "telegram": "Lista_AF1CIONADOS",
   "info": "",
   "groups": 
   [
 
     {
-      "name": "CALENDARIO MOTOGP 2026",
-      "image": "ttps://i.postimg.cc/L6s6cmFX/Bandera-Malasia.png",
-      "imageScale": "",
-      "info": "",
-      "stations": 
-      [
-        {
-          "name": "CALENDARIO MOTOGP 2026",
-          "info": "[27-02-2026]",
-          "image": "ttps://i.postimg.cc/XJQgrXzn/2024-Sepang-Test-1.png",
-          "url": "https://www.motogp.com/es/calendar?view=grid"
-        }
-      ]
-    },
-
-    {
       "name": "VALENCIA MOTOGP OFFICIAL TEST 2026",
-      "image": "https://i.postimg.cc/L6s6cmFX/Bandera-Malasia.png",
+      "image": "https://i.postimg.cc/hGj5MS1m/2025-11-02-Test-Valencia-Moto-GP-2026.png",
       "imageScale": "",
       "info": "",
       "stations": 
@@ -34,14 +18,30 @@
         {
           "name": "VALENCIA TEST DAY 1 MORNING SESSION",
           "info": "[18-11-2025]",
-          "image": "ttps://i.postimg.cc/XJQgrXzn/2024-Sepang-Test-1.png",
+          "image": "https://i.postimg.cc/hGj5MS1m/2025-11-02-Test-Valencia-Moto-GP-2026.png",
           "url": "https://pixeldrain.com/u/AnMfWgtj"
         },
         {
           "name": "VALENCIA TEST DAY 1 AFTERNOON SESSION",
           "info": "[18-11-2025]",
-          "image": "ttps://i.postimg.cc/XJQgrXzn/2024-Sepang-Test-1.png",
+          "image": "https://i.postimg.cc/hGj5MS1m/2025-11-02-Test-Valencia-Moto-GP-2026.png",
           "url": "https://pixeldrain.com/u/BRFMhdif"
+        }
+      ]
+    },
+
+    {
+      "name": "CALENDARIO MOTOGP 2026",
+      "image": "https://i.postimg.cc/65tzYW9y/calendario-motogp-2026.jpg",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "CALENDARIO MOTOGP 2026",
+          "info": "[27-02-2026]",
+          "image": "https://i.postimg.cc/65tzYW9y/calendario-motogp-2026.jpg",
+          "url": "https://www.motogp.com/es/calendar?view=grid"
         }
       ]
     },
@@ -75,7 +75,7 @@
     },
 
     {
-      "name": "CHANG INTERNATIONAL CIRCUIT (TAILANDIA)",
+      "name": "Chang International Circuit (TAILANDIA)",
       "image": "https://i.postimg.cc/MGLyQ900/Bandera-Tailandia.png",
       "imageScale": "",
       "info": "[ROUND 01]",
@@ -83,7 +83,7 @@
       [
         {
           "name": "Sprint MotoGP",
-          "info": "[27-02-2026]",
+          "info": "[28-02-2026]",
           "image": "https://i.postimg.cc/Wzg3Hzcf/motogp-sprint.png",
           "url": "",
           "userAgent": "PlusMediaPlayer/0.0.9",
@@ -92,7 +92,7 @@
         },
         {
           "name": "Carrera Moto3",
-          "info": "[28-02-2026]",
+          "info": "[01-03-2026]",
           "image": "https://i.postimg.cc/Wzg3Hzcf/motogp-sprint.png",
           "url": "",
           "userAgent": "PlusMediaPlayer/0.0.9",
@@ -101,7 +101,7 @@
         },
         {
           "name": "Carrera Moto2",
-          "info": "[28-02-2026]",
+          "info": "[01-03-2026]",
           "image": "https://i.postimg.cc/Wzg3Hzcf/motogp-sprint.png",
           "url": "",
           "userAgent": "PlusMediaPlayer/0.0.9",
@@ -110,13 +110,97 @@
         },
         {
           "name": "Carrera MotoGP",
-          "info": "[28-02-2026]",
+          "info": "[01-03-2026]",
           "image": "https://i.postimg.cc/Wzg3Hzcf/motogp-sprint.png",
           "url": "",
           "userAgent": "PlusMediaPlayer/0.0.9",
           "isHost": "true",
           "online": "true"
-        }
+        },
+        {
+          "name": "Post MotoGP",
+          "info": "[01-03-2026]",
+          "image": "https://i.postimg.cc/Wzg3Hzcf/motogp-sprint.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+	      {
+          "name": "Codigo MotoGP",
+          "info": "[02-03-2026]",
+          "image": "https://i.postimg.cc/Wzg3Hzcf/motogp-sprint.png",
+          "url": "",
+	        "userAgent":"PlusMediaPlayer/0.0.9",
+	        "embed":"",
+          "isHost":"true",
+          "online":"true"
+	      }
+      ]
+    },
+
+    {
+      "name": "Autódromo Internacional de Goiânia – Ayrton Senna (BRASIL)",
+      "image": "",
+      "imageScale": "",
+      "info": "[ROUND 02]",
+      "stations": 
+      [
+        {
+          "name": "Sprint MotoGP",
+          "info": "[21-03-2026]",
+          "image": "https://i.postimg.cc/Wzg3Hzcf/motogp-sprint.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera Moto3",
+          "info": "[22-03-2026]",
+          "image": "https://i.postimg.cc/Wzg3Hzcf/motogp-sprint.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera Moto2",
+          "info": "[22-03-2026]",
+          "image": "https://i.postimg.cc/Wzg3Hzcf/motogp-sprint.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera MotoGP",
+          "info": "[22-03-2026]",
+          "image": "https://i.postimg.cc/Wzg3Hzcf/motogp-sprint.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Post MotoGP",
+          "info": "[22-03-2026]",
+          "image": "https://i.postimg.cc/Wzg3Hzcf/motogp-sprint.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+	      {
+          "name": "Codigo MotoGP",
+          "info": "[23-03-2026]",
+          "image": "https://i.postimg.cc/Wzg3Hzcf/motogp-sprint.png",
+          "url": "",
+	        "userAgent":"PlusMediaPlayer/0.0.9",
+	        "embed":"",
+          "isHost":"true",
+          "online":"true"
+	      }
       ]
     }
 
