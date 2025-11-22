@@ -9,6 +9,22 @@
   [
 
     {
+      "name": "CALENDARIO MOTOGP 2026",
+      "image": "ttps://i.postimg.cc/L6s6cmFX/Bandera-Malasia.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "CALENDARIO MOTOGP 2026",
+          "info": "[27-02-2026]",
+          "image": "ttps://i.postimg.cc/XJQgrXzn/2024-Sepang-Test-1.png",
+          "url": "https://www.motogp.com/es/calendar?view=grid"
+        }
+      ]
+    },
+
+    {
       "name": "VALENCIA MOTOGP OFFICIAL TEST 2026",
       "image": "https://i.postimg.cc/L6s6cmFX/Bandera-Malasia.png",
       "imageScale": "",
