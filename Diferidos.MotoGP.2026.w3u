@@ -72,6 +72,52 @@
           "url": ""
         }
       ]
+    },
+
+    {
+      "name": "CHANG INTERNATIONAL CIRCUIT (TAILANDIA)",
+      "image": "https://i.postimg.cc/MGLyQ900/Bandera-Tailandia.png",
+      "imageScale": "",
+      "info": "[ROUND 01]",
+      "stations": 
+      [
+        {
+          "name": "Sprint MotoGP",
+          "info": "[27-02-2026]",
+          "image": "https://i.postimg.cc/Wzg3Hzcf/motogp-sprint.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera Moto3",
+          "info": "[28-02-2026]",
+          "image": "https://i.postimg.cc/Wzg3Hzcf/motogp-sprint.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera Moto2",
+          "info": "[28-02-2026]",
+          "image": "https://i.postimg.cc/Wzg3Hzcf/motogp-sprint.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Carrera MotoGP",
+          "info": "[28-02-2026]",
+          "image": "https://i.postimg.cc/Wzg3Hzcf/motogp-sprint.png",
+          "url": "",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
     }
 
 ]
