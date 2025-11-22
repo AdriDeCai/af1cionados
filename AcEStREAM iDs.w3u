@@ -1772,6 +1772,36 @@
       [
         {
           "name": "UFC",
+          "info": "",
+          "image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png",
+          "url": "acestream://822654b2c0db24d1de149cb21fdd44a3b968fbfa"
+        },
+        {
+          "name": "UFC",
+          "info": "",
+          "image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png",
+          "url": "acestream://"
+        },
+        {
+          "name": "UFC",
+          "info": "",
+          "image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png",
+          "url": "acestream://"
+        },
+        {
+          "name": "UFC",
+          "info": "",
+          "image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png",
+          "url": "acestream://"
+        },
+        {
+          "name": "UFC",
+          "info": "",
+          "image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png",
+          "url": "acestream://"
+        },
+        {
+          "name": "UFC",
           "info": "IDIOMA ESPAÑOL",
           "image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png",
           "url": "acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710"
@@ -1815,6 +1845,7 @@
 
   ]
 }
+
 
 
 
