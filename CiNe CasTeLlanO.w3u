@@ -8797,19 +8797,28 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-		{
-        "name": "SISTEMA VICTORIA, EL",
-        "image": "https://pics.filmaffinity.com/le_systeme_victoria-564425681-large.jpg",
-        "url": "https://filemoon.to/d/c7nc8xxugkaq/El_sistema_Victoria",
-        "info": "[2025]",
-		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-		"referer": "",
-        "embed":"",
-        "isHost":"true",
-        "online":"true",
-        "import": false
-        },
+	{
+    "name": "SISTEMA VICTORIA, EL",
+    "image": "https://pics.filmaffinity.com/le_systeme_victoria-564425681-large.jpg",
+    "url": "https://filemoon.to/d/c7nc8xxugkaq/El_sistema_Victoria",
+    "info": "[2025]",
+	"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+	"referer": "",
+    "embed":"",
+    "isHost":"true",
+    "online":"true",
+    "import": false
+    },
     {
+      "name": "Sirat Trance en el Desierto",
+      "info": "2025",
+      "image": "https://pics.filmaffinity.com/Sirat_Trance_en_el_desierto-126590950-large.jpg",
+      "url": "https://filemoon.to/d/9upaq3wyyqqy",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+	{
       "name": "SIZU",
       "info": "2023",
       "image": "https://es.web.img3.acsta.net/pictures/23/03/28/12/53/0991282.jpg",
@@ -10321,6 +10330,7 @@
 
   ]
 }
+
 
 
 
