@@ -3463,6 +3463,15 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
+	{
+      "name": "EL FRANCOTIRADOR",
+      "info": "[2012][Español]",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDNjNjFlOGUtYTc5Yy00ZDZiLTg4NzMtYjlmM2JmMTBkOWY4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "url": "https://filemoon.to/d/29ca8jxbsd2f/El_Francotirador.mp4",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
     {
       "name": "EL MANIQUI",
       "info": "[1987][Español]",
@@ -10330,6 +10339,7 @@
 
   ]
 }
+
 
 
 
