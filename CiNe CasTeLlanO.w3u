@@ -3998,6 +3998,18 @@
       "online": "true",
       "import": false
     },
+{
+"name": "FIVE NIGHTS AT FREDDY's",
+"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/t6RSJ1z8bDEYpk4fLwxfkXciUak.jpg",
+"url": "https://filemoon.to/d/816j3itkpoqj/Five_Nights_at_Freddy_s.mp4",
+"info": "[2023][Terror, Suspense]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "FLAMIN HOT, LA HISTORIA DE LOS CHEETOS PICANTES",
       "image": "https://pics.filmaffinity.com/flamin_hot-362842518-large.jpg",
@@ -10388,6 +10400,7 @@
 
   ]
 }
+
 
 
 
