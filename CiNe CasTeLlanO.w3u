@@ -666,6 +666,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+{
+"name": "AMELIE",
+"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/mYvUib00miJWxWkiXhy3QnrCj96.jpg",
+"url": "https://filemoon.to/d/8ngl22pyrwoh/Amelie",
+"info": "[2001][Comedia Drama Fantasía Romance]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "AMENAZA EN EL AIRE",
       "image": "https://pics.filmaffinity.com/flight_risk-426693593-large.jpg",
@@ -1379,18 +1391,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-    {
-      "name": "BLACK MIRROR. BANDERSNATCH",
-      "image": "https://pics.filmaffinity.com/black_mirror_bandersnatch-448598333-large.jpg",
-      "url": "https://filemoon.to/d/9x5inhv3jhp2/Black_Mirror_Bandersnatch",
-      "info": "[2018][Ciencia Ficción Drama Misterio Suspenso]",
-      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "embed": "",
-      "referer": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
+{
+"name": "BLACK MIRROR. BANDERSNATCH",
+"image": "https://pics.filmaffinity.com/black_mirror_bandersnatch-448598333-large.jpg",
+"url": "https://filemoon.to/d/9x5inhv3jhp2/Black_Mirror_Bandersnatch",
+"info": "[2018][Ciencia Ficción Drama Misterio Suspenso]",
+"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"embed": "",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
 {
 "name": "BLACK PHONE 1",
 "image": "https://pics.filmaffinity.com/the_black_phone-848459573-large.jpg",
@@ -1876,6 +1888,18 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
+{
+"name": "CARA OCULTA, LA",
+"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/uTct6rbioNV5EnPDPJXGP2FRL45.jpg",
+"url": "https://filemoon.to/d/ojfyqxxhfo88/La_Cara_Oculta.mp4",
+"info": "[2011][Suspense Misterio]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "CARAMELO",
       "image": "https://pics.filmaffinity.com/caramelo-924889368-large.jpg",
@@ -4415,17 +4439,18 @@
       "isHost": "true",
       "online": "true"
     },
-    {
-      "name": "GRAN TURISMO",
-      "image": "https://i.postimg.cc/cChjfF0N/Gran-Turismo-2023-Pelicula.jpg",
-      "url": "https://upstream.to/8intna9hffm8",
-      "info": "2023",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
+{
+"name": "GRAN TURISMO",
+"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/tVj5dn15iwkMhjU2wIih1yMy5LK.jpg",
+"url": "https://filemoon.to/d/933j6svjub0p/Gran_Turismo.mp4",
+"info": "[2023][Acción, drama]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "GRETA (LA VIUDA)",
       "image": "https://pics.filmaffinity.com/greta-807585991-large.jpg",
@@ -4584,19 +4609,19 @@
       "isHost": "true",
       "online": "true",
       "import": false
-    },
-    {
-      "name": "HEREJE",
-      "image": "https://i.postimg.cc/1z59yX6W/IMG-20250404-190433-418.jpg",
-      "url": "https://cybervynx.com/rsldxbpqmnwx",
-      "info": "2024",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "embed": "",
-      "referer": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
+    },    
+{
+"name": "HEREJE",
+"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/rpo3DJFMOSAz27gDwxJ5LIwIFni.jpg",
+"url": "https://filemoon.to/d/0xq7z543sabo/Hereje__2024_",
+"info": "[2024][Suspense Terror]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
 {
 "name": "HERENCIA MALDITA",
 "image": "https://pics.filmaffinity.com/a_semente_do_mal-366279818-large.jpg",
@@ -5207,6 +5232,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+{
+"name": "JOBS",
+"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/h4gbnZvtN4qAkgR28cOn845EIN9.jpg",
+"url": "https://filemoon.to/d/k8s9z3zs9i9w/Jobs",
+"info": "[2025][Drama]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "JOCKEY, EL",
       "image": "https://i.postimg.cc/rFrCcDss/IMG-20241224-095139-440.jpg",
@@ -7606,6 +7643,18 @@
       "online": "true",
       "import": false
     },
+{
+"name": "PASABA POR AQUI",
+"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/dAodJgWeUIIhdUCWxO9T9LMNLt2.jpg",
+"url": "https://filemoon.to/d/3h6wbfn0v34c/Pasaba_por_aqu_",
+"info": "[2022][Crimen Suspense]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "PASION DE CRISTO, LA",
       "image": "https://pics.filmaffinity.com/the_passion_of_the_christ-211498441-large.jpg",
@@ -10339,6 +10388,7 @@
 
   ]
 }
+
 
 
 
