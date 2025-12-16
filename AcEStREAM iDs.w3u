@@ -1506,6 +1506,12 @@
       [
         {
           "name": "Sky Sport F1 [1080]",
+          "info": "b79c",
+          "image": "https://i.postimg.cc/Hx1945X3/Sky-Sport-F1.png",
+          "url": "acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c"
+        },
+        {
+          "name": "Sky Sport F1 [1080]",
           "info": "7262",
           "image": "https://i.postimg.cc/Hx1945X3/Sky-Sport-F1.png",
           "url": "acestream://55a762c1e48db88542771a476c65ffc309bd7262"
@@ -1845,4 +1851,5 @@
 
   ]
 }
+
 
