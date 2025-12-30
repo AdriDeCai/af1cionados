@@ -6703,14 +6703,6 @@
       "online": "true",
       "import": false
     },
-    {
-      "name": "MIS 84 M²",
-      "image": "https://pbs.twimg.com/media/GwOp8EVXMAAsECo.jpg",
-      "url": "https://filemoon.to/d/kbl1jfo1cb4x",
-      "info": "2025",
-      "isHost": "true",
-      "online": "true"
-    },
 {
 "name": "MISS BOOTS",
 "image": "https://pics.filmaffinity.com/mlle_bottine-455098917-large.jpg",
@@ -6896,6 +6888,18 @@
       "online": "true",
       "import": false
     },
+{
+"name": "MUJERCITAS",
+"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/1GDyTbZld3x4P8vRSHCF0FY8g4C.jpg",
+"url": "https://byseraguci.com/d/85eaa4ebzu6z/mujercitas",
+"info": "[1949][Drama]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
 {
 "name": "MUNICH EN VISPERA DE UNA GUERRA",
 "image": "https://hdfullcdn.cc/tthumb/172x256/movie_0154d4dc14484e6438c137b3347d63e9.jpg",
@@ -8044,6 +8048,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+{
+"name": "PUÑALES POR LA ESPALDA: DE ENTRE LOS MUERTOS",
+"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/trGWfaYTkzkalkosXfxidpLum50.jpg",
+"url": "https://byseraguci.com/d/q6bf27wj6jrp/pu%C3%B1ales-por-la-espalda-de-entre-los-muertos",
+"info": "[2025][Comedia, crimen]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "QUEER",
       "image": "https://i.postimg.cc/4y7Gh2wv/IMG-20250329-215402-820.jpg",
@@ -10400,6 +10416,7 @@
 
   ]
 }
+
 
 
 
