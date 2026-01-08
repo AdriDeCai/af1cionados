@@ -241,6 +241,12 @@
           "url": "acestream://2a6b1fd8a24b23747db1ea534a51457708523602"
         },
         {
+          "name": "MOVISTAR LaLiga 4 (720)(Elcano)",
+          "info": "[85cb]",
+          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+          "url": "acestream://1bcee22d5476f2eae9dc2cb24e3685152cf285cb"
+        },
+        {
           "name": "DAZN LaLiga (FHD)(Shickat)",
           "info": "f4b1",
           "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
@@ -1851,6 +1857,7 @@
 
   ]
 }
+
 
 
 
