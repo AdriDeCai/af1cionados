@@ -680,12 +680,6 @@
       [
         {
           "name": "MOVISTAR PLUS (1080)(Elcano)",
-          "info": "582f",
-          "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
-          "url": "acestream://56ac8e227d526e722624675ccdd91b0cc850582f"
-        },
-        {
-          "name": "MOVISTAR PLUS (1080)(Elcano)",
           "info": "ab78",
           "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
           "url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78"
@@ -1874,6 +1868,7 @@
 
   ]
 }
+
 
 
 
