@@ -627,10 +627,22 @@
           "url": "acestream://17b8bc4bf8e29547b0071c742e3d7da3bcbc484d"
         },
         {
+          "name": "M. Liga de Campeones 4 (1080)(Elcano)",
+          "info": "a74c",
+          "image": "https://i.postimg.cc/HxVSdbJz/Liga-de-Campeones-4-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://e9f4493d2d851f4636720f639113e05b4a21a74c"
+        },
+        {
           "name": "M. Liga de Campeones 4 (FHD)(NewEra)",
           "info": "ec29",
           "image": "https://i.postimg.cc/HxVSdbJz/Liga-de-Campeones-4-por-Movistar-Plus-2022-logo.png",
           "url": "acestream://77998f8161373611ff6b348e7eda5b4e97d3ec29"
+        },
+        {
+          "name": "M. Liga de Campeones 5 (1080)(Elcano)",
+          "info": "b97d",
+          "image": "https://i.postimg.cc/mrqY3JD3/Liga-de-Campeones-5-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://5620c0ce3dcbf14a6375cb2c2d681207f45eb97d"
         },
         {
           "name": "M. Liga de Campeones 5 (FHD)(NewEra)",
@@ -1862,6 +1874,7 @@
 
   ]
 }
+
 
 
 
