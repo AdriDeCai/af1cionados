@@ -4466,7 +4466,7 @@
 {
 "name": "GRAN TURISMO",
 "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/tVj5dn15iwkMhjU2wIih1yMy5LK.jpg",
-"url": "https://filemoon.to/d/933j6svjub0p/Gran_Turismo.mp4",
+"url": "https://byseraguci.com/d/tvfkplvti6w2/gran-turismo",
 "info": "[2023][Acción, drama]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
@@ -8166,6 +8166,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+{
+"name": "RADICAL",
+"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/eSatbygYZp8ooprBHZdb6GFZxGB.jpg",
+"url": "https://byseraguci.com/d/uefqmbc3mngu/radical",
+"info": "[2023][ drama]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "RADLEY, LOS",
       "info": "2024",
@@ -10464,6 +10476,7 @@
 
   ]
 }
+
 
 
 
