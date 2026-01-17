@@ -5,240 +5,266 @@
   "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
   "info": "bY Af1cionados",
   "telegram": "Lista_AF1CIONADOS",
-  "groups": [
-    {
-      "name": "TEMPORADA 1",
-      "image": "https://www.dl.dropboxusercontent.com/s/kjm4kzc032pvbng/serie-foundation.jpg",
-      "stations": [
-        {
-          "name": "Capitulo 1",
-          "image": "https://www.dl.dropboxusercontent.com/s/kjm4kzc032pvbng/serie-foundation.jpg",
-          "url": "https://filemoon.to/d/w4fjdixovrli/Foundation_1x01_La_paz_del_emperador_AC3_Atmos_5_1_ES_EN_x265_1080p.mkv",
-          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "import": false
-        },
-        {
-          "name": "Capitulo 2",
-          "image": "https://www.dl.dropboxusercontent.com/s/kjm4kzc032pvbng/serie-foundation.jpg",
-          "url": "https://filemoon.to/d/r30bds3c7p0n/Foundation_1x02_Prepararse_para_vivir_AC3_Atmos_5_1_ES_EN_x265_1080p.mkv",
-          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "import": false
-        },
-        {
-          "name": "Capitulo 3",
-          "image": "https://www.dl.dropboxusercontent.com/s/kjm4kzc032pvbng/serie-foundation.jpg",
-          "url": "https://filemoon.to/d/hwkv7gg37tgp/Foundation_1x03_El_fantasma_del_matem_tico_AC3_Atmos_5_1_ES_EN_x265.mkv",
-          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "import": false
-        },
-        {
-          "name": "Capitulo 4",
-          "image": "https://www.dl.dropboxusercontent.com/s/kjm4kzc032pvbng/serie-foundation.jpg",
-          "url": "https://filemoon.to/d/lpj7afa7kdc8/Foundation_1x04_B_rbaros_a_las_puertas_AC3_Atmos_5_1_ES_EN_x265.mkv",
-          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "import": false
-        },
-        {
-          "name": "Capitulo 5",
-          "image": "https://www.dl.dropboxusercontent.com/s/kjm4kzc032pvbng/serie-foundation.jpg",
-          "url": "https://filemoon.to/d/ylt6p5wuyjlb/Foundation_1x05-Al_despertar_AC3_Atmos_5.1_ES_EN_x265_1080p.mkv",
-          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "import": false
-        },
-        {
-          "name": "Capitulo 6",
-          "image": "https://www.dl.dropboxusercontent.com/s/kjm4kzc032pvbng/serie-foundation.jpg",
-          "url": "https://filemoon.to/d/dqmt7expn5ar/Foundation_1x06_La_muerte_y_la_Doncella_AC3_Atmos_5_1_ES_EN_x265.mkv",
-          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "import": false
-        },
-        {
-          "name": "Capitulo 7",
-          "image": "https://www.dl.dropboxusercontent.com/s/kjm4kzc032pvbng/serie-foundation.jpg",
-          "url": "https://filemoon.to/d/h395kj38sruv/Foundation_1x07_Miterios_y_m_rtires_AC3_Atmos_5_1_ES_EN_x265_1080p.mkv",
-          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "import": false
-        },
-        {
-          "name": "Capitulo 8",
-          "image": "https://www.dl.dropboxusercontent.com/s/kjm4kzc032pvbng/serie-foundation.jpg",
-          "url": "https://filemoon.to/d/4ysugy2j2gck/Foundation_1x08_La_pieza_que_falta_AC3_Atmos_5_1_ES_EN_x265_1080p.mkv",
-          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "import": false
-        },
-        {
-          "name": "Capitulo 9",
-          "image": "https://www.dl.dropboxusercontent.com/s/kjm4kzc032pvbng/serie-foundation.jpg",
-          "url": "https://filemoon.to/d/92qbqyi073hw/Foundation_1x09_La_primera_crisis_AC3_Atmos_5_1_ES_EN_x265_1080p.mkv",
-          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "import": false
-        },
-        {
-          "name": "Capitulo 10",
-          "image": "https://www.dl.dropboxusercontent.com/s/kjm4kzc032pvbng/serie-foundation.jpg",
-          "url": "https://filemoon.to/d/xu9edehar5vi/Foundation_1x10-El_salto_AC3_Atmos_5.1_ES_EN_x265_1080p.mkv",
-          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "import": false
-        }
-      ]
-    },
+  "groups": 
+[
 
-    {
-      "name": "TEMPORADA 2",
-      "image": "https://i.ibb.co/HHmLsgT/p24738974-b-v13-ac.jpg",
-      "stations": [
-        {
-          "name": "Capitulo 1",
-          "image": "https://i.ibb.co/HHmLsgT/p24738974-b-v13-ac.jpg",
-          "url": "https://filemoon.to/d/no07n5478kg2/Fundacion_2x01_-_A_la_sombra_de_Seldon__x265_.mkv",
-          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "import": false
-        },
-        {
-          "name": "Capitulo 2",
-          "image": "https://i.ibb.co/HHmLsgT/p24738974-b-v13-ac.jpg",
-          "url": "https://filemoon.to/d/eg23fit0ftip/Fundacion_2x02_-_Un_atisbo_de_la_oscuridad__x265_.mkv",
-          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "import": false
-        },
-        {
-          "name": "Capitulo 3",
-          "image": "https://i.ibb.co/HHmLsgT/p24738974-b-v13-ac.jpg",
-          "url": "https://filemoon.to/d/hm63vae2dte6/Fundacion_2x03_-_Rey_y_Plebeyo__x265_.mkv",
-          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "import": false
-        },
-        {
-          "name": "Capitulo 4",
-          "image": "https://i.ibb.co/HHmLsgT/p24738974-b-v13-ac.jpg",
-          "url": "https://filemoon.to/d/eb6pd5shytlx/Fundacion_2x04_-_Donde_las_estrellas_son_mas_escasas__x265_.mkv",
-          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "import": false
-        },
-        {
-          "name": "Capitulo 5",
-          "image": "https://i.ibb.co/HHmLsgT/p24738974-b-v13-ac.jpg",
-          "url": "https://filemoon.to/d/unohw4ogilwh/Fundacion_2x05_-_Los_visuales_y_los_vistos__x265_.mkv",
-          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "import": false
-        },
-        {
-          "name": "Capitulo 6",
-          "image": "https://i.ibb.co/HHmLsgT/p24738974-b-v13-ac.jpg",
-          "url": "https://filemoon.to/d/krgteglcqsll/Fundacion_2x06_-_Por_que_los_dioses_crearon_el_vino__x265_.mkv",
-          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "import": false
-        },
-        {
-          "name": "Capitulo 7",
-          "image": "https://i.ibb.co/HHmLsgT/p24738974-b-v13-ac.jpg",
-          "url": "https://filemoon.to/d/zued46wi471r/Fundacion_2x07_-_Una_muerte_necesaria__x265_.mkv",
-          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "import": false
-        },
-        {
-          "name": "Capitulo 8",
-          "image": "https://i.ibb.co/HHmLsgT/p24738974-b-v13-ac.jpg",
-          "url": "https://filemoon.to/d/msacguqnzrfl/Fundacion_2x08_-_La_ultima_emperatriz__x265_.mkv",
-          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "import": false
-        },
-        {
-          "name": "Capitulo 9",
-          "image": "https://i.ibb.co/HHmLsgT/p24738974-b-v13-ac.jpg",
-          "url": "https://filemoon.to/d/dnglxwtc21np/Fundacion_2x09_-_Hace_ya_tiempo_no_lejos_de_aqui__x265_.mkv",
-          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "import": false
-        },
-        {
-          "name": "Capitulo 10",
-          "image": "https://i.ibb.co/HHmLsgT/p24738974-b-v13-ac.jpg",
-          "url": "https://filemoon.to/d/5f4aggskmrm9/Fundacion_2x10_-_Mitos_de_la_creacion__x265_.mkv",
-          "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "import": false
-        }
-      ]
-    },
+{
+"name": "TEMPORADA 1",
+"image": "https://www.dl.dropboxusercontent.com/s/kjm4kzc032pvbng/serie-foundation.jpg",
+"stations": 
+[
+{
+"name": "CAPITULO 1",
+"image": "https://www.dl.dropboxusercontent.com/s/kjm4kzc032pvbng/serie-foundation.jpg",
+"url": "https://byseraguci.com/d/gpgbm67byh1d/1x01-fundacion",
+"info": "[Español][2023]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://www.dl.dropboxusercontent.com/s/kjm4kzc032pvbng/serie-foundation.jpg",
+"url": "https://byseraguci.com/d/mbxiu5aszcf6/1x02-fundacion",
+"info": "[Español][2023]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://www.dl.dropboxusercontent.com/s/kjm4kzc032pvbng/serie-foundation.jpg",
+"url": "https://byseraguci.com/d/57asduc68oaf/1x04-fundacion",
+"info": "[Español][2023]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://www.dl.dropboxusercontent.com/s/kjm4kzc032pvbng/serie-foundation.jpg",
+"url": "https://byseraguci.com/d/2t3sy90m321v/1x03-fundacion",
+"info": "[Español 2017]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://www.dl.dropboxusercontent.com/s/kjm4kzc032pvbng/serie-foundation.jpg",
+"url": "https://byseraguci.com/d/6x0uu9pt14q4/1x05-fundacion",
+"info": "[Español][2023]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://www.dl.dropboxusercontent.com/s/kjm4kzc032pvbng/serie-foundation.jpg",
+"url": "https://byseraguci.com/d/a7u4w2dw6n3v/1x06-fundacion",
+"info": "[Español][2023]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 7",
+"image": "https://www.dl.dropboxusercontent.com/s/kjm4kzc032pvbng/serie-foundation.jpg",
+"url": "https://byseraguci.com/d/icaqywlbb1ed/1x07-fundacion",
+"info": "[Español][2023]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 8",
+"image": "https://www.dl.dropboxusercontent.com/s/kjm4kzc032pvbng/serie-foundation.jpg",
+"url": "https://byseraguci.com/d/s4kh1vz04olh/1x08-fundacion",
+"info": "[Español][2023]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 9",
+"image": "https://www.dl.dropboxusercontent.com/s/kjm4kzc032pvbng/serie-foundation.jpg",
+"url": "https://byseraguci.com/d/00jm2zl0fu2r/1x09-fundacion",
+"info": "[Español][2023]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 10",
+"image": "https://www.dl.dropboxusercontent.com/s/kjm4kzc032pvbng/serie-foundation.jpg",
+"url": "https://byseraguci.com/d/598zirfd5bdp/1x10-fundacion",
+"info": "[Español][2023]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+
+]
+},
+
+{
+"name": "TEMPORADA 2",
+"image": "https://i.ibb.co/HHmLsgT/p24738974-b-v13-ac.jpg",
+"stations": 
+[
+{
+"name": "CAPITULO 1",
+"image": "https://i.ibb.co/HHmLsgT/p24738974-b-v13-ac.jpg",
+"url": "https://byseraguci.com/d/l9d936zcpcws/fundacion-2x01",
+"info": "[Español][2024]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://i.ibb.co/HHmLsgT/p24738974-b-v13-ac.jpg",
+"url": "https://byseraguci.com/d/zgd3wnvkb9ht/fundación-2x02",
+"info": "[Español][2024]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://i.ibb.co/HHmLsgT/p24738974-b-v13-ac.jpg",
+"url": "https://byseraguci.com/d/4w5ir0mh1ro4/fundación-2x03",
+"info": "[Español][2024]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://i.ibb.co/HHmLsgT/p24738974-b-v13-ac.jpg",
+"url": "https://byseraguci.com/d/k7r78cirh7lv/fundación-2x04",
+"info": "[Español 2017]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://i.ibb.co/HHmLsgT/p24738974-b-v13-ac.jpg",
+"url": "https://byseraguci.com/d/u0vad2henia0/fundación-2x05",
+"info": "[Español][2024]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://i.ibb.co/HHmLsgT/p24738974-b-v13-ac.jpg",
+"url": "https://byseraguci.com/d/sq4j5bxuwkcg/fundación-2x06",
+"info": "[Español][2024]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 7",
+"image": "https://i.ibb.co/HHmLsgT/p24738974-b-v13-ac.jpg",
+"url": "https://byseraguci.com/d/yvzpb6chspaq/fundación-2x07",
+"info": "[Español][2024]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 8",
+"image": "https://i.ibb.co/HHmLsgT/p24738974-b-v13-ac.jpg",
+"url": "https://byseraguci.com/d/0gx0ngkee7kb/fundación-2x08",
+"info": "[Español][2024]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 9",
+"image": "https://i.ibb.co/HHmLsgT/p24738974-b-v13-ac.jpg",
+"url": "https://byseraguci.com/d/ri7qe3790yvk/fundacion-2x09",
+"info": "[Español][2024]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 10",
+"image": "https://i.ibb.co/HHmLsgT/p24738974-b-v13-ac.jpg",
+"url": "https://byseraguci.com/d/9p9vfrf39uhj/fundación-2x10",
+"info": "[Español][2024]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+
+]
+},
 
 {
 "name": "TEMPORADA 3",
