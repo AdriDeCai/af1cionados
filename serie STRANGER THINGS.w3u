@@ -1,5 +1,6 @@
 
-{"name": "STRANGER THINGS 4",
+{
+"name": "STRANGER THINGS",
 "image": "https://pics.filmaffinity.com/stranger_things_4-530118338-large.jpg",
 "url": "https://af1cionados.vercel.app/serie STRANGER THINGS.w3u",
 "info": "bY Af1cionados",
@@ -13,59 +14,104 @@
 "image": "https://www.dl.dropboxusercontent.com/s/ooxuv80tan43fbp/serie-strangerthings4.jpg",
 "stations":
 [
-{"name": "Capítulo 1",
+{
+"name": "Capítulo 1",
 "image": "https://www.dl.dropboxusercontent.com/s/ooxuv80tan43fbp/serie-strangerthings4.jpg",
 "url": "https://uqload.com/embed-e8p2302t1yr4.html",
+"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "embed": "true",
-"isHost": "true"},
-
-{"name": "Capítulo 2",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "Capítulo 2",
 "image": "https://www.dl.dropboxusercontent.com/s/ooxuv80tan43fbp/serie-strangerthings4.jpg",
 "url": "https://uqload.com/embed-7wimoi5k67nx.html",
+"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "embed": "true",
-"isHost": "true"},
-
-{"name": "Capítulo 3",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "Capítulo 3",
 "image": "https://www.dl.dropboxusercontent.com/s/ooxuv80tan43fbp/serie-strangerthings4.jpg",
 "url": "https://uqload.com/embed-zlnrntoov42d.html",
+"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "embed": "true",
-"isHost": "true"},
-
-{"name": "Capítulo 4",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "Capítulo 4",
 "image": "https://www.dl.dropboxusercontent.com/s/ooxuv80tan43fbp/serie-strangerthings4.jpg",
 "url": "https://uqload.com/embed-6hv1ed0or33n.html",
+"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "embed": "true",
-"isHost": "true"},
-
-{"name": "Capítulo 5",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "Capítulo 5",
 "image": "https://www.dl.dropboxusercontent.com/s/ooxuv80tan43fbp/serie-strangerthings4.jpg",
 "url": "https://uqload.com/embed-n1t453f8g6fx.html",
+"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "embed": "true",
-"isHost": "true"},
-
-{"name": "Capítulo 6",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "Capítulo 6",
 "image": "https://www.dl.dropboxusercontent.com/s/ooxuv80tan43fbp/serie-strangerthings4.jpg",
 "url": "https://uqload.com/embed-uxiqthvinesp.html",
+"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "embed": "true",
-"isHost": "true"},
-
-{"name": "Capítulo 7",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "Capítulo 7",
 "image": "https://www.dl.dropboxusercontent.com/s/ooxuv80tan43fbp/serie-strangerthings4.jpg",
 "url": "https://uqload.com/embed-ks1skf3i19lg.html",
+"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "embed": "true",
-"isHost": "true"},
-
-{"name": "Capítulo 8",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "Capítulo 8",
 "image": "https://www.dl.dropboxusercontent.com/s/ooxuv80tan43fbp/serie-strangerthings4.jpg",
 "url": "https://uqload.com/embed-svenj11hbt9b.html",
+"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "embed": "true",
-"isHost": "true"},
-
-{"name": "Capítulo 9",
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "Capítulo 9",
 "image": "https://www.dl.dropboxusercontent.com/s/ooxuv80tan43fbp/serie-strangerthings4.jpg",
 "url": "https://uqload.com/embed-o8fcfzugvrjm.html",
+"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "embed": "true",
-"isHost": "true"
+"referer": "",
+"isHost": "true",
+"online": "true",
+"import": false
 }
 ]
 },
