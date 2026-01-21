@@ -545,19 +545,19 @@
         {
           "name": "M. Liga de Campeones 1 (1080)(Elcano)",
           "info": "[415f]",
-          "image": "https://i.postimg.cc/WbdGh9zM/Liga-de-Campeones-2-por-Movistar-Plus-2022-logo.png",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
           "url": "acestream://2b51710cee513e8939785fa3e7980f32d4e0415f"
         },
         {
           "name": "M. Liga de Campeones 1 (1080)(Elcano)",
           "info": "[406e]",
-          "image": "https://i.postimg.cc/WbdGh9zM/Liga-de-Campeones-2-por-Movistar-Plus-2022-logo.png",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
           "url": "acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e"
         },
         {
           "name": "M. Liga de Campeones 1 (1080)(Elcano)",
           "info": "[1bc9]",
-          "image": "https://i.postimg.cc/WbdGh9zM/Liga-de-Campeones-2-por-Movistar-Plus-2022-logo.png",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
           "url": "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9"
         },
         {
@@ -643,6 +643,18 @@
           "info": "[a74c]",
           "image": "https://i.postimg.cc/HxVSdbJz/Liga-de-Campeones-4-por-Movistar-Plus-2022-logo.png",
           "url": "acestream://e9f4493d2d851f4636720f639113e05b4a21a74c"
+        },
+        {
+          "name": "M. Liga de Campeones 4 (1080)(Elcano)",
+          "info": "[7547]",
+          "image": "https://i.postimg.cc/HxVSdbJz/Liga-de-Campeones-4-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://64f01629d4a19e70efd9e6778c397282ba087547"
+        },
+        {
+          "name": "M. Liga de Campeones 4 (720)(Elcano)",
+          "info": "[11f2]",
+          "image": "https://i.postimg.cc/HxVSdbJz/Liga-de-Campeones-4-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://5ba9368d80d2f87ac1c6d71df4e7e6e26e6911f2"
         },
         {
           "name": "M. Liga de Campeones 4 (FHD)(NewEra)",
@@ -1901,6 +1913,7 @@
 
   ]
 }
+
 
 
 
