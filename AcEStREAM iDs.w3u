@@ -675,6 +675,12 @@
           "url": "acestream://cb6410a6355a645cfc6f6f5a7c7d71298fcbc2c5"
         },
         {
+          "name": "M. Liga de Campeones 6 (720)(Elcano)",
+          "info": "[2f25]",
+          "image": "https://i.postimg.cc/CLNbrz5x/Liga-de-Campeones-6-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://bf10192dc72a98ee835a1b7ccac8b27737d02f25"
+        },
+        {
           "name": "M. Liga de Campeones 6 (FHD)(NewEra)",
           "info": "6444",
           "image": "https://i.postimg.cc/CLNbrz5x/Liga-de-Campeones-6-por-Movistar-Plus-2022-logo.png",
@@ -1913,6 +1919,7 @@
 
   ]
 }
+
 
 
 
