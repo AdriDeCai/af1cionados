@@ -10,275 +10,288 @@
 [
 
 {
-"name": "TERMPORADA 1",
+"name": "Poker Face Temporada 1",
 "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
 "stations":
 [
-	       {
- 	       	"name": "La mano del muerto",
-	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
-	        "url": "https://filemoon.to/d/n20ocmkjy2r8/Poker_Face_1x01",
-        	"info": "1X01",
-			"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-        	"import": false
-        	},
-	       {
- 	       	"name": "El turno noche",
-	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
-	        "url": "https://filemoon.to/d/p6wf0nzanrjy/Poker_Face_1x02",
-        	"info": "1X02",
-			"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-        	"import": false
-        	},
-	       {
- 	       	"name": "El establo",
-	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
-	        "url": "https://filemoon.to/d/kmuvknnma2w8/Poker_Face_1x03",
-        	"info": "1X03",
-			"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-        	"import": false
-        	},
-	       {
- 	       	"name": "Descanso en Metal",
-	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
-	        "url": "https://filemoon.to/d/rg60pd9pxako/Poker_Face_1x04",
-        	"info": "1X04",
-			"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-        	"import": false
-        	},
-	       {
- 	       	"name": "El tiempo del mono",
-	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
-	        "url": "https://filemoon.to/d/w4o258j62zn5/Poker_Face_1x05",
-        	"info": "1X05",
-			"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-        	"import": false
-        	},
-	       {
- 	       	"name": "Salir del escenario muerto",
-	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
-	        "url": "https://filemoon.to/d/an1wlno8868u/Poker_face_1x06",
-        	"info": "1X06",
-			"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-        	"import": false
-        	},
-	       {
- 	       	"name": "El futuro del deporte",
-	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
-	        "url": "https://filemoon.to/d/emuzp8cgwtrx/Poker_face_1x07",
-        	"info": "1X07",
-			"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-        	"import": false
-        	},
-	       {
- 	       	"name": "El síndrome de Orfeo",
-	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
-	        "url": "https://filemoon.to/d/t8bzs8vgfcur/Poker_face_1x08",
-        	"info": "1X08",
-			"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-        	"import": false
-        	},
-	       {
- 	       	"name": "Escapar de la montaña de mierda",
-	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
-	        "url": "https://filemoon.to/d/2v9fs36ht9ra/Poker_face_1x09",
-        	"info": "1X09",
-			"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-        	"import": false
-        	},
-	       {
- 	       	"name": "El gancho",
-	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
-	        "url": "",
-        	"info": "1X10",
-			"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-        	"import": false
-        	}
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
+"url": "https://byseraguci.com/d/hklgwtcs6400/poker-face-1x01",
+"info": "[Español][2023]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
+"url": "https://byseraguci.com/d/yuou3gz1hcbl/poker-face-1x02",
+"info": "[Español][2023]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
+"url": "https://byseraguci.com/d/m7fcnn55x3yi/poker-face-1x03",
+"info": "[Español][2023]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
+"url": "https://byseraguci.com/d/55vgc7m8jicp/poker-face-1x04",
+"info": "[Español 2017]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
+"url": "https://byseraguci.com/d/1hxxk31fgkd2/poker-face-1x05",
+"info": "[Español][2023]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
+"url": "https://byseraguci.com/d/ci1rufk4u7r7/poker-face-1x06",
+"info": "[Español][2023]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 7",
+"image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
+"url": "https://byseraguci.com/d/90vd9n2231t0/poker-face-1x07",
+"info": "[Español][2023]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 8",
+"image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
+"url": "https://byseraguci.com/d/ki2jk3v5fpcd/poker-face-1x08",
+"info": "[Español][2023]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 9",
+"image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
+"url": "https://byseraguci.com/d/6yoixysqml1x/poker-face-1x09",
+"info": "[Español][2023]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 10",
+"image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
+"url": "https://byseraguci.com/d/6jo0iufo0aqx/poker-face-1x10",
+"info": "[Español][2023]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
 ]
 },
 
 {
-"name": "TERMPORADA 2",
-"image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
+"name": "Poker Face Temporada 2",
+"image": "https://pics.filmaffinity.com/poker_face-783045540-large.jpg",
 "stations":
 [
-	       {
- 	       	"name": "cAPITULO 1",
-	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
-	        "url": "https://filemoon.to/d/stqg14i4jkpr/Poker_Face_2x01",
-        	"info": "",
-			"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-        	"import": false
-        	},
-	       {
- 	       	"name": "cAPITULO 2",
-	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
-	        "url": "https://filemoon.to/d/jewf24hl7nv7/Poker_Face_2x02",
-        	"info": "",
-			"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-        	"import": false
-        	},
-
-	       {
- 	       	"name": "cAPITULO 3",
-	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
-	        "url": "https://filemoon.to/d/3bo4c0nyezyt/Poker_Face_2x03",
-        	"info": "",
-			"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-        	"import": false
-        	},
-	       {
- 	       	"name": "cAPITULO 4",
-	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
-	        "url": "https://filemoon.to/d/zjdquhu8su18/Poker_Face_2x04",
-        	"info": "",
-        	"embed": "",
-			"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-        	"import": false
-        	},
-
-	       {
- 	       	"name": "cAPITULO 5",
-	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
-	        "url": "https://filemoon.to/d/ta583mpb3lnl/Poker_Face_2x05",
-        	"info": "",
-        	"embed": "",
-			"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-        	"import": false
-        	},
-	       {
- 	       	"name": "cAPITULO 6",
-	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
-	        "url": "https://filemoon.to/d/6njgo65xx8gg/Poker_Face_2x06",
-        	"info": "",
-        	"embed": "",
-			"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-        	"import": false
-        	},
-
-	       {
- 	       	"name": "cAPITULO 7",
-	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
-	        "url": "https://filemoon.to/d/hdpjnj9l5f4t/Poker_Face_2x07",
-        	"info": "",
-        	"embed": "",
-			"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-        	"import": false
-        	},
-	       {
- 	       	"name": "cAPITULO 8",
-	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
-	        "url": "https://filemoon.to/d/oqnwc9sb9051/Poker_Face_2x08",
-        	"info": "",
-			"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-        	"import": false
-        	},
-
-	       {
- 	       	"name": "cAPITULO 9",
-	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
-	        "url": "https://filemoon.to/d/wyj2z3uwr4tn/Poker_Face_2x09",
-        	"info": "",
-			"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-        	"import": false
-        	},
-	       {
- 	       	"name": "cAPITULO 10",
-	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
-	        "url": "https://filemoon.to/d/bl5sgj1nfdi0/Poker_Face_2x10",
-        	"info": "",
-			"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-        	"import": false
-        	},
-
-	       {
- 	       	"name": "cAPITULO 11",
-	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
-	        "url": "https://filemoon.to/d/vqh1w6890hiy/Poker_Face_2x11",
-        	"info": "",
-			"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-        	"import": false
-        	},
-	       {
- 	       	"name": "cAPITULO 12",
-	        "image": "https://pics.filmaffinity.com/poker_face-244843540-large.jpg",
-	        "url": "https://filemoon.to/d/8ucj6h5m86ce/Poker_Face_2x12",
-        	"info": "",
-			"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-        	"embed": "",
-        	"isHost": "true",
-        	"online": "true",
-        	"import": false
-        	}
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/poker_face-783045540-large.jpg",
+"url": "https://byseraguci.com/d/4i1s6b15z1ze/poker-face-2x01",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://pics.filmaffinity.com/poker_face-783045540-large.jpg",
+"url": "https://byseraguci.com/d/gakyyp0u815l/poker-face-2x02",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://pics.filmaffinity.com/poker_face-783045540-large.jpg",
+"url": "https://byseraguci.com/d/zweck99p24qc/poker-face-2x03",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://pics.filmaffinity.com/poker_face-783045540-large.jpg",
+"url": "https://byseraguci.com/d/ngc62igj0c8z/poker-face-2x04",
+"info": "[Español 2017]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://pics.filmaffinity.com/poker_face-783045540-large.jpg",
+"url": "https://byseraguci.com/d/db7vdoidacq6/poker-face-2x05",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://pics.filmaffinity.com/poker_face-783045540-large.jpg",
+"url": "https://byseraguci.com/d/9bxew7ughwhs/poker-face-2x06",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 7",
+"image": "https://pics.filmaffinity.com/poker_face-783045540-large.jpg",
+"url": "https://byseraguci.com/d/pcu7cvsai2u1/poker-face-2x07",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 8",
+"image": "https://pics.filmaffinity.com/poker_face-783045540-large.jpg",
+"url": "https://byseraguci.com/d/p9f419t148t0/poker-face-2x08",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 9",
+"image": "https://pics.filmaffinity.com/poker_face-783045540-large.jpg",
+"url": "https://byseraguci.com/d/dx7238upciwz/poker-face-2x09",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 10",
+"image": "https://pics.filmaffinity.com/poker_face-783045540-large.jpg",
+"url": "https://byseraguci.com/d/c0whh4cpx0ny/poker-face-2x10",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 11",
+"image": "https://pics.filmaffinity.com/poker_face-783045540-large.jpg",
+"url": "https://byseraguci.com/d/o1503uu1v9jq/poker-face-2x11",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 12",
+"image": "https://pics.filmaffinity.com/poker_face-783045540-large.jpg",
+"url": "https://byseraguci.com/d/ktna0fm9usez/poker-face-2x12",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
 ]
 }
 
-
 ]
 }
+
 
 
 
