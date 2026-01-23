@@ -8555,28 +8555,18 @@
       "online": "true",
       "import": false
     },
-    {
-      "name": "SABOR DE LAS COSAS SIMPLES, EL",
-      "image": "https://pics.filmaffinity.com/umami-231811010-large.jpg",
-      "url": "https://upstream.to/dcvvseu007hy",
-      "info": "2022",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "SABOTAGE",
-      "image": "https://pics.filmaffinity.com/sabotage-670563197-large.jpg",
-      "url": "https://filemoon.to/d/12hku2c0bhxd",
-      "info": "2014",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
+{
+"name": "SABEN AQUELL",
+"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/43OFnIfH09qwj8uTDNKEvgAGa73.jpg",
+"url": "https://byseraguci.com/d/ix9gf7xd13it",
+"info": "[2023][Drama, comedia]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "SADNESS, THE",
       "info": "[2021][Español]",
@@ -10536,6 +10526,7 @@
 
   ]
 }
+
 
 
 
