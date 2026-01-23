@@ -4045,18 +4045,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-    {
-      "name": "FORMULA 1: LA PELICULA",
-      "image": "https://pics.filmaffinity.com/f1_the_movie-603739796-large.jpg",
-      "url": "https://filemoon.to/d/owmzb74hcqp7/Formula_1_La_Pel_cula__2025__Peliculla_castellano.mp4",
-      "info": "[2025]",
-      "embed": "",
-      "referer": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "import": false
-    },
+{
+"name": "FORMULA 1, LA PELICULA",
+"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/wfpqaxoPKvcqzLy8FO0enGXBzU.jpg",
+"url": "https://byseraguci.com/d/ctmsopgi1xii",
+"info": "[2025][Acción, drama]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "FORTALEZA, LA",
       "image": "https://i.postimg.cc/9F80YC98/Fortaleza-La-2023-Pelicula.jpg",
@@ -10384,6 +10384,18 @@
       "import": false
     },
 {
+"name": "WICKED (Parte 1)",
+"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/hDQXqvmmikekQ15uxhisBDwEA63.jpg",
+"url": "https://byseraguci.com/d/oracav4wwxgl",
+"info": "[2024][Fantasía, Aventura y Romance]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
 "name": "WICKED (Parte 2)",
 "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/xBfI3jboJ8zGXpoerp8Xk9ku9JN.jpg",
 "url": "https://byseraguci.com/d/pj9i43z5rsmw/wicked-parte-ii",
@@ -10488,3 +10500,4 @@
 
   ]
 }
+
