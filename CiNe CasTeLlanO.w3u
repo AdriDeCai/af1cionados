@@ -9250,6 +9250,18 @@
 "online": "true",
 "import": false
 },
+{
+"name": "STRANGERS: CAPITULO 1",
+"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/1rTRllZNEAX30dTxYL1hONR6gPj.jpg",
+"url": "https://byseraguci.com/d/4cw33cedn16c/strangers-capítulo-1",
+"info": "[2024][Terror, suspense]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "SUERTE DEL GANADOR, LA",
       "image": "https://i.postimg.cc/4N5W6qgX/IMG-20241121-131700-329.jpg",
@@ -10500,4 +10512,5 @@
 
   ]
 }
+
 
