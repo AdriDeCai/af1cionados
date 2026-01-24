@@ -2766,7 +2766,7 @@
 {
 "name": "CURVATURE",
 "image": "https://pics.filmaffinity.com/curvature-109824991-large.jpg",
-"url": "https://filemoon.to/d/qxl59bq18oez/Curvature",
+"url": "https://byseraguci.com/d/eredk93o82rj/curvature",
 "info": "[2017][Crimen Drama Suspenso]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
@@ -8981,15 +8981,18 @@
     "online":"true",
     "import": false
     },
-    {
-      "name": "Sirat Trance en el Desierto",
-      "info": "2025",
-      "image": "https://pics.filmaffinity.com/Sirat_Trance_en_el_desierto-126590950-large.jpg",
-      "url": "https://filemoon.to/d/9upaq3wyyqqy",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
+{
+"name": "SIRAT",
+"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/edEDZwU3kZerqdylZsyCn7feH23.jpg",
+"url": "https://byseraguci.com/d/ndm9r6y67rd1/sirāt",
+"info": "[2025][Drama, suspense]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
 	{
       "name": "SIZU",
       "info": "2023",
@@ -9281,6 +9284,18 @@
 "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/1rTRllZNEAX30dTxYL1hONR6gPj.jpg",
 "url": "https://byseraguci.com/d/4cw33cedn16c/strangers-capítulo-1",
 "info": "[2024][Terror, suspense]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "STRANGERS: CAPITULO 2",
+"image": "https://media.themoviedb.org/t/p/w300_and_h450_face/rQMcbHkmlnfKW42qCVrX6GYHxEr.jpg",
+"url": "https://byseraguci.com/d/8jirjxrvxocs/strangers-capítulo-2",
+"info": "[2025][Terror, suspense]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
 "embed": "",
@@ -10538,6 +10553,7 @@
 
   ]
 }
+
 
 
 
