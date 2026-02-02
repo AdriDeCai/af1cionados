@@ -1,5 +1,3 @@
-
-
 {
 "name": "MACHOS ALFA",
 "image": "https://www.formulatv.com/images/series/posters/2800/2892/dest_3.jpg",
@@ -16,10 +14,10 @@
 	"image": "https://www.formulatv.com/images/series/posters/2800/2892/dest_3.jpg",
 	"stations":
 	[
-	{
+		{
        	"name": "1x01 En deconstrucción",
         "image": "https://www.formulatv.com/images/series/posters/2800/2892/dest_3.jpg",
-        "url": "",
+        "url": "http://bysesayeveum.com/d/lgr05br5fleu/s0-e01-machos-alfa-deconstructing",
        	"info": "2023",
 		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 		"embed": "",
@@ -28,10 +26,10 @@
 		"online": "true",
 		"import": false
        	},
-	{
+		{
        	"name": "1x02 Lo que te absorbe es la vida",
         "image": "https://www.formulatv.com/images/series/posters/2800/2892/dest_3.jpg",
-        "url": "",
+        "url": "http://bysesayeveum.com/d/o8i5hofxc7cl/s0-e02-machos-alfa-lifes-what-absorbs-you",
        	"info": "2023",
 		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 		"embed": "",
@@ -40,7 +38,7 @@
 		"online": "true",
 		"import": false
        	},
-	{
+		{
        	"name": "1x03 Masculinidad tóxica",
         "image": "https://www.formulatv.com/images/series/posters/2800/2892/dest_3.jpg",
         "url": "",
@@ -52,7 +50,7 @@
 		"online": "true",
 		"import": false
        	},
-	{
+		{
        	"name": "1x04 Hierbas ibicencas",
         "image": "https://www.formulatv.com/images/series/posters/2800/2892/dest_3.jpg",
         "url": "",
@@ -480,4 +478,5 @@
 
 ]
 }
+
 
