@@ -750,15 +750,69 @@
       [
         {
           "name": "M Deportes (1080)(Elcano)",
-          "info": "[84a4]",
+          "info": "[184a4]",
           "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
           "url": "acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4"
         },
         {
+          "name": "M Deportes (1080)(Elcano)",
+          "info": "[0e0ee]",
+          "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee"
+        },
+        {
+          "name": "M Deportes (1080)(Elcano)",
+          "info": "[2524a]",
+          "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://e6cd9205e26b3b6680f607030c702e911272524a"
+        },
+        {
+          "name": "M Deportes (1080)(Elcano)",
+          "info": "[06a28]",
+          "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://646a1ed4ece843de1979f7888cbdd4d937506a28"
+        },
+        {
+          "name": "M Deportes (1080)(Elcano)",
+          "info": "[9794f]",
+          "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://4abe06c5cce7cb3c6bef2c3bccaafefd3299794f"
+        },
+        {
+          "name": "M Deportes (1080)(Elcano)",
+          "info": "[76a01]",
+          "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://f4d9011721fad5098febbe4d7c078a582e176a01"
+        },
+        {
+          "name": "M Deportes (1080)(Elcano)",
+          "info": "[5776d]",
+          "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://c6a824a81b36f6c3529826477caf2ad94b45776d"
+        },
+        {
           "name": "M Deportes (720)(Elcano)",
-          "info": "[93aa]",
+          "info": "[b93aa]",
           "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
           "url": "acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa"
+        },
+        {
+          "name": "M Deportes (720)(Elcano)",
+          "info": "[28281]",
+          "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://6e031aed136bf97d8667fcd5fc49c73256928281"
+        },
+        {
+          "name": "M Deportes (720)(Elcano)",
+          "info": "[5da90]",
+          "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://6b15368775693c33c49fab02e7900c1976a5da90"
+        },
+        {
+          "name": "M Deportes (720)(Elcano)",
+          "info": "[b253d]",
+          "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d"
         },
         {
           "name": "M Deportes (FHD)(Shickat)",
@@ -1901,6 +1955,7 @@
 
   ]
 }
+
 
 
 
