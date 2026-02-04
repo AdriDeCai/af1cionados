@@ -286,90 +286,42 @@
       "online": "true",
       "import": false
     },
-    {
-      "name": "ABUELA Y EL FORASTERO, LA",
-      "info": "2024",
-      "image": "https://pics.filmaffinity.com/l_avia_i_el_foraster-705439334-large.jpg",
-      "url": "https://listeamed.net/v/PKN4OwWGkyXODLj",
-      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "embed": "",
-      "referer": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "ACOMPAÑANTE, LA",
-      "image": "https://i.postimg.cc/bY1tJH7J/IMG-20250303-192230-308.jpg",
-      "url": "https://nikaplayerr.com/file/8h9s2fqs9phu",
-      "info": "[2025]",
-      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "embed": "",
-      "referer": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "ADICCION PERFECTA",
-      "info": "2023",
-      "image": "https://i.postimg.cc/8cwMB9hw/ADICCION_PERFECTA_(2023_)(Pelicula).jpg",
-      "url": "https://upstream.to/wusm62nkl42v",
-      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "embed": "",
-      "referer": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "ADULTS IN THE ROOM (COMPORTARSE COMO ADULTOS)",
-      "info": "2019",
-      "image": "https://pics.filmaffinity.com/adults_in_the_room-152448709-large.jpg",
-      "url": "https://filemoon.to/d/y9mwmk0vmo33/Adults_In_The_Room__2020_Pelicula___BluRay_RIP_AC3_5.1_Castellano_.avi",
-      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "embed": "",
-      "referer": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "AFTERMATH",
-      "image": "https://i.postimg.cc/Dy5kKW39/IMG-20250206-200540-966.jpg",
-      "url": "https://nikaplayerr.com/file/r63z4l81glj5",
-      "info": "2024",
-      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "embed": "",
-      "referer": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "AGENTE STONE",
-      "image": "https://i.postimg.cc/YqhddQhG/Agente-Stone-2023-Pelicula.jpg",
-      "url": "https://upstream.to/it7ykn3tni2h",
-      "info": "2023",
-      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "embed": "",
-      "referer": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "AL OTRO BARRIO",
-      "image": "https://i.postimg.cc/SsYPVTVc/IMG-20250406-000006-069.jpg",
-      "url": "https://cybervynx.com/h13liy9n834p",
-      "info": "2024",
-      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "embed": "",
-      "referer": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
+{
+"name": "ACOSADA",
+"image": "https://www.elseptimoarte.net/carteles/341/acosada_106037.jpg",
+"url": "https://abstream.to/e/yvqt8sj2bjbb",
+"info": "[2025][Drama]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": " AFTERBURN (Zona cero) ",
+"image": "https://www.elseptimoarte.net/carteles/341/afterburn_106050.jpg",
+"url": "https://abstream.to/e/jdrs06p22yu3",
+"info": "[2025][]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "AHORA ME VES 3",
+"image": "https://www.elseptimoarte.net/carteles/341/ahora_me_ves_3_106341.jpg",
+"url": "https://abstream.to/e/isnx3ydo62ao",
+"info": "[2025][Drama]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "ALONE",
       "info": "[2020][Español]",
@@ -426,28 +378,6 @@
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
-    },
-    {
-      "name": "AISHA",
-      "image": "https://pics.filmaffinity.com/aisha-734891786-large.jpg",
-      "url": "https://upstream.to/0iokhqd5kbmn",
-      "info": "2023",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "AKA MR. CHOW",
-      "image": "https://pics.filmaffinity.com/aka_mr_chow-873367004-large.jpg",
-      "url": "https://upstream.to/yjjadzu49c3i",
-      "info": "2023",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
     },
     {
       "name": "AL FINAL DE LA ESCALERA",
@@ -763,18 +693,19 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-    {
-      "name": "ANATEMA",
-      "image": "https://i.postimg.cc/RhHhjJPv/IMG-20250221-204535-954.jpg",
-      "url": "https://nikaplayerr.com/file/f8q4u3gf2882",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "info": "2024",
-      "referer": "",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
+{
+"name": "ANACONDA",
+"image": "https://www.elseptimoarte.net/carteles/341/anaconda_106615.jpg",
+"url": "https://zpjid.com/d/f98mz6iv7o03",
+"info": "[2025][Español]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+
     {
       "name": "ANATOMIA DE UNA CAIDA",
       "image": "https://pics.filmaffinity.com/anatomie_d_une_chute-695566678-large.jpg",
@@ -784,30 +715,6 @@
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "ANORA",
-      "image": "https://i.postimg.cc/8cFn5VX4/IMG-20250221-001828-826.jpg",
-      "url": "https://nikaplayerr.com/file/acgd0oodl5vt",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "info": "2024",
-      "referer": "",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "ANTES ERA DIVERTIDO",
-      "image": "https://pics.filmaffinity.com/i_used_to_be_funny-247927603-large.jpg",
-      "url": "https:://listeamed.net/v/ao9rxoJMmGm5yGe",
-      "info": "2023",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "embed": "",
-      "referer": "",
-      "isHost": "true",
-      "online": "true",
       "import": false
     },
     {
@@ -3220,15 +3127,6 @@
       "import": false
     },
     {
-      "name": "DJANGO DESENCADENADO",
-      "info": "[2012][Español]",
-      "image": "https://es.web.img2.acsta.net/medias/nmedia/18/92/38/67/20383018.jpg",
-      "url": "https://upstream.to/qn0bb9jd7xmw",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
-    {
       "name": "DOBLE ESPIONAJE",
       "image": "https://i.postimg.cc/DfDhh5nz/IMG-20250323-210002-617.jpg",
       "url": "https://niikaplayerr.com/file/n8fnlya4hfs5",
@@ -3334,6 +3232,18 @@
 "image": "https://pics.filmaffinity.com/downton_abbey_the_grand_finale-653529586-large.jpg",
 "url": "https://filemoon.to/d/h2tik7i6w6kn/Downton_Abbey_El_gran_final",
 "info": "[2025][Drama, romance]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "DRACULA 2025",
+"image": "https://www.elseptimoarte.net/carteles/341/dracula_105969.jpg",
+"url": "https://zpjid.com/d/qr24zvvbo6y9",
+"info": "[2025][]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
 "embed": "",
@@ -6147,17 +6057,6 @@
       "import": false
     },
     {
-      "name": "MAGGIE MOORE(S)",
-      "image": "https://pics.filmaffinity.com/maggie_moore_s-883706575-large.jpg",
-      "url": "https://upstream.to/nq3986g8j9sx",
-      "info": "2023",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
       "name": "MAISON, LA",
       "image": "https://pics.filmaffinity.com/la_maison-549555491-large.jpg",
       "url": "https://josephseveralconcern.com/e/d61vjcuxbqsz",
@@ -6386,15 +6285,18 @@
 "online": "true",
 "import": false
 },
-    {
-      "name": "MASCOTAS EN APUROS",
-      "image": "https://pics.filmaffinity.com/gracie_and_pedro_pets_to_the_rescue-909786605-mmed.jpg",
-      "url": "https://filemoon.to/d/3p5ojzaw0qt5",
-      "info": "[Español][2024]",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9"
-    },
+{
+"name": "MASPALOMAS",
+"image": "https://www.elseptimoarte.net/carteles/341/maspalomas_105905.jpg",
+"url": "https://abstream.to/e/dyjgvgd8eobq",
+"info": "[2025][Drama]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "MATAME SI TE ATREVES CARIÑO",
       "image": "https://i.postimg.cc/Vv7GLK5f/2ve-VEL9t-Iz-L3-JOLQm-FAk0-ZBGQ0r.jpg",
@@ -8415,6 +8317,18 @@
       "online": "true",
       "import": false
     },
+{
+"name": "RETURN TO SILENT HILL",
+"image": "https://www.elseptimoarte.net/carteles/341/return_to_silent_hill_107320.jpg",
+"url": "https://zpjid.com/d/t7oddvxotxru",
+"info": "[2026][Terror]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "REY EN LA HABANA, UN",
       "image": "https://m.media-amazon.com/images/M/MV5BZTY0MDAyYzMtNmU4ZC00YjA5LThjNzgtZjNhM2E1NjNmM2JkXkEyXkFqcGc@._V1_.jpg",
@@ -10553,6 +10467,7 @@
 
   ]
 }
+
 
 
 
