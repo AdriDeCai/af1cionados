@@ -5004,18 +5004,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-    {
-      "name": "INFILTRADA, LA",
-      "image": "https://pics.filmaffinity.com/la_infiltrada-537503432-large.jpg",
-      "url": "https://filemoon.to/d/zxs0b3i13gxo/Infiltrada__La__2024__Pelicula_castellano_BDRip_1080px265.mkv",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "info": "2024",
-      "referer": "",
-      "embed": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
+{
+"name": "INFILTRADA, LA",
+"image": "https://media.themoviedb.org/t/p/w300_and_h450_face/xnME9c2PEtYGBDPO4lZXAVeEu0G.jpg",
+"url": "https://byseraguci.com/d/qc3nxyzvnd24/infiltrada-la-2024-pelicula-castellano-bdrip-1080px265",
+"info": "[2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "INFILTRADO (INSIDE MAN)",
       "image": "https://pics.filmaffinity.com/inside_man-498619725-large.jpg",
@@ -10505,6 +10505,7 @@
 
   ]
 }
+
 
 
 
