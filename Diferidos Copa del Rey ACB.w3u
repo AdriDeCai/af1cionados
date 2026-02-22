@@ -12,87 +12,96 @@
       "image": "https://i.postimg.cc/pLgZS6Wm/copa-acb-new.png",
       "imageScale": "",
       "info": "",
-      "stations": [
+      "stations": 
+      [
         {
-          "name": "Valencia Basket VS Asisa Joventut",
-          "image": "https://i.postimg.cc/pLgZS6Wm/copa-acb-new.png",
-          "url": "https://bysefujedu.com/d/0zp97d83mt34/dazn-baloncesto-cuartos-de-final-valencia-basket-asisa-joventut",
-          "info": "[CUARTOS]",
-          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "import": false
-        },
-        {
-          "name": "Real Madrid VS Unicaja",
-          "image": "https://i.postimg.cc/pLgZS6Wm/copa-acb-new.png",
-          "url": "https://bysefujedu.com/d/an23j8zlr7mh/dazn-baloncesto-cuartos-de-final-real-madrid-unicaja-m%C3%A1laga",
-          "info": "[CUARTOS]",
-          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "import": false
-        },
-        {
-          "name": "Baskonia VS Tenerife",
-          "image": "https://i.postimg.cc/pLgZS6Wm/copa-acb-new.png",
-          "url": "https://bysefujedu.com/d/blskmz0m54fp/dazn-baloncesto-cuartos-de-final-kosner-baskonia-la-laguna-tenerife",
-          "info": "[CUARTOS]",
-          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "import": false
-        },
-        {
-          "name": "FC Barcelona VS Murcia",
-          "image": "https://i.postimg.cc/pLgZS6Wm/copa-acb-new.png",
-          "url": "https://bysefujedu.com/d/6sgbw4g8y00w/dazn-baloncesto-cuartos-de-final-bar%C3%A7a-ucam-murcia",
-          "info": "[CUARTOS]",
-          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "import": false
-        },
-        {
-          "name": "Valencia Basket VS Real Madrid",
-          "image": "https://i.postimg.cc/pLgZS6Wm/copa-acb-new.png",
-          "url": "https://bysefujedu.com/d/lyh1247wqpvu/dazn-baloncesto-semifinal-valencia-basket-real-madrid",
-          "info": "[SEMIFINAL]",
-          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "import": false
-        },
-        {
-          "name": "FC Barcelona VS Baskonia",
-          "image": "https://i.postimg.cc/pLgZS6Wm/copa-acb-new.png",
-          "url": "https://bysefujedu.com/d/mljxk2ro6ok9/dazn-baloncesto-semifinal-bar%C3%A7a-kosner-baskonia",
-          "info": "[SEMIFINAL]",
-          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "import": false
-        },
-        {
-          "name": "Real Madrid VS Baskonia",
-          "image": "https://i.postimg.cc/pLgZS6Wm/copa-acb-new.png",
-          "url": "",
-          "info": "[FINAL]",
-          "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "embed": "",
-          "isHost": "true",
-          "online": "true",
-          "import": false
-        }
-      ]
-    }
+         "name": "Cuartos- Valencia basket 🆚 Joventut Badalona",
+         "info": "[19/02/2026]",
+         "image": "https://i.postimg.cc/x1Fy9qcy/image-(1).jpg",
+         "url": "https://bysefujedu.com/e/0zp97d83mt34",
+        "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "embed": "",
+        "referer": "",
+        "isHost": "true",
+        "online": "true",
+        "import": false
+         },
+      {
+         "name": "Cuartos- Real Madrid 🆚 Unicaja",
+         "info": "[19/02/2026]",
+         "image": "https://i.postimg.cc/x1Fy9qcy/image-(1).jpg",
+         "url": "https://bysefujedu.com/e/an23j8zlr7mh",
+        "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "embed": "",
+        "referer": "",
+        "isHost": "true",
+        "online": "true",
+        "import": false
+         },
+            {
+         "name": "Cuartos - Baskonia 🆚 la Laguna Tenerife",
+         "info": "[20/02/2026]",
+         "image": "https://i.postimg.cc/x1Fy9qcy/image-(1).jpg",
+         "url": "https://bysefujedu.com/e/blskmz0m54fp",
+        "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "embed": "",
+        "referer": "",
+        "isHost": "true",
+        "online": "true",
+        "import": false
+         },
+            {
+         "name": "Cuartos - Barça 🆚 Murcia",
+         "info": "[20/02/2026]",
+         "image": "https://i.postimg.cc/x1Fy9qcy/image-(1).jpg",
+         "url": "https://bysefujedu.com/e/6sgbw4g8y00w",
+        "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "embed": "",
+        "referer": "",
+        "isHost": "true",
+        "online": "true",
+        "import": false
+         },
+            {
+         "name": "Semifinal - Valencia Basket 🆚 Real Madrid",
+         "info": "[21/02/2026]",
+         "image": "https://i.postimg.cc/x1Fy9qcy/image-(1).jpg",
+         "url": "https://bysefujedu.com/e/lyh1247wqpvu",
+        "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "embed": "",
+        "referer": "",
+        "isHost": "true",
+        "online": "true",
+        "import": false
+         },
+            {
+         "name": "Semifinal - Barça 🆚 Baskonia",
+         "info": "[21/02/2026]",
+         "image": "https://i.postimg.cc/x1Fy9qcy/image-(1).jpg",
+         "url": "https://bysefujedu.com/e/mljxk2ro6ok9",
+        "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "embed": "",
+        "referer": "",
+        "isHost": "true",
+        "online": "true",
+        "import": false
+         },
+            {
+         "name": "final - Real Madrid 🆚 Baskonia",
+         "info": "[22/02/2026]",
+         "image": "https://i.postimg.cc/x1Fy9qcy/image-(1).jpg",
+         "url": "",
+        "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "embed": "",
+        "referer": "",
+        "isHost": "true",
+        "online": "true",
+        "import": false
+         }
+        ]
+      }
   ]
 }
+
 
 
