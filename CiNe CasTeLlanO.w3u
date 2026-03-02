@@ -5671,6 +5671,15 @@
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
     {
+      "name": "LA LENGUA DE LAS MARIPOSAS",
+      "info": "[1999][Español]",
+      "image": "https://pics.filmaffinity.com/La_lengua_de_las_mariposas-374462450-large.jpg",
+      "url": "https://bysetayico.com/d/n22tho0iqbor",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+	{
       "name": "LA LIBERACION",
       "info": "[2024][Español]",
       "image": "https://pics.filmaffinity.com/La_liberaciaon-199592217-large.jpg",
@@ -10505,6 +10514,7 @@
 
   ]
 }
+
 
 
 
