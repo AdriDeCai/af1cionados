@@ -5,9 +5,14 @@
 "image": "https://images3.alphacoders.com/595/595865.jpg",
 "telegram": "@yIsus_mEx",
 "info": "",
-"stations":
-
+"groups":
 	[
+	{
+	"name": "TEMPORADA 1",
+	"image": "https://i.postimg.cc/gJR0Rqk9/ONE-PIECE-SERIE.jpg",
+	"info": "",
+	"stations":
+		[
 	       {
  	       	"name": "1x01 EL AMANECER DE UNA AVENTURA",
 	        "image": "https://i.postimg.cc/gJR0Rqk9/ONE-PIECE-SERIE.jpg",
@@ -96,7 +101,115 @@
 			"userAgent":"PlusMediaPlayer/0.0.9",
         	"import": false
         	}
-	]
+		]
+	},
+
+{
+"name": "TEMPORADA 2",
+"image": "https://i.postimg.cc/gJR0Rqk9/ONE-PIECE-SERIE.jpg",
+"info": "",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://i.postimg.cc/gJR0Rqk9/ONE-PIECE-SERIE.jpg",
+"url": "https://byseraguci.com/d/omslyqoz9e6f/one-piece-2x01",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://i.postimg.cc/gJR0Rqk9/ONE-PIECE-SERIE.jpg",
+"url": "https://byseraguci.com/d/rg8dyjqpla05/one-piece-2x02",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://i.postimg.cc/gJR0Rqk9/ONE-PIECE-SERIE.jpg",
+"url": "https://byseraguci.com/d/sp2akenrp8lp/one-piece-2x03",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://i.postimg.cc/gJR0Rqk9/ONE-PIECE-SERIE.jpg",
+"url": "https://byseraguci.com/d/5qx8j0sv490m/one-piece-2x04",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://i.postimg.cc/gJR0Rqk9/ONE-PIECE-SERIE.jpg",
+"url": "https://byseraguci.com/d/813l61377i2j/one-piece-2x05",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://i.postimg.cc/gJR0Rqk9/ONE-PIECE-SERIE.jpg",
+"url": "https://byseraguci.com/d/195x46oowb6t/one-piece-2x06",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 7",
+"image": "https://i.postimg.cc/gJR0Rqk9/ONE-PIECE-SERIE.jpg",
+"url": "https://byseraguci.com/d/zycetxmirt2j/one-piece-2x07",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 8",
+"image": "https://i.postimg.cc/gJR0Rqk9/ONE-PIECE-SERIE.jpg",
+"url": "https://byseraguci.com/d/0ecg1do0p69n/one-piece-2x08",
+"info": "[Español][2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
+}
+
+]
 }
 
 
