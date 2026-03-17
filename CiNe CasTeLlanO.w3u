@@ -6367,7 +6367,17 @@
 "online": "true",
 "import": false
 },
-    {
+{
+      "name": "MAQUINA DE GUERRA",
+      "image": "https://peliculas.lavanguardia.com/imagenes/w500/d5YmQx9kPLQBHEboGwrAavypztB.jpg",
+      "url": "https://bysetayico.com/d/1kfj3m5nujva",
+      "info": "[2025][Español]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+},
+{
       "name": "MATUSALEN",
       "image": "https://pics.filmaffinity.com/matusalen-219429490-large.jpg",
       "url": "https://filemoon.to/d/6wz4i20g7t4i",
