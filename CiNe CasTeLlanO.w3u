@@ -1,13 +1,12 @@
 {
-  "name": "Cine En Español",
-  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
-  "url": "https://af1cionados.vercel.app/CiNe%20CasTeLlanO.w3u",
-  "image": "https://images3.alphacoders.com/595/595865.jpg",
-  "telegram": "@Af1cionados",
-  "info": "",
-  "stations": [
-
-
+"name": "Cine En Español",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"url": "https://af1cionados.vercel.app/CiNe%20CasTeLlanO.w3u",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"telegram": "@Af1cionados",
+"info": "",
+"stations": 
+  [
     {
       "name": "3 KILOMETROS AL FIN DEL MUNDO",
       "image": "https://pics.filmaffinity.com/trei_kilometri_pana_la_capatul_lumii-827833712-large.jpg",
@@ -129,30 +128,30 @@
       "online": "true",
       "import": false
     },
-{
-"name": "30 DIAS",
-"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/g8fpyt9SzzgoIr4iymrOuSGxgaZ.jpg",
-"url": "https://byseraguci.com/d/scr6qqmiuzkp",
-"info": "[2020][Acción, comedia]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-{
-"name": " 47, El",
-"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/gzdhZFz3gUTu5MneQZYozmbKsLf.jpg",
-"url": "https://byseraguci.com/d/xxlb2lg2ykcy",
-"info": "[2024]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "30 DIAS",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/g8fpyt9SzzgoIr4iymrOuSGxgaZ.jpg",
+      "url": "https://byseraguci.com/d/scr6qqmiuzkp",
+      "info": "[2020][Acción, comedia]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": " 47, El",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/gzdhZFz3gUTu5MneQZYozmbKsLf.jpg",
+      "url": "https://byseraguci.com/d/xxlb2lg2ykcy",
+      "info": "[2024]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "57 SEGUNDOS",
       "info": "2023",
@@ -288,42 +287,42 @@
       "online": "true",
       "import": false
     },
-{
-"name": "ACOSADA",
-"image": "https://www.elseptimoarte.net/carteles/341/acosada_106037.jpg",
-"url": "https://abstream.to/e/yvqt8sj2bjbb",
-"info": "[2025][Drama]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-{
-"name": " AFTERBURN (Zona cero) ",
-"image": "https://www.elseptimoarte.net/carteles/341/afterburn_106050.jpg",
-"url": "https://abstream.to/e/jdrs06p22yu3",
-"info": "[2025][]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-{
-"name": "AHORA ME VES 3",
-"image": "https://www.elseptimoarte.net/carteles/341/ahora_me_ves_3_106341.jpg",
-"url": "https://abstream.to/e/isnx3ydo62ao",
-"info": "[2025][Drama]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "ACOSADA",
+      "image": "https://www.elseptimoarte.net/carteles/341/acosada_106037.jpg",
+      "url": "https://abstream.to/e/yvqt8sj2bjbb",
+      "info": "[2025][Drama]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": " AFTERBURN (Zona cero) ",
+      "image": "https://www.elseptimoarte.net/carteles/341/afterburn_106050.jpg",
+      "url": "https://abstream.to/e/jdrs06p22yu3",
+      "info": "[2025][]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "AHORA ME VES 3",
+      "image": "https://www.elseptimoarte.net/carteles/341/ahora_me_ves_3_106341.jpg",
+      "url": "https://abstream.to/e/isnx3ydo62ao",
+      "info": "[2025][Drama]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "ALONE",
       "info": "[2020][Español]",
@@ -510,18 +509,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-{
-"name": "ALL SOULS",
-"image": "https://pics.filmaffinity.com/all_souls-533073226-large.jpg",
-"url": "https://filemoon.to/d/hmdsi74x7eiv/All_Souls",
-"info": "[2025][Crimen Drama Suspenso]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "ALL SOULS",
+      "image": "https://pics.filmaffinity.com/all_souls-533073226-large.jpg",
+      "url": "https://filemoon.to/d/hmdsi74x7eiv/All_Souls",
+      "info": "[2025][Crimen Drama Suspenso]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "ALLELUHAH",
       "image": "https://pics.filmaffinity.com/allelujah-754219144-large.jpg",
@@ -610,18 +609,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-{
-"name": "AMELIE",
-"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/mYvUib00miJWxWkiXhy3QnrCj96.jpg",
-"url": "https://filemoon.to/d/8ngl22pyrwoh/Amelie",
-"info": "[2001][Comedia Drama Fantasía Romance]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "AMELIE",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/mYvUib00miJWxWkiXhy3QnrCj96.jpg",
+      "url": "https://filemoon.to/d/8ngl22pyrwoh/Amelie",
+      "info": "[2001][Comedia Drama Fantasía Romance]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "AMENAZA EN EL AIRE",
       "image": "https://pics.filmaffinity.com/flight_risk-426693593-large.jpg",
@@ -643,18 +642,18 @@
       "isHost": "true",
       "online": "true"
     },
-{
-"name": "American Gangster",
-"image": "https://media.themoviedb.org/t/p/w300_and_h450_face/pn4A89Rdv0fI7KuugdhSbgfJZs7.jpg",
-"url": "https://byseraguci.com/d/e2259b0qen2v",
-"info": "[2007]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "American Gangster",
+      "image": "https://media.themoviedb.org/t/p/w300_and_h450_face/pn4A89Rdv0fI7KuugdhSbgfJZs7.jpg",
+      "url": "https://byseraguci.com/d/e2259b0qen2v",
+      "info": "[2007]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "AMERICAN HISTORY X",
       "info": "1998",
@@ -707,19 +706,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-{
-"name": "ANACONDA",
-"image": "https://www.elseptimoarte.net/carteles/341/anaconda_106615.jpg",
-"url": "https://zpjid.com/d/f98mz6iv7o03",
-"info": "[2025][Español]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-
+    {
+      "name": "ANACONDA",
+      "image": "https://www.elseptimoarte.net/carteles/341/anaconda_106615.jpg",
+      "url": "https://zpjid.com/d/f98mz6iv7o03",
+      "info": "[2025][Español]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "ANATOMIA DE UNA CAIDA",
       "image": "https://pics.filmaffinity.com/anatomie_d_une_chute-695566678-large.jpg",
@@ -1086,18 +1084,18 @@
       "online": "true",
       "import": false
     },
-{
-"name": "BALA PERDIDA",
-"image": "https://pics.filmaffinity.com/caught_stealing-477693290-large.jpg",
-"url": "https://filemoon.to/d/c2cnv0wqwg1a/Bala_perdida",
-"info": "[2025][Comedia Crimen Suspenso]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "BALA PERDIDA",
+      "image": "https://pics.filmaffinity.com/caught_stealing-477693290-large.jpg",
+      "url": "https://filemoon.to/d/c2cnv0wqwg1a/Bala_perdida",
+      "info": "[2025][Comedia Crimen Suspenso]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "BALLENA, LA",
       "info": "2023",
@@ -1301,18 +1299,18 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
-{
-"name": "BLACK DOG",
-"image": "https://pics.filmaffinity.com/gou_zhen-905223433-large.jpg",
-"url": "https://filemoon.to/d/trqn5hj8x0li/Black_Dog",
-"info": "[2024][Drama]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "BLACK DOG",
+      "image": "https://pics.filmaffinity.com/gou_zhen-905223433-large.jpg",
+      "url": "https://filemoon.to/d/trqn5hj8x0li/Black_Dog",
+      "info": "[2024][Drama]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "BLACK FRIDAY",
       "image": "https://i.postimg.cc/hGdnqFJS/Black-Friday-2023-Pelicula.jpg",
@@ -1324,42 +1322,42 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-{
-"name": "BLACK MIRROR. BANDERSNATCH",
-"image": "https://pics.filmaffinity.com/black_mirror_bandersnatch-448598333-large.jpg",
-"url": "https://filemoon.to/d/9x5inhv3jhp2/Black_Mirror_Bandersnatch",
-"info": "[2018][Ciencia Ficción Drama Misterio Suspenso]",
-"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"embed": "",
-"referer": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-{
-"name": "BLACK PHONE 1",
-"image": "https://pics.filmaffinity.com/the_black_phone-848459573-large.jpg",
-"url": "https://byseraguci.com/d/0qa50t80d1sl/black-phone",
-"info": "[2021][Suspense, terror]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-{
-"name": "BLACK PHONE 2",
-"image": "https://pics.filmaffinity.com/black_phone_2-696045326-large.jpg",
-"url": "https://byseraguci.com/d/2n28h9k63k7k/black-phone-2",
-"info": "[2025][Suspense, terror]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "BLACK MIRROR. BANDERSNATCH",
+      "image": "https://pics.filmaffinity.com/black_mirror_bandersnatch-448598333-large.jpg",
+      "url": "https://filemoon.to/d/9x5inhv3jhp2/Black_Mirror_Bandersnatch",
+      "info": "[2018][Ciencia Ficción Drama Misterio Suspenso]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "BLACK PHONE 1",
+      "image": "https://pics.filmaffinity.com/the_black_phone-848459573-large.jpg",
+      "url": "https://byseraguci.com/d/0qa50t80d1sl/black-phone",
+      "info": "[2021][Suspense, terror]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "BLACK PHONE 2",
+      "image": "https://pics.filmaffinity.com/black_phone_2-696045326-large.jpg",
+      "url": "https://byseraguci.com/d/2n28h9k63k7k/black-phone-2",
+      "info": "[2025][Suspense, terror]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "BLACKHAT AMENAZA EN LA RED",
       "image": "https://pics.filmaffinity.com/blackhat-993974090-large.jpg",
@@ -1466,18 +1464,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-{
-"name": "BOOK, THE (EL LIBRO)",
-"image": "https://hdfullcdn.cc/tthumb/172x256/movie_a7f23bfcb34810a7aa6b8b5ca8921c53.jpg",
-"url": "https://filemoon.to/d/lpw93ydvdxf2/The_Book_El_Libro",
-"info": "[2024][Terror]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "BOOK, THE (EL LIBRO)",
+      "image": "https://hdfullcdn.cc/tthumb/172x256/movie_a7f23bfcb34810a7aa6b8b5ca8921c53.jpg",
+      "url": "https://filemoon.to/d/lpw93ydvdxf2/The_Book_El_Libro",
+      "info": "[2024][Terror]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "BORDERLANDS",
       "image": "https://i.postimg.cc/VLZRsVpF/IMG-20241107-225224-620.jpg",
@@ -1556,30 +1554,30 @@
       "online": "true",
       "import": false
     },
-{
-"name": "BUENAS NOTICIAS",
-"image": "https://pics.filmaffinity.com/gut_nuiuseu-942465676-large.jpg",
-"url": "https://filemoon.to/d/g4oan71fmyr2/Buenas_noticias",
-"info": "[2025][Comedia Historia Suspenso]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-		{
-        "name": "BUENOS DIAS, TRISTEZA",
-        "image": "https://pics.filmaffinity.com/bonjour_tristesse-539282657-large.jpg",
-        "url": "https://filemoon.to/d/kmuodlwuz3g6/Buenos_d_as_tristeza",
-        "info": "[2025]",
-		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-		"referer": "",
-        "embed":"",
-        "isHost":"true",
-        "online":"true",
-        "import": false
-        },
+    {
+      "name": "BUENAS NOTICIAS",
+      "image": "https://pics.filmaffinity.com/gut_nuiuseu-942465676-large.jpg",
+      "url": "https://filemoon.to/d/g4oan71fmyr2/Buenas_noticias",
+      "info": "[2025][Comedia Historia Suspenso]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "BUENOS DIAS, TRISTEZA",
+      "image": "https://pics.filmaffinity.com/bonjour_tristesse-539282657-large.jpg",
+      "url": "https://filemoon.to/d/kmuodlwuz3g6/Buenos_d_as_tristeza",
+      "info": "[2025]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "BURDELES DE PAPRIKA, LOS",
       "image": "https://i.postimg.cc/RCy7gXfT/IMG-20241128-182643-774.jpg",
@@ -1812,18 +1810,18 @@
       "isHost": "true",
       "online": "true"
     },
-{
-"name": " Captain fantastic",
-"image": "https://media.themoviedb.org/t/p/w300_and_h450_face/pImTfiYSYZZdInwrngOsqvzaZCU.jpg",
-"url": "https://byseraguci.com/d/rl18tmr0dgzu",
-"info": "[2016]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": " Captain fantastic",
+      "image": "https://media.themoviedb.org/t/p/w300_and_h450_face/pImTfiYSYZZdInwrngOsqvzaZCU.jpg",
+      "url": "https://byseraguci.com/d/rl18tmr0dgzu",
+      "info": "[2016]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "CARA A CARA (FACE OFF)",
       "image": "https://m.media-amazon.com/images/I/61Dv807JBvL._AC_UF894,1000_QL80_.jpg",
@@ -1833,18 +1831,18 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
-{
-"name": "CARA OCULTA, LA",
-"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/uTct6rbioNV5EnPDPJXGP2FRL45.jpg",
-"url": "https://byseraguci.com/d/geh2ufm8kp2f/la-cara-oculta",
-"info": "[2011][Suspense Misterio]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "CARA OCULTA, LA",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/uTct6rbioNV5EnPDPJXGP2FRL45.jpg",
+      "url": "https://byseraguci.com/d/geh2ufm8kp2f/la-cara-oculta",
+      "info": "[2011][Suspense Misterio]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "CARAMELO",
       "image": "https://pics.filmaffinity.com/caramelo-924889368-large.jpg",
@@ -1888,30 +1886,30 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-		{
-        "name": "CASO FRIEDA, EL",
-        "image": "https://pics.filmaffinity.com/friedas_fall-140570582-large.jpg",
-        "url": "https://filemoon.to/d/a8wfoggraovo/El_caso_Frieda_2024_Pelicula_Castellano.mp4",
-        "info": "[2024]",
-		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-		"referer": "",
-        "embed":"",
-        "isHost":"true",
-        "online":"true",
-        "import": false
-        },
-		{
-        "name": "CASOPLON, EL",
-        "image": "https://pics.filmaffinity.com/el_casoplon-993095418-large.jpg",
-        "url": "https://filemoon.to/d/nbr08kq98v00/El_casopl_n",
-        "info": "[2025]",
-		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-		"referer": "",
-        "embed":"",
-        "isHost":"true",
-        "online":"true",
-        "import": false
-        },
+    {
+      "name": "CASO FRIEDA, EL",
+      "image": "https://pics.filmaffinity.com/friedas_fall-140570582-large.jpg",
+      "url": "https://filemoon.to/d/a8wfoggraovo/El_caso_Frieda_2024_Pelicula_Castellano.mp4",
+      "info": "[2024]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "CASOPLON, EL",
+      "image": "https://pics.filmaffinity.com/el_casoplon-993095418-large.jpg",
+      "url": "https://filemoon.to/d/nbr08kq98v00/El_casopl_n",
+      "info": "[2025]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "CASSANDRO",
       "info": "2023",
@@ -1935,18 +1933,18 @@
       "online": "true",
       "import": false
     },
-{
-"name": "CAUTIVO, EL",
-"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/2vfxMQ3WEA8goCH7LXlAzED9aed.jpg",
-"url": "https://byseraguci.com/d/jz4pbtypa5pc",
-"info": "[2025][Drama, historia]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "CAUTIVO, EL",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/2vfxMQ3WEA8goCH7LXlAzED9aed.jpg",
+      "url": "https://byseraguci.com/d/jz4pbtypa5pc",
+      "info": "[2025][Drama, historia]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "CAZA AL ESTAFADOR",
       "image": "https://pics.filmaffinity.com/cold_wallet-518358435-large.jpg",
@@ -1990,18 +1988,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-{
-"name": "La cena, La",
-"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/8Ct1yY0ClGwgQpnsipRcaFC27xF.jpg",
-"url": "https://byseraguci.com/d/tto8kfofecyx/la-cena",
-"info": "[2025]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "La cena, La",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/8Ct1yY0ClGwgQpnsipRcaFC27xF.jpg",
+      "url": "https://byseraguci.com/d/tto8kfofecyx/la-cena",
+      "info": "[2025]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "CHICA SALVAJE",
       "info": "[2022][Español]",
@@ -2056,18 +2054,18 @@
       "online": "true",
       "import": false
     },
-{
-"name": "CHICAS MATERIALES",
-"image": "https://pics.filmaffinity.com/material_girls-246266209-large.jpg",
-"url": "https://filemoon.to/d/zwxehdori0oa/Chicas_materiales",
-"info": "[2006][Comedia]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "CHICAS MATERIALES",
+      "image": "https://pics.filmaffinity.com/material_girls-246266209-large.jpg",
+      "url": "https://filemoon.to/d/zwxehdori0oa/Chicas_materiales",
+      "info": "[2006][Comedia]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "CID LA LEYENDA, EL",
       "info": "2020",
@@ -2321,18 +2319,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-		{
-        "name": "CONDUCTORA,LA",
-        "image": "https://pics.filmaffinity.com/eenie_meanie-239369742-large.jpg",
-        "url": "https://filemoon.to/d/3yw3jruv2hp4/La_conductora",
-        "info": "[2025]",
-		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-		"referer": "",
-        "embed":"",
-        "isHost":"true",
-        "online":"true",
-        "import": false
-        },
+    {
+      "name": "CONDUCTORA,LA",
+      "image": "https://pics.filmaffinity.com/eenie_meanie-239369742-large.jpg",
+      "url": "https://filemoon.to/d/3yw3jruv2hp4/La_conductora",
+      "info": "[2025]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "CONFERENCIA, LA",
       "image": "https://pics.filmaffinity.com/konferensen-935767501-large.jpg",
@@ -2515,18 +2513,18 @@
       "online": "true",
       "import": false
     },
-{
-"name": "CRETINOS, LOS",
-"image": "https://pics.filmaffinity.com/the_twits-161255490-large.jpg",
-"url": "https://filemoon.to/d/5ezb5khnjoue/Los_cretinos",
-"info": "[2025][Animación Comedia Familia Fantasía]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "CRETINOS, LOS",
+      "image": "https://pics.filmaffinity.com/the_twits-161255490-large.jpg",
+      "url": "https://filemoon.to/d/5ezb5khnjoue/Los_cretinos",
+      "info": "[2025][Animación Comedia Familia Fantasía]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "CRIMINALES DE LUJO",
       "image": "https://i.postimg.cc/KjGw0dvh/IMG-20250330-130404-971.jpg",
@@ -2708,18 +2706,18 @@
       "online": "true",
       "import": false
     },
-{
-"name": "CURVATURE",
-"image": "https://pics.filmaffinity.com/curvature-109824991-large.jpg",
-"url": "https://byseraguci.com/d/eredk93o82rj/curvature",
-"info": "[2017][Crimen Drama Suspenso]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "CURVATURE",
+      "image": "https://pics.filmaffinity.com/curvature-109824991-large.jpg",
+      "url": "https://byseraguci.com/d/eredk93o82rj/curvature",
+      "info": "[2017][Crimen Drama Suspenso]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "DADDIO",
       "image": "https://pics.filmaffinity.com/daddio-948002843-large.jpg",
@@ -2731,18 +2729,18 @@
       "online": "true",
       "import": false
     },
-{
-"name": "DADDY's HEAD",
-"image": "https://pics.filmaffinity.com/daddy_s_head-968098015-large.jpg",
-"url": "https://filemoon.to/d/av3suts9f9yc/Daddy_s_Head",
-"info": "[2024][Terror]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "DADDY's HEAD",
+      "image": "https://pics.filmaffinity.com/daddy_s_head-968098015-large.jpg",
+      "url": "https://filemoon.to/d/av3suts9f9yc/Daddy_s_Head",
+      "info": "[2024][Terror]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "DAMAGED",
       "image": "https://pics.filmaffinity.com/damaged-762795810-large.jpg",
@@ -3008,18 +3006,18 @@
       "online": "true",
       "import": false
     },
-	{
-        "name": "DESPELOTE",
-        "image": "https://pics.filmaffinity.com/fixed-832413345-large.jpg",
-        "url": "https://filemoon.to/d/jumv1368clc8/Despelote",
-        "info": "2025",
-		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-		"referer": "",
-        "embed":"",
-        "isHost":"true",
-        "online":"true",
-        "import": false
-        },
+    {
+      "name": "DESPELOTE",
+      "image": "https://pics.filmaffinity.com/fixed-832413345-large.jpg",
+      "url": "https://filemoon.to/d/jumv1368clc8/Despelote",
+      "info": "2025",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "DESPERTAR",
       "image": "https://i.postimg.cc/3x3K3Z6Y/IMG-20241211-200628-262.jpg",
@@ -3265,30 +3263,30 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-{
-"name": "DOWNTON ABBEY: EL GRAN FINAL",
-"image": "https://pics.filmaffinity.com/downton_abbey_the_grand_finale-653529586-large.jpg",
-"url": "https://filemoon.to/d/h2tik7i6w6kn/Downton_Abbey_El_gran_final",
-"info": "[2025][Drama, romance]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-{
-"name": "DRACULA 2025",
-"image": "https://www.elseptimoarte.net/carteles/341/dracula_105969.jpg",
-"url": "https://zpjid.com/d/qr24zvvbo6y9",
-"info": "[2025][]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "DOWNTON ABBEY: EL GRAN FINAL",
+      "image": "https://pics.filmaffinity.com/downton_abbey_the_grand_finale-653529586-large.jpg",
+      "url": "https://filemoon.to/d/h2tik7i6w6kn/Downton_Abbey_El_gran_final",
+      "info": "[2025][Drama, romance]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "DRACULA 2025",
+      "image": "https://www.elseptimoarte.net/carteles/341/dracula_105969.jpg",
+      "url": "https://zpjid.com/d/qr24zvvbo6y9",
+      "info": "[2025][]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "DUAL",
       "image": "https://pics.filmaffinity.com/dual-155453589-large.jpg",
@@ -3396,18 +3394,18 @@
       "isHost": "true",
       "online": "true"
     },
-{
-"name": "EN BUSCA DE JOY",
-"image": "https://pics.filmaffinity.com/tyler_perry_s_finding_joy-126789104-large.jpg",
-"url": "https://filemoon.to/d/z1zd6vzqyqav/En_busca_de_Joy",
-"info": "[2025][Drama]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "EN BUSCA DE JOY",
+      "image": "https://pics.filmaffinity.com/tyler_perry_s_finding_joy-126789104-large.jpg",
+      "url": "https://filemoon.to/d/z1zd6vzqyqav/En_busca_de_Joy",
+      "info": "[2025][Drama]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "ENCIENDEME",
       "image": "https://i.postimg.cc/vT6njwQs/IMG-20250407-232315-694.jpg",
@@ -3459,7 +3457,7 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
-	{
+    {
       "name": "EL FRANCOTIRADOR",
       "info": "[2012][Español]",
       "image": "https://m.media-amazon.com/images/M/MV5BZDNjNjFlOGUtYTc5Yy00ZDZiLTg4NzMtYjlmM2JmMTBkOWY4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -3495,18 +3493,18 @@
       "isHost": "true",
       "online": "true"
     },
-{
-"name": "EMMANUELLE",
-"image": "https://pics.filmaffinity.com/emmanuelle-380790485-large.jpg",
-"url": "https://filemoon.to/d/462voza59i2s/Emmanuelle",
-"info": "[2024][Drama, erótico]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "EMMANUELLE",
+      "image": "https://pics.filmaffinity.com/emmanuelle-380790485-large.jpg",
+      "url": "https://filemoon.to/d/462voza59i2s/Emmanuelle",
+      "info": "[2024][Drama, erótico]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "EN TEMPORADA BAJA",
       "info": "2022",
@@ -3641,30 +3639,30 @@
       "isHost": "true",
       "online": "true"
     },
-{
-"name": "ESTAFA FALLIDA",
-"image": "https://pics.filmaffinity.com/the_cleaners-687289995-large.jpg",
-"url": "https://filemoon.to/d/5z1sl363eyxb/Estafa_fallida",
-"info": "[2025][Suspenso]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-{
-"name": "ESTAFADORES, LOS",
-"image": "https://i.postimg.cc/jq892Svd/IMG-20250518-193151-840.jpg",
-"url": "https://filemoon.to/d/tb71n6mygeyj",
-"info": "2025",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "ESTAFA FALLIDA",
+      "image": "https://pics.filmaffinity.com/the_cleaners-687289995-large.jpg",
+      "url": "https://filemoon.to/d/5z1sl363eyxb/Estafa_fallida",
+      "info": "[2025][Suspenso]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "ESTAFADORES, LOS",
+      "image": "https://i.postimg.cc/jq892Svd/IMG-20250518-193151-840.jpg",
+      "url": "https://filemoon.to/d/tb71n6mygeyj",
+      "info": "2025",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "¿ESTAS AHI DIOS? SOY YO, MARGARET",
       "image": "https://pics.filmaffinity.com/are_you_there_god_it_s_me_margaret-622714416-large.jpg",
@@ -3815,18 +3813,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-{
-"name": "FACULTY, THE",
-"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/43OFnIfH09qwj8uTDNKEvgAGa73.jpg",
-"url": "https://byseraguci.com/d/dhzkh65ci9nn",
-"info": "[1998][Terror, fantástico]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "FACULTY, THE",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/43OFnIfH09qwj8uTDNKEvgAGa73.jpg",
+      "url": "https://byseraguci.com/d/dhzkh65ci9nn",
+      "info": "[1998][Terror, fantástico]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "FAMILIA EN EL DIVAN, LA",
       "image": "https://pics.filmaffinity.com/mother_couch-552250609-large.jpg",
@@ -3863,18 +3861,18 @@
       "online": "true",
       "import": false
     },
-{
-"name": "FANTASMAGORIA",
-"image": "https://pics.filmaffinity.com/fantasmagoria-516179378-large.jpg",
-"url": "https://filemoon.to/d/lgorn2k1rziu/Fantasmagor_a",
-"info": "[2025][Terror]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "FANTASMAGORIA",
+      "image": "https://pics.filmaffinity.com/fantasmagoria-516179378-large.jpg",
+      "url": "https://filemoon.to/d/lgorn2k1rziu/Fantasmagor_a",
+      "info": "[2025][Terror]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "FARO",
       "image": "https://pics.filmaffinity.com/faro-213593399-mmed.jpg",
@@ -3946,18 +3944,18 @@
       "online": "true",
       "import": false
     },
-{
-"name": "FIN DE LA LEALTAD",
-"image": "https://pics.filmaffinity.com/end_of_loyalty-972652959-large.jpg",
-"url": "https://filemoon.to/d/lhn4emzvwlyn/Fin_de_la_lealtad",
-"info": "[2023][Acción, Crimen]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "FIN DE LA LEALTAD",
+      "image": "https://pics.filmaffinity.com/end_of_loyalty-972652959-large.jpg",
+      "url": "https://filemoon.to/d/lhn4emzvwlyn/Fin_de_la_lealtad",
+      "info": "[2023][Acción, Crimen]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "FINAL DE NUESTROS DIAS, EL",
       "image": "https://i.postimg.cc/RhQtsk17/IMG-20250224-122141-879.jpg",
@@ -3982,30 +3980,30 @@
       "online": "true",
       "import": false
     },
-{
-"name": "FIVE NIGHTS AT FREDDY's",
-"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/t6RSJ1z8bDEYpk4fLwxfkXciUak.jpg",
-"url": "https://filemoon.to/d/816j3itkpoqj/Five_Nights_at_Freddy_s.mp4",
-"info": "[2023][Terror, Suspense]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-{
-"name": "FIVE NIGHTS AT FREDDY's 2",
-"image": "https://pics.filmaffinity.com/five_nights_at_freddy_s_2-190185835-large.jpg",
-"url": "https://byseraguci.com/d/kot2e92byxbm/five-nights-at-freddys-2",
-"info": "[2025][Terror, suspense]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "FIVE NIGHTS AT FREDDY's",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/t6RSJ1z8bDEYpk4fLwxfkXciUak.jpg",
+      "url": "https://filemoon.to/d/816j3itkpoqj/Five_Nights_at_Freddy_s.mp4",
+      "info": "[2023][Terror, Suspense]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "FIVE NIGHTS AT FREDDY's 2",
+      "image": "https://pics.filmaffinity.com/five_nights_at_freddy_s_2-190185835-large.jpg",
+      "url": "https://byseraguci.com/d/kot2e92byxbm/five-nights-at-freddys-2",
+      "info": "[2025][Terror, suspense]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "FLAMIN HOT, LA HISTORIA DE LOS CHEETOS PICANTES",
       "image": "https://pics.filmaffinity.com/flamin_hot-362842518-large.jpg",
@@ -4029,18 +4027,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-{
-"name": "FORMULA 1, LA PELICULA",
-"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/wfpqaxoPKvcqzLy8FO0enGXBzU.jpg",
-"url": "https://byseraguci.com/d/ctmsopgi1xii",
-"info": "[2025][Acción, drama]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "FORMULA 1, LA PELICULA",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/wfpqaxoPKvcqzLy8FO0enGXBzU.jpg",
+      "url": "https://byseraguci.com/d/ctmsopgi1xii",
+      "info": "[2025][Acción, drama]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "FORTALEZA, LA",
       "image": "https://i.postimg.cc/9F80YC98/Fortaleza-La-2023-Pelicula.jpg",
@@ -4069,25 +4067,25 @@
       "image": "https://pics.filmaffinity.com/the_forge-998430397-large.jpg",
       "url": "https://filemoon.to/d/oh2911eq926j/Fragua__La__2024__Pelicula.mp4",
       "info": "[Español 2024]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-{
-"name": "FRANKENSTEIN",
-"image": "https://pics.filmaffinity.com/frankenstein-244825237-large.jpg",
-"url": "https://byseraguci.com/d/kz7i947ducm6/frankenstein",
-"info": "[2025][Drama, terror]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "FRANKENSTEIN",
+      "image": "https://pics.filmaffinity.com/frankenstein-244825237-large.jpg",
+      "url": "https://byseraguci.com/d/kz7i947ducm6/frankenstein",
+      "info": "[2025][Drama, terror]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "FRENCH LOVER",
       "image": "https://pics.filmaffinity.com/french_lover-746570295-large.jpg",
@@ -4100,18 +4098,18 @@
       "online": "true",
       "import": false
     },
-{
-"name": "FRESH",
-"image": "https://pics.filmaffinity.com/fresh-522005614-large.jpg",
-"url": "https://filemoon.to/d/9eanb2yvocez/FRESH.mp4",
-"info": "[2022][Thriller, terror]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "FRESH",
+      "image": "https://pics.filmaffinity.com/fresh-522005614-large.jpg",
+      "url": "https://filemoon.to/d/9eanb2yvocez/FRESH.mp4",
+      "info": "[2022][Thriller, terror]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "FREWAKA",
       "image": "https://m.media-amazon.com/images/M/MV5BYzljNmZiODgtYzNiZC00YTk0LWIzNDgtZmQzNjZlNzQ1MDYwXkEyXkFqcGc@._V1_.jpg",
@@ -4191,29 +4189,29 @@
       "online": "true",
       "import": false
     },
-{
-"name": "FUNERAL DE LOCOS,UN",
-"image": "https://i.postimg.cc/mrx32sZG/IMG-20250728-201910-179.jpg",
-"url": "https://listeamed.net/v/qA3WOmVe2V95Kkz",
-"info": "[2025]",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"userAgent": "PlusMediaPlayer/0.0.9",
-"import": false
-},
-{
-"name": "FURGO, LA",
-"image": "https://pics.filmaffinity.com/la_furgo-498771875-large.jpg",
-"url": "https://filemoon.to/d/p4n185s0jmyp/La_furgo",
-"info": "[2025][Animación Comedia Drama]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "FUNERAL DE LOCOS,UN",
+      "image": "https://i.postimg.cc/mrx32sZG/IMG-20250728-201910-179.jpg",
+      "url": "https://listeamed.net/v/qA3WOmVe2V95Kkz",
+      "info": "[2025]",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "FURGO, LA",
+      "image": "https://pics.filmaffinity.com/la_furgo-498771875-large.jpg",
+      "url": "https://filemoon.to/d/p4n185s0jmyp/La_furgo",
+      "info": "[2025][Animación Comedia Drama]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "FURIA (GUNNER)",
       "image": "https://pics.filmaffinity.com/gunner-610935115-large.jpg",
@@ -4226,18 +4224,18 @@
       "online": "true",
       "import": false
     },
-{
-"name": "FURIOZA 2",
-"image": "https://pics.filmaffinity.com/druga_furioza-831206306-large.jpg",
-"url": "https://filemoon.to/d/dwfa2qx1d7c9/Furioza_2",
-"info": "[2025][Drama]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "FURIOZA 2",
+      "image": "https://pics.filmaffinity.com/druga_furioza-831206306-large.jpg",
+      "url": "https://filemoon.to/d/dwfa2qx1d7c9/Furioza_2",
+      "info": "[2025][Drama]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "G20",
       "image": "https://i.postimg.cc/DwHbnGgG/IMG-20250412-232605-080.jpg",
@@ -4260,18 +4258,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-{
-"name": "GENTE DE LA PARED, LA",
-"image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3NyL99rcDr5S4qQ8FXDwWiLujEE.jpg",
-"url": "https://filemoon.to/d/vayxdhd96r8a/La_gente_de_la_pared",
-"info": "[2024][Misterio Suspenso Terror]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "GENTE DE LA PARED, LA",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3NyL99rcDr5S4qQ8FXDwWiLujEE.jpg",
+      "url": "https://filemoon.to/d/vayxdhd96r8a/La_gente_de_la_pared",
+      "info": "[2024][Misterio Suspenso Terror]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "GENTLEMEN, LOS SEÑORES DE LA MAFIA",
       "image": "https://pics.filmaffinity.com/the_gentlemen-425828685-large.jpg",
@@ -4370,18 +4368,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-{
-"name": "GRAFTED",
-"image": "https://pics.filmaffinity.com/grafted-514671540-large.jpg",
-"url": "https://filemoon.to/d/ims6vjuko59s/Grafted",
-"info": "[Español 2024]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "GRAFTED",
+      "image": "https://pics.filmaffinity.com/grafted-514671540-large.jpg",
+      "url": "https://filemoon.to/d/ims6vjuko59s/Grafted",
+      "info": "[Español 2024]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "GRAN AMBICION, LA",
       "image": "https://pics.filmaffinity.com/berlinguer_la_grande_ambizione-613709109-large.jpg",
@@ -4447,18 +4445,18 @@
       "isHost": "true",
       "online": "true"
     },
-{
-"name": "GRAN TURISMO",
-"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/tVj5dn15iwkMhjU2wIih1yMy5LK.jpg",
-"url": "https://byseraguci.com/d/tvfkplvti6w2/gran-turismo",
-"info": "[2023][Acción, drama]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "GRAN TURISMO",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/tVj5dn15iwkMhjU2wIih1yMy5LK.jpg",
+      "url": "https://byseraguci.com/d/tvfkplvti6w2/gran-turismo",
+      "info": "[2023][Acción, drama]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "GRETA (LA VIUDA)",
       "image": "https://pics.filmaffinity.com/greta-807585991-large.jpg",
@@ -4617,31 +4615,31 @@
       "isHost": "true",
       "online": "true",
       "import": false
-    },    
-{
-"name": "HEREJE",
-"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/rpo3DJFMOSAz27gDwxJ5LIwIFni.jpg",
-"url": "https://filemoon.to/d/0xq7z543sabo/Hereje__2024_",
-"info": "[2024][Suspense Terror]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-{
-"name": "HERENCIA MALDITA",
-"image": "https://pics.filmaffinity.com/a_semente_do_mal-366279818-large.jpg",
-"url": "https://filemoon.to/d/346r2ljtos7g/Herencia_maldita",
-"info": "[2024][Misterio, Terror]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    },
+    {
+      "name": "HEREJE",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/rpo3DJFMOSAz27gDwxJ5LIwIFni.jpg",
+      "url": "https://filemoon.to/d/0xq7z543sabo/Hereje__2024_",
+      "info": "[2024][Suspense Terror]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "HERENCIA MALDITA",
+      "image": "https://pics.filmaffinity.com/a_semente_do_mal-366279818-large.jpg",
+      "url": "https://filemoon.to/d/346r2ljtos7g/Herencia_maldita",
+      "info": "[2024][Misterio, Terror]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "HERMANA MUERTE",
       "image": "https://pics.filmaffinity.com/hermana_muerte-203218447-large.jpg",
@@ -4816,18 +4814,18 @@
       "online": "true",
       "import": false
     },
-		{
-        "name": "HOMBRE ABANDONADO, UN",
-        "image": "https://pics.filmaffinity.com/metruk_adam-525556267-large.jpg",
-        "url": "https://filemoon.to/d/62qx2rzsxunc/Un_hombre_abandonado",
-        "info": "[2025]",
-		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-		"referer": "",
-        "embed":"",
-        "isHost":"true",
-        "online":"true",
-        "import": false
-        },
+    {
+      "name": "HOMBRE ABANDONADO, UN",
+      "image": "https://pics.filmaffinity.com/metruk_adam-525556267-large.jpg",
+      "url": "https://filemoon.to/d/62qx2rzsxunc/Un_hombre_abandonado",
+      "info": "[2025]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "HOMBRE ARAÑA 3, EL",
       "image": "https://pics.filmaffinity.com/spider_man_3_spiderman_3-381165300-mmed.jpg",
@@ -4946,18 +4944,18 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
-{
-"name": "ICE FALL",
-"image": "https://pics.filmaffinity.com/icefall-650001047-mmed.jpg",
-"url": "https://byseraguci.com/d/gweg6zswkmty/ice-fall",
-"info": "[2025][Acción, crimen, suspense]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "ICE FALL",
+      "image": "https://pics.filmaffinity.com/icefall-650001047-mmed.jpg",
+      "url": "https://byseraguci.com/d/gweg6zswkmty/ice-fall",
+      "info": "[2025][Acción, crimen, suspense]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "ICE ROAD, VENGEANCE",
       "image": "https://pics.filmaffinity.com/ice_road_vengeance-423768629-large.jpg",
@@ -5004,18 +5002,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-{
-"name": "INFILTRADA, LA",
-"image": "https://media.themoviedb.org/t/p/w300_and_h450_face/xnME9c2PEtYGBDPO4lZXAVeEu0G.jpg",
-"url": "https://byseraguci.com/d/qc3nxyzvnd24/infiltrada-la-2024-pelicula-castellano-bdrip-1080px265",
-"info": "[2025]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "INFILTRADA, LA",
+      "image": "https://media.themoviedb.org/t/p/w300_and_h450_face/xnME9c2PEtYGBDPO4lZXAVeEu0G.jpg",
+      "url": "https://byseraguci.com/d/qc3nxyzvnd24/infiltrada-la-2024-pelicula-castellano-bdrip-1080px265",
+      "info": "[2025]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "INFILTRADO (INSIDE MAN)",
       "image": "https://pics.filmaffinity.com/inside_man-498619725-large.jpg",
@@ -5028,18 +5026,18 @@
       "online": "true",
       "import": false
     },
-{
-"name": "INHERITANCE",
-"image": "https://pics.filmaffinity.com/inheritance-811226769-large.jpg",
-"url": "https://filemoon.to/d/dhykgohmhuz0/Inheritance",
-"info": "[2025][Suspense]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "INHERITANCE",
+      "image": "https://pics.filmaffinity.com/inheritance-811226769-large.jpg",
+      "url": "https://filemoon.to/d/dhykgohmhuz0/Inheritance",
+      "info": "[2025][Suspense]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "INMORTALES. LOS",
       "info": "[1986][Español]",
@@ -5252,18 +5250,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-{
-"name": "JOBS",
-"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/h4gbnZvtN4qAkgR28cOn845EIN9.jpg",
-"url": "https://filemoon.to/d/k8s9z3zs9i9w/Jobs",
-"info": "[2025][Drama]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "JOBS",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/h4gbnZvtN4qAkgR28cOn845EIN9.jpg",
+      "url": "https://filemoon.to/d/k8s9z3zs9i9w/Jobs",
+      "info": "[2025][Drama]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "JOCKEY, EL",
       "image": "https://i.postimg.cc/rFrCcDss/IMG-20241224-095139-440.jpg",
@@ -5411,29 +5409,29 @@
       "online": "true",
       "import": false
     },
-{
-"name": "JURADO, EL",
-"image": "https://pics.filmaffinity.com/je_le_jure-530741769-large.jpg",
-"url": "https://filemoon.to/d/suktek2s8vqo/El_jurado",
-"info": "[2025][Drama]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-{
-"name": "JURASSIC WORLD-EL RENACER",
-"image": "https://i.postimg.cc/cLgXThkX/IMG-20250725-225406-684.jpg",
-"url": "https://listeamed.net/v/04rQxWoy8JAxb2N",
-"info": "2025",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"userAgent": "PlusMediaPlayer/0.0.9",
-"import": false
-},
+    {
+      "name": "JURADO, EL",
+      "image": "https://pics.filmaffinity.com/je_le_jure-530741769-large.jpg",
+      "url": "https://filemoon.to/d/suktek2s8vqo/El_jurado",
+      "info": "[2025][Drama]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "JURASSIC WORLD-EL RENACER",
+      "image": "https://i.postimg.cc/cLgXThkX/IMG-20250725-225406-684.jpg",
+      "url": "https://listeamed.net/v/04rQxWoy8JAxb2N",
+      "info": "2025",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
     {
       "name": "JUROR N 2",
       "image": "https://pics.filmaffinity.com/juror_2-506872185-large.jpg",
@@ -5509,18 +5507,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-{
-"name": "KOLN 75",
-"image": "https://pics.filmaffinity.com/koln_75-552917268-large.jpg",
-"url": "https://filemoon.to/d/xhsm4g2v0u5i/K_ln_75",
-"info": "[2025][Drama, Historia]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "KOLN 75",
+      "image": "https://pics.filmaffinity.com/koln_75-552917268-large.jpg",
+      "url": "https://filemoon.to/d/xhsm4g2v0u5i/K_ln_75",
+      "info": "[2025][Drama, Historia]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "KRAVEN, THE HUNTER",
       "image": "https://pics.filmaffinity.com/kraven_the_hunter-206172064-large.jpg",
@@ -5679,7 +5677,7 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
-	{
+    {
       "name": "LA LIBERACION",
       "info": "[2024][Español]",
       "image": "https://pics.filmaffinity.com/La_liberaciaon-199592217-large.jpg",
@@ -5860,18 +5858,18 @@
       "online": "true",
       "import": false
     },
-{
-"name": "LIZZIE SUPERSTAR",
-"image": "https://pics.filmaffinity.com/the_lizzie_mcguire_movie-350644084-large.jpg",
-"url": "https://filemoon.to/d/7wmsx8an16o7/Lizzie_Superstar",
-"info": "[2003][Aventura Comedia Familia]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "LIZZIE SUPERSTAR",
+      "image": "https://pics.filmaffinity.com/the_lizzie_mcguire_movie-350644084-large.jpg",
+      "url": "https://filemoon.to/d/7wmsx8an16o7/Lizzie_Superstar",
+      "info": "[2003][Aventura Comedia Familia]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "LO QUE EL VIENTO SE LLEVÓ",
       "image": "https://pics.filmaffinity.com/gone_with_the_wind-432251527-large.jpg",
@@ -5980,18 +5978,18 @@
       "online": "true",
       "import": false
     },
-{
-"name": "LOVE-WAR",
-"image": "https://pics.filmaffinity.com/love_war-392718587-large.jpg",
-"url": "https://filemoon.to/d/8pei2a7k7th6/Love_War",
-"info": "[2025][Bélico, documental]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "LOVE-WAR",
+      "image": "https://pics.filmaffinity.com/love_war-392718587-large.jpg",
+      "url": "https://filemoon.to/d/8pei2a7k7th6/Love_War",
+      "info": "[2025][Bélico, documental]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "LUGAR MARAVILLOSO, UN",
       "image": "https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/91/83/91/20165847.jpg",
@@ -6278,18 +6276,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-{
-"name": "MARTIN",
-"image": "https://pics.filmaffinity.com/martin-644485472-large.jpg",
-"url": "https://filemoon.to/d/mh124pltq93z/Martin",
-"info": "[2024][Acción Drama Suspenso]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "MARTIN",
+      "image": "https://pics.filmaffinity.com/martin-644485472-large.jpg",
+      "url": "https://filemoon.to/d/mh124pltq93z/Martin",
+      "info": "[2024][Acción Drama Suspenso]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "MARY and MAX",
       "image": "https://pics.filmaffinity.com/mary_and_max-528932806-large.jpg",
@@ -6320,30 +6318,30 @@
       "isHost": "true",
       "online": "true"
     },
-{
-"name": "MAS ALLA DEL MURO",
-"image": "https://pics.filmaffinity.com/east_of_wall-942568349-large.jpg",
-"url": "https://filemoon.to/d/o3wla37kh8ut/M_s_all__del_muro",
-"info": "[2025][Drama, Western]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-{
-"name": "MASPALOMAS",
-"image": "https://www.elseptimoarte.net/carteles/341/maspalomas_105905.jpg",
-"url": "https://abstream.to/e/dyjgvgd8eobq",
-"info": "[2025][Drama]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "MAS ALLA DEL MURO",
+      "image": "https://pics.filmaffinity.com/east_of_wall-942568349-large.jpg",
+      "url": "https://filemoon.to/d/o3wla37kh8ut/M_s_all__del_muro",
+      "info": "[2025][Drama, Western]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "MASPALOMAS",
+      "image": "https://www.elseptimoarte.net/carteles/341/maspalomas_105905.jpg",
+      "url": "https://abstream.to/e/dyjgvgd8eobq",
+      "info": "[2025][Drama]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "MATAME SI TE ATREVES CARIÑO",
       "image": "https://i.postimg.cc/Vv7GLK5f/2ve-VEL9t-Iz-L3-JOLQm-FAk0-ZBGQ0r.jpg",
@@ -6355,19 +6353,19 @@
       "online": "true",
       "import": false
     },
-{
-"name": "MATERIALISTAS",
-"image": "https://pics.filmaffinity.com/materialists-985777137-large.jpg",
-"url": "https://filemoon.to/d/gqj84psj96jr/Materialistas",
-"info": "[2025][Drama, Romance]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-{
+    {
+      "name": "MATERIALISTAS",
+      "image": "https://pics.filmaffinity.com/materialists-985777137-large.jpg",
+      "url": "https://filemoon.to/d/gqj84psj96jr/Materialistas",
+      "info": "[2025][Drama, Romance]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
       "name": "MAQUINA DE GUERRA",
       "image": "https://peliculas.lavanguardia.com/imagenes/w500/d5YmQx9kPLQBHEboGwrAavypztB.jpg",
       "url": "https://bysetayico.com/d/1kfj3m5nujva",
@@ -6376,8 +6374,8 @@
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
-},
-{
+    },
+    {
       "name": "MATUSALEN",
       "image": "https://pics.filmaffinity.com/matusalen-219429490-large.jpg",
       "url": "https://filemoon.to/d/6wz4i20g7t4i",
@@ -6722,41 +6720,41 @@
       "online": "true",
       "import": false
     },
-{
-"name": "MISS BOOTS",
-"image": "https://pics.filmaffinity.com/mlle_bottine-455098917-large.jpg",
-"url": "https://filemoon.to/d/k39tp2fkj84g/Miss_Boots",
-"info": "[2024][Comedia]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-		{
-        "name": "MISS CARBÓN",
-        "image": "https://pics.filmaffinity.com/miss_carbon-252920953-large.jpg",
-        "url": "https://filemoon.to/d/o2cmwfz6hnk8/Miss_Carb_n_2025_Pelicula_Castellano.mp4",
-        "info": "[2025]",
-		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-		"referer": "",
-        "embed":"",
-        "isHost":"true",
-        "online":"true",
-        "import": false
-        },
-    	{
-      	"name": "MISTERIO DE SALEMS LOT, EL",
-      	"image": "https://i.postimg.cc/ZqSsW64Y/IMG-20241009-114512-558.jpg",
-      	"url": "https://filemoon.to/d/bykwu8fvys6f",
-      	"info": "2024",
-      	"embed": "",
-      	"isHost": "true",
-      	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      	"import": false
-    	},
+    {
+      "name": "MISS BOOTS",
+      "image": "https://pics.filmaffinity.com/mlle_bottine-455098917-large.jpg",
+      "url": "https://filemoon.to/d/k39tp2fkj84g/Miss_Boots",
+      "info": "[2024][Comedia]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "MISS CARBÓN",
+      "image": "https://pics.filmaffinity.com/miss_carbon-252920953-large.jpg",
+      "url": "https://filemoon.to/d/o2cmwfz6hnk8/Miss_Carb_n_2025_Pelicula_Castellano.mp4",
+      "info": "[2025]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "MISTERIO DE SALEMS LOT, EL",
+      "image": "https://i.postimg.cc/ZqSsW64Y/IMG-20241009-114512-558.jpg",
+      "url": "https://filemoon.to/d/bykwu8fvys6f",
+      "info": "2024",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "import": false
+    },
     {
       "name": "MISTERIO EN VENECIA",
       "image": "https://pics.filmaffinity.com/a_haunting_in_venice-814202842-large.jpg",
@@ -6802,18 +6800,18 @@
       "online": "true",
       "import": false
     },
-{
-"name": "MONSTRUO, EL",
-"image": "https://i.postimg.cc/XqNcjtLB/Monstruo-El-1994-Pelicula.jpg",
-"url": "https://filemoon.to/d/52pgnembg06i/Montruo_El_Roberto_Benigni__1994_Pelicula__Spanish_Italian_Subs_BDrip_1080p.mkv",
-"info": "[Español][1994]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "MONSTRUO, EL",
+      "image": "https://i.postimg.cc/XqNcjtLB/Monstruo-El-1994-Pelicula.jpg",
+      "url": "https://filemoon.to/d/52pgnembg06i/Montruo_El_Roberto_Benigni__1994_Pelicula__Spanish_Italian_Subs_BDrip_1080p.mkv",
+      "info": "[Español][1994]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "MONSTRUO",
       "image": "https://pics.filmaffinity.com/kaibutsu-770906467-large.jpg",
@@ -6825,18 +6823,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-{
-"name": "MR. BURTON",
-"image": "https://pics.filmaffinity.com/mr_burton-493783526-large.jpg",
-"url": "https://filemoon.to/d/nxd302xt1dbr/Mr__Burton",
-"info": "[2025][Drama]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "MR. BURTON",
+      "image": "https://pics.filmaffinity.com/mr_burton-493783526-large.jpg",
+      "url": "https://filemoon.to/d/nxd302xt1dbr/Mr__Burton",
+      "info": "[2025][Drama]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "MUERTE ANTES DE UNA BODA, UNA",
       "image": "https://i.postimg.cc/RF9qQ1hv/Una-muerte-antes-de-una-boda-Poster.jpg",
@@ -6849,18 +6847,18 @@
       "online": "true",
       "import": false
     },
-{
-"name": "MUERTE DEL UNICORNIO, LA",
-"image": "https://pics.filmaffinity.com/death_of_a_unicorn-326889817-large.jpg",
-"url": "https://filemoon.to/d/rpol93q6bva5/La_muerte_del_unicornio",
-"info": "[Español 2025]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "MUERTE DEL UNICORNIO, LA",
+      "image": "https://pics.filmaffinity.com/death_of_a_unicorn-326889817-large.jpg",
+      "url": "https://filemoon.to/d/rpol93q6bva5/La_muerte_del_unicornio",
+      "info": "[Español 2025]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "MUJER DEL CAMAROTE 10, LA",
       "image": "https://pics.filmaffinity.com/the_woman_in_cabin_10-329449064-large.jpg",
@@ -6907,42 +6905,42 @@
       "online": "true",
       "import": false
     },
-{
-"name": "MUJERCITAS",
-"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/1GDyTbZld3x4P8vRSHCF0FY8g4C.jpg",
-"url": "https://byseraguci.com/d/85eaa4ebzu6z/mujercitas",
-"info": "[1949][Drama]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-{
-"name": "MUJERES PODEROSAS",
-"image": "https://pics.filmaffinity.com/schitterend-142030654-large.jpg",
-"url": "https://byseraguci.com/d/njoe6lwx5tc1/mujeres-poderosas",
-"info": "[2024][Drama]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-{
-"name": "MUNICH EN VISPERA DE UNA GUERRA",
-"image": "https://hdfullcdn.cc/tthumb/172x256/movie_0154d4dc14484e6438c137b3347d63e9.jpg",
-"url": "https://filemoon.to/d/s9ih4r04m7mh/M_nich_en_v_speras_de_una_guerra",
-"info": "[2021][Drama Historia]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "MUJERCITAS",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/1GDyTbZld3x4P8vRSHCF0FY8g4C.jpg",
+      "url": "https://byseraguci.com/d/85eaa4ebzu6z/mujercitas",
+      "info": "[1949][Drama]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "MUJERES PODEROSAS",
+      "image": "https://pics.filmaffinity.com/schitterend-142030654-large.jpg",
+      "url": "https://byseraguci.com/d/njoe6lwx5tc1/mujeres-poderosas",
+      "info": "[2024][Drama]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "MUNICH EN VISPERA DE UNA GUERRA",
+      "image": "https://hdfullcdn.cc/tthumb/172x256/movie_0154d4dc14484e6438c137b3347d63e9.jpg",
+      "url": "https://filemoon.to/d/s9ih4r04m7mh/M_nich_en_v_speras_de_una_guerra",
+      "info": "[2021][Drama Historia]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "MURDER COMPANY",
       "image": "https://pics.filmaffinity.com/murder_company-732602008-large.jpg",
@@ -7022,30 +7020,30 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-{
-"name": "NAVIDAD BAJO LAS LUCES",
-"image": "https://pics.filmaffinity.com/christmas_under_the_lights-118095254-large.jpg",
-"url": "https://filemoon.to/d/sybiiffg5ify/Navidad_bajo_las_luces",
-"info": "[2024][Drama]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-{
-"name": "NEFARIOUS, CUANDO HABLA EL DIABLO",
-"info": "[2023][Español]",
-"image": "https://pics.filmaffinity.com/nefarious-652173351-large.jpg",
-"url": "https://filemoon.to/d/0mdo8x24ji1u",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "NAVIDAD BAJO LAS LUCES",
+      "image": "https://pics.filmaffinity.com/christmas_under_the_lights-118095254-large.jpg",
+      "url": "https://filemoon.to/d/sybiiffg5ify/Navidad_bajo_las_luces",
+      "info": "[2024][Drama]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "NEFARIOUS, CUANDO HABLA EL DIABLO",
+      "info": "[2023][Español]",
+      "image": "https://pics.filmaffinity.com/nefarious-652173351-large.jpg",
+      "url": "https://filemoon.to/d/0mdo8x24ji1u",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "NEGOCIO DEL DOLOR, EL",
       "image": "https://pics.filmaffinity.com/pain_hustlers-140078745-large.jpg",
@@ -7057,18 +7055,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-{
-"name": "NEVER ALONE (NUNCA MAS)",
-"image": "https://pics.filmaffinity.com/ei_koskaan_yksin-430398890-large.jpg",
-"url": "https://filemoon.to/d/qpbxb7aqq4bf/Never_Alone__Nunca_m_s_",
-"info": "[2025][Drama, historia]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "NEVER ALONE (NUNCA MAS)",
+      "image": "https://pics.filmaffinity.com/ei_koskaan_yksin-430398890-large.jpg",
+      "url": "https://filemoon.to/d/qpbxb7aqq4bf/Never_Alone__Nunca_m_s_",
+      "info": "[2025][Drama, historia]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "NI EN SUEÑOS",
       "info": "2010",
@@ -7235,18 +7233,18 @@
       "isHost": "true",
       "online": "true"
     },
-{
-"name": "NUESTRA HISTORIA DE VACACIONES",
-"image": "https://pics.filmaffinity.com/our_holiday_story-225730125-large.jpg",
-"url": "https://filemoon.to/d/90gz5g4czn97/Nuestra_historia_de_vacaciones",
-"info": "[2024][Comedia, Romance]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "NUESTRA HISTORIA DE VACACIONES",
+      "image": "https://pics.filmaffinity.com/our_holiday_story-225730125-large.jpg",
+      "url": "https://filemoon.to/d/90gz5g4czn97/Nuestra_historia_de_vacaciones",
+      "info": "[2024][Comedia, Romance]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "NUESTRO HOGAR (ASTRAL CITY)",
       "image": "https://pics.filmaffinity.com/nosso_lar_astral_city_a_spiritual_journey-796835827-large.jpg",
@@ -7690,18 +7688,18 @@
       "online": "true",
       "import": false
     },
-{
-"name": "PASABA POR AQUI",
-"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/dAodJgWeUIIhdUCWxO9T9LMNLt2.jpg",
-"url": "https://filemoon.to/d/3h6wbfn0v34c/Pasaba_por_aqu_",
-"info": "[2022][Crimen Suspense]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "PASABA POR AQUI",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/dAodJgWeUIIhdUCWxO9T9LMNLt2.jpg",
+      "url": "https://filemoon.to/d/3h6wbfn0v34c/Pasaba_por_aqu_",
+      "info": "[2022][Crimen Suspense]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "PASION DE CRISTO, LA",
       "image": "https://pics.filmaffinity.com/the_passion_of_the_christ-211498441-large.jpg",
@@ -7801,17 +7799,17 @@
       "isHost": "true",
       "online": "true"
     },
-{
-"name": "PESADILLA EN NUNCA JAMÁS",
-"image": "https://i.postimg.cc/x1QvXSHK/IMG-20250725-160959-848.jpg",
-"url": "https://filemoon.to/d/70rvk6pecwde",
-"info": "2025",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"userAgent": "PlusMediaPlayer/0.0.9",
-"import": false
-},
+    {
+      "name": "PESADILLA EN NUNCA JAMÁS",
+      "image": "https://i.postimg.cc/x1QvXSHK/IMG-20250725-160959-848.jpg",
+      "url": "https://filemoon.to/d/70rvk6pecwde",
+      "info": "2025",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
     {
       "name": "PIDEME LO QUE QUIERAS",
       "image": "https://i.postimg.cc/DyGMGWbs/IMG-20250329-154146-289.jpg",
@@ -7981,18 +7979,18 @@
       "online": "true",
       "import": false
     },
-{
-"name": "PREDATOR: BADLANDS",
-"image": "https://pics.filmaffinity.com/predator_badlands-767428270-large.jpg",
-"url": "https://byseraguci.com/d/c3fv4oqeayfi/predator-badlands",
-"info": "[2025][Acción, aventura]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "PREDATOR: BADLANDS",
+      "image": "https://pics.filmaffinity.com/predator_badlands-767428270-large.jpg",
+      "url": "https://byseraguci.com/d/c3fv4oqeayfi/predator-badlands",
+      "info": "[2025][Acción, aventura]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "PREDESTINATIONS",
       "image": "https://pics.filmaffinity.com/predestination-972600742-large.jpg",
@@ -8091,18 +8089,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-{
-"name": "PUÑALES POR LA ESPALDA: DE ENTRE LOS MUERTOS",
-"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/trGWfaYTkzkalkosXfxidpLum50.jpg",
-"url": "https://byseraguci.com/d/q6bf27wj6jrp/pu%C3%B1ales-por-la-espalda-de-entre-los-muertos",
-"info": "[2025][Comedia, crimen]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "PUÑALES POR LA ESPALDA: DE ENTRE LOS MUERTOS",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/trGWfaYTkzkalkosXfxidpLum50.jpg",
+      "url": "https://byseraguci.com/d/q6bf27wj6jrp/pu%C3%B1ales-por-la-espalda-de-entre-los-muertos",
+      "info": "[2025][Comedia, crimen]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "QUEER",
       "image": "https://i.postimg.cc/4y7Gh2wv/IMG-20250329-215402-820.jpg",
@@ -8115,18 +8113,18 @@
       "online": "true",
       "import": false
     },
-{
-"name": "QUERIDA LADRONA, MI",
-"image": "https://pics.filmaffinity.com/la_pie_voleuse-127133852-large.jpg",
-"url": "https://filemoon.to/d/hj5eqwczrlo2/Mi_querida_ladrona",
-"info": "[2025][Comedia, Drama]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "QUERIDA LADRONA, MI",
+      "image": "https://pics.filmaffinity.com/la_pie_voleuse-127133852-large.jpg",
+      "url": "https://filemoon.to/d/hj5eqwczrlo2/Mi_querida_ladrona",
+      "info": "[2025][Comedia, Drama]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "¿ QUIEN ES QUIEN ?",
       "image": "https://i.postimg.cc/nryJKKwy/IMG-20250329-215352-502.jpg",
@@ -8161,18 +8159,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-{
-"name": "RADICAL",
-"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/eSatbygYZp8ooprBHZdb6GFZxGB.jpg",
-"url": "https://byseraguci.com/d/uefqmbc3mngu/radical",
-"info": "[2023][ drama]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "RADICAL",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/eSatbygYZp8ooprBHZdb6GFZxGB.jpg",
+      "url": "https://byseraguci.com/d/uefqmbc3mngu/radical",
+      "info": "[2023][ drama]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "RADLEY, LOS",
       "info": "2024",
@@ -8374,18 +8372,18 @@
       "online": "true",
       "import": false
     },
-{
-"name": "RETURN TO SILENT HILL",
-"image": "https://www.elseptimoarte.net/carteles/341/return_to_silent_hill_107320.jpg",
-"url": "https://zpjid.com/d/t7oddvxotxru",
-"info": "[2026][Terror]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "RETURN TO SILENT HILL",
+      "image": "https://www.elseptimoarte.net/carteles/341/return_to_silent_hill_107320.jpg",
+      "url": "https://zpjid.com/d/t7oddvxotxru",
+      "info": "[2026][Terror]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "REY EN LA HABANA, UN",
       "image": "https://m.media-amazon.com/images/M/MV5BZTY0MDAyYzMtNmU4ZC00YjA5LThjNzgtZjNhM2E1NjNmM2JkXkEyXkFqcGc@._V1_.jpg",
@@ -8503,18 +8501,18 @@
       "online": "true",
       "import": false
     },
-{
-"name": "ROSE, LOS",
-"image": "https://pics.filmaffinity.com/the_roses-244364206-large.jpg",
-"url": "https://filemoon.to/d/qpin3zmi4x9f/Los_Rose",
-"info": "[2025][Comedia, drama]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "ROSE, LOS",
+      "image": "https://pics.filmaffinity.com/the_roses-244364206-large.jpg",
+      "url": "https://filemoon.to/d/qpin3zmi4x9f/Los_Rose",
+      "info": "[2025][Comedia, drama]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "RUSH",
       "info": "2013",
@@ -8538,18 +8536,18 @@
       "online": "true",
       "import": false
     },
-{
-"name": "SABEN AQUELL",
-"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/43OFnIfH09qwj8uTDNKEvgAGa73.jpg",
-"url": "https://byseraguci.com/d/ix9gf7xd13it",
-"info": "[2023][Drama, comedia]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "SABEN AQUELL",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/43OFnIfH09qwj8uTDNKEvgAGa73.jpg",
+      "url": "https://byseraguci.com/d/ix9gf7xd13it",
+      "info": "[2023][Drama, comedia]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "SADNESS, THE",
       "info": "[2021][Español]",
@@ -8883,17 +8881,17 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-{
-"name": "SIN EL",
-"image": "https://i.postimg.cc/D0Y1KZVW/IMG-20250803-132042-400.jpg",
-"url": "https://filemoon.to/d/j8rbxsf41qte",
-"info": "2025",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"userAgent": "PlusMediaPlayer/0.0.9",
-"import": false
-},
+    {
+      "name": "SIN EL",
+      "image": "https://i.postimg.cc/D0Y1KZVW/IMG-20250803-132042-400.jpg",
+      "url": "https://filemoon.to/d/j8rbxsf41qte",
+      "info": "2025",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
     {
       "name": "SIN INSTRUCCIONES",
       "image": "https://i.postimg.cc/rmghp21g/IMG-20250418-151925-364.jpg",
@@ -8940,31 +8938,31 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-	{
-    "name": "SISTEMA VICTORIA, EL",
-    "image": "https://pics.filmaffinity.com/le_systeme_victoria-564425681-large.jpg",
-    "url": "https://filemoon.to/d/c7nc8xxugkaq/El_sistema_Victoria",
-    "info": "[2025]",
-	"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-	"referer": "",
-    "embed":"",
-    "isHost":"true",
-    "online":"true",
-    "import": false
+    {
+      "name": "SISTEMA VICTORIA, EL",
+      "image": "https://pics.filmaffinity.com/le_systeme_victoria-564425681-large.jpg",
+      "url": "https://filemoon.to/d/c7nc8xxugkaq/El_sistema_Victoria",
+      "info": "[2025]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
     },
-{
-"name": "SIRAT",
-"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/edEDZwU3kZerqdylZsyCn7feH23.jpg",
-"url": "https://byseraguci.com/d/ndm9r6y67rd1/sirāt",
-"info": "[2025][Drama, suspense]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-	{
+    {
+      "name": "SIRAT",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/edEDZwU3kZerqdylZsyCn7feH23.jpg",
+      "url": "https://byseraguci.com/d/ndm9r6y67rd1/sirāt",
+      "info": "[2025][Drama, suspense]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
       "name": "SIZU",
       "info": "2023",
       "image": "https://es.web.img3.acsta.net/pictures/23/03/28/12/53/0991282.jpg",
@@ -9107,18 +9105,18 @@
       "online": "true",
       "import": false
     },
-{
-"name": "SOLUCION DE ALABAMA",
-"image": "https://pics.filmaffinity.com/the_alabama_solution-243347735-large.jpg",
-"url": "https://filemoon.to/d/a8cra6elln9t/La_soluci_n_de_Alabama",
-"info": "[2025][]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "SOLUCION DE ALABAMA",
+      "image": "https://pics.filmaffinity.com/the_alabama_solution-243347735-large.jpg",
+      "url": "https://filemoon.to/d/a8cra6elln9t/La_soluci_n_de_Alabama",
+      "info": "[2025][]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "SOMBRA DE DIOS, LA",
       "image": "https://i.postimg.cc/XqN2XHXk/Sombra-de-Dios-2025-Pelicula.jpg",
@@ -9215,18 +9213,18 @@
       "online": "true",
       "import": false
     },
-{
-"name": "SPINAL TAP II: EL FINAL CONTINUA",
-"image": "https://pics.filmaffinity.com/spinal_tap_ii_the_end_continues-619607573-large.jpg",
-"url": "https://filemoon.to/d/nw5tokuyy9w3/Spinal_Tap_II_El_final_contin_a",
-"info": "[2025][Comedia]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "SPINAL TAP II: EL FINAL CONTINUA",
+      "image": "https://pics.filmaffinity.com/spinal_tap_ii_the_end_continues-619607573-large.jpg",
+      "url": "https://filemoon.to/d/nw5tokuyy9w3/Spinal_Tap_II_El_final_contin_a",
+      "info": "[2025][Comedia]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "STILLNESS IN THE STORM",
       "image": "https://pics.filmaffinity.com/gelditasuna_ekaitzean-474192990-large.jpg",
@@ -9238,42 +9236,42 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-{
-"name": "STOLEN GIRL",
-"image": "https://pics.filmaffinity.com/stolen_girl-680300243-large.jpg",
-"url": "https://filemoon.to/d/n7kyf3kp3ias/Sin_rastro",
-"info": "[2025][Acción Aventura Suspenso]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-{
-"name": "STRANGERS: CAPITULO 1",
-"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/1rTRllZNEAX30dTxYL1hONR6gPj.jpg",
-"url": "https://byseraguci.com/d/4cw33cedn16c/strangers-capítulo-1",
-"info": "[2024][Terror, suspense]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-{
-"name": "STRANGERS: CAPITULO 2",
-"image": "https://media.themoviedb.org/t/p/w300_and_h450_face/rQMcbHkmlnfKW42qCVrX6GYHxEr.jpg",
-"url": "https://byseraguci.com/d/8jirjxrvxocs/strangers-capítulo-2",
-"info": "[2025][Terror, suspense]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "STOLEN GIRL",
+      "image": "https://pics.filmaffinity.com/stolen_girl-680300243-large.jpg",
+      "url": "https://filemoon.to/d/n7kyf3kp3ias/Sin_rastro",
+      "info": "[2025][Acción Aventura Suspenso]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "STRANGERS: CAPITULO 1",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/1rTRllZNEAX30dTxYL1hONR6gPj.jpg",
+      "url": "https://byseraguci.com/d/4cw33cedn16c/strangers-capítulo-1",
+      "info": "[2024][Terror, suspense]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "STRANGERS: CAPITULO 2",
+      "image": "https://media.themoviedb.org/t/p/w300_and_h450_face/rQMcbHkmlnfKW42qCVrX6GYHxEr.jpg",
+      "url": "https://byseraguci.com/d/8jirjxrvxocs/strangers-capítulo-2",
+      "info": "[2025][Terror, suspense]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "SUERTE DEL GANADOR, LA",
       "image": "https://i.postimg.cc/4N5W6qgX/IMG-20241121-131700-329.jpg",
@@ -9627,18 +9625,18 @@
       "online": "true",
       "import": false
     },
-{
-"name": "TIEMPO QUE NOS QUEDA, EL",
-"image": "https://pics.filmaffinity.com/the_time_that_remains-186217622-large.jpg",
-"url": "https://filemoon.to/d/lcysrxndtkkx/El_tiempo_que_nos_queda",
-"info": "[2025][Drama Fantasía Romance]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "TIEMPO QUE NOS QUEDA, EL",
+      "image": "https://pics.filmaffinity.com/the_time_that_remains-186217622-large.jpg",
+      "url": "https://filemoon.to/d/lcysrxndtkkx/El_tiempo_que_nos_queda",
+      "info": "[2025][Drama Fantasía Romance]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "TIERRA DE NADIE",
       "image": "https://pics.filmaffinity.com/tierra_de_nadie-522743455-large.jpg",
@@ -9726,18 +9724,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-{
-"name": "TODO LO QUE NECESITO PARA NAVIDAD",
-"image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u7LDQzTsmiDFfCEPLlV29LLMH25.jpg",
-"url": "https://filemoon.to/d/6o5e1sh24egk/Todo_lo_que_necesito_para_Navidad",
-"info": "[2025][Comedia, Romance]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "TODO LO QUE NECESITO PARA NAVIDAD",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u7LDQzTsmiDFfCEPLlV29LLMH25.jpg",
+      "url": "https://filemoon.to/d/6o5e1sh24egk/Todo_lo_que_necesito_para_Navidad",
+      "info": "[2025][Comedia, Romance]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "TODO LO QUE NO SE",
       "image": "https://pics.filmaffinity.com/todo_lo_que_no_se-776503060-large.jpg",
@@ -9750,30 +9748,30 @@
       "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "import": false
     },
-{
-"name": "TODO SALDRA BIEN",
-"image": "https://pics.filmaffinity.com/all_shall_be_well-857014977-large.jpg",
-"url": "https://filemoon.to/d/8167l1i6b8xe/Todo_saldr__bien",
-"info": "[2024][Drama]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-{
-"name": "TODOS TE QUIEREN CUANDO HAS MUERTO",
-"image": "https://pics.filmaffinity.com/everybody_loves_me_when_i_m_dead-596287877-large.jpg",
-"url": "https://filemoon.to/d/odd9d5ouhaee/Todos_te_quieren_cuando_has_muerto",
-"info": "[2025][Drama Suspenso]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "TODO SALDRA BIEN",
+      "image": "https://pics.filmaffinity.com/all_shall_be_well-857014977-large.jpg",
+      "url": "https://filemoon.to/d/8167l1i6b8xe/Todo_saldr__bien",
+      "info": "[2024][Drama]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "TODOS TE QUIEREN CUANDO HAS MUERTO",
+      "image": "https://pics.filmaffinity.com/everybody_loves_me_when_i_m_dead-596287877-large.jpg",
+      "url": "https://filemoon.to/d/odd9d5ouhaee/Todos_te_quieren_cuando_has_muerto",
+      "info": "[2025][Drama Suspenso]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "TRAGEDIA DE LOS ANDES, 50 AÑOS DESPUES",
       "image": "https://pics.filmaffinity.com/the_andes_tragedy_50_years_later-297339643-large.jpg",
@@ -9834,18 +9832,27 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
-{
-"name": "TRON: ARES",
-"image": "https://pics.filmaffinity.com/tron_ares-548031766-large.jpg",
-"url": "https://filemoon.to/d/om64f1eoswnn/TRON_Ares",
-"info": "[2025][Acción, aventura]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "TREN ANUNCIOS A LAS AFUERAS",
+      "image": "https://pics.filmaffinity.com/three_billboards_outside_ebbing_missouri-382136090-large.jpg",
+      "url": "https://bysetayico.com/d/sf477vclnccm",
+      "info": "[Español][2017]",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9"
+    },
+    {
+      "name": "TRON: ARES",
+      "image": "https://pics.filmaffinity.com/tron_ares-548031766-large.jpg",
+      "url": "https://filemoon.to/d/om64f1eoswnn/TRON_Ares",
+      "info": "[2025][Acción, aventura]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "TURISTAS",
       "info": "[2006][Español]",
@@ -9883,18 +9890,18 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
-{
-"name": "LA ÚLTIMA OBRA",
-"image": "https://pics.filmaffinity.com/opus-701197737-large.jpg",
-"url": "https://filemoon.to/d/624pam3vnuou/La__ltima_obra",
-"info": "[2025][Suspense, terror]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "LA ÚLTIMA OBRA",
+      "image": "https://pics.filmaffinity.com/opus-701197737-large.jpg",
+      "url": "https://filemoon.to/d/624pam3vnuou/La__ltima_obra",
+      "info": "[2025][Suspense, terror]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "UMAMI",
       "image": "https://i.postimg.cc/wxZrr76K/IMG-20250213-191027-829.jpg",
@@ -9939,7 +9946,7 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
-	{
+    {
       "name": "UNA CUESTION DE HONOR",
       "image": "https://pics.filmaffinity.com/pour_la_france-268430353-large.jpg",
       "url": "https://upstream.to/tiqb675bbqqx",
@@ -10003,18 +10010,18 @@
       "isHost": "true",
       "online": "true"
     },
-{
-"name": "ULTIMO REFUGIO,EL",
-"image": "https://pics.filmaffinity.com/for_morket-406589871-large.jpg",
-"url": "https://filemoon.to/d/f2pkdfvm22qs/El__ltimo_refugio",
-"info": "[2025][Suspense, Drama]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "ULTIMO REFUGIO,EL",
+      "image": "https://pics.filmaffinity.com/for_morket-406589871-large.jpg",
+      "url": "https://filemoon.to/d/f2pkdfvm22qs/El__ltimo_refugio",
+      "info": "[2025][Suspense, Drama]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "VACACIONES DE VERANO",
       "info": "2023",
@@ -10273,18 +10280,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-{
-"name": "VISTA VIRTUAL",
-"image": "https://pics.filmaffinity.com/sight_extended-258733286-large.jpg",
-"url": "https://filemoon.to/d/i81tdymeg53k/Vista_virtual",
-"info": "[2025][Drama, sci-fy]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "VISTA VIRTUAL",
+      "image": "https://pics.filmaffinity.com/sight_extended-258733286-large.jpg",
+      "url": "https://filemoon.to/d/i81tdymeg53k/Vista_virtual",
+      "info": "[2025][Drama, sci-fy]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "VIUDA NEGRA, LA",
       "image": "https://pics.filmaffinity.com/la_viuda_negra-467878135-large.jpg",
@@ -10319,18 +10326,18 @@
       "online": "true",
       "import": false
     },
-{
-"name": "VOY A PASARMELO MEJOR",
-"image": "https://pics.filmaffinity.com/voy_a_pasarmelo_mejor-231121592-large.jpg",
-"url": "https://filemoon.to/d/i7852aijgexa/Voy_a_pas_rmelo_mejor",
-"info": "[2025][Comedia]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "VOY A PASARMELO MEJOR",
+      "image": "https://pics.filmaffinity.com/voy_a_pasarmelo_mejor-231121592-large.jpg",
+      "url": "https://filemoon.to/d/i7852aijgexa/Voy_a_pas_rmelo_mejor",
+      "info": "[2025][Comedia]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "VUELO AL LIMITE",
       "info": "2023",
@@ -10407,30 +10414,30 @@
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "import": false
     },
-{
-"name": "WICKED (Parte 1)",
-"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/hDQXqvmmikekQ15uxhisBDwEA63.jpg",
-"url": "https://byseraguci.com/d/oracav4wwxgl",
-"info": "[2024][Fantasía, Aventura y Romance]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
-{
-"name": "WICKED (Parte 2)",
-"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/xBfI3jboJ8zGXpoerp8Xk9ku9JN.jpg",
-"url": "https://byseraguci.com/d/pj9i43z5rsmw/wicked-parte-ii",
-"info": "[2025][Fantasía, Aventura y Romance]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+    {
+      "name": "WICKED (Parte 1)",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/hDQXqvmmikekQ15uxhisBDwEA63.jpg",
+      "url": "https://byseraguci.com/d/oracav4wwxgl",
+      "info": "[2024][Fantasía, Aventura y Romance]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "WICKED (Parte 2)",
+      "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/xBfI3jboJ8zGXpoerp8Xk9ku9JN.jpg",
+      "url": "https://byseraguci.com/d/pj9i43z5rsmw/wicked-parte-ii",
+      "info": "[2025][Fantasía, Aventura y Romance]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "WISH, EL PODER DE LOS DIOSES",
       "info": "[2023]",
@@ -10498,17 +10505,17 @@
       "online": "true",
       "import": false
     },
-{
-"name": "ZOMBIES 4",
-"image": "https://i.postimg.cc/Vs7qt7SY/IMG-20250803-132009-363.jpg",
-"url": "https://filemoon.to/d/rpkw4vxqt8z4",
-"info": "2025",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"import": false
-},
+    {
+      "name": "ZOMBIES 4",
+      "image": "https://i.postimg.cc/Vs7qt7SY/IMG-20250803-132009-363.jpg",
+      "url": "https://filemoon.to/d/rpkw4vxqt8z4",
+      "info": "2025",
+      "embed": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "import": false
+    },
     {
       "name": "ZONA DE INTERES",
       "info": "2023",
@@ -10520,19 +10527,5 @@
       "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "import": false
     }
-
-
   ]
 }
-
-
-
-
-
-
-
-
-
-
-
-
