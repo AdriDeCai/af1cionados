@@ -240,7 +240,7 @@
 
     {
       "name": "Autódromo Internacional de Goiânia – Ayrton Senna (BRASIL)",
-      "image": "ttps://i.postimg.cc/1tx3DRks/Bandera-Brasil.jpg",
+      "image": "https://i.postimg.cc/1tx3DRks/Bandera-Brasil.jpg",
       "imageScale": "",
       "info": "[ROUND 02]",
       "stations": 
@@ -322,7 +322,7 @@
 
    {
       "name": "Circuit of the Americas - Austin (ESTADOS UNIDOS)",
-      "image": "ttps://i.postimg.cc/vTr9CMJX/Bandera-Usa.png",
+      "image": "https://i.postimg.cc/vTr9CMJX/Bandera-Usa.png",
       "imageScale": "",
       "info": "[ROUND 03]",
       "stations": 
@@ -330,8 +330,8 @@
         {
         "name": "Sprint MotoGP",
         "info": "[28-03-2026]",
-        "image": "ttps://i.postimg.cc/Wzg3Hzcf/motogp-sprint.png",
-        "url": "",
+        "image": "https://i.postimg.cc/Wzg3Hzcf/motogp-sprint.png",
+        "url": "https://bysejikuar.com/d/eh9s9cmfgyif/03-1-sprint-motogp-cota-usa-2026-es",
   		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
   		"embed": "",
   		"referer": "",
