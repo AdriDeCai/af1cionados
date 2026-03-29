@@ -76,40 +76,10 @@
 	"stations":
 		[
 			{
-			"name": "SBK SUPERPOLE",
-			"info": "[28-30 Marzo 2025]",
-			"image": "https://i.postimg.cc/d0h0r1tt/superpole.png",
-			"url": "",
-         	"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-			"embed":"",
-            "isHost":"true",
-            "online":"true"
-			},
-			{
-			"name": "SUPERSPORT RACE 1",
-			"info": "[28-30 Marzo 2025]",
-			"image": "https://i.postimg.cc/gjnDLqFg/supersport.png",
-			"url": "",
-         	"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-			"embed":"",
-            "isHost":"true",
-            "online":"true"
-			},
-			{
 			"name": "SUPERBIKE RACE 1",
-			"info": "[28-30 Marzo 2025]",
+			"info": "[28-30 Marzo 2026]",
 			"image": "https://i.postimg.cc/Y2RK6pcg/superbike.png",
-			"url": "",
-         	"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-			"embed":"",
-            "isHost":"true",
-            "online":"true"
-			},
-			{
-			"name": "SUPERSPORT 300 RACE 1",
-			"info": "[28-30 Marzo 2025]",
-			"image": "https://i.postimg.cc/FzdqVMkS/supersport300.png",
-			"url": "",
+			"url": "https://bysejikuar.com/d/6wl9xqowm87h/02-1-sbk-race-1-algarve-portugal-2026-es",
          	"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 			"embed":"",
             "isHost":"true",
@@ -117,19 +87,9 @@
 			},
 			{
 			"name": "SBK SUPERPOLE RACE",
-			"info": "[28-30 Marzo 2025]",
-			"image": "https://i.postimg.cc/d0h0r1tt/superpole.png",
-			"url": "",
-         	"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-			"embed":"",
-            "isHost":"true",
-            "online":"true"
-			},
-			{
-			"name": "SUPERSPORT RACE 2",
-			"info": "[28-30 Marzo 2025]",
-			"image": "https://i.postimg.cc/gjnDLqFg/supersport.png",
-			"url": "",
+			"info": "[28-30 Marzo 2026]",
+			"image": "ttps://i.postimg.cc/d0h0r1tt/superpole.png",
+			"url": "https://bysejikuar.com/d/1unwosftxft7/02-2-sbk-superpole-race-algarve-portugal-2026-es",
          	"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 			"embed":"",
             "isHost":"true",
@@ -137,18 +97,8 @@
 			},
 			{
 			"name": "SUPERBIKE RACE 2",
-			"info": "[28-30 Marzo 2025]",
-			"image": "https://i.postimg.cc/Y2RK6pcg/superbike.png",
-			"url": "",
-         	"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-			"embed":"",
-            "isHost":"true",
-            "online":"true"
-			},
-			{
-			"name": "SUPERSPORT 300 RACE 2",
-			"info": "[28-30 Marzo 2025]",
-			"image": "https://i.postimg.cc/FzdqVMkS/supersport300.png",
+			"info": "[28-30 Marzo 2026]",
+			"image": "ttps://i.postimg.cc/Y2RK6pcg/superbike.png",
 			"url": "",
          	"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 			"embed":"",
