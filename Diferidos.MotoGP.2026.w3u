@@ -403,7 +403,7 @@
     },
 
    {
-      "name": "Lusail International Circuit - Lusail (QATAR)",
+      "name": "Circuito Angel Nieto - Jerez Frontera (ESPAÑA)",
       "image": "",
       "imageScale": "",
       "info": "[ROUND 04]",
@@ -411,8 +411,8 @@
       [
         {
         "name": "Sprint MotoGP",
-        "info": "[11-04-2026]",
-        "image": "ttps://i.postimg.cc/Wzg3Hzcf/motogp-sprint.png",
+        "info": "[25-04-2026]",
+        "image": "https://i.postimg.cc/Wzg3Hzcf/motogp-sprint.png",
         "url": "",
   		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
   		"embed": "",
@@ -423,8 +423,8 @@
         },
         {
         "name": "Carrera Moto3",
-        "info": "[12-04-2026]",
-        "image": "ttps://i.postimg.cc/1zXzZJZF/moto3.png",
+        "info": "[26-04-2026]",
+		"image": "ttps://i.postimg.cc/1zXzZJZF/moto3.png",
         "url": "",
   		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
   		"embed": "",
@@ -435,7 +435,7 @@
         },
         {
         "name": "Carrera Moto2",
-        "info": "[12-04-2026]",
+        "info": "[26-04-2026]",
         "image": "ttps://i.postimg.cc/kgpmWCkV/moto2.png",
         "url": "",
   		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -447,7 +447,7 @@
         },
         {
         "name": "Carrera MotoGP",
-        "info": "[12-04-2026]",
+        "info": "[26-04-2026]",
         "image": "ttps://i.postimg.cc/Y0MKtCmP/motogp-logo.png",
         "url": "",
   		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -459,7 +459,7 @@
         },
         {
         "name": "Post MotoGP",
-        "info": "[12-04-2026]",
+        "info": "[26-04-2026]",
         "image": "ttps://i.postimg.cc/Wzg3Hzcf/motogp-sprint.png",
         "url": "",
   		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -471,7 +471,7 @@
         },
 	    {
         "name": "Codigo MotoGP",
-        "info": "[13-04-2026]",
+        "info": "[27-04-2026]",
         "image": "ttps://i.postimg.cc/Y0MKtCmP/motogp-logo.png",
         "url": "",
   		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
