@@ -110,7 +110,7 @@
 
 	{
 	"name": "TT CIRCUIT ASSEN (HOLANDA)",
-	"image": "ttps://i.postimg.cc/wjTB9d39/Bandera-Holanda.jpg",
+	"image": "https://i.postimg.cc/wjTB9d39/Bandera-Holanda.jpg",
 	"imageScale": "",
 	"info":"[ROUND 3]",
 	"stations":
@@ -197,7 +197,7 @@
 		[
 			{
 			"name": "SBK RACE 1",
-			"info":"[]",
+			"info":"[16-05-2026]",
 			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
 			"url": "https://bysejikuar.com/d/f7syrzgyv1qx",
          	"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -207,7 +207,7 @@
 			},
 			{
 			"name": "SBK SUPERPOLE RACE",
-			"info":"[]",
+			"info":"[17-05-2026]",
 			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
 			"url": "https://bysejikuar.com/d/xn0cfhu2tmwq",
          	"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
