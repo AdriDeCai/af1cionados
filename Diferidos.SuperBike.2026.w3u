@@ -190,7 +190,7 @@
 
 	{
 	"name": "AUTODROM MOST (REPUBLICA CHECA)",
-	"image": "ttps://i.postimg.cc/nL79fr8W/Bandera-Chequia.png",
+	"image": "https://i.postimg.cc/nL79fr8W/Bandera-Chequia.png",
 	"imageScale": "",
 	"info":"[ROUND 5]",
 	"stations":
@@ -198,8 +198,8 @@
 			{
 			"name": "SBK RACE 1",
 			"info":"[]",
-			"image": "ttps://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
-			"url": "",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "https://bysejikuar.com/d/f7syrzgyv1qx",
          	"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 			"embed":"",
             "isHost":"true",
