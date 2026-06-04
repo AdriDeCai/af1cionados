@@ -230,7 +230,7 @@
 
 	{
 	"name": "TISSOT ARAGON (ESPAÑA)",
-	"image": "ttps://i.postimg.cc/pTJnTJQj/Bandera-Aragon.jpg",
+	"image": "https://i.postimg.cc/pTJnTJQj/Bandera-Aragon.jpg",
 	"imageScale": "",
 	"info":"[ROUND 6]",
 	"stations":
@@ -238,8 +238,8 @@
 			{
 			"name": "SBK RACE 1",
 			"info":"[]",
-			"image": "ttps://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
-			"url": "",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "https://bysejikuar.com/d/2irw820xt6id/06-1-sbk-race-1-motorland-aragón-2026-es",
          	"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 			"embed":"",
             "isHost":"true",
@@ -248,8 +248,8 @@
 			{
 			"name": "SBK SUPERPOLE RACE",
 			"info":"[]",
-			"image": "ttps://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
-			"url": "",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "https://bysejikuar.com/d/9vf5uhmwelgd/06-2-sbk-superpole-race-motorland-aragón-2026-es",
          	"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 			"embed":"",
             "isHost":"true",
@@ -258,8 +258,8 @@
 			{
 			"name": "SBK RACE 2",
 			"info":"[]",
-			"image": "ttps://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
-			"url": "",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "https://bysejikuar.com/d/z717mk6xuvjx/06-3-sbk-race-2-motorland-aragón-2026-es",
          	"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 			"embed":"",
             "isHost":"true",
