@@ -661,9 +661,9 @@
         "image": "https://i.postimg.cc/Wzg3Hzcf/motogp-sprint.png",
         "url": "https://bysejikuar.com/d/asl56bnyp4k5/07-1-sprint-motogp-mugello-italia-2026-es",
   		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-  		"embed": "true",
+  		"embed": "",
   		"referer": "",
-  		"isHost": "",
+  		"isHost": "true",
   		"online": "true",
   		"import": false
         },
@@ -673,10 +673,10 @@
         "image": "https://i.postimg.cc/1zXzZJZF/moto3.png",
         "url": "https://bysejikuar.com/d/6ysla0o2kx8q",
   		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-  		"embed": "true",
+  		"embed": "",
   		"referer": "",
   		"isHost": "true",
-  		"online": "",
+  		"online": "true",
   		"import": false
         },
         {
@@ -685,10 +685,10 @@
         "image": "https://i.postimg.cc/kgpmWCkV/moto2.png",
         "url": "https://bysejikuar.com/d/f470ihmtvje3",
   		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-  		"embed": "true",
+  		"embed": "",
   		"referer": "",
-  		"isHost": "",
-  		"online": "",
+  		"isHost": "true",
+  		"online": "true",
   		"import": false
         },
         {
