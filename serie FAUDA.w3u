@@ -433,146 +433,146 @@
 	]
 	},
 
-	{
-	"name": "TEMPORADA 4",
-	"image": "https://i.postimg.cc/zXgR8XRg/Fauda-Temp-4.png",
-	"info": "2022",
-	"stations":
-	[
-	{
-       	"name": "EPISODIO 1",
-        "image": "https://i.postimg.cc/zXgR8XRg/Fauda-Temp-4.png",
-        "url": "https://filemoon.to/d/03ffqt7ape9e/Ver_Fauda_4x1_online_en_castellano_-_HDFull.tv.mp4",
-       	"info": "2022",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like
-       	"import": false
-       	},
-	{
-       	"name": "EPISODIO 2",
-        "image": "https://i.postimg.cc/zXgR8XRg/Fauda-Temp-4.png",
-        "url": "https://filemoon.to/d/4syhilus06ya/Ver_Fauda_4x2_online_en_castellano_-_HDFull.tv.mp4",
-       	"info": "2022",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-		"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like
-       	"import": false
-       	},
-	{
-       	"name": "EPISODIO 3",
-        "image": "https://i.postimg.cc/zXgR8XRg/Fauda-Temp-4.png",
-        "url": "https://filemoon.to/d/aj1lwm17gb79/Ver_Fauda_4x3_online_en_castellano_-_HDFull.tv.mp4",
-       	"info": "2022",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like
-       	"import": false
-       	},
-	{
-       	"name": "EPISODIO 4",
-        "image": "https://i.postimg.cc/zXgR8XRg/Fauda-Temp-4.png",
-        "url": "https://filemoon.to/d/axwlncjleucx/Ver_Fauda_4x4_online_en_castellano_-_HDFull.tv.mp4",
-       	"info": "2022",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like
-       	"import": false
-       	},
-	{
-       	"name": "EPISODIO 5",
-        "image": "https://i.postimg.cc/zXgR8XRg/Fauda-Temp-4.png",
-        "url": "https://filemoon.to/d/onwxw7waj8f0/Ver_Fauda_4x5_online_en_castellano_-_HDFull.tv.mp4",
-       	"info": "2022",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like
-       	"import": false
-       	},
-	{
-       	"name": "EPISODIO 6",
-        "image": "https://i.postimg.cc/zXgR8XRg/Fauda-Temp-4.png",
-        "url": "https://filemoon.to/d/6xzvmzee51hg/Ver_Fauda_4x6_online_en_castellano_-_HDFull.tv.mp4",
-       	"info": "2022",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like
-       	"import": false
-       	},
-	{
-       	"name": "EPISODIO 7",
-        "image": "https://i.postimg.cc/zXgR8XRg/Fauda-Temp-4.png",
-        "url": "https://filemoon.to/d/3z3m0z3kvpq4/Ver_Fauda_4x7_online_en_castellano_-_HDFull.tv.mp4",
-       	"info": "2022",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like
-       	"import": false
-       	},
-	{
-       	"name": "EPISODIO 8",
-        "image": "https://i.postimg.cc/zXgR8XRg/Fauda-Temp-4.png",
-        "url": "https://filemoon.to/d/v4llgm8auq4l/Ver_Fauda_4x8_online_en_castellano_-_HDFull.tv.mp4",
-       	"info": "2022",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like
-       	"import": false
-       	},
-	{
-       	"name": "EPISODIO 9",
-        "image": "https://i.postimg.cc/zXgR8XRg/Fauda-Temp-4.png",
-        "url": "https://filemoon.to/d/06eraga5m9cz/Ver_Fauda_4x9_online_en_castellano_-_HDFull.tv.mp4",
-       	"info": "2022",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like
-       	"import": false
-       	},
-	{
-       	"name": "EPISODIO 10",
-        "image": "https://i.postimg.cc/zXgR8XRg/Fauda-Temp-4.png",
-        "url": "https://filemoon.to/d/lbemi4rnufud/Ver_Fauda_4x10_online_en_castellano_-_HDFull.tv.mp4",
-       	"info": "2022",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like
-       	"import": false
-       	},
-	{
-       	"name": "EPISODIO 11",
-        "image": "https://i.postimg.cc/zXgR8XRg/Fauda-Temp-4.png",
-        "url": "https://filemoon.to/d/hi89tll21d58/Ver_Fauda_4x11_online_en_castellano_-_HDFull.tv.mp4",
-       	"info": "2022",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like
-       	"import": false
-       	},
-	{
-       	"name": "EPISODIO 12",
-        "image": "https://i.postimg.cc/zXgR8XRg/Fauda-Temp-4.png",
-        "url": "https://filemoon.to/d/wii36gnw46g0/Ver_Fauda_4x12_online_en_castellano_-_HDFull.tv.mp4",
-       	"info": "2022",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like
-       	"import": false
-       	}
-	]
-	}
+{
+"name": "TEMPORADA 4",
+"image": "https://i.postimg.cc/zXgR8XRg/Fauda-Temp-4.png",
+"info": "2022",
+"stations":
+[
+{
+"name": "CAPITULO 1",
+"image": "https://i.postimg.cc/zXgR8XRg/Fauda-Temp-4.png",
+"url": "https://bysetayico.com/e/ktj8b2td35wd/ver-fauda-4x1-online-en-castellano-hdfull-tv",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://i.postimg.cc/zXgR8XRg/Fauda-Temp-4.png",
+"url": "https://bysetayico.com/e/nhtbxun72d3o/ver-fauda-4x2-online-en-castellano-hdfull-tv",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://i.postimg.cc/zXgR8XRg/Fauda-Temp-4.png",
+"url": "https://bysetayico.com/e/nivize5g1q89/ver-fauda-4x3-online-en-castellano-hdfull-tv",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://i.postimg.cc/zXgR8XRg/Fauda-Temp-4.png",
+"url": "https://bysetayico.com/e/ermtpmmil6q5/ver-fauda-4x4-online-en-castellano-hdfull-tv",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://i.postimg.cc/zXgR8XRg/Fauda-Temp-4.png",
+"url": "https://bysetayico.com/e/fqbv8jjbt1a1/ver-fauda-4x5-online-en-castellano-hdfull-tv",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://i.postimg.cc/zXgR8XRg/Fauda-Temp-4.png",
+"url": "https://bysetayico.com/e/l6u3m9lg4r9x/ver-fauda-4x6-online-en-castellano-hdfull-tv",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 7",
+"image": "https://i.postimg.cc/zXgR8XRg/Fauda-Temp-4.png",
+"url": "https://bysetayico.com/e/gjuouarx3wyq/ver-fauda-4x7-online-en-castellano-hdfull-tv",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 8",
+"image": "https://i.postimg.cc/zXgR8XRg/Fauda-Temp-4.png",
+"url": "https://bysetayico.com/e/x2dyj3vgvrp9/ver-fauda-4x8-online-en-castellano-hdfull-tv",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 9",
+"image": "https://i.postimg.cc/zXgR8XRg/Fauda-Temp-4.png",
+"url": "https://bysetayico.com/e/t8e66lxzi3b1/ver-fauda-4x9-online-en-castellano-hdfull-tv",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 10",
+"image": "https://i.postimg.cc/zXgR8XRg/Fauda-Temp-4.png",
+"url": "https://bysetayico.com/e/60ow6a5fqtti/ver-fauda-4x10-online-en-castellano-hdfull-tv",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 11",
+"image": "https://i.postimg.cc/zXgR8XRg/Fauda-Temp-4.png",
+"url": "https://bysetayico.com/e/x09qbcermxh8/ver-fauda-4x11-online-en-castellano-hdfull-tv",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
+}
 
 ]
 }
