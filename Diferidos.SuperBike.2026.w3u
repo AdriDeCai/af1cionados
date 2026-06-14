@@ -270,7 +270,7 @@
 
 	{
 	"name": "EMILIA-ROMAGNA (ITALIA)",
-	"image": "ttps://i.postimg.cc/xCwn54zW/Bandera-Italia.jpg",
+	"image": "https://i.postimg.cc/xCwn54zW/Bandera-Italia.jpg",
 	"imageScale": "",
 	"info":"[ROUND 7]",
 	"stations":
@@ -278,8 +278,8 @@
 			{
 			"name": "SBK RACE 1",
 			"info":"[]",
-			"image": "ttps://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
-			"url": "",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"url": "https://bysejikuar.com/d/p6ezhged6kn0/07-1-sbk-race-1-misano-emilia-romagna-2026-es",
          	"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 			"embed":"",
             "isHost":"true",
@@ -288,7 +288,7 @@
 			{
 			"name": "SBK SUPERPOLE RACE",
 			"info":"[]",
-			"image": "ttps://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
 			"url": "",
          	"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 			"embed":"",
@@ -298,7 +298,7 @@
 			{
 			"name": "SBK RACE 2",
 			"info":"[]",
-			"image": "ttps://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
+			"image": "https://i.postimg.cc/nrjZJKV2/SBK-Rojo.jpg",
 			"url": "",
          	"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 			"embed":"",
