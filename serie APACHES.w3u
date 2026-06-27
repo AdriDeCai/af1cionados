@@ -6,15 +6,16 @@
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": @YIsus_mEx",
 "stations":
-	[
+[
+
 {
 "name": "CAPITULO 1",
 "image": "https://pics.filmaffinity.com/apaches-496968077-large.jpg",
-"url": "https://bysetayico.com/d/huyymm5k72v7/1x01-apaches",
+"url": "https://bysetayico.com/e/huyymm5k72v7/1x01-apaches",
 "info": "[Español][2015]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
-"embed": "",
+"embed": "true",
 "isHost": "true",
 "online": "true",
 "import": false
@@ -22,11 +23,11 @@
 {
 "name": "CAPITULO 2",
 "image": "https://pics.filmaffinity.com/apaches-496968077-large.jpg",
-"url": "https://bysetayico.com/d/uvbvwc59v5j0/1x02-apaches",
+"url": "https://bysetayico.com/e/uvbvwc59v5j0/1x02-apaches",
 "info": "[Español][2015]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
-"embed": "",
+"embed": "true",
 "isHost": "true",
 "online": "true",
 "import": false
@@ -34,7 +35,7 @@
 {
 "name": "CAPITULO 3",
 "image": "https://pics.filmaffinity.com/apaches-496968077-large.jpg",
-"url": "https://bysetayico.com/d/x0cifgk2ajdq/1x03-apaches",
+"url": "https://bysetayico.com/e/x0cifgk2ajdq/1x03-apaches",
 "info": "[Español][2015]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
@@ -46,11 +47,11 @@
 {
 "name": "CAPITULO 4",
 "image": "https://pics.filmaffinity.com/apaches-496968077-large.jpg",
-"url": "https://bysetayico.com/d/lv4xk08a4z6f/1x04-apaches",
+"url": "https://bysetayico.com/e/lv4xk08a4z6f/1x04-apaches",
 "info": "[Español][2015]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
-"embed": "",
+"embed": "true",
 "isHost": "true",
 "online": "true",
 "import": false
@@ -58,11 +59,11 @@
 {
 "name": "CAPITULO 5",
 "image": "https://pics.filmaffinity.com/apaches-496968077-large.jpg",
-"url": "https://bysetayico.com/d/nifnyx2tjykl/1x05-apaches",
+"url": "https://bysetayico.com/e/nifnyx2tjykl/1x05-apaches",
 "info": "[Español][2015]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
-"embed": "",
+"embed": "true",
 "isHost": "true",
 "online": "true",
 "import": false
@@ -70,11 +71,11 @@
 {
 "name": "CAPITULO 6",
 "image": "https://pics.filmaffinity.com/apaches-496968077-large.jpg",
-"url": "https://bysetayico.com/d/q02uwp1on4dw/1x06-apaches",
+"url": "https://bysetayico.com/e/q02uwp1on4dw/1x06-apaches",
 "info": "[Español][2015]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
-"embed": "",
+"embed": "true",
 "isHost": "true",
 "online": "true",
 "import": false
@@ -82,11 +83,11 @@
 {
 "name": "CAPITULO 7",
 "image": "https://pics.filmaffinity.com/apaches-496968077-large.jpg",
-"url": "https://bysetayico.com/d/esb4als5hfhl/1x07-apaches",
+"url": "https://bysetayico.com/e/esb4als5hfhl/1x07-apaches",
 "info": "[Español][2015]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
-"embed": "",
+"embed": "true",
 "isHost": "true",
 "online": "true",
 "import": false
@@ -94,11 +95,11 @@
 {
 "name": "CAPITULO 8",
 "image": "https://pics.filmaffinity.com/apaches-496968077-large.jpg",
-"url": "https://bysetayico.com/d/68ngfj1r1opg/1x08-apaches",
+"url": "https://bysetayico.com/e/68ngfj1r1opg/1x08-apaches",
 "info": "[Español][2015]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
-"embed": "",
+"embed": "true",
 "isHost": "true",
 "online": "true",
 "import": false
@@ -106,11 +107,11 @@
 {
 "name": "CAPITULO 9",
 "image": "https://pics.filmaffinity.com/apaches-496968077-large.jpg",
-"url": "https://bysetayico.com/d/0j88twsejf73/1x09-apaches",
+"url": "https://bysetayico.com/e/0j88twsejf73/1x09-apaches",
 "info": "[Español][2015]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
-"embed": "",
+"embed": "true",
 "isHost": "true",
 "online": "true",
 "import": false
@@ -118,11 +119,11 @@
 {
 "name": "CAPITULO 10",
 "image": "https://pics.filmaffinity.com/apaches-496968077-large.jpg",
-"url": "https://bysetayico.com/d/bhir9v8aedf6/1x10-apaches",
+"url": "https://bysetayico.com/e/bhir9v8aedf6/1x10-apaches",
 "info": "[Español][2015]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
-"embed": "",
+"embed": "true",
 "isHost": "true",
 "online": "true",
 "import": false
@@ -130,11 +131,11 @@
 {
 "name": "CAPITULO 11",
 "image": "https://pics.filmaffinity.com/apaches-496968077-large.jpg",
-"url": "https://bysetayico.com/d/7vbjglzypy50/1x11-apaches",
+"url": "https://bysetayico.com/e/7vbjglzypy50/1x11-apaches",
 "info": "[Español][2015]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
-"embed": "",
+"embed": "true",
 "isHost": "true",
 "online": "true",
 "import": false
@@ -142,11 +143,11 @@
 {
 "name": "CAPITULO 12",
 "image": "https://pics.filmaffinity.com/apaches-496968077-large.jpg",
-"url": "https://bysetayico.com/d/ot6zglg2cl3w/1x12-apaches-ªfinal",
+"url": "https://bysetayico.com/e/ot6zglg2cl3w/1x12-apaches-ªfinal",
 "info": "[Español][2015]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
-"embed": "",
+"embed": "true",
 "isHost": "true",
 "online": "true",
 "import": false
