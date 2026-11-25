@@ -1,0 +1,23 @@
+{
+"name": "ZoNa DepOrTiVa",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"url": "https://af1c1onados.vercel.app/09.0.Menu.ZoNa.DepOrTiVa.w3u",
+"telegram": "Enlace_Af1cionados",
+"info": "",
+"groups":
+    [
+        {
+         "name": "Mister Voluntos",
+         "image": "https://i.postimg.cc/sfJDzS8T/Voluntos.png",
+         "url": "https://af1c1onados.stark9.workers.dev/mister.voluntos.w3u",
+         "import": false
+        },
+        {
+         "name": "zOna DepORtivA",
+         "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
+         "url": "https://t3mpl4ri05.stark8.workers.dev/Eventos.Deportivos.2026.w3u",
+         "import": false
+        }
+    ]
+}
