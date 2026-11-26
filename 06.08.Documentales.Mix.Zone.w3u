@@ -1,0 +1,115 @@
+{
+  "name": "MIx Zone",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "https://af1cionados.vercel.app/06.08.Documentales.mIx.Zonew3u",
+  "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+  "telegram": "Lista_AF1CIONADOS",
+  "info": "Lista_AF1CIONADOS",
+  "groups": 
+  [
+    {
+      "name": "DoCu Mix",
+      "image": "https://i.postimg.cc/0N7kCdFg/Docu-Mix.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+	  [
+        {
+          "name": "Michael Jordan to the Max 2015",
+          "info": "[Documental][Español]",
+          "image": "https://m.media-amazon.com/images/I/61+XshOUshL._AC_SY445_.jpg",
+          "url": "https://www.documaniatv.com/biografias/dennis-rodman-para-lo-bueno-y-para-lo-malo-video_9e0d2c952.html",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "embed": "",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Rodman: para lo bueno y para lo malo 2019",
+          "info": "[Documental][Español]",
+          "image": "https://pics.filmaffinity.com/30_for_30_rodman_for_better_or_worse-853152931-mmed.jpg",
+          "url": "https://www.documaniatv.com/biografias/dennis-rodman-para-lo-bueno-y-para-lo-malo-video_9e0d2c952.html",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "embed": "",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Serena 2016",
+          "info": "[Documental][Español]",
+          "image": "https://image.tmdb.org/t/p/w500/n6RHfOP2tcqhqm26n65Sbq3f2qB.jpg",
+          "url": "https://www.documaniatv.com/biografias/serena-video_73d1db0b6.html",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "embed": "",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    },
+    {
+      "name": "El Mundo En Moto Ewan McGregor",
+      "image": "https://pics.filmaffinity.com/long_way_round-655336252-large.jpg",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+	  [
+        {
+          "name": "Episodio 01",
+          "info": "[Documental]",
+          "image": "https://pics.filmaffinity.com/long_way_round-655336252-large.jpg",
+          "url": "https://www.documaniatv.com/viajes/el-mundo-en-moto-con-ewan-mcgregor-cap-1-video_0fbd42961.html",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Episodio 02",
+          "info": "[Documental]",
+          "image": "https://pics.filmaffinity.com/long_way_round-655336252-large.jpg",
+          "url": "https://www.documaniatv.com/viajes/el-mundo-en-moto-con-ewan-mcgregor-cap-2-video_60604600e.html",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Episodio 03",
+          "info": "[Documental]",
+          "image": "https://pics.filmaffinity.com/long_way_round-655336252-large.jpg",
+          "url": "https://www.documaniatv.com/viajes/el-mundo-en-moto-con-ewan-mcgregor-cap-3-video_a18bb6cf5.html",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Episodio 04",
+          "info": "[Documental]",
+          "image": "https://pics.filmaffinity.com/long_way_round-655336252-large.jpg",
+          "url": "https://www.documaniatv.com/viajes/el-mundo-en-moto-con-ewan-mcgregor-cap-4-video_e64a8a93d.html",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Episodio 05",
+          "info": "[Documental]",
+          "image": "https://pics.filmaffinity.com/long_way_round-655336252-large.jpg",
+          "url": "https://www.documaniatv.com/viajes/el-mundo-en-moto-con-ewan-mcgregor-cap-5-video_56635756f.html",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Episodio 06",
+          "info": "[Documental]",
+          "image": "https://pics.filmaffinity.com/long_way_round-655336252-large.jpg",
+          "url": "https://www.documaniatv.com/viajes/el-mundo-en-moto-con-ewan-mcgregor-cap-6-video_f64b9c08d.html",
+          "isHost": "true",
+          "online": "true"
+        },
+        {
+          "name": "Episodio 07",
+          "info": "[Documental]",
+          "image": "https://pics.filmaffinity.com/long_way_round-655336252-large.jpg",
+          "url": "https://www.documaniatv.com/viajes/el-mundo-en-moto-con-ewan-mcgregor-cap-7-video_6408b80e2.html",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    }
+  ]
+}
