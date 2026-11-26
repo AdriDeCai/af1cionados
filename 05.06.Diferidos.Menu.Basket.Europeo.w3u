@@ -1,0 +1,26 @@
+{
+"name": "Basket Europeo",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"url": "https://af1cionados.vercel.app/05.06.Diferidos.Menu.Basket.Europeo.w3u",
+"telegram": "Enlace_Af1cionados",
+"info":"",
+"groups":
+    [
+
+        {
+          "name": "Liga Endesa       bY Ronki",
+          "image": "https://i.postimg.cc/TPj86gWK/liga-endesa-new.png",
+          "url": "https://af1cionados.vercel.app/05.06.01.Diferidos.Liga.Endesa.w3u",
+          "info":"",
+          "import": false
+          },
+          {
+          "name": "EuroLiga Basket          bY Ronki",
+          "image": "https://i.postimg.cc/7hYX2yR1/Euro-Liga-new.png",
+          "url": "https://af1cionados.vercel.app/05.06.02.Diferidos.Liga.Endesa.w3u",
+          "info":"",
+          "import": false
+          }
+     ]
+}
