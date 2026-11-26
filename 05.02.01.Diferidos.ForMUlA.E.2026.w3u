@@ -1,0 +1,49 @@
+{
+  "name": "ForMUlA E 2026",
+  "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+  "url": "https://af1cionados.vercel.app/05.02.01.Diferidos.ForMUlA.E.2026.w3u",
+  "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+  "telegram": "Lista_AF1CIONADOS",
+  "info": "",
+  "groups": 
+  [
+    {
+      "name": "R01 Brasil E-Prix",
+      "image": "https://i.postimg.cc/PJj32Gjr/01-Brasil.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "R01 Brasil E-Prix Carrera",
+          "info": "[Latino]",
+          "image": "https://i.postimg.cc/PJj32Gjr/01-Brasil.png",
+          "url": "https://bysekoze.com/e/pi1sgcyeaeft",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "embed": "true",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    },
+    {
+      "name": "R02 Mexico E-Prix",
+      "image": "https://i.postimg.cc/029XSqnZ/02-Mexico.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "R02 Mexico E-Prix Carrera",
+          "info": "[Latino]",
+          "image": "https://i.postimg.cc/029XSqnZ/02-Mexico.png",
+          "url": "https://bysekoze.com/e/dzj6kxgnrydu",
+          "userAgent": "PlusMediaPlayer/0.0.9",
+          "embed": "true",
+          "isHost": "true",
+          "online": "true"
+        }
+      ]
+    }
+  ]
+}
