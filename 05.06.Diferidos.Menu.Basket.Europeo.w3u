@@ -21,6 +21,13 @@
           "url": "https://af1cionados.vercel.app/05.06.02.Diferidos.Liga.Endesa.w3u",
           "info":"",
           "import": false
+          },
+          {
+            "name": "Copa del Rey ACB          bY Ronki",
+            "image": "https://i.postimg.cc/MZ4891c1/Logo-Copa-del-Rey-ACB-2023-1.png",
+            "url": "https://af1cionados.vercel.app/05.06.03.Diferidos.Copa.Rey.ACB.w3u",
+            "info":"",
+            "import": false
           }
      ]
 }
