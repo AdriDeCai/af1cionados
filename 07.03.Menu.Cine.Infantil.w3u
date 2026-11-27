@@ -1,0 +1,27 @@
+
+
+{
+"name": "Cine Infantil",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"url": "https://af1cionados.vercel.app/07.03.Menu.Cine.Infantil.w3u",
+"telegram": "Lista_AF1CIONADOS",
+"info":"Lista_AF1CIONADOS",
+"groups":
+    [
+        {
+         "name": "Peliculas Animadas Castellano",
+         "image": "https://i.postimg.cc/gjBVTKhR/Kids-Zone-Esp-new.png",
+         "url": "https://raw.githubusercontent.com/Bl4ckl4dy/CiNe-inFanTiL-Espa-ol/refs/heads/main/CiNe%20inFanTiL%20Espa%C3%B1ol.w3u",
+         "info":"by Virgin Mary",
+         "import": false
+        },
+	    {
+	    "name": "SeRieS Animadas Castellano",
+	    "image": "https://i.postimg.cc/593Wk0sH/kids-series-new.png",
+	    "url": "https://af1cionados.vercel.app/SeRieS%20Animadas%20Castellano.w3u",
+	    "info": "",
+        "import": false
+	    }
+    ]
+}
